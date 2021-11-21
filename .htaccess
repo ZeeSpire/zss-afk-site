@@ -1,0 +1,31 @@
+## Base Redirects created with https://www.danielmorell.com/tools/htaccess/redirect-generator ##
+
+# Turn on Rewrite Engine
+RewriteEngine On
+
+# Remove trailing slash from non-filepath urls
+RewriteCond %{REQUEST_URI} /(.+)/$
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ https://www.afkology.com/%1 [R=301,L]
+
+# Include trailing slash on directory 
+RewriteCond %{REQUEST_URI} !(.+)/$
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.+)$ https://www.afkology.com/$1/ [R=301,L]
+
+# Force HTTPS and WWW 
+RewriteCond %{HTTP_HOST} !^www\.(.*)$ [OR,NC]
+RewriteCond %{HTTPS} off  
+RewriteRule ^(.*)$ https://www.afkology.com/$1 [R=301,L]
+
+# Error redirect
+ErrorDocument 404 /404.html
+
+## Social redirects ##
+Redirect /youtube/ https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw
+Redirect /facebook/ https://www.facebook.com/afkology/
+Redirect /instagram/ https://www.instagram.com/afkology/
+Redirect /tiktok/ https://www.tiktok.com/@afkology
+Redirect /pinterest/ https://pinterest.com/afkology
+Redirect /medium/ https://medium.com/@afkology
