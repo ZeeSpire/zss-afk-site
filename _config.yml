@@ -28,7 +28,7 @@ pinterest: https://pinterest.com/afkology
 
 # Footer settings
 footer-color: ebdfce
-show-theme-watermark: false
+show-theme-watermark: true
 
 # Track traffic
 google-tag-manager-id: GTM-PF6ZFZZ
