@@ -95,4 +95,4 @@ Sitting next to the Gefion Fountain is St. Alban's Church - an unbelievably beau
 
 #### 15. Kastellet Park
 
-The Kastellet is not just a park with canals, popular for locals to run and bike through. It is actually a 17th-century star fortress, one of the best-maintained fortresses of its type remaining in Europe. The interior is still an active military post. You can find here old military barracks, bastions, a church, and a lovely windmill. 
+The Kastellet is not just a park with canals, popular for locals to run and bike through. It is actually a 17th-century star fortress, one of the best-maintained fortresses of its type remaining in Europe. The interior is still an active military post. You can find here old military barracks, bastions, a church, and a lovely windmill.
