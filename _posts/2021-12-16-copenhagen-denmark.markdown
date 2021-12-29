@@ -34,7 +34,7 @@ We visited Copenhagen in September and the weather was really nice in the majori
 
 #### Fun fact  
 
-Copenhagen was officially founded in 1167 when a bishop named Absalon, who is regarded as the city’s founder, built a castle where Christiansborg Palace is today. Originally there was only a small settlement called Havn (harbor), but with the increased trading in the Middle Ages the name was changed to Købmannehavn, which means “the merchant’s harbor.” It was later shortened to its current name København.  
+Copenhagen was officially founded in 1167 when a bishop named Absalon, who is regarded as the city’s founder, built a castle where Christiansborg Palace is today. Originally there was only a small settlement called Havn (harbor), but with the increased trading in the Middle Ages the name was changed to Købmannehavn, which means “the merchant’s harbor”. It was later shortened to its current name København.
 
 #### How to Get Around Copenhagen  
 
@@ -62,8 +62,8 @@ Because there are so many options to travel through the city and that most point
 - [71 Nyhavn Hotel](https://www.booking.com/hotel/dk/nyhavn.en.html?aid=7913345&no_rooms=1&group_adults=2) - this hotel located in the iconic Nyhavn (New Harbour) is housed in 2 converted warehouses from the 1800s.
 - [Nimb Hotel](https://www.booking.com/hotel/dk/nimb.en.html?aid=7913345&no_rooms=1&group_adults=2) - Moorish-style building located right in the middle of Tivoli Gardens.  
 - [Hotel Sanders](https://www.booking.com/hotel/dk/sanders.en.html?aid=7913345&no_rooms=1&group_adults=2) - luxury boutique hotel, very central, very stylish.  
-- [NH Collection Copenhagen](https://www.booking.com/hotel/dk/nh-collection-copenagen.en.html?aid=7913345&no_rooms=1&group_adults=2)  - located in Christianshavn, close to the city center by foot and to the metro station, has two restaurants and a bar presented by a Michelin-starred chef, along with other nice amenities.    
-- [Villa Copenhagen](https://www.booking.com/hotel/dk/villa-copenhagen-kobenhavn.en.html?aid=7913345&no_rooms=1&group_adults=2)  - building from 1909, located in Vesterbro, has a restaurant, a bar, a garden, a terrace with heated pool, sauna, fitness center and it looks amazing.  
+- [NH Collection Copenhagen](https://www.booking.com/hotel/dk/nh-collection-copenagen.en.html?aid=7913345&no_rooms=1&group_adults=2)  - located in Christianshavn, close to the city center and to the metro station, has two restaurants and a bar presented by a Michelin-starred chef, along with other nice amenities.    
+- [Villa Copenhagen](https://www.booking.com/hotel/dk/villa-copenhagen-kobenhavn.en.html?aid=7913345&no_rooms=1&group_adults=2)  - building from 1909, located in Vesterbro, has a restaurant, a bar, a garden, a terrace with heated pool, sauna, fitness center and it looks amazing. Plus their Instagram account (villacph) is splendid.
 - [Copenhagen Admiral Hotel](https://www.booking.com/hotel/dk/copenhagen-admiral.en.html?aid=7913345&no_rooms=1&group_adults=2)  - waterfront hotel with attractive design located in a heritage-listed 1780s building.  
 - [Hotel Skt Petri](https://www.booking.com/hotel/dk/hotel-skt-petri.en.html?aid=7913345&no_rooms=1&group_adults=2)  - centrally located hotel in old Latin Quarter.  
 
@@ -71,9 +71,9 @@ OK, I see a pattern here. Maybe I let myself be a little bit carried away. But t
 
 We chose NH Collection Copenhagen having at the time of our reservation the best value for money. It was newly inaugurated, exceptionally clean, and nicely decorated, close to the city center and the breakfast was really good and it included lots of choices. We enjoyed the scrambled eggs and the porridge with fresh fruits. We even had champagne at breakfast which was an experience itself.  
 
-The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can very easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.  
+The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.   
 
-Everyone speaks English very well so it's the only language you need to know. But here are some words if you like to practice your Danish:  
+Everyone speaks English very well so it's the only language you need to know. But here are some words if you’d like to practice your Danish:   
 
 - Thank you - tak  
 - Please - Vær venlig  
@@ -105,4 +105,19 @@ We tried some of the dishes for which Denmark is best known. Here's our selectio
 - Stegt flæsk med persillesovs - crispy pork, potatoes, and parsley sauce.  
 - Fresh fruit from the market (very tasty).  
 
- Our favorite spot to grab something delicious to eat and a beer to quench our thirst - Toverhallerne. I am still dreaming of the duck sandwich from Ma Poule.
+Our favorite spot to grab something to eat and a beer to quench our thirst was Torvehallerne, an urban, covered, fresh food market. I'm still dreaming of the duck sandwich from Ma Poule washed down by the delicious lemonade from Fresh Market. 
+
+#### Things to do in Copenhagen 
+
+Aside from the usual tourist attractions, Copenhagen has a special charm that you can feel walking through the streets and admiring the wonderful buildings, canals and beautiful parks. You can also grab a coffee from Espresso House or a smoothie from Joe and the Juice and you can go for a walk in the Botanical Garden, admiring the plants. 
+
+Or you can buy some beers and rent an electric boat for a ride on the canals as the locals do. It takes very little to feel the spirit of Copenhagen, so here's the things that made our trip a memorable one: 
+
+1. Viewing Copenhagen from above. There are several places where you can have views of the city such as the Church of Our Saviour tower, the Round Tower, the City Hall Tower, and the Christiansborg Palace tower. 
+2. Taking a canal tour. We chose Stromma's Grand Canal Tour which was a live guided tour, and we spent a nice hour navigating the canals. 
+3. Exploring the lesser-known areas of Copenhagen and its surroundings. Because we got the Copenhagen Card, we were able to travel anywhere we wanted thanks to their top-notch public transport and visit more remote areas, and less visited by tourists neighborhoods. 
+4. Amager Strandpark. We enjoyed taking a break from visiting museums and palaces on this serene beach with fine sand and friendly seagulls. 
+5. We rediscovered our inner child in Tivoli Gardens amusement park, one of the oldest operating amusement parks in the world. 
+
+
+For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](https://www.afkology.com/free-things-to-visit-in-copenhagen/). 
