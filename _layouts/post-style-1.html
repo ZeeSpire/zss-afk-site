@@ -7,6 +7,7 @@
 </div>
 <div class="row">
     <div class="col">
+        {% if page.featured-image-top %}
         <a href="{{ site.url }}{{ page.featured-image }}" data-fslightbox="gallery">
             <img src="{{ site.url }}{{ page.featured-image-top }}" alt="{{ page.title }}" 
                 {% if page.featured-image-style == "full-width" %}
@@ -20,6 +21,7 @@
                 {% endif %}
             />
         </a>
+        {% endif %}
     </div>
 </div>
 <div class="row">

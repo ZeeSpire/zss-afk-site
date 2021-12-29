@@ -7,9 +7,9 @@ last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
 categories: travel romania mountains autumn landscape
-featured-image: "/assets/images/posts/600/full/IMG_20211010_113741.jpg" # full size
+featured-image: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # full size
 featured-image-top: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 1200
-featured-image-home: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 600
+featured-image-home: "/assets/images/posts/0001/600/IMG_20211010_113741.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
@@ -129,14 +129,14 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
             <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/pin1.png" 
+                src="{{ site.url }}/assets/images/posts/0001/1200/pin1.webp" 
                 class="img-fluid img-thumbnail" 
                 alt="Magura Pin 01"
             />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
             <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/pin2.png" 
+                src="{{ site.url }}/assets/images/posts/0001/1200/pin2.webp" 
                 class="img-fluid img-thumbnail" 
                 alt="Magura Pin 02"
             />

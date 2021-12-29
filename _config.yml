@@ -7,7 +7,7 @@ keywords: "afkology, travel, drone"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.afkology.com"
 permalink: /:title/
-logo: '/assets/images/logo.webp'
+logo: '/assets/images/logo_v1.0.webp'
 logo-height: 120
 logo-width: 268
 
@@ -27,7 +27,7 @@ pinterest-site-key: a6fc09c0694f88b02ffdc31fd0e107ae
 pinterest: https://pinterest.com/afkology
 
 # Footer settings
-footer-color: ebdfce
+footer-color: e4e4e4
 show-theme-watermark: true
 
 # Track traffic
