@@ -7,7 +7,7 @@ last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
 categories: travel romania mountains autumn landscape
-featured-image: "/assets/images/posts/0001/full/IMG_20211010_113741.jpg" # full size
+featured-image: "/assets/images/posts/600/full/IMG_20211010_113741.jpg" # full size
 featured-image-top: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 1200
 featured-image-home: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
@@ -21,7 +21,7 @@ The distance between the two villages is about 6 kilometers which can be hiked.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_113543.jpg" data-fslightbox="gallery">
+    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_113543.webp" data-fslightbox="gallery">
         <img 
             src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_113543.webp" 
             class="img-fluid img-thumbnail" alt="Magura 06" 
@@ -37,7 +37,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
 <!-- gallery -->
 <div class="row mb-4">
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0101.jpg" data-fslightbox="gallery">
+        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0101.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0101.webp" 
                 class="post-gallery-image img-thumbnail" 
@@ -46,7 +46,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0115.jpg" data-fslightbox="gallery">
+        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0115.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0115.webp" 
                 class="post-gallery-image img-thumbnail" 
@@ -55,7 +55,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/full/DJI_0142.jpg" data-fslightbox="gallery">
+        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0142.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0142.webp" 
                 class="post-gallery-image img-thumbnail" 
@@ -75,7 +75,7 @@ There aren’t many restaurants in these two villages. Most guesthouses offer di
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_135725.jpg" data-fslightbox="gallery">
+    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_135725.webp" data-fslightbox="gallery">
         <img 
             src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_135725.webp" 
             class="img-fluid img-thumbnail" 
@@ -98,7 +98,7 @@ In Peștera you can find the Bat Cave which houses rare species of bats. We hike
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211009_130910.jpg" data-fslightbox="gallery">
+    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_130910.webp" data-fslightbox="gallery">
         <img 
             src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_130910.webp" 
             alt="Magura" 
@@ -117,7 +117,7 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/full/IMG_20211010_113305.jpg" data-fslightbox="gallery">
+    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211010_113305.webp" data-fslightbox="gallery">
         <img 
             src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211010_113305.webp" 
             class="img-fluid img-thumbnail" 
@@ -129,14 +129,14 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
             <img 
-                src="{{ site.url }}/assets/images/posts/0001/full/pin1.png" 
+                src="{{ site.url }}/assets/images/posts/0001/1200/pin1.png" 
                 class="img-fluid img-thumbnail" 
                 alt="Magura Pin 01"
             />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
             <img 
-                src="{{ site.url }}/assets/images/posts/0001/full/pin2.png" 
+                src="{{ site.url }}/assets/images/posts/0001/1200/pin2.png" 
                 class="img-fluid img-thumbnail" 
                 alt="Magura Pin 02"
             />
