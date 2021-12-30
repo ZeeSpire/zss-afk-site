@@ -14,7 +14,7 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 #### 1. The Little Mermaid (Den Lille Havfrue)
 
-The Little Mermaid is a small bronze statue based on the fairy tale of the same name by Danish author Hans Christian Andersen and it became the symbol of Copenhagen city. Some say it's not worth the hype. Indeed, is small and almost always packed with tourists trying to snap a selfie with the mermaid, but as my mother said to me: "it would be a pity to visit Copenhagen and not see the little mermaid!". Also, there are other beautiful things to visit in the area. Read on.
+The Little Mermaid is a small bronze statue based on the fairy tale of the same name by Danish author Hans Christian Andersen and it became the symbol of Copenhagen city. Some say it's not worth the hype. Indeed, is small and almost always packed with tourists trying to snap a selfie with the mermaid, but as my mother said to me: "it would be a pity to visit Copenhagen and not see the little mermaid!". Also, there are other beautiful things to visit in the area like the Gefion Fountain, the St. Alban's Church, and the Kastellet Park which I wrote about below. Read on.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -159,7 +159,7 @@ In some areas, it is allowed to sit on the lawns, and we followed the examples o
     </a>
 </div>
 
-#### 9. Frederik’s Church (Frederiks Kirke)
+#### 9. Frederik's Church (Frederiks Kirke)
 
 Also known as the Marble Church (Marmorkirken) with its copper-green dome is an Evangelical Lutheran church and has the largest church dome in Scandinavia. Visiting the church is free. However, you can also access the dome for a fee. You may find more information here: [marmorkirken.dk](https://www.marmorkirken.dk/admission)
 

@@ -60,7 +60,7 @@ Copenhagen was officially founded in 1167 when a bishop named Absalon, who is re
     </a>
 </div>
 
-#### How to Get Around Copenhagen  
+#### How to get around Copenhagen  
 
 Copenhagen is a relatively small city compared to other European capitals, but it's packed with attractions (impossible to visit in just a couple of days). Most of them are quite close to each other and it is worth mentioning that Copenhagen's public transportation system is very efficient. If you don't want to buy the Copenhagen Card that includes unlimited public transport, you have other options like buying a City Pass which gives you the freedom to make unlimited use of public transport. Visit this site for more information about all types of tickets, routes, bus stops timetables, and the city pass: [dinoffentligetransport.dk](https://dinoffentligetransport.dk/en/) or you can get the “DOT Tickets” app.
 
@@ -116,7 +116,7 @@ OK, I see a pattern here. Maybe I let myself be a little bit carried away. But t
 
 We chose NH Collection Copenhagen having at the time of our reservation the best value for money. It was newly inaugurated, exceptionally clean, and nicely decorated, close to the city center and the breakfast was really good and it included lots of choices. We enjoyed the scrambled eggs and the porridge with fresh fruits. We even had champagne at breakfast which was an experience itself.  
 
-#### What food to try in Copenhagen  
+#### What foods to try in Copenhagen  
 
 Copenhagen can be considered a foody destination with some of the best restaurants in the world. Food in Copenhagen is expensive, but on the other hand, the Danes value locally produced, organic, premium ingredients and have some of the best restaurants in the world.  
 
