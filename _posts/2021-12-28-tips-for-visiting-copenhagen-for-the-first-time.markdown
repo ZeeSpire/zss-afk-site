@@ -208,7 +208,7 @@ Everyone speaks English very well so it's the only language you need to know. Bu
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/pin1.webp" 
+            src="{{ site.url }}/assets/images/posts/0002/1200/pin1_v1.webp" 
             class="img-fluid img-thumbnail" alt="Copenhagen pin 01" 
         />
     </div>
