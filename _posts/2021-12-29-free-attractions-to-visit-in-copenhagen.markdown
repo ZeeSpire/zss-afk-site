@@ -268,3 +268,18 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
         />
     </a>
 </div>
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0003/1200/pin3.webp" 
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" 
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="{{ site.url }}/assets/images/posts/0003/1200/pin4.webp" 
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" 
+        />
+    </div>
+</div>
