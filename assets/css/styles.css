@@ -51,6 +51,11 @@
         height: 360px; 
         object-fit: cover;
     }
+
+    .post-gallery-image-4-5 {
+        height: 100%;
+        object-fit: cover;
+    }
 }
 
 .text-line-container {

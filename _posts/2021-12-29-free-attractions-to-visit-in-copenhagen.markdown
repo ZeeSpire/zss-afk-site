@@ -21,7 +21,7 @@ The Little Mermaid is a small bronze statue based on the fairy tale of the same 
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_12_littleMermaid.webp" data-fslightbox="gallery">
         <img 
             src="{{ site.url }}/assets/images/posts/0003/1200/X_12_littleMermaid.webp" 
-            class="img-fluid img-thumbnail" alt="Marmorkirken" 
+            class="img-fluid img-thumbnail" alt="Little mermaid" 
         />
     </a>
 </div>
@@ -224,29 +224,29 @@ The figure depicts a pregnant woman with her children, a symbol of love or chari
 
 <!-- gallery -->
 <div class="row mb-4">
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/13_Gefion.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0003/1200/13_Gefion.webp" 
-                class="img-thumbnail" 
+                class="post-gallery-image-4-5 img-thumbnail" 
                 alt="Gefion Fountain" 
             />
         </a>
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/14_1_AlbansChurch.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0003/1200/14_1_AlbansChurch.webp" 
-                class="img-thumbnail" 
+                class="post-gallery-image-4-5 img-thumbnail" 
                 alt="Alban's Church"
              />
         </a>
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/X_3_caritas.webp" data-fslightbox="gallery">
             <img 
                 src="{{ site.url }}/assets/images/posts/0003/1200/X_3_caritas.webp" 
-                class="img-thumbnail" 
+                class="post-gallery-image-4-5 img-thumbnail" 
                 alt="Caritas Fountain" 
             />
         </a>
