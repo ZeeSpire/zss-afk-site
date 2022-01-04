@@ -9,7 +9,7 @@ description: Magura and Pestera are two picturesque villages in a spectacular se
 categories: travel romania mountains autumn landscape
 featured-image: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # full size
 featured-image-top: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 1200
-featured-image-home: "/assets/images/posts/0001/600/IMG_20211010_113741.webp" # width - 600
+featured-image-home: "https://www.afkology.com/assets/images/posts/0001/600/IMG_20211010_113741.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.

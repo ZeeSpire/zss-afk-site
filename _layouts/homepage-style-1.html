@@ -4,7 +4,7 @@
     {% for post in paginator.posts %}
     <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
         <div class="card">
-            <a class="card-text" href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}"></a>
+            <a class="card-text" href="{{ site.url }}{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}"></a>
             <div class="card-body">
                 <div class="card-text-container"><a class="card-text" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></div>
                 {% if site.show-posts-date %}<div class="text-center fw-lighter lh-lg text-muted fs-4" style="font-family: 'Italianno', cursive;">{{ post.published }}</div>{% endif %}

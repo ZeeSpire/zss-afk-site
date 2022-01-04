@@ -9,7 +9,7 @@ description: Originally a Viking fishing village established in the 10th century
 categories: travel denmark
 featured-image: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # full size
 featured-image-top: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # width - 1200
-featured-image-home: "/assets/images/posts/0002/600/poza1_nyhavn.webp" # width - 600
+featured-image-home: "https://www.afkology.com/assets/images/posts/0002/600/poza1_nyhavn.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with vibrant-colored townhouses, top-notch infrastructure, exquisite restaurants, and the reputation of being one of the happiest cities in the world. Copenhagen, the city of fairy tales, with more bikes than cars, has this enticing cool and laid-back vibe that makes you want to move there and start fresh. After just a couple of days spent there, you will start to feel this mood of coziness and contentment also known as hygge that will remain in your heart after returning home.  
