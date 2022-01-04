@@ -19,10 +19,10 @@ The Little Mermaid is a small bronze statue based on the fairy tale of the same 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_12_littleMermaid.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_12_littleMermaid.webp" 
-            class="img-fluid img-thumbnail" alt="Little mermaid" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_12_littleMermaid.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_12_littleMermaid.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Little mermaid" />
+        </picture>
     </a>
 </div>
 
@@ -37,10 +37,10 @@ Even on a September evening, there were lots of joggers, swimmers, kayakers, peo
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_8_amager.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_8_amager.webp" 
-            class="img-fluid img-thumbnail" alt="Amager beach" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_8_amager.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_8_amager.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Amager beach" />
+        </picture>
     </a>
 </div>
 
@@ -50,31 +50,28 @@ An even more beautiful church (in my opinion of course) is Grundtvig's Church. I
 
 <!-- gallery -->
 <div class="row mb-4">
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_1.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_1.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Grundtvig 02" 
-            />
+            <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_1.webp" media="(max-width: 992px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/600/X_10_gruntvigs_1.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 02" />
+            </picture>
         </a>
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_2.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_2.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Grundtvig 01" 
-            />
+            <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_2.webp" media="(max-width: 992px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/600/X_10_gruntvigs_2.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 01" />
+            </picture>
         </a>
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_3.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_3.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Grundtvig 03"
-             />
+             <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/1200/X_10_gruntvigs_3.webp" media="(max-width: 992px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/600/X_10_gruntvigs_3.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 03" />
+            </picture>
         </a>
     </div>
 </div>
@@ -86,10 +83,10 @@ Just 100 meters from Christiansborg Palace lies the Old Stock Exchange, one of t
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/5_Borsen.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/5_Borsen.webp" 
-            class="img-fluid img-thumbnail" alt="Old Stock Exchange" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/5_Borsen.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/5_Borsen.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Old Stock Exchange" />
+        </picture>
     </a>
 </div>
 
@@ -100,10 +97,10 @@ This 17th-century waterfront, stretching from King's New Square (Kongens Nytorv)
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_1_nyhavn.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_1_nyhavn.webp" 
-            class="img-fluid img-thumbnail" alt="Nyhavn" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_1_nyhavn.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_1_nyhavn.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Nyhavn" />
+        </picture>
     </a>
 </div>
 
@@ -114,10 +111,10 @@ This large baroque church inaugurated in 1752 in the Christianshavn district of 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_6_churchOfOurSaviour.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_6_churchOfOurSaviour.webp" 
-            class="img-fluid img-thumbnail" alt="Church of our saviour" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_6_churchOfOurSaviour.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_6_churchOfOurSaviour.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" />
+        </picture>
     </a>
 </div>
 
@@ -134,10 +131,10 @@ If you enjoyed your walk in the peaceful Assistens Cemetery, you can also visit 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_7_assistens.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_7_assistens.webp" 
-            class="img-fluid img-thumbnail" alt="Assistens cemetery" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_7_assistens.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_7_assistens.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Assistens cemetery" />
+        </picture>
     </a>
 </div>
 
@@ -152,10 +149,10 @@ In some areas, it is allowed to sit on the lawns, and we followed the examples o
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/11_botanical.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/11_botanical.webp" 
-            class="img-fluid img-thumbnail" alt="The Botanical Garden" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/11_botanical.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/11_botanical.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Botanical Garden" />
+        </picture>
     </a>
 </div>
 
@@ -169,10 +166,10 @@ Frederik's church is in the near vicinity of Amalienborg - the home of the Danis
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_9_frederik.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_9_frederik.webp" 
-            class="img-fluid img-thumbnail" alt="Marmorkirken" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_9_frederik.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_9_frederik.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Marmorkirken" />
+        </picture>
     </a>
 </div>
 
@@ -185,10 +182,10 @@ Here you can join a free walking tour with very good reviews from Thursday to Mo
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/Copenhagen-City-Hall-Square.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/Copenhagen-City-Hall-Square.webp" 
-            class="img-fluid img-thumbnail" alt="Church of our saviour" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/Copenhagen-City-Hall-Square.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/Copenhagen-City-Hall-Square.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" />
+        </picture>
     </a>
 </div>
 
@@ -199,10 +196,10 @@ The Kastellet is not just a park with canals, popular for locals to run and bike
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/X_15_kastellet.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/X_15_kastellet.webp" 
-            class="img-fluid img-thumbnail" alt="Kastellet Park" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_15_kastellet.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/X_15_kastellet.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Kastellet Park" />
+        </picture>
     </a>
 </div>
 
@@ -224,31 +221,28 @@ The figure depicts a pregnant woman with her children, a symbol of love or chari
 
 <!-- gallery -->
 <div class="row mb-4">
-    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/13_Gefion.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/13_Gefion.webp" 
-                class="post-gallery-image-4-5 img-thumbnail" 
-                alt="Gefion Fountain" 
-            />
+            <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/600/13_Gefion.webp" media="(max-width: 768px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/1200/13_Gefion.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Gefion Fountain" />
+            </picture>
         </a>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/14_1_AlbansChurch.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/14_1_AlbansChurch.webp" 
-                class="post-gallery-image-4-5 img-thumbnail" 
-                alt="Alban's Church"
-             />
+            <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/600/14_1_AlbansChurch.webp" media="(max-width: 768px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/1200/14_1_AlbansChurch.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Alban's Church" />
+            </picture>
         </a>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-4 mt-3">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="{{ site.url }}/assets/images/posts/0003/1200/X_3_caritas.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0003/1200/X_3_caritas.webp" 
-                class="post-gallery-image-4-5 img-thumbnail" 
-                alt="Caritas Fountain" 
-            />
+            <picture>
+                <source srcset="{{ site.url }}/assets/images/posts/0003/600/X_3_caritas.webp" media="(max-width: 768px)">
+                <img src="{{ site.url }}/assets/images/posts/0003/1200/X_3_caritas.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Caritas Fountain" />
+            </picture>
         </a>
     </div>
 </div>
@@ -262,10 +256,10 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="{{ site.url }}/assets/images/posts/0003/1200/2_1_Stroget.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/2_1_Stroget.webp" 
-            class="img-fluid img-thumbnail" alt="Stroget Street" 
-        />
+        <picture>
+            <source srcset="{{ site.url }}/assets/images/posts/0003/600/2_1_Stroget.webp" media="(max-width: 768px)">
+            <img src="{{ site.url }}/assets/images/posts/0003/1200/2_1_Stroget.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Stroget Street" />
+        </picture>
     </a>
 </div>
 
@@ -273,13 +267,13 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img 
             src="{{ site.url }}/assets/images/posts/0003/1200/pin3.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" 
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" loading="lazy"
         />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img 
-            src="{{ site.url }}/assets/images/posts/0003/1200/pin4.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" 
+            src="{{ site.url }}/assets/images/posts/0003/1200/pin4.webp"
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" loading="lazy"
         />
     </div>
 </div>
