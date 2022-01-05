@@ -5,7 +5,7 @@ title: 15 free attractions to visit in Copenhagen
 published: 29 December 2021
 last_modified_at: 29 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
-description: Top 15 free attractions to visit in Copenhagen 
+description: Top 15 free attractions to visit in Copenhagen. The Little Mermaid, Amager Beach Park, Nyhavn and many more.
 categories: travel denmark
 featured-image: "/assets/images/posts/0003/1200/X_12_littleMermaid_2.webp" # full size
 featured-image-top: # width - 1200
@@ -20,8 +20,8 @@ The Little Mermaid is a small bronze statue based on the fairy tale of the same 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Little mermaid" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" class="img-fluid img-thumbnail" alt="Little mermaid" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -38,8 +38,8 @@ Even on a September evening, there were lots of joggers, swimmers, kayakers, peo
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/X_8_amager_sh9uhs.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_8_amager_sh9uhs.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309272/2021-copenhaga/X_8_amager_sh9uhs.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Amager beach" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_8_amager_sh9uhs.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309272/2021-copenhaga/X_8_amager_sh9uhs.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Amager beach" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -53,24 +53,24 @@ An even more beautiful church (in my opinion of course) is Grundtvig's Church. I
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/X_10_gruntvigs_1_jckhrf.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_10_gruntvigs_1_jckhrf.webp" media="(min-width: 992px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309272/2021-copenhaga/X_10_gruntvigs_1_jckhrf.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 02" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_10_gruntvigs_1_jckhrf.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309272/2021-copenhaga/X_10_gruntvigs_1_jckhrf.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 02" width="690px" height="100%"/>
             </picture>
         </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309271/2021-copenhaga/X_10_gruntvigs_2_rzyouj.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309271/2021-copenhaga/X_10_gruntvigs_2_rzyouj.webp" media="(min-width: 992px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309271/2021-copenhaga/X_10_gruntvigs_2_rzyouj.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 01" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309271/2021-copenhaga/X_10_gruntvigs_2_rzyouj.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309271/2021-copenhaga/X_10_gruntvigs_2_rzyouj.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 01" width="690px" height="100%"/>
             </picture>
         </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309273/2021-copenhaga/X_10_gruntvigs_3_bcqu1o.jpg" data-fslightbox="gallery">
              <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309273/2021-copenhaga/X_10_gruntvigs_3_bcqu1o.webp" media="(min-width: 992px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309273/2021-copenhaga/X_10_gruntvigs_3_bcqu1o.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 03" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309273/2021-copenhaga/X_10_gruntvigs_3_bcqu1o.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641309273/2021-copenhaga/X_10_gruntvigs_3_bcqu1o.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Grundtvig 03" width="690px" height="100%"/>
             </picture>
         </a>
     </div>
@@ -84,8 +84,8 @@ Just 100 meters from Christiansborg Palace lies the Old Stock Exchange, one of t
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/5_Borsen_qqlxlj.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/5_Borsen_qqlxlj.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309270/2021-copenhaga/5_Borsen_qqlxlj.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Old Stock Exchange" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/5_Borsen_qqlxlj.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309270/2021-copenhaga/5_Borsen_qqlxlj.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Old Stock Exchange" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -98,8 +98,8 @@ This 17th-century waterfront, stretching from King's New Square (Kongens Nytorv)
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/X_1_nyhavn_gicyqm.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_1_nyhavn_gicyqm.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309272/2021-copenhaga/X_1_nyhavn_gicyqm.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_1_nyhavn_gicyqm.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309272/2021-copenhaga/X_1_nyhavn_gicyqm.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -111,8 +111,8 @@ This large baroque church inaugurated in 1752 in the Christianshavn district of 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309273/2021-copenhaga/X_6_churchOfOurSaviour_p7p46f.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309273/2021-copenhaga/X_6_churchOfOurSaviour_p7p46f.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309273/2021-copenhaga/X_6_churchOfOurSaviour_p7p46f.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309273/2021-copenhaga/X_6_churchOfOurSaviour_p7p46f.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309273/2021-copenhaga/X_6_churchOfOurSaviour_p7p46f.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Church of our saviour" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -132,8 +132,8 @@ If you enjoyed your walk in the peaceful Assistens Cemetery, you can also visit 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309274/2021-copenhaga/X_7_assistens_dtzgn7.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/X_7_assistens_dtzgn7.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309274/2021-copenhaga/X_7_assistens_dtzgn7.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Assistens cemetery" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/X_7_assistens_dtzgn7.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309274/2021-copenhaga/X_7_assistens_dtzgn7.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Assistens cemetery" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -150,8 +150,8 @@ In some areas, it is allowed to sit on the lawns, and we followed the examples o
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309274/2021-copenhaga/11_botanical_xqj2fc.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/11_botanical_xqj2fc.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309274/2021-copenhaga/11_botanical_xqj2fc.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Botanical Garden" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/11_botanical_xqj2fc.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309274/2021-copenhaga/11_botanical_xqj2fc.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Botanical Garden" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -167,8 +167,8 @@ Frederik's church is in the near vicinity of Amalienborg - the home of the Danis
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Marmorkirken" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Marmorkirken" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -183,8 +183,8 @@ Here you can join a free walking tour with very good reviews from Thursday to Mo
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309275/2021-copenhaga/Copenhagen-City-Hall-Square_gjiwnx.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309275/2021-copenhaga/Copenhagen-City-Hall-Square_gjiwnx.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309275/2021-copenhaga/Copenhagen-City-Hall-Square_gjiwnx.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen City Hall" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309275/2021-copenhaga/Copenhagen-City-Hall-Square_gjiwnx.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309275/2021-copenhaga/Copenhagen-City-Hall-Square_gjiwnx.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen City Hall" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -197,8 +197,8 @@ The Kastellet is not just a park with canals, popular for locals to run and bike
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309274/2021-copenhaga/X_15_kastellet_o9edja.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/X_15_kastellet_o9edja.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309274/2021-copenhaga/X_15_kastellet_o9edja.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Kastellet Park" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309274/2021-copenhaga/X_15_kastellet_o9edja.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309274/2021-copenhaga/X_15_kastellet_o9edja.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Kastellet Park" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -224,24 +224,24 @@ The figure depicts a pregnant woman with her children, a symbol of love or chari
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/13_Gefion_kqmzzr.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/13_Gefion_kqmzzr.jpg" media="(min-width: 768px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309270/2021-copenhaga/13_Gefion_kqmzzr.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Gefion Fountain" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1641309270/2021-copenhaga/13_Gefion_kqmzzr.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309270/2021-copenhaga/13_Gefion_kqmzzr.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Gefion Fountain" width="510px" height="100%"/>
             </picture>
         </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309273/2021-copenhaga/14_1_AlbansChurch_bpxias.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1641309273/2021-copenhaga/14_1_AlbansChurch_bpxias.webp" media="(min-width: 768px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309273/2021-copenhaga/14_1_AlbansChurch_bpxias.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Alban's Church" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1641309273/2021-copenhaga/14_1_AlbansChurch_bpxias.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309273/2021-copenhaga/14_1_AlbansChurch_bpxias.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Alban's Church" width="510px" height="100%"/>
             </picture>
         </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         <a href="https://res.cloudinary.com/afkology/image/upload/v1641309271/2021-copenhaga/X_3_caritas_eo5cym.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1641309271/2021-copenhaga/X_3_caritas_eo5cym.webp" media="(min-width: 768px)">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309271/2021-copenhaga/X_3_caritas_eo5cym.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Caritas Fountain" />
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1641309271/2021-copenhaga/X_3_caritas_eo5cym.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1641309271/2021-copenhaga/X_3_caritas_eo5cym.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Caritas Fountain" width="510px" height="100%"/>
             </picture>
         </a>
     </div>
@@ -257,8 +257,8 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/2_1_Stroget_baxasq.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/2_1_Stroget_baxasq.webp" media="(max-width: 768px)">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1108,c_scale,f_auto/v1641309272/2021-copenhaga/2_1_Stroget_baxasq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Stroget Street" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/2_1_Stroget_baxasq.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309272/2021-copenhaga/2_1_Stroget_baxasq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Stroget Street" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -267,13 +267,13 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img 
             src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641309273/2021-copenhaga/pin3_bhp0zp.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" loading="lazy"
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" loading="lazy" width="540px" height="100%"
         />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img 
             src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641309272/2021-copenhaga/pin4_rplc39.webp"
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" loading="lazy"
+            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" loading="lazy" width="540px" height="100%"
         />
     </div>
 </div>

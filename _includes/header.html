@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="{{ site.url }}{{page.url}}">
 
-  <title>{% if page.type != "homepage" %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description"
-    content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.type != "homepage" %}{{ page.title }}{% endif %}{% if page.type == "homepage" %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 
   <meta property="og:site_name" content="{{ site.title }}" />
@@ -79,13 +78,6 @@
 
   <!-- google ads -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3415228712575851" crossorigin="anonymous"></script>
-
-  <!-- image lazy loading-->
-  <!-- <script src="/assets/js/yall.min.js"></script>
-  <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
-  <script>
-    document.addEventListener("DOMContentLoaded", yall);
-  </script> -->
 </head>
 
 <main class="flex-shrink-0">
@@ -98,7 +90,7 @@
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <a class="navbar-brand" href="{{ site.url }}/"><img data-pin-no-hover="true"
             style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
-            src="{{ site.url }}{{ site.logo }}" alt="{{ site.title }}" /></a>
+            src="https://res.cloudinary.com/afkology/image/upload/w_500,c_scale,f_auto/v1641379303/assets/logo_v1.0_bbqd0n.webp" alt="{{ site.title }}" /></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
           aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -112,7 +104,7 @@
               <a class="nav-link" href="{{ site.url }}/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.url }}/assets">Assets</a>
+              <a class="nav-link" href="{{ site.url }}/buy-assets">Assets</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ site.url }}/contact">Contact</a>
@@ -123,32 +115,32 @@
           <ul class="navbar-nav ms-auto  mb-2 mb-lg-0">
             {% if site.youtube %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.youtube }}" target="_blank"><img src="{{ site.url }}/assets/css/icons/youtube.svg" style="opacity:0.6; height:16px; width:16px;" alt="youtube"></a>
+              <a class="nav-link" href="{{ site.youtube }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/youtube_llbx9o.svg" style="opacity:0.6; height:16px; width:16px;" alt="youtube"></a>
             </li>
             {% endif %}
             {% if site.instagram %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.instagram }}" target="_blank"><img src="{{ site.url }}/assets/css/icons/instagram.svg" style="opacity:0.6; height:16px; width:16px;" alt="instagram"></a>
+              <a class="nav-link" href="{{ site.instagram }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/instagram_fjgfd0.svg" style="opacity:0.6; height:16px; width:16px;" alt="instagram"></a>
             </li>
             {% endif %}
             {% if site.facebook %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.facebook }}" target="_blank"> <img src="{{ site.url }}/assets/css/icons/facebook.svg" style="opacity:0.6; height:16px; width:16px;" alt="facebook"></a>
+              <a class="nav-link" href="{{ site.facebook }}" target="_blank"> <img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/facebook_hzc1xc.svg" style="opacity:0.6; height:16px; width:16px;" alt="facebook"></a>
             </li>
             {% endif %}
             {% if site.tiktok %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.tiktok }}" target="_blank"><img src="{{ site.url }}/assets/css/icons/tiktok.svg" style="opacity:0.6; height:16px; width:16px;" alt="tiktok"></a>
+              <a class="nav-link" href="{{ site.tiktok }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/tiktok_nbdo9t.svg" style="opacity:0.6; height:16px; width:16px;" alt="tiktok"></a>
             </li>
             {% endif %}
             {% if site.medium %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.medium }}" target="_blank"><img src="{{ site.url }}/assets/css/icons/medium.svg" style="opacity:0.6; height:16px; width:16px;" alt="medium"></i></a>
+              <a class="nav-link" href="{{ site.medium }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/medium_chfxfe.svg" style="opacity:0.6; height:16px; width:16px;" alt="medium"></i></a>
             </li>
             {% endif %}
             {% if site.pinterest %}
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.pinterest }}" target="_blank"><img src="{{ site.url }}/assets/css/icons/pinterest.svg" style="opacity:0.6; height:16px; width:16px;" alt="pinterest"></a>
+              <a class="nav-link" href="{{ site.pinterest }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/pinterest_tbue3b.svg" style="opacity:0.6; height:16px; width:16px;" alt="pinterest"></a>
             </li>
             {% endif %}
           </ul>

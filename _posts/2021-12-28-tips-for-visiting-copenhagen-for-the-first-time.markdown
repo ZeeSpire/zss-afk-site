@@ -5,7 +5,7 @@ title: Tips for visiting Copenhagen for the first time
 published: 28 December 2021
 last_modified_at: 28 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
-description: Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with vibrant-colored townhouses, top-notch infrastructure, exquisite restaurants, and the reputation of being one of the happiest cities in the world.
+description: Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with ...
 categories: travel denmark
 featured-image: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # full size
 featured-image-top: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # width - 1200

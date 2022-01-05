@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
+description: Contact AFKology, subscribe to newsletter, send us an email
 ---
 Send us an email to: office@afkology.com or use the contact form below:
 <div class="ratio ratio-1x1" style="height: 1000px;">
