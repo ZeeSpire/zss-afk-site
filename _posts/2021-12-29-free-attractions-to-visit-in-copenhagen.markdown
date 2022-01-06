@@ -7,9 +7,9 @@ last_modified_at: 29 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
 description: Top 15 free attractions to visit in Copenhagen. The Little Mermaid, Amager Beach Park, Nyhavn and many more.
 categories: travel denmark
-featured-image: "/assets/images/posts/0003/1200/X_12_littleMermaid_2.webp" # full size
+featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.jpg" # full size
 featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" # width - 600
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 #### 1. The Little Mermaid (Den Lille Havfrue)
@@ -18,10 +18,10 @@ The Little Mermaid is a small bronze statue based on the fairy tale of the same 
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.jpg" data-fslightbox="gallery">
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641309272/2021-copenhaga/X_12_littleMermaid_irqm8d.webp" class="img-fluid img-thumbnail" alt="Little mermaid" width="1116px" height="100%"/>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.webp" class="img-fluid img-thumbnail" alt="Little mermaid" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
