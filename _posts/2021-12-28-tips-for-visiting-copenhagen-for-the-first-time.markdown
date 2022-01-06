@@ -7,9 +7,9 @@ last_modified_at: 28 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
 description: Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with ...
 categories: travel denmark
-featured-image: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # full size
-featured-image-top: "/assets/images/posts/0002/1200/poza1_nyhavn.webp" # width - 1200
-featured-image-home: "https://www.afkology.com/assets/images/posts/0002/600/poza1_nyhavn.webp" # width - 600
+featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.jpg" # full size
+featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 1200
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with vibrant-colored townhouses, top-notch infrastructure, exquisite restaurants, and the reputation of being one of the happiest cities in the world. Copenhagen, the city of fairy tales, with more bikes than cars, has this enticing cool and laid-back vibe that makes you want to move there and start fresh. After just a couple of days spent there, you will start to feel this mood of coziness and contentment also known as hygge that will remain in your heart after returning home.  
@@ -38,11 +38,11 @@ We visited Copenhagen in September and the weather was really nice in the majori
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/timetovisit.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/timetovisit.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen best time to visit" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.jpg" data-fslightbox="gallery">
+    <picture>
+        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.webp" media="(max-width: 768px)" width="600px" height="100%">
+        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.webp" class="img-fluid img-thumbnail" alt="Copenhagen best time to visit" loading="lazy" width="1116px" height="100%"/>
+    </picture>
     </a>
 </div>
 
@@ -52,11 +52,11 @@ Copenhagen was officially founded in 1167 when a bishop named Absalon, who is re
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/poza4_funfact_nyhavn.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/poza4_funfact_nyhavn.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen fun fact" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.webp" class="img-fluid img-thumbnail" alt="Copenhagen fun fact" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -66,11 +66,11 @@ Copenhagen is a relatively small city compared to other European capitals, but i
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/poza5_howToGetAround.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/poza5_howToGetAround.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen how to get around 02" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around 02" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -92,11 +92,11 @@ Copenhagen is a relatively small city compared to other European capitals, but i
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/poza6_howToGetAround.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/poza6_howToGetAround.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen how to get around" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -125,30 +125,27 @@ Noma and Geranium, with 3 Michelin stars each, are at the top of the list of the
 <!-- gallery -->
 <div class="row mb-4">
  <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0002/1200/food04.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0002/1200/food04.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Copenhagen food 02" 
-            />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468517/0002-2021-copenhaga/food04_uossl6.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468517/0002-2021-copenhaga/food04_uossl6.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468517/0002-2021-copenhaga/food04_uossl6.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 02" loading="lazy" width="690px" height="100%" />
+            </picture>
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0002/1200/food03.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0002/1200/food03.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Copenhagen food 03" 
-            />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/food03_xsiqzv.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food03_xsiqzv.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food03_xsiqzv.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 03" loading="lazy" width="690px" height="100%" />
+            </picture>
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0002/1200/food02.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0002/1200/food02.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Copenhagen food 04"
-             />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/food02_sbeqsn.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/food02_sbeqsn.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468515/0002-2021-copenhaga/food02_sbeqsn.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 04" loading="lazy" width="690px" height="100%" />
+             </picture>
         </a>
     </div>
 </div>
@@ -168,11 +165,11 @@ Our favorite spot to grab something to eat and a beer to quench our thirst was T
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/food1.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/food1.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen food 01" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/food1_hzuzng.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food1_hzuzng.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food1_hzuzng.webp" class="img-fluid img-thumbnail" alt="Copenhagen food 01" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -182,11 +179,11 @@ Aside from the usual tourist attractions, Copenhagen has a special charm that yo
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0002/1200/fromabove.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/fromabove.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen from above" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/fromabove_uschxi.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" class="img-fluid img-thumbnail" alt="Copenhagen from above" loading="lazy" width="1116px" height="100%"/>
+        </picture>
     </a>
 </div>
 
@@ -207,15 +204,9 @@ Everyone speaks English very well so it's the only language you need to know. Bu
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/pin1_v1.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 01" 
-        />
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641468515/0002-2021-copenhaga/pin1_kwxdvo.webp" class="img-fluid img-thumbnail" alt="Copenhagen pin 01" loading="lazy" width="540px" height="100%" />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0002/1200/pin2.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 02" 
-        />
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641468516/0002-2021-copenhaga/pin2_puskrs.webp" class="img-fluid img-thumbnail" alt="Copenhagen pin 02" loading="lazy" width="540px" height="100%" />
     </div>
 </div>

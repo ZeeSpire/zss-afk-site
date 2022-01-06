@@ -7,9 +7,9 @@ last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
 categories: travel romania mountains autumn landscape
-featured-image: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # full size
-featured-image-top: "/assets/images/posts/0001/1200/IMG_20211010_113741.webp" # width - 1200
-featured-image-home: "https://www.afkology.com/assets/images/posts/0001/600/IMG_20211010_113741.webp" # width - 600
+featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.jpg" # full size
+featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 1200
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_autov1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
@@ -21,11 +21,11 @@ The distance between the two villages is about 6 kilometers which can be hiked.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_113543.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_113543.webp" 
-            class="img-fluid img-thumbnail" alt="Magura 06" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211009_113543_ct8jiq.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211009_113543_ct8jiq.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211009_113543_ct8jiq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Magura 06" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -37,30 +37,27 @@ Every season has its charm. If you make sure that you can reach the accommodatio
 <!-- gallery -->
 <div class="row mb-4">
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0101.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0101.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Magura 03"
-             />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641506679/0001-2021-magura/DJI_0101_scrdip.webp" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0101_scrdip.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0101_scrdip.webp" class="post-gallery-image img-thumbnail" alt="Magura 03" loading="lazy" width="690px" height="100%" />
+            </picture>
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0115.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0115.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Magura 04" 
-            />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/DJI_0115_fayob4.jpg" data-fslightbox="gallery">
+            <picture>
+               <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0115_mp3ur3.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0115_mp3ur3.webp" class="post-gallery-image img-thumbnail" alt="Magura 04" loading="lazy" width="690px" height="100%" />
+            </picture>
         </a>
     </div>
     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="{{ site.url }}/assets/images/posts/0001/1200/DJI_0142.webp" data-fslightbox="gallery">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/DJI_0142.webp" 
-                class="post-gallery-image img-thumbnail" 
-                alt="Magura 05" 
-            />
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/DJI_0142_rfm1qt.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0142_ckxtzd.webp" media="(min-width: 992px)" width="600px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641506679/0001-2021-magura/DJI_0142_ckxtzd.webp" class="post-gallery-image img-thumbnail" alt="Magura 05" loading="lazy" width="690px" height="100%" />
+            </picture>
         </a>
     </div>
 </div>
@@ -75,12 +72,11 @@ There aren’t many restaurants in these two villages. Most guesthouses offer di
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_135725.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_135725.webp" 
-            class="img-fluid img-thumbnail" 
-            alt="Magura 02" 
-        />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211009_135725_rc5ktb.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211009_135725_rc5ktb.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211009_135725_rc5ktb.webp" class="img-fluid img-thumbnail" alt="Magura 02" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
  
@@ -98,12 +94,11 @@ In Peștera you can find the Bat Cave which houses rare species of bats. We hike
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_130910.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211009_130910.webp" 
-            alt="Magura" 
-            class="img-fluid img-thumbnail"
-         />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468466/0001-2021-magura/IMG_20211009_130910_uzkeba.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468466/0001-2021-magura/IMG_20211009_130910_uzkeba.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468466/0001-2021-magura/IMG_20211009_130910_uzkeba.webp" alt="Magura" class="img-fluid img-thumbnail" loading="lazy" width="1116px" height="100%" />
+        </picture>
     </a>
 </div>
 
@@ -117,28 +112,19 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211010_113305.webp" data-fslightbox="gallery">
-        <img 
-            src="{{ site.url }}/assets/images/posts/0001/1200/IMG_20211010_113305.webp" 
-            class="img-fluid img-thumbnail" 
-            alt="Magura 07"
-         />
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211010_113305_zcuzus.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113305_zcuzus.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113305_zcuzus.webp" class="img-fluid img-thumbnail" alt="Magura 07" loading="lazy" width="1116px" height="100%"/>
+         </picture>
     </a>
 </div>
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/pin1.webp" 
-                class="img-fluid img-thumbnail" 
-                alt="Magura Pin 01"
-            />
+        <img src="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/pin1_zuxpxv.png" class="img-fluid img-thumbnail" alt="Magura Pin 01" loading="lazy" width="540px" height="100%" />
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-            <img 
-                src="{{ site.url }}/assets/images/posts/0001/1200/pin2.webp" 
-                class="img-fluid img-thumbnail" 
-                alt="Magura Pin 02"
-            />
+        <img src="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/pin2_ivbksh.png" class="img-fluid img-thumbnail" alt="Magura Pin 02" loading="lazy" width="540px" height="100%" />
     </div>
 </div>
