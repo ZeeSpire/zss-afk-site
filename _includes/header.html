@@ -52,8 +52,17 @@
 
   <!-- Google Tag Manager -->
   {% if jekyll.environment == "production" %}
-      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','{{ site.google-tag-manager-id }}');</script>
-  {% endif %}
+      <!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','{{ site.google-tag-manager-id }}');</script> -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2E08R5263Y"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2E08R5263Y');
+  </script>
+{% endif %}
 
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/apple-touch-icon.png">
@@ -66,7 +75,8 @@
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Italianno&display=swap"></noscript>
 
   <!-- boostrap -->
-  <link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap.min.css"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
   <!-- custom styles -->
   <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
@@ -77,14 +87,14 @@
   {% endif %}
 
   <!-- google ads -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3415228712575851" crossorigin="anonymous"></script>
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3415228712575851" crossorigin="anonymous"></script> -->
 </head>
 
 <main class="flex-shrink-0">
   <body class="d-flex flex-column h-100">
     <!-- Google Tag Manager (noscript) -->
     {% if jekyll.environment == "production" %}
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google-tag-manager-id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google-tag-manager-id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
     {% endif %}
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">

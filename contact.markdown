@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contact us, subscribe to newsletter
 permalink: /contact/
 description: Contact AFKology, subscribe to newsletter, send us an email
 ---

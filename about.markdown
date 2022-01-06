@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who are we?
+title: Who are we? Why AFKology? 
 permalink: /about/
 description: Who are we? The most precious moments in life happen offline. 
 ---

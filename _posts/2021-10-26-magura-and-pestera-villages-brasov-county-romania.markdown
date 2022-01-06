@@ -5,7 +5,7 @@ title: Măgura & Peștera villages, Brașov county, Romania
 published: 26 October 2021
 last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
-description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
+description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
 categories: travel romania mountains autumn landscape
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 1200
