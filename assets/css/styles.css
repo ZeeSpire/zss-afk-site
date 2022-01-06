@@ -19,8 +19,8 @@
 
 .card-text {
     color: black !important;
-    text-decoration: none;
-    font-size: 1.25rem;
+    text-decoration: none !important;;
+    font-size: 1.25rem !important;;
 }
 
 .card-text-container {
@@ -101,4 +101,8 @@
     .footer-column {
         margin-bottom: 30px;
     }
+}
+
+h1 {
+    font-size: 2rem;
 }

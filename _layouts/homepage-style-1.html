@@ -6,7 +6,7 @@
         <div class="card">
             <a class="card-text" href="{{ site.url }}{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}"></a>
             <div class="card-body">
-                <div class="card-text-container"><a class="card-text" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></div>
+                <div class="card-text-container"><a href="{{ site.url }}{{ post.url }}" class="card-text"><h1 class="card-text">{{ post.title }}</h1></a></div>
                 {% if site.show-posts-date %}<div class="text-center fw-lighter lh-lg text-muted fs-4" style="font-family: 'Italianno', cursive;">{{ post.published }}</div>{% endif %}
             </div>
         </div>
