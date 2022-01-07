@@ -16,7 +16,7 @@ Originally a Viking fishing village established in the 10th century known at the
 
 Copenhagen is a must-see destination so let's start with some tips for a perfect trip to this wonderful city.  
 
-#### Copenhagen Card  
+## Copenhagen Card  
 
 The Copenhagen Card is by far the most convenient and affordable way to experience Copenhagen.   
 
@@ -30,7 +30,7 @@ Here's the website where you can buy the card and where you can find all the inf
     <iframe src="https://www.youtube.com/embed/tms-6Y5OYFc" title="YouTube video" allowfullscreen></iframe>
 </div>
 
-#### Best time to visit Copenhagen  
+## Best time to visit Copenhagen  
 
 The best time to visit Copenhagen may depend on person to person, but it is accepted that between May and September the weather is friendlier, and you can enjoy more activities outside. The peak season is in July and August, and you may find long queues at the museums or at Tivoli Gardens for example. In winter, the weather is gloomy; the days are shorter and maybe you'll prefer spending more time inside cafes or museums than outside.  
 
@@ -46,7 +46,7 @@ We visited Copenhagen in September and the weather was really nice in the majori
     </a>
 </div>
 
-#### Fun fact  
+## Fun fact  
 
 Copenhagen was officially founded in 1167 when a bishop named Absalon, who is regarded as the city’s founder, built a castle where Christiansborg Palace is today. Originally there was only a small settlement called Havn (harbor), but with the increased trading in the Middle Ages the name was changed to Købmannehavn, which means “the merchant’s harbor”. It was later shortened to its current name København.
 
@@ -60,7 +60,7 @@ Copenhagen was officially founded in 1167 when a bishop named Absalon, who is re
     </a>
 </div>
 
-#### How to get around Copenhagen  
+## How to get around Copenhagen  
 
 Copenhagen is a relatively small city compared to other European capitals, but it's packed with attractions (impossible to visit in just a couple of days). Most of them are quite close to each other and it is worth mentioning that Copenhagen's public transportation system is very efficient. If you don't want to buy the Copenhagen Card that includes unlimited public transport, you have other options like buying a City Pass which gives you the freedom to make unlimited use of public transport. Visit this site for more information about all types of tickets, routes, bus stops timetables, and the city pass: [dinoffentligetransport.dk](https://dinoffentligetransport.dk/en/) or you can get the “DOT Tickets” app.
 
@@ -101,7 +101,7 @@ Copenhagen is a relatively small city compared to other European capitals, but i
 </div>
 
 
-#### Where to stay   
+## Where to stay   
 
 Because there are so many options to travel through the city and that most points of interest are concentrated in the city center, you can opt to stay in any of Copenhagen's charming and unique neighborhoods based on your budget and preferences. That being said, I made a list of the hotels I found interesting:  
 - [71 Nyhavn Hotel](https://www.booking.com/hotel/dk/nyhavn.en.html?aid=7913345&no_rooms=1&group_adults=2) - this hotel located in the iconic Nyhavn (New Harbour) is housed in 2 converted warehouses from the 1800s.
@@ -116,7 +116,7 @@ OK, I see a pattern here. Maybe I let myself be a little bit carried away. But t
 
 We chose NH Collection Copenhagen having at the time of our reservation the best value for money. It was newly inaugurated, exceptionally clean, and nicely decorated, close to the city center and the breakfast was really good and it included lots of choices. We enjoyed the scrambled eggs and the porridge with fresh fruits. We even had champagne at breakfast which was an experience itself.  
 
-#### What foods to try in Copenhagen  
+## What foods to try in Copenhagen  
 
 Copenhagen can be considered a foody destination with some of the best restaurants in the world. Food in Copenhagen is expensive, but on the other hand, the Danes value locally produced, organic, premium ingredients and have some of the best restaurants in the world.  
 
@@ -173,7 +173,7 @@ Our favorite spot to grab something to eat and a beer to quench our thirst was T
     </a>
 </div>
 
-#### Things to do in Copenhagen 
+## Things to do in Copenhagen 
 
 Aside from the usual tourist attractions, Copenhagen has a special charm that you can feel walking through the streets and admiring the wonderful buildings, canals and beautiful parks. You can also grab a coffee from Espresso House or a smoothie from Joe and the Juice and you can go for a walk in the Botanical Garden, admiring the plants. 
 

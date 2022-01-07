@@ -12,6 +12,10 @@
     padding-bottom: 1rem;
 }
 
+.page-title {
+    font-size: 2rem !important;
+}
+
 
 .card {
     border: 0px;
@@ -20,15 +24,19 @@
 .card-text {
     color: black !important;
     text-decoration: none !important;;
-    font-size: 1.25rem !important;;
+    font-size: 1.25rem !important;
+}
+
+h2 {
+    font-size: 1.5rem !important;
+}
+
+.h2 {
+    font-size: 1.5rem !important;
 }
 
 .card-text-container {
     height: 60px;
-}
-
-.card-body {
-    height: 8rem;
 }
 
 @media (min-width: 1400px) {
@@ -44,6 +52,12 @@
 
 .img-thumbnail {
     border: 0;
+}
+
+@media (max-width: 768px) {
+     .card-body {
+         padding-bottom: 0px;
+     }
 }
 
 @media (min-width: 1200px) {

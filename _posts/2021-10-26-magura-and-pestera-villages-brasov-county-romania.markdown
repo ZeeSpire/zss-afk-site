@@ -29,7 +29,7 @@ The distance between the two villages is about 6 kilometers which can be hiked.
     </a>
 </div>
 
-#### Best time to visit
+## Best time to visit
  
 We visited the area both in summer when the weather is suitable for longer or shorter hikes depending on how much you can walk, and in autumn when the landscape is dreamy, the trees have yellow or rusty leaves, the mountain ridges are white, and the fog dances through the valleys. If you add to this image a slice of homemade bread with butter and jam and a hot tea or a baked apple with cinnamon after a walk outside in the fresh, crisp air, you will discover the perfect definition for the Danish term "hygge". 
 Every season has its charm. If you make sure that you can reach the accommodation with the chosen means of transport, then it is worth a visit in any season.
@@ -62,7 +62,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
     </div>
 </div>
 
-#### Accommodation and restaurant options
+## Accommodation and restaurant options
  
 The first time we visited the area we were not accommodated in either of the two villages because there are more accommodation options in the more touristy areas nearby such as Bran, Râșnov, or Moieciu. But we wanted to return and stay in Măgura. Our first option would have been [Samedru](https://www.booking.com/hotel/ro/samedru-magura8.en.html?aid=7913345&no_rooms=1&group_adults=2), but because we did not find any available weekend, we chose to stay at [Mosorel](https://www.booking.com/hotel/ro/mosorel-moieciu-de-jos.en.html?aid=7913345&no_rooms=1&group_adults=2) with 4.8* out of over 200 reviews on Google, but we would say that a more suitable rating for Mosorel would be 2*.
 
@@ -80,7 +80,7 @@ There aren’t many restaurants in these two villages. Most guesthouses offer di
     </a>
 </div>
  
-#### Things to do and see
+## Things to do and see
  
 Here time seems to stand still, the silence is interrupted only by cowbells or cock-a-doodle-doos, the air is clean, and the landscapes are heavenly. It is the perfect place to disconnect. Literally, because the mobile and internet network coverage are not good. Even if you only stay for a weekend, you will leave this place energized as it's urging you to relax and take it slowly. Nature is in its purest state, so it is easy to admire and appreciate its beauty.
 
