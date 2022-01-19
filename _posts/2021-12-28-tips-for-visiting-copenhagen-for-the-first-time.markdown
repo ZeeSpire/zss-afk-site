@@ -27,7 +27,7 @@ You can buy the card for different durations (24, 48, 72, 96, and 120 hours) and
 Here's the website where you can buy the card and where you can find all the information you need about the [Copenhagen Card](https://copenhagencard.com/).
 
  <div class="ratio ratio-16x9 mb-3">
-    <iframe src="https://www.youtube.com/embed/tms-6Y5OYFc" title="YouTube video" allowfullscreen></iframe>
+    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/tms-6Y5OYFc" title="Copenhagen, Denmark 4K | What to visit | Nyhavn, The Little Mermaid, Tivoli Gardens, and many more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Best time to visit Copenhagen  
@@ -92,10 +92,10 @@ Copenhagen is a relatively small city compared to other European capitals, but i
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.jpg" data-fslightbox="gallery">
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/fromabove_uschxi.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around" loading="lazy" width="1116px" height="100%" />
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around" loading="lazy" width="1116px" height="100%" />
         </picture>
     </a>
 </div>
@@ -176,13 +176,12 @@ Our favorite spot to grab something to eat and a beer to quench our thirst was T
 ## Things to do in Copenhagen 
 
 Aside from the usual tourist attractions, Copenhagen has a special charm that you can feel walking through the streets and admiring the wonderful buildings, canals and beautiful parks. You can also grab a coffee from Espresso House or a smoothie from Joe and the Juice and you can go for a walk in the Botanical Garden, admiring the plants. 
-
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/fromabove_uschxi.jpg" data-fslightbox="gallery">
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.jpg" data-fslightbox="gallery">
         <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" class="img-fluid img-thumbnail" alt="Copenhagen from above" loading="lazy" width="1116px" height="100%"/>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" class="img-fluid img-thumbnail" alt="Copenhagen from above" loading="lazy" width="1116px" height="100%"/>
         </picture>
     </a>
 </div>
@@ -201,7 +200,6 @@ For a more comprehensive list of places to visit and things to do in Copenhagen,
 The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.   
 
 Everyone speaks English very well so it's the only language you need to know. But here are some words if you’d like to practice your Danish. Also don't forget to pin the article.
-
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
             <img src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641468515/0002-2021-copenhaga/pin1_kwxdvo.webp" class="img-fluid img-thumbnail" alt="Copenhagen pin 01" loading="lazy" width="540px" height="100%" />

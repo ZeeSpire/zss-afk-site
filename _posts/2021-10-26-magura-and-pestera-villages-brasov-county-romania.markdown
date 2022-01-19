@@ -84,8 +84,8 @@ There aren’t many restaurants in these two villages. Most guesthouses offer di
  
 Here time seems to stand still, the silence is interrupted only by cowbells or cock-a-doodle-doos, the air is clean, and the landscapes are heavenly. It is the perfect place to disconnect. Literally, because the mobile and internet network coverage are not good. Even if you only stay for a weekend, you will leave this place energized as it's urging you to relax and take it slowly. Nature is in its purest state, so it is easy to admire and appreciate its beauty.
 
- <div class="ratio ratio-16x9 mb-3">
-    <iframe src="https://www.youtube.com/embed/PpNKnzD_3vo?rel=0" title="YouTube video" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 mb-3">
+    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/PpNKnzD_3vo" title="Magura & Pestera villages, Brasov county, Romania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 In the area, there are mountain trails that can be traveled both on foot and by bike. The Peștera-Măgura-Şirnea route is appreciated by mountain biking enthusiasts and can be covered even by beginners.

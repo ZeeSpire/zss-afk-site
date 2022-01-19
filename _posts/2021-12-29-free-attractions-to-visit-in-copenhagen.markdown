@@ -7,9 +7,9 @@ last_modified_at: 29 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
 description: Top 15 free attractions to visit in Copenhagen. The Little Mermaid, Amager Beach Park, Nyhavn and many more.
 categories: travel denmark
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.jpg" # full size
+featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.jpg" # full size
 featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641507673/2021-copenhaga/X_12_littleMermaid_irqm8d_n3t0jo.webp" # width - 600
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 ## 1. The Little Mermaid (Den Lille Havfrue)
