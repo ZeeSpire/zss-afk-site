@@ -9,7 +9,7 @@ description: This is my guide on what you can do in Copenhagen in just three day
 categories: travel denmark
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.jpg" # full size
 featured-image-top: https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.webp # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" # width - 600
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 This is my guide on what you can do in Copenhagen in just three days to get the most out of it. But first make sure you already read this article: [Tips for visiting Copenhagen for the first time](https://www.afkology.com/tips-for-visiting-copenhagen-for-the-first-time/){:target="_blank"}. It includes lots of information about special accommodations, Danish food, means of transport around the city, and the Copenhagen Card which will save you money and will enable you to use public transport at your discretion.

@@ -9,7 +9,7 @@ description: Top 15 free attractions to visit in Copenhagen. The Little Mermaid,
 categories: travel denmark
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.jpg" # full size
 featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" # width - 600
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1641309270/2021-copenhaga/X_9_frederik_jqlhmi.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 ## 1. The Little Mermaid (Den Lille Havfrue)
