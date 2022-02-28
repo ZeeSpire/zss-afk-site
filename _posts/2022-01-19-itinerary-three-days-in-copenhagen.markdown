@@ -12,8 +12,8 @@ featured-image-top: https://res.cloudinary.com/afkology/image/upload/w_1116,c_sc
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-This is my guide on what you can do in Copenhagen in just three days to get the most out of it. But first make sure you already read this article: [Tips for visiting Copenhagen for the first time](https://www.afkology.com/tips-for-visiting-copenhagen-for-the-first-time/). It includes lots of information about special accommodations, Danish food, means of transport around the city, and the Copenhagen Card which will save you money and will enable you to use public transport at your discretion.
-Also, you should read this article as well to find more about what you can visit in Copenhagen: [15 free attractions in Copenhagen](https://www.afkology.com/free-attractions-to-visit-in-copenhagen/). Some of these attractions are included in this guide below, but most of them aren't, so it's up to you to visit them if you have some extra time on your hands.
+This is my guide on what you can do in Copenhagen in just three days to get the most out of it. But first make sure you already read this article: [Tips for visiting Copenhagen for the first time](https://www.afkology.com/tips-for-visiting-copenhagen-for-the-first-time/){:target="_blank"}. It includes lots of information about special accommodations, Danish food, means of transport around the city, and the Copenhagen Card which will save you money and will enable you to use public transport at your discretion.
+Also, you should read this article as well to find more about what you can visit in Copenhagen: [15 free attractions in Copenhagen](https://www.afkology.com/free-attractions-to-visit-in-copenhagen/){:target="_blank"}. Some of these attractions are included in this guide below, but most of them aren't, so it's up to you to visit them if you have some extra time on your hands.
 Last, but not least, check out the videos we've put together to make an impression of what Copenhagen has to offer.
 
 <div class="row mb-4">
@@ -180,7 +180,7 @@ This guide was based on our experience in Copenhagen. We stayed 5 days in Septem
 There were lots of other attractions we wanted to visit, but we just couldn't in the time frame we had. Also, we visited Copenhagen in the pandemic and some of the attractions were closed for different reasons. On the other hand, there weren't so many tourists.
 
 Some of the attractions that are on our list for a future trip to Copenhagen:
-- [Carlsberg Brewery](https://www.visitcarlsberg.com/)
+- [Carlsberg Brewery](https://www.visitcarlsberg.com/){:target="_blank"}
 - Amalienborg
 - The Royal Library (Det Kongelige Bibliotek)
 - City hall Tower
