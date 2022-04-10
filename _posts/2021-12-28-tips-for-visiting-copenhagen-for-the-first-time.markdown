@@ -24,7 +24,7 @@ It includes free public transportation by train, bus, metro (including to and fr
 
 You can buy the card for different durations (24, 48, 72, 96, and 120 hours) and if you plan to take a boat tour and visit some main attractions, this card will definitely save you money and time. You can opt for a digital card, download the CPH Card app and show the QR code from your mobile phone when you want to enter an attraction or when you use public transport. The mobile application is very intuitive and easy to use.  
 
-Here's the website where you can buy the card and where you can find all the information you need about the [Copenhagen Card](https://copenhagencard.com/).
+Here's the website where you can buy the card and where you can find all the information you need about the [Copenhagen Card](https://copenhagencard.com/){:target="_blank"}.
 
  <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/tms-6Y5OYFc" title="Copenhagen, Denmark 4K | What to visit | Nyhavn, The Little Mermaid, Tivoli Gardens, and many more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
