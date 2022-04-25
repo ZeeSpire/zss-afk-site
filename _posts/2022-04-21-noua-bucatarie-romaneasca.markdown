@@ -73,7 +73,7 @@ The pre-dessert was Jerusalem artichoke ice cream wrapped inside a Jerusalem art
 
 And we got to the dessert. The first dessert was a meringue mace, a perfectly cooked meringue, not like the ones that stick to your teeth. Under the meringue, we found sea buckthorn cream, tangerines, and baked yeast ice cream. One word: divine.  
 
-The last dish was composed of semolina with milk and caramel in a crispy crust like a wafer with a wonderful presentation on a bed of wildflowers. I would have replaced it with the mace, meaning that it would have gone better this one as the first dessert with the meringue mace left the last one.  
+The last dish was composed of semolina with milk and caramel in a crispy crust like a wafer with a wonderful presentation on a bed of wildflowers. I would have switched it with the mace, meaning that it would have gone better this one as the first dessert with the meringue mace left the last one.  
 
 I want to emphasize that we really appreciated the waiters. They did a fantastic job on presenting and providing details about each course. They can do it in English as well.  
 
