@@ -21,7 +21,7 @@ The restaurant is located in a house in the old part of Bucharest, with a garden
 
 The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millay guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant. Alex Petricean launched in May 2019 his own restaurant Noua Romanian cuisine.  
 
-Noua, in my humble opinion, brings a lot with Noma, the restaurant proclaimed to be the best in the world in 2021. Or at least I think that's where the chef and his team aspire to. Noma is in Copenhagen, and the menu costs around 400 euros. At Noua, you have an experience like in a restaurant with a Michelin star, but for 190 RON (approx. 40 euros) for the menu for one person (in April 2022).  
+Noua, in my humble opinion, brings a lot with Noma, the restaurant proclaimed to be the best in the world in 2021. Or at least I think that's where the chef and his team aspire to. Noma is in Copenhagen, and the menu costs around 400 euros. At Noua, you have an experience like in a restaurant with Michelin stars, but for 190 RON (approx. 40 euros) for the menu for one person (in April 2022).  
 
 At Noua, the menu is seasonal, it changes depending on what nature offers at different times of the year. The ingredients are mostly from local farms. The dishes highlight ingredients that can be overlooked, forgotten, or abandoned. Simple, seasonal ingredients are put in a different light so that they become truly spectacular.  
 
