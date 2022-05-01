@@ -9,9 +9,17 @@ description: add
 categories: travel romania food experiences, wine
 featured-image: # full size
 featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651396158/0007-2022-apogeum/DJI_0013_gx9nrv.webp" # width - 600
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r_znfawp.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="https://res.cloudinary.com/afkology/image/upload/v1651400350/0008-2022-apogeum-2/DSCF3072_r2_kdzmaw.jpg" data-fslightbox="gallery">
+        <picture>
+            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r2_kdzmaw.webp" media="(max-width: 768px)" width="600px" height="100%">
+            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r2_kdzmaw.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Apogeum winery 0" width="1116px" height="100%"/>
+        </picture>
+    </a>
+</div>
 
 In February we were on a one-day trip in Buzău County to visit the Muddy Volcanoes and we really liked it, we arrived relatively quickly at the destination and the road was rather good. So, we decided to return in the area, this time to visit a winery. 
 If you are curious to see spectacular views from the Muddy Volcanoes check out this [article](https://www.afkology.com/the-muddy-volcanoes-buzau-county-romania/){:target="_blank"}.
@@ -80,7 +88,27 @@ The breakfast was buffet style with the observation that the sunny-side-up eggs 
 </div>
 
 
-In the same restaurant you can have lunch and dinner at certain times. We had dinner one evening and opted for the poultry borsch with homemade noodles (35 RON / 7.1 EUR), veal in Fetească Neagră sauce with puree (85 RON / 17.2 EUR), Osso buco in wine sauce with vegetables (75 RON / 15.2 EUR), and at dessert we had crème brûlée with sponge cake, apples, and caramel (25 RON/5 EUR). So, let's just say we had a feast. All the dishes were super tasty, but we especially liked the borsch and the veal in wine sauce. 
+In the same restaurant you can have lunch and dinner at certain times. We had dinner one evening and opted for the poultry borsch with homemade noodles (35 RON / 7.1 EUR), veal in Fetească Neagră sauce with puree (85 RON / 17.2 EUR), Osso buco in wine sauce with vegetables (75 RON / 15.2 EUR), and at dessert we had crème brûlée with sponge cake, apples, and caramel (25 RON/5 EUR). So, let's just say we had a feast. All the dishes were super tasty, but we especially liked the borsch and the veal in wine sauce.
+
+<!-- gallery -->
+<div class="row mb-4">
+  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mt-0">
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1651400114/0008-2022-apogeum-2/DSCF3137_r_nyb54u.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651400114/0008-2022-apogeum-2/DSCF3137_r_nyb54u.webp" media="(min-width: 768px)" width="550px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651400114/0008-2022-apogeum-2/DSCF3137_r_nyb54u.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Apogeum winery 21" width="550px" height="100%"/>
+            </picture>
+        </a>
+    </div>
+  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mt-0">
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1651400114/0008-2022-apogeum-2/IMG_20220402_200514_r_x92noy.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651400114/0008-2022-apogeum-2/IMG_20220402_200514_r_x92noy.webp" media="(min-width: 768px)" width="550px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651400114/0008-2022-apogeum-2/IMG_20220402_200514_r_x92noy.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Apogeum winery 22" width="550px" height="100%"/>
+            </picture>
+        </a>
+    </div>
+</div>
   
 Now let's move on to the most interesting part, the reason for our trip: the wine tasting. 
   
