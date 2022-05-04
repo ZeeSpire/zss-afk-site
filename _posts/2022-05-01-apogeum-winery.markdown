@@ -76,7 +76,7 @@ First of all, I must point out that both the room and the bathroom were extremel
   
 ## The Restaurant 
 
-The breakfast was buffet style with the observation that the sunny-side-up eggs and the scrambled eggs were prepared on the spot according to everyone's preferences. I like it when this happens because I prefer to eat a freshly fried egg. In addition, you had options such as cheese, dried salami, ham, tomatoes, cucumbers, bell peppers, boiled eggs, yogurt, cereals, coffee, milk, orange juice, grape juice. But also, options for sweet lovers: croissants and other types of sweetened pastries, jam, fruit. 
+The breakfast was buffet style, but the sunny-side-up eggs and the scrambled eggs were prepared on the spot according to everyone's preferences. I like it when this happens because I prefer to eat a freshly fried egg. In addition, they have options such as cheese, dried salami, ham, tomatoes, cucumbers, bell peppers, boiled eggs, yogurt, cereals, coffee, milk, orange juice, grape juice. But also, options for sweet lovers: croissants and other types of sweetened pastries, jam, fruit. 
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DSCF3138_fdfbi3.jpg" data-fslightbox="gallery">
