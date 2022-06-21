@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: Frederiksborg Castle - 1-day trip from Copenhagen
+front_page_title: Frederiksborg Castle - 1-day trip from Copenhagen
 published: 28 February 2022
 last_modified_at: 19 February 2022
 keywords: copenhagen, denmark, trip, visit, stay, Frederiksborg, castle

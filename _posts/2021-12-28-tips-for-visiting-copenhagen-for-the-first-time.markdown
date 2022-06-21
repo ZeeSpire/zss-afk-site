@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: Tips for visiting Copenhagen for the first time
+front_page_title: Tips for visiting Copenhagen for the first time
 published: 28 December 2021
 last_modified_at: 28 December 2021
 keywords: copenhagen, denmark, trip, visit, stay

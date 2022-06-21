@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: Noua Restaurant
+front_page_title: Noua Restaurant
 published: 21 April 2022
 last_modified_at: 21 April 2022
 keywords: food, romania, fine dining, experiences, travel

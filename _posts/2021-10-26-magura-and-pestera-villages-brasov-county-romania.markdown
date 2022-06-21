@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: Măgura & Peștera villages, Brașov county, Romania
+front_page_title: Măgura & Peștera villages, Brașov county, Romania
 published: 26 October 2021
 last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains

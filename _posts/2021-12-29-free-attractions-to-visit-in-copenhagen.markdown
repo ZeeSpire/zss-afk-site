@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: 15 free attractions to visit in Copenhagen 
+front_page_title: 15 free attractions to visit in Copenhagen 
 published: 29 December 2021
 last_modified_at: 29 December 2021
 keywords: copenhagen, denmark, trip, visit, stay

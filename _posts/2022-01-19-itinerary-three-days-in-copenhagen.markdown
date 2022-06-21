@@ -2,6 +2,7 @@
 layout: post-style-1
 type: post
 title: Three days in Copenhagen
+front_page_title: Three days in Copenhagen
 published: 19 January 2022
 last_modified_at: 19 January 2022
 keywords: copenhagen, denmark, trip, visit, stay
