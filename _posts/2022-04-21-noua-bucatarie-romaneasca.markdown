@@ -1,8 +1,8 @@
 ---
 layout: post-style-1
 type: post
-title: Noua Restaurant
-front_page_title: Noua Restaurant
+title: Noua - A restaurant at another level in Bucharest
+front_page_title: Noua - A restaurant at another level in Bucharest
 published: 21 April 2022
 last_modified_at: 21 April 2022
 keywords: food, romania, fine dining, experiences, travel
@@ -16,7 +16,7 @@ featured-image-style: full-width # can be left, centered, full-width
 
 I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant.  
 
-I went to their website, I visited their Facebook page, I scrolled through their entire Instagram profile, I read some reviews on Google, and I hardly managed to form an opinion about this restaurant. I don't know who is behind their marketing, but I think they could do a better job. Eventually, a more comprehensive Google review convinced me to visit them. I think they should present themselves better on the internet, to say who they are and what they offer. And first of all, to update their [website](https://nouarestaurant.ro){:target="_blank"}.  
+I went to their website, I visited their Facebook page, I scrolled through their entire Instagram profile, I read some reviews on Google, and I hardly managed to form an opinion about this restaurant. I don't know who is behind their marketing, but I think they could do a better job. Eventually, a more comprehensive Google review convinced me to visit them. I think they should present themselves better on the internet, to say who they are and what they offer. And first of all, to update their [website](https://nouarestaurant.ro){:target="_blank"}. *Later edit: They updated their website with the menu and prices.*
 
 The restaurant is located in a house in the old part of Bucharest, with a garden transformed into a terrace when the weather allows it, on Popa Nan Street, no. 7. It is advisable to go there with a reservation made and ask for details on the phone in case you have questions about their menu.  
 
