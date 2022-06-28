@@ -14,7 +14,7 @@ description: Contact AFKology, send us an email
    }
  </script>
 
-<form action="/assets/contact.php" id="contact-form" class="mt-4" method="post">
+<form action="/assets/contact.php" id="contact-form" method="post">
   <div class="mb-3">
     <label for="name" class="form-label">Your Name</label>
     <input type="text" id="name" name="visitor_name" class="form-control" required style="background-color: #ffffff">

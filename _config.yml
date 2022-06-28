@@ -27,22 +27,32 @@ pinterest-site-key: a6fc09c0694f88b02ffdc31fd0e107ae
 pinterest: https://pinterest.com/afkology
 
 # Footer settings
-footer-color: ebdfce
+footer-color: ffffff
 show-theme-watermark: true
 
 # Track traffic
 google-tag-manager-id: GTM-PF6ZFZZ
 
 # Pagination settings
-paginate: 9
-paginate_path: "/:num/"
+# paginate: 9
+# paginate_path: "/:num/"
+
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/:num/'
+  category: 'Main'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-minifier
+  - jekyll-paginate-v2
 
 jekyll-minifier:
   uglifier_args:
