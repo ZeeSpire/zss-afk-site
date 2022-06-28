@@ -50,6 +50,17 @@ h2 {
     object-fit: cover;
 }
 
+.img-insta-footer:hover {
+    opacity: 0.5;
+    transition: 1s ease;
+  }
+
+.img-insta-footer {
+    height: 100%; 
+    width: 100%; 
+    object-fit: cover;
+}
+
 .img-thumbnail {
     border: 0;
 }

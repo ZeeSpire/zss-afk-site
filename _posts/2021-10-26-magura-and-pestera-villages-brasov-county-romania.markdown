@@ -7,7 +7,7 @@ published: 26 October 2021
 last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
-categories: travel romania mountains autumn landscape
+categories: [Main, Travel, Romania]
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 600

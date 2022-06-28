@@ -7,7 +7,7 @@ published: 28 February 2022
 last_modified_at: 19 February 2022
 keywords: copenhagen, denmark, trip, visit, stay, Frederiksborg, castle
 description: Having a 5 days vacation in Copenhagen, we set out for a one-day trip outside the city to experience more of Denmark's beauties.
-categories: travel denmark
+categories: [Main, Travel, Denmark]
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg5_b3hre1.webp" # width - 600

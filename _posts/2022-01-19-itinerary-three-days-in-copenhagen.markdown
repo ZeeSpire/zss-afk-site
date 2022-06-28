@@ -7,7 +7,7 @@ published: 19 January 2022
 last_modified_at: 19 January 2022
 keywords: copenhagen, denmark, trip, visit, stay
 description: This is my guide on what you can do in Copenhagen in just three days to get the most out of it.
-categories: travel denmark
+categories: [Main, Travel, Denmark]
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.jpg" # full size
 featured-image-top: https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.webp # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" # width - 600

@@ -1,13 +1,13 @@
 ---
 layout: post-style-1
 type: post
-title: Remote accommodations in Romania <br /> Reconnecting with nature
-front_page_title: Remote accommodations in Romania
+title: Random tech
+front_page_title: Random tech
 published: 31 May 2022
 last_modified_at: 31 May 2022
 keywords: tiny houses, remote, mountains, accomodation, romania, nature
 description: Article about spending one weekend in nature in a remote location in a tiny house accomodation.
-categories: travel romania
+categories: [News, Reviews]
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1655828680/0009-2022-isolated-chalet/nor-11_xrj7cx.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1500,c_scale,f_auto/v1655828680/0009-2022-isolated-chalet/nor-11_xrj7cx.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1655828680/0009-2022-isolated-chalet/nor-11_xrj7cx.webp" # width - 600

@@ -7,7 +7,7 @@ published: 21 April 2022
 last_modified_at: 21 April 2022
 keywords: food, romania, fine dining, experiences, travel
 description: The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millay guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant.
-categories: travel romania food experiences
+categories: [Main, Food, Romania]
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_172829_tkjo1d.webp" # width - 600

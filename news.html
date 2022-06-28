@@ -1,0 +1,16 @@
+---
+layout: default
+title: News
+description: Travel and Tech news | AFKology
+---
+
+{% for post in site.categories.News %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+
+
+
+
+
+
