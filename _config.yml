@@ -8,8 +8,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.afkology.com"
 permalink: /:title/
 logo: '/assets/images/logo_v1.0.webp'
-logo-height: 120
-logo-width: 300
+logo-height: 117
+logo-width: 290
 
 # Social platforms
 youtube: https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw
