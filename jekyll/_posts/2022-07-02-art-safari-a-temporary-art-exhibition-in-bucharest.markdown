@@ -46,30 +46,29 @@ Invited Pavilion
 **Barbara Klemm**  <br />
 **Light and Dark. Photographs from Germany**   <br />
 Anniversary Pavilion 
-
 <!-- gallery -->
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656777539/art-safari/art-safari-11_wdxe6p.jpg" data-fslightbox="gallery">
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765898834_e7sitf.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656777539/art-safari/art-safari-11_wdxe6p.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656777539/art-safari/art-safari-11_wdxe6p.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
+            </picture>
+        </a>
+    </div>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656764973819_e30uha.jpg" data-fslightbox="gallery">
+            <picture>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
             </picture>
         </a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656777539/art-safari/art-safari-12_mcntn2.jpg" data-fslightbox="gallery">
+        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765409878_ja19oj.jpg" data-fslightbox="gallery">
             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656777539/art-safari/art-safari-12_mcntn2.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656777539/art-safari/art-safari-12_mcntn2.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656777539/art-safari/art-safari-13_tbgak7.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656777539/art-safari/art-safari-13_tbgak7.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656777539/art-safari/art-safari-13_tbgak7.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
+                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" media="(min-width: 768px)" width="350px" height="100%">
+                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
             </picture>
         </a>
     </div>

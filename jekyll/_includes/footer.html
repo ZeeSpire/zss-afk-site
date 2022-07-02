@@ -6,12 +6,12 @@
         <div class="row pt-2 pb-2">
             <div class="col">
                 {% if paginator.previous_page %}
-                <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none"><i class="bi bi-arrow-left-circle"></i>Older posts</a>
+                <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none"><i class="bi bi-arrow-left-circle"></i>Newer posts</a>
                 {% endif %}
             </div>
             <div class="col text-end">
                 {% if paginator.next_page %}
-                <a href="{{ site.url }}{{ paginator.next_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none">Newer posts<i class="bi bi-arrow-right-circle"></i></a>
+                <a href="{{ site.url }}{{ paginator.next_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none">Older posts<i class="bi bi-arrow-right-circle"></i></a>
                 {% endif %}
             </div>
         </div>

@@ -5,3 +5,10 @@ _site
 vendor
 Gemfile.lock
 .vscode
+/jekyll/.vscode
+/jekyll/_site
+/jekyll/.sass-cache
+/jekyll/.jekyll-cache
+/jekyll/.jekyll-metadata
+/jekyll/vendor
+/jekyll/Gemfile.lock
