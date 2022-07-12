@@ -5,7 +5,7 @@ title: Art Safari - a temporary art exhibition in Bucharest
 front_page_title: Art Safari - a temporary art exhibition in Bucharest
 published: 02 July 2022
 last_modified_at: 02 July 2022
-keywords: bucharest art romania museum exhibition art safari
+keywords: bucharest, art, romania, museum, exhibition, art, safari
 description: Art Safari - a temporary art exhibition in Bucharest
 categories: [Main, Art, Romania]
 featured-image: 

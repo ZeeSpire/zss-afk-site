@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en" class="h-100">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="{{ site.url }}{{page.url}}">
+
+  <title>{% if page.type != "homepage" %}{{ page.title }}{% endif %}{% if page.type == "homepage" %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
+
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{% if page.type != 'homepage' %}{{ page.title }} | {% endif %}{{ site.title }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}" />
+
+  {% if page.type != "post" %}
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="{{ site.url }}{{ site.logo }}" />
+  <meta property="og:image:width" content="{{ site.logo-width }}" />
+  <meta property="og:image:height" content="{{ site.logo-height }}" />
+
+  <meta itemprop="name" content="{{ site.title }}" />
+  <meta itemprop="url" content="{{ site.url }}{{ page.url }}" />
+  <meta itemprop="description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta itemprop="thumbnailUrl" content="{{ site.url }}{{ site.logo }}" />
+  <link rel="image_src" href="{{ site.url }}{{ site.logo }}" />
+  <meta itemprop="image" content="{{ site.url }}{{ site.logo }}" />
+  {% endif %}
+
+  {% if page.type == "post" %}
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{ page.featured-image }}" />
+
+  <meta property="article:author" content="{{ site.title }}" />
+  <meta property="article:published_time" content="{{ page.published }}" />
+  <meta itemprop="name" content="{{ page.title }} | {{ site.title }}" />
+  <meta itemprop="url" content="{{ site.url }}{{ page.url }}" />
+  <meta itemprop="description"
+    content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta itemprop="thumbnailUrl" content="{{ page.featured-image }}" />
+  <link rel="image_src" href="{{ page.featured-image }}" />
+  <meta itemprop="image" content="{{ page.featured-image }}" />
+  <meta itemprop="author" content="{{ site.title }}" />
+  <meta itemprop="datePublished" content="{{ page.published }}" />
+  <meta itemprop="dateModified" content="{{ page.published }}" />
+  <meta itemprop="headline" content="{{ page.title }}" />
+  <meta itemprop="publisher" content="{{ site.title }}" />
+  {% endif %}
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PF6ZFZZ');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <!-- google fonts -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Italianno&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Italianno&display=swap"></noscript>
+
+  <!-- boostrap -->
+  <!-- <link rel="stylesheet" href="{{ site.url }}/assets/css/bootstrap.min.css"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+  <!-- custom styles -->
+  <link rel="stylesheet" href="/assets/css/styles.css">
+
+  <!-- Pinterest verify -->
+  {% if site.pinterest-site-key %}
+  <meta name="p:domain_verify" content="{{ site.pinterest-site-key }}" />
+  {% endif %}
+
+  <!-- google ads -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3415228712575851" crossorigin="anonymous"></script>
+</head>
+
+<main class="flex-shrink-0">
+  <body class="d-flex flex-column h-100">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PF6ZFZZ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="container">
+        <div class="row" >
+            <div class="col-12 text-center">
+              <a class="navbar-brand img-fluid" href="{{ site.url }}/"><img data-pin-no-hover="true"
+                style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
+                src="https://res.cloudinary.com/afkology/image/upload/w_500,c_scale,f_auto/v1656402787/assets/logo-7_copy_igfjhh.webp" alt="{{ site.title }}" /></a>
+            </div>
+        </div>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light text-center">
+          <button class="navbar-toggler mx-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link" style="padding-left:0.5rem; padding-right:0.5rem;" href="{{ site.url }}/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style="padding-left:0.5rem; padding-right:0.5rem;" href="{{ site.url }}/news">News</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style="padding-left:0.5rem; padding-right:0.5rem;" href="{{ site.url }}/about">About us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" style="padding-left:0.5rem; padding-right:0.5rem;" href="{{ site.url }}/contact">Contact</a>
+              </li>
+            </ul>
+          </div>
+          <!-- <div class="collapse navbar-collapse" id="removeOnCollapse">
+            <ul class="navbar-nav ms-auto  mb-2 mb-lg-0">
+              {% if site.youtube %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.youtube }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/youtube_llbx9o.svg" style="opacity:0.6; height:16px; width:16px;" alt="youtube"></a>
+              </li>
+              {% endif %}
+              {% if site.instagram %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.instagram }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/instagram_fjgfd0.svg" style="opacity:0.6; height:16px; width:16px;" alt="instagram"></a>
+              </li>
+              {% endif %}
+              {% if site.facebook %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.facebook }}" target="_blank"> <img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/facebook_hzc1xc.svg" style="opacity:0.6; height:16px; width:16px;" alt="facebook"></a>
+              </li>
+              {% endif %}
+              {% if site.tiktok %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.tiktok }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/tiktok_nbdo9t.svg" style="opacity:0.6; height:16px; width:16px;" alt="tiktok"></a>
+              </li>
+              {% endif %}
+              {% if site.medium %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.medium }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/medium_chfxfe.svg" style="opacity:0.6; height:16px; width:16px;" alt="medium"></i></a>
+              </li>
+              {% endif %}
+              {% if site.pinterest %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ site.pinterest }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/pinterest_tbue3b.svg" style="opacity:0.6; height:16px; width:16px;" alt="pinterest"></a>
+              </li>
+              {% endif %}
+            </ul>
+          </div> -->
+      </nav>
