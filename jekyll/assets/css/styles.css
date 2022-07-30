@@ -80,6 +80,11 @@ h3 {
 }
 
 @media (min-width: 1200px) {
+    .post-gallery-image-4-on-row {
+        height: 253px; 
+        object-fit: cover;
+    }
+
     .post-gallery-image {
         height: 360px; 
         object-fit: cover;

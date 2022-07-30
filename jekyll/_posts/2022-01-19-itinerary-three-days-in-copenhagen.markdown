@@ -218,6 +218,10 @@ Head to <a id="Ny_Carlsberg_Glyptotek">Ny Carlsberg Glyptotek</a> to enjoy a rea
 
 End your day in a calm and relaxing way, the same way it has begun, but this time in <a id="Assistens_Cemetery">Assistens Cemetery</a>. I don't know what you are thinking, but the cemetery is actually a place where many locals take their strolls, and it's really like a big park full of squirrels. Besides that, it is the resting place of many famous Danes, like the author Hans Christian Andersen, "the father of existentialism" Søren Kierkegaard, and the Golden Age painter Christen Købke. 
 
+<div class="ratio ratio-16x9 mb-3">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d36006.421435968135!2d12.568043736849539!3d55.66462080324002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x4652536a5bd9c8a7%3A0xf9685ff987876942!2sAmager%20Strandpark%2C%20Amager%20Strand%20Promenaden%201%2C%202300%20K%C3%B8benhavn%2C%20Denmark!3m2!1d55.654532499999995!2d12.6496067!4m5!1s0x4653ab7d0c9194f5%3A0x631374f9159e11dc!2sDen%20Bl%C3%A5%20Planet%2C%20Jacob%20Fortlingsvej%2C%20Kastrup%2C%20Denmark!3m2!1d55.6381446!2d12.6561446!4m5!1s0x46525339463aedc9%3A0xc11801eab74fb42b!2sChurch%20of%20Our%20Saviour%2C%20Sankt%20Ann%C3%A6%20Gade%2C%20Copenhagen%2C%20Denmark!3m2!1d55.6727591!2d12.5939553!4m5!1s0x4652533907ed3da7%3A0xae183de2099528b9!2sChristiania%2C%20Copenhagen%20Municipality%2C%20Denmark!3m2!1d55.673412!2d12.5964061!4m5!1s0x465253130411747d%3A0x599f2e4fe338e7a1!2sNy%20Carlsberg%20Glyptotek%2C%20Dantes%20Plads%2C%20Copenhagen%2C%20Denmark!3m2!1d55.672979999999995!2d12.572543!4m5!1s0x465253ac149dd23b%3A0x68e7d52ac48fdeb!2sAssistens%20Kirkeg%C3%A5rd%2C%20Kapelvej%2C%20K%C3%B8benhavn%20N%2C%20Denmark!3m2!1d55.6910102!2d12.550153199999999!5e0!3m2!1sen!2sro!4v1642617754807!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+
 ## Conclusion
 
 This guide was based on our experience in Copenhagen. We stayed 5 days in September and the weather was nice enough to walk a lot. We visited more attractions in those 5 days than I presented here, but I selected the ones that fitted best a 3-days plan. 
@@ -234,10 +238,6 @@ There were lots of other attractions we wanted to visit, but we just couldn't in
 - and many more
 
 You can choose Copenhagen for a 3-day city break to visit the major attractions, but this wonderful city is the kind of destination to return to.
-
-<div class="ratio ratio-16x9 mb-3">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d36006.421435968135!2d12.568043736849539!3d55.66462080324002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x4652536a5bd9c8a7%3A0xf9685ff987876942!2sAmager%20Strandpark%2C%20Amager%20Strand%20Promenaden%201%2C%202300%20K%C3%B8benhavn%2C%20Denmark!3m2!1d55.654532499999995!2d12.6496067!4m5!1s0x4653ab7d0c9194f5%3A0x631374f9159e11dc!2sDen%20Bl%C3%A5%20Planet%2C%20Jacob%20Fortlingsvej%2C%20Kastrup%2C%20Denmark!3m2!1d55.6381446!2d12.6561446!4m5!1s0x46525339463aedc9%3A0xc11801eab74fb42b!2sChurch%20of%20Our%20Saviour%2C%20Sankt%20Ann%C3%A6%20Gade%2C%20Copenhagen%2C%20Denmark!3m2!1d55.6727591!2d12.5939553!4m5!1s0x4652533907ed3da7%3A0xae183de2099528b9!2sChristiania%2C%20Copenhagen%20Municipality%2C%20Denmark!3m2!1d55.673412!2d12.5964061!4m5!1s0x465253130411747d%3A0x599f2e4fe338e7a1!2sNy%20Carlsberg%20Glyptotek%2C%20Dantes%20Plads%2C%20Copenhagen%2C%20Denmark!3m2!1d55.672979999999995!2d12.572543!4m5!1s0x465253ac149dd23b%3A0x68e7d52ac48fdeb!2sAssistens%20Kirkeg%C3%A5rd%2C%20Kapelvej%2C%20K%C3%B8benhavn%20N%2C%20Denmark!3m2!1d55.6910102!2d12.550153199999999!5e0!3m2!1sen!2sro!4v1642617754807!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</div>
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
