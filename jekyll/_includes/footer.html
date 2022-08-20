@@ -6,12 +6,12 @@
         <div class="row pt-2 pb-2">
             <div class="col">
                 {% if paginator.previous_page %}
-                <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none"><i class="bi bi-arrow-left-circle"></i>Newer posts</a>
+                <a href="{{ paginator.previous_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none"><i class="bi bi-arrow-left-circle"></i>Newer posts</a>
                 {% endif %}
             </div>
             <div class="col text-end">
                 {% if paginator.next_page %}
-                <a href="{{ site.url }}{{ paginator.next_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none">Older posts<i class="bi bi-arrow-right-circle"></i></a>
+                <a href="{{ paginator.next_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none">Older posts<i class="bi bi-arrow-right-circle"></i></a>
                 {% endif %}
             </div>
         </div>
@@ -96,7 +96,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-6 text-light fw-normal lh-lg text-muted text-decoration-none">
-                        <small>© 2021 AFKology | <a href="{{ site.url }}/privacy-policy/" class="text-decoration-none text-muted">Privacy Policy</a></small>
+                        <small>© 2021 AFKology | <a href="/privacy-policy/" class="text-decoration-none text-muted">Privacy Policy</a></small>
                     </div>
                     <div class="col-6 text-end fw-normal lh-lg text-muted text-decoration-none">
                         {% if site.show-theme-watermark %}<small>Made with <a class="text-decoration-none text-muted" href="http://shop.zeespire.com">ZeeSpire One</a></small>{% endif %}

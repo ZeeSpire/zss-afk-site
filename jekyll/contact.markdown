@@ -41,4 +41,6 @@ description: Contact AFKology, send us an email
     For any general or PR enquiries, please contact us at: <br />
     office@afkology.com
   </div>
+
+  <input type="text" id="website" name="website" style="display:none;"/> 
 </form>

@@ -1,5 +1,5 @@
 <?php
-  
+if(!empty($_POST['website'])) die();
 if($_POST) {
     $visitor_name = "";
     $visitor_email = "";
