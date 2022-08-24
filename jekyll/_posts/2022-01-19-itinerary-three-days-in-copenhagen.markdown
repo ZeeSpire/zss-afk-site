@@ -56,8 +56,8 @@ featured-image-style: full-width # can be left, centered, full-width
 
 <hr />
 
-This is my guide on what you can do in Copenhagen in just three days to get the most out of it. But first make sure you already read this article: [Tips for visiting Copenhagen for the first time](https://www.afkology.com/tips-for-visiting-copenhagen-for-the-first-time/){:target="_blank"}. It includes lots of information about special accommodations, Danish food, means of transport around the city, and the Copenhagen Card which will save you money and will enable you to use public transport at your discretion.
-Also, you should read this article as well to find more about what you can visit in Copenhagen: [15 free attractions in Copenhagen](https://www.afkology.com/free-attractions-to-visit-in-copenhagen/){:target="_blank"}. Some of these attractions are included in this guide below, but most of them aren't, so it's up to you to visit them if you have some extra time on your hands.
+This is my guide on what you can do in Copenhagen in just three days to get the most out of it. But first make sure you already read this article: [Tips for visiting Copenhagen for the first time](/tips-for-visiting-copenhagen-for-the-first-time). It includes lots of information about special accommodations, Danish food, means of transport around the city, and the Copenhagen Card which will save you money and will enable you to use public transport at your discretion.
+Also, you should read this article as well to find more about what you can visit in Copenhagen: [15 free attractions in Copenhagen](/free-attractions-to-visit-in-copenhagen). Some of these attractions are included in this guide below, but most of them aren't, so it's up to you to visit them if you have some extra time on your hands.
 Last, but not least, check out the videos we've put together to make an impression of what Copenhagen has to offer.
 
 <div class="row mb-4">

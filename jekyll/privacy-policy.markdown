@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 description: Privacy Policy
 ---
-AFKology, found at https://www.afkology.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+AFKology, found at https://www.afkology.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 I respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information I may collect and how it may be used. This statement only applies to this Website.
 

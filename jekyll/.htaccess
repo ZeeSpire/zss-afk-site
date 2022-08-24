@@ -22,14 +22,6 @@ RewriteRule ^(.*)$ https://www.afkology.com/$1 [R=301,L]
 # Error redirect
 ErrorDocument 404 /404.html
 
-## Social redirects ##
-Redirect /youtube/ https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw
-Redirect /facebook/ https://www.facebook.com/afkology/
-Redirect /instagram/ https://www.instagram.com/afkology/
-Redirect /tiktok/ https://www.tiktok.com/@afkology
-Redirect /pinterest/ https://pinterest.com/afkology
-Redirect /medium/ https://medium.com/@afkology
-
 # <IfModule LiteSpeed> 
     # CacheEnable public /
 # </IfModule> 

@@ -96,7 +96,7 @@ This was our favorite spot because we enjoyed the spectacle of nature as the onl
 
 On the hiking trail between Imerovigli and Oia, you can admire an extraordinarily beautiful sunset with Oia scattered on the caldera on the right, the sun in the center setting into the blue sea, and the volcano on the left. A picture values more than a thousand words. 
 
-We were fortunate enough to witness this amazing sunset from our accommodation - Divine Cave Experience [(read about it here)](/our-divine-cave-experience-in-santorini/). 
+We were fortunate enough to witness this amazing sunset from our accommodation - Divine Cave Experience [(read about it here)](/our-divine-cave-experience-in-santorini). 
 
 ## Akrotiri Lighthouse 
 

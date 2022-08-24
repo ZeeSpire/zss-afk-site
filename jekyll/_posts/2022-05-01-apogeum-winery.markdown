@@ -23,7 +23,7 @@ featured-image-style: full-width # can be left, centered, full-width
 </div>
 
 In February we were on a one-day trip in Buzău County to visit the Muddy Volcanoes and we really liked it, we arrived relatively quickly at the destination and the road was rather good. So, we decided to return in the area, this time to visit a winery. 
-If you are curious to see spectacular views from the Muddy Volcanoes check out this [article](https://www.afkology.com/the-muddy-volcanoes-buzau-county-romania/){:target="_blank"}.
+If you are curious to see spectacular views from the Muddy Volcanoes check out this [article](/the-muddy-volcanoes-buzau-county-romania).
 
 I did some research on the internet and I found out that between Ploiești and Buzău counties are lots of wineries, some even offering accommodation, restaurant, and wine tastings. So, our weekend getaway had every chance of being amazing. 
 
