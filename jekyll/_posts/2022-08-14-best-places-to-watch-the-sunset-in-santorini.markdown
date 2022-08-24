@@ -98,6 +98,8 @@ On the hiking trail between Imerovigli and Oia, you can admire an extraordinaril
 
 We were fortunate enough to witness this amazing sunset from our accommodation - Divine Cave Experience [(read about it here)](/our-divine-cave-experience-in-santorini). 
 
+You can also watch it from Skaros Rock.
+
 ## Akrotiri Lighthouse 
 
 <!-- full width in article image -->

@@ -10,6 +10,7 @@ description: Top 15 things to do in Santorini, Greece
 categories: [Main, Santorini, Greece, Travel, Food]
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.webp" # width - 1200
+featured-image-top-small: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1661325806/2022-santorini-main/e-IMG_20210711_121317_copy_2_16_9_xmsou3.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
@@ -43,7 +44,11 @@ The Meltemi winds are strong, dry northern winds that blow in the Aegean Sea fro
 Although it’s a super small island, I feel that it has a lot to offer, it has something for everyone. So, it’s up to you to choose what you prefer best. 
   
 We stayed in Santorini 7 nights/8 days, and we switched 3 different hotels. We stayed in Oia, Akrotiri, and Imerovigli, and explored almost the entire island from these points. It's perfectly fine if you stay in one place because the island is small enough and can be traveled easily especially if you rent a car. We rented a car to travel along and across the island and it was the best decision. All three of our hotels offered private parking, but it was a bit difficult to find parking spaces in the popular places. 
-  
+
+ <div class="ratio ratio-16x9 mb-3">
+    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/IeswQFH_G-w" title="Top 15 things to do in Santorini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 I’ve put together a list of 15 things that can be done in Santorini. You can do all of these in a week spent on the island or maybe even less. Pick what suits you best.  
   
 ## 1. Wander on the streets of Oia. 
