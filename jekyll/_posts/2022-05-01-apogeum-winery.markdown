@@ -1,8 +1,8 @@
 ---
 layout: post-style-1
 type: post
-title: Apogeum Winery
-front_page_title: Apogeum Winery
+title: Apogeum Winery & the best Feteasca Neagra in Romania
+front_page_title: Apogeum Winery & the best Feteasca Neagra in Romania
 published: 01 May 2022
 last_modified_at: 01 May 2022
 keywords: food, romania, fine dining, experiences, travel, wine, wine tasting
