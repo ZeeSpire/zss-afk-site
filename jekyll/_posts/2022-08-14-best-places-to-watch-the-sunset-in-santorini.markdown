@@ -135,3 +135,18 @@ If you want something even more special, you can opt for a helicopter ride at su
 There are other places where you can witness splendid sunsets on the island of Santorini, but which we did not manage to check. One of them is in the village of Pyrgos, on the terrace of Franco's Cafè, for example. We went there in the middle of the day and wanted to return for the sunset, but our plans changed. 
 
 Regardless of the place, the sunsets on the island of Santorini are romantic and worth enjoying with a glass of Santorini wine and your loved one. 
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/sanotrini1_ux262e.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/santorini2_qmsaoe.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>

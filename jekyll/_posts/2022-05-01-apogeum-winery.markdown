@@ -176,3 +176,18 @@ Here are some ideas from the wine tasting:
 </div>
   
 After the first glass of wine, we were all relaxed and the tasting became more interactive, more jovial. It was an experience I highly recommend. And we definitely want to come back to Apogeum Winery. 
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum2_rzo1uv.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum1_kecbim.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>

@@ -93,4 +93,19 @@ After a full, but very pleasant day, we returned to Copenhagen, and we kindly re
     </a>
 </div>
 
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/castel2_u8gjx9.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/castel1_ikpkmm.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
+
 
