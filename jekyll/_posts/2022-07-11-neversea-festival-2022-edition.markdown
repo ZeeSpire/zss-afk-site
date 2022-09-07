@@ -245,3 +245,18 @@ Daca tragem linie la finalul festivalului Neversea, editia 2022, ne-am simtit bi
     </picture>
     </a>
 </div>
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/never1_whjiob.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/never2_zm790c.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>

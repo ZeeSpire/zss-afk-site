@@ -212,5 +212,20 @@ This was my list of things to do in Santorini. What do you think? Are there thin
     </picture>
     </a>
 </div> 
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662567184/2022-pinterest-3/santo-things_vbanad.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662567184/2022-pinterest-3/santo-things2_hkswqu.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
  
  

@@ -151,3 +151,18 @@ Wandering the streets of Thira, we stopped for ice cream at [5 Senses Grab n' Go
 
 These are our recommendations for phenomenally good food in Santorini. If you go to Santorini, I hope you'll try at least some of them and tell me what you thought. I always enjoy talking about food.
 
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662567184/2022-pinterest-3/santo-eat2_qr2pcf.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662567183/2022-pinterest-3/santo-eat_gvsnrq.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
+
