@@ -19,4 +19,4 @@ For Romania get it now from [eMag.ro](https://l.profitshare.ro/l/10802145); You 
 
 We will come back with fresh photos and videos taken with iPhone 14 Pro Max as soon as we get it.
 
-Get you [iPhone 14 Pro Max 256](https://l.profitshare.ro/l/10803788) to have all the capabilities an iPhone can have.
+Get your [iPhone 14 Pro Max 256](https://l.profitshare.ro/l/10803788) to have all the capabilities an iPhone can have.
