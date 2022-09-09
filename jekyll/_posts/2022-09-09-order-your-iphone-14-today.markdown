@@ -5,7 +5,7 @@ title: Order your iPhone 14 today
 front_page_title: Order your iPhone 14 today
 published: 09 September 2022
 last_modified_at: 09 September 2022
-keywords: instagram, security, selfies
+keywords: iphone 14, preorder, news
 description: Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max.
 categories: News
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1662710947/news/iphone14_kvpdor.jpg" # full size
