@@ -48,11 +48,13 @@
   <meta itemprop="publisher" content="{{ site.title }}" />
   {% endif %}
 
-  <!-- Google Tag Manager -->
-  <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PF6ZFZZ');
-  </script>
-  <!-- End Google Tag Manager -->
+  {% if jekyll.environment == "production" %}
+    <!-- Google Tag Manager -->
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PF6ZFZZ');
+    </script>
+    <!-- End Google Tag Manager -->
+  {% endif %}
 
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -84,9 +86,11 @@
 
 <main class="flex-shrink-0">
   <body class="d-flex flex-column h-100">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PF6ZFZZ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    {% if jekyll.environment == "production" %}
+          <!-- Google Tag Manager (noscript) -->
+          <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PF6ZFZZ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          <!-- End Google Tag Manager (noscript) -->
+    {% endif %}
 
     <div class="container">
         <div class="row" >
@@ -116,38 +120,4 @@
               </li>
             </ul>
           </div>
-          <!-- <div class="collapse navbar-collapse" id="removeOnCollapse">
-            <ul class="navbar-nav ms-auto  mb-2 mb-lg-0">
-              {% if site.youtube %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.youtube }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/youtube_llbx9o.svg" style="opacity:0.6; height:16px; width:16px;" alt="youtube"></a>
-              </li>
-              {% endif %}
-              {% if site.instagram %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.instagram }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/instagram_fjgfd0.svg" style="opacity:0.6; height:16px; width:16px;" alt="instagram"></a>
-              </li>
-              {% endif %}
-              {% if site.facebook %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.facebook }}" target="_blank"> <img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/facebook_hzc1xc.svg" style="opacity:0.6; height:16px; width:16px;" alt="facebook"></a>
-              </li>
-              {% endif %}
-              {% if site.tiktok %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.tiktok }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/tiktok_nbdo9t.svg" style="opacity:0.6; height:16px; width:16px;" alt="tiktok"></a>
-              </li>
-              {% endif %}
-              {% if site.medium %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.medium }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/medium_chfxfe.svg" style="opacity:0.6; height:16px; width:16px;" alt="medium"></i></a>
-              </li>
-              {% endif %}
-              {% if site.pinterest %}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ site.pinterest }}" target="_blank"><img src="https://res.cloudinary.com/afkology/image/upload/w_16,h_16,c_scale,f_auto/v1641378544/assets/css/icons/pinterest_tbue3b.svg" style="opacity:0.6; height:16px; width:16px;" alt="pinterest"></a>
-              </li>
-              {% endif %}
-            </ul>
-          </div> -->
       </nav>
