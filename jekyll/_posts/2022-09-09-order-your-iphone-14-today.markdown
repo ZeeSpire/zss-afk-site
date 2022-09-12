@@ -15,7 +15,9 @@ featured-image-style: centered # can be left, centered, full-width
 ---
 Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max start today in Romania. Get your gadget today and never miss an opportunity to make great videos and photos while traveling.
 
-For Romania get it now from [eMag.ro](https://l.profitshare.ro/l/10802145); You can review the specs and watch the latest presetation from Apple, [here](https://www.apple.com/iphone-14-pro/).
+For Romania get it now from [eMag.ro](https://l.profitshare.ro/l/10814599); You can review the specs and watch the latest presetation from Apple, [here](https://www.apple.com/iphone-14-pro/).
+
+You can also get it from [Amazon.de](https://www.amazon.de/dp/B0BDHZ6311?tag=105316-20)
 
 We will come back with fresh photos and videos taken with iPhone 14 Pro Max as soon as we get it.
 
