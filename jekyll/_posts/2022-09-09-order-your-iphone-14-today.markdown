@@ -21,4 +21,4 @@ You can also get it from [Amazon.de](https://www.amazon.de/dp/B0BDHZ6311?tag=105
 
 We will come back with fresh photos and videos taken with iPhone 14 Pro Max as soon as we get it.
 
-Get your [iPhone 14 Pro Max 256](https://l.profitshare.ro/l/10803788) to have all the capabilities an iPhone can have.
+Get your [iPhone 14 Pro Max 256](https://l.profitshare.ro/l/10814599) to have all the capabilities an iPhone can have.
