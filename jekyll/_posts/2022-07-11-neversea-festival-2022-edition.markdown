@@ -14,8 +14,8 @@ featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_s
 featured-image-style: full-width # can be left, centered, full-width
 ---
 <div class="text-center mb-4">
-    <a href="#en" class="text-decoration-none me-3"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657567208/assets/en_ntuxlj.webp"></a>
-    <a href="#ro" class="text-decoration-none"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png"></a> 
+    <a href="#en" class="text-decoration-none me-3"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657567208/assets/en_ntuxlj.webp" alt="en flag"></a>
+    <a href="#ro" class="text-decoration-none"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png" alt="ro flag"></a> 
 </div>
 
 <span id="en">Last</span> weekend we participated in the fourth edition (July 7-10) of the Neversea festival on the Black Sea coast. So, here are my impressions of this year’s festival.
