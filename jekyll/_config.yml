@@ -42,7 +42,7 @@ pagination:
   per_page: 9
   permalink: '/:num/'
   category: 'Main'
-  title: ':title'
+  title: ':title - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true

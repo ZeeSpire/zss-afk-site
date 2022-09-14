@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
 
-  <title>{% if page.type != "homepage" %}{{ page.title }}{% endif %}{% if page.type == "homepage" %}{{ site.title }}{% endif %}</title>
+  <!-- <title>{% if page.type != "homepage" %}{{ page.title }}{% endif %}{% if page.type == "homepage" %}{{ site.title }}{% endif %}</title> -->
+  <title>{{ page.title }}</title>
   <meta name="description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
 
