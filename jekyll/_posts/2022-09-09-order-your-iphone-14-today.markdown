@@ -15,7 +15,7 @@ featured-image-style: centered # can be left, centered, full-width
 ---
 Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max start today in Romania. Get your gadget today and never miss an opportunity to record great videos and take awesome photos while traveling.
 
-Get your iPhone 14 Pro Max 256GB or above to have all the capabilities an iPhone can have. For the 126GB version, the Cinematic video mode only works in 1080p instead of 4K.
+Get your iPhone 14 Pro Max 256GB or above to have all the capabilities an iPhone can have. For the 128GB version, the Cinematic video mode only works in 1080p instead of 4K.
 
 For Romania get it now from [eMag.ro](https://l.profitshare.ro/l/10814599); You can review the specs and watch the latest presetation from Apple, [here](https://www.apple.com/iphone-14-pro/).
 
