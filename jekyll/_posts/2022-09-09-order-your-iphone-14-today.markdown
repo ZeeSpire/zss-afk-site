@@ -21,5 +21,9 @@ For Romania get it now from [eMag.ro](https://l.profitshare.ro/l/10814599); You 
 
 If you are not from Romania and you like Amazon, you can also get it from [here](https://www.amazon.de/dp/B0BDHZ6311?tag=105316-20)
 
-We will come back with fresh photos and videos taken with iPhone 14 Pro Max as soon as we get it.
+Take a look at some of what iPhone 14 Pro Max can do.
+
+<div class="ratio ratio-16x9 mb-3">
+    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/T67bMlj252Q " title="iPhone 14 Pro Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
