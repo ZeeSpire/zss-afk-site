@@ -7,7 +7,7 @@ description: Contact AFKology, send us an email
 <!-- <div class="ratio ratio-1x1" style="height: 800px;">
     <iframe scrolling="no" style="height: 800px;" src="https://us20.list-manage.com/contact-form?u=a5f5fcedb501461da7bb19809&form_id=edbc2927ceed7728323c8bdccba4f743" ></iframe>
 </div> -->
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<!-- <script src="https://www.google.com/recaptcha/api.js"></script>
 <script>
    function onSubmit(token) {
      document.getElementById("contact-form").submit();
@@ -28,7 +28,6 @@ description: Contact AFKology, send us an email
     <textarea id="message" name="visitor_message" class="form-control"  style="background-color: #ffffff"></textarea>
   </div>
   <div class="d-grid gap-2">
-    <!-- <button type="submit" class="btn btn-light">Send Message</button> -->
     <button class="g-recaptcha" 
         data-sitekey="6Ldh0aYgAAAAAE7EFdvi-29v0KoQdNwPl95TbVEq" 
         data-callback='onSubmit' 
@@ -36,11 +35,11 @@ description: Contact AFKology, send us an email
         data-action='submit'>Send Message</button>
   </div>
   <br />
-  <hr />
+  <hr /> -->
   <div class="text-center pt-4 pb-4">
     For any general or PR enquiries, please contact us at: <br />
     office@afkology.com
   </div>
 
-  <input type="text" id="website" name="website" style="display:none;"/> 
-</form>
+  <!-- <input type="text" id="website" name="website" style="display:none;"/>  -->
+<!-- </form> -->
