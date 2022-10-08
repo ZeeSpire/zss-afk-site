@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.en
 title: Contact us
 permalink: /contact/
 description: Contact AFKology, send us an email
@@ -36,10 +36,56 @@ description: Contact AFKology, send us an email
   </div>
   <br />
   <hr /> -->
-  <div class="text-center pt-4 pb-4">
-    For any general or PR enquiries, please contact us at: <br />
-    office@afkology.com
+  <div class="text-center pb-2">
+    For collaborations or PR enquiries, please contact us at:
+    <br />    <br />
+    <h3>office@afkology.com</h3>
   </div>
+
+  <div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662296858/2022-crama-de-piatra/crama2_aiavmt.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662296858/2022-crama-de-piatra/crama1_i0wazr.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
+
+  <div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539794/2022-pinterest-2/nor1_tmoqkq.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/nor2_p1pzu7.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
+
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum2_rzo1uv.webp" 
+            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+    <div class="col-sm-6 text-center mt-3">
+        <img 
+            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum1_kecbim.webp"
+            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
+        />
+    </div>
+</div>
 
   <!-- <input type="text" id="website" name="website" style="display:none;"/>  -->
 <!-- </form> -->

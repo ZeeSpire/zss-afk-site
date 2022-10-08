@@ -1,24 +1,42 @@
 ---
-layout: default.en
-title: About us
-permalink: /about/
-description: Who are we? The most precious moments in life happen offline. 
+layout: default.ro
+title: Contact
+permalink: /ro/contact/
+description: Contact AFKology, send us an email
 ---
- Hello, world! We are two passionate software engineers who appreciate every little pleasure in life from reading an interesting book or watching a nice movie in the evening to enjoying a freshly brewed cup of coffee in the morning talking about the next place we should visit. To be 100% accurate, we are talking about what we should eat at dinner, but for the sake of our presentation let's leave it like this because we also love traveling.
- 
- We are not the ones who hop in the car and surprise ourselves with a trip to the seaside or the mountains every other weekend. We are usually highly organized, we gather lots of information about a place before visiting it, we know what objectives are not to be missed, what restaurants serve the best food, what hotels to stay in, and other cool stuff recommended by locals. Because of this, we thought it's time to give something back and share with you our perspective, our likes and dislikes, our discoveries, and things that boost our creativity.
- 
- <br />
- 
-#### Why AFKology?
- 
- Most of the time when we don't sleep, we are online, usually coding. It brings us fulfillment and we do it with pleasure. But we also believe in the importance of just being away from the keyboard, disconnecting from the internet and reconnecting with ourselves, spending time with friends and family, enjoying a walk in the park, discovering a museum, exploring a new city, or admiring the sunset. The most precious moments in life happen offline. AFKology is a remembrance of that.
+<!-- <div class="ratio ratio-1x1" style="height: 800px;">
+    <iframe scrolling="no" style="height: 800px;" src="https://us20.list-manage.com/contact-form?u=a5f5fcedb501461da7bb19809&form_id=edbc2927ceed7728323c8bdccba4f743" ></iframe>
+</div> -->
+<!-- <script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+   function onSubmit(token) {
+     document.getElementById("contact-form").submit();
+   }
+ </script>
 
-<br />
-
-#### Contact
-
- <div class="text-center pb-2">
+<form action="/assets/contact.php" id="contact-form" method="post">
+  <div class="mb-3">
+    <label for="name" class="form-label">Your Name</label>
+    <input type="text" id="name" name="visitor_name" class="form-control" required style="background-color: #ffffff">
+  </div>
+  <div class="mb-3">
+    <label for="email" class="form-label">Your E-mail</label>
+    <input type="email" id="email" name="visitor_email" class="form-control required email" required style="background-color: #ffffff">
+  </div>
+  <div class="mb-3">
+    <label for="message" class="form-label">Write your message</label>
+    <textarea id="message" name="visitor_message" class="form-control"  style="background-color: #ffffff"></textarea>
+  </div>
+  <div class="d-grid gap-2">
+    <button class="g-recaptcha" 
+        data-sitekey="6Ldh0aYgAAAAAE7EFdvi-29v0KoQdNwPl95TbVEq" 
+        data-callback='onSubmit' 
+        class="btn btn-light"
+        data-action='submit'>Send Message</button>
+  </div>
+  <br />
+  <hr /> -->
+  <div class="text-center pb-2">
     For collaborations or PR enquiries, please contact us at:
     <br />    <br />
     <h3>office@afkology.com</h3>
@@ -68,3 +86,6 @@ description: Who are we? The most precious moments in life happen offline.
         />
     </div>
 </div>
+
+  <!-- <input type="text" id="website" name="website" style="display:none;"/>  -->
+<!-- </form> -->

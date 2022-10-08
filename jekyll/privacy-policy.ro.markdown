@@ -1,8 +1,8 @@
 ---
-layout: default.en
-title: Privacy Policy
-permalink: /privacy-policy/
-description: Privacy Policy
+layout: default.ro
+title: Politica de confidentialitate
+permalink: /ro/politica-de-confidentialitate/
+description: politica de confidentialitate
 ---
 AFKology, found at https://www.afkology.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
