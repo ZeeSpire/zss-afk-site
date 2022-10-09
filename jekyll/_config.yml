@@ -10,9 +10,9 @@ keywords-ro: "afkology, calatorii, drone, fotografie, cinematic, idei de calator
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.afkology.com"
 permalink: /:title/
-logo: '/assets/images/logo_v1.0.webp'
+logo: '/assets/images/logo-autumn-afk.png'
 logo-height: 130
-logo-width: 290
+logo-width: 230
 
 # Social platforms
 youtube: https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw
@@ -56,6 +56,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-responsive-image
 
 jekyll-minifier:
   uglifier_args:
@@ -78,3 +79,12 @@ exclude:
   - git-push.bat
   - develop.bat
   - README.md
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 600
+    - width: 800
+    - width: 1600
+  extra_images:
+  - assets/images/posts/*/*.webp

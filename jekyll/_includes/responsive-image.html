@@ -1,0 +1,20 @@
+{% if smallest == "true" %}
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="/{{ path }}" data-fslightbox="gallery">
+    <picture>
+        <img src="/{{ resized[0].path }}" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="{{ alt }}"/>
+    </picture>
+    </a>
+</div>
+{% else %}
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="/{{ path }}" data-fslightbox="gallery">
+    <picture>
+        {% for i in resized %}
+            <source srcset="/{{ i.path }}" media="(max-width: {{ i.width }}px)" >
+        {% endfor %}
+        <img src="/{{ resized[2].path }}" loading="lazy" class="img-fluid img-thumbnail" alt="{{ alt }}" />
+    </picture>
+    </a>
+</div>
+{% endif %}

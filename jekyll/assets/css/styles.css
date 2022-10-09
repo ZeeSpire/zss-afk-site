@@ -140,3 +140,9 @@ h3 {
 .btn-light {
     border-color: #ebdfce
 }
+
+@media (min-width: 992px) { 
+    .hide-on-collapse {
+        display: none;
+    }
+ }
