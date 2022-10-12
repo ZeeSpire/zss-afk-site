@@ -19,8 +19,8 @@ description: Who are we? The most precious moments in life happen offline.
 
 #### Contact
 
- <div class="text-center pb-2">
-    For collaborations or PR enquiries, please contact us at:
+  <div class="text-center pb-2">
+    Pentru colaborari ne puteti contacta la adresa de e-mail:
     <br />    <br />
     <h3>office@afkology.com</h3>
   </div>
