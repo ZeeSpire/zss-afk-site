@@ -99,14 +99,14 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 {% if page.type == 'post' %}
 <script src="https://res.cloudinary.com/afkology/raw/upload/v1641336955/assets/js/fslightbox_v237r5.js"></script>
-{% if site.enable-pinterest-on-image-hover %}
-<script async defer data-pin-hover="true" data-pin-lang="en" src="//assets.pinterest.com/js/pinit.js"></script>
-{% endif %}
+    {% if site.enable-pinterest-on-image-hover %}
+    <script async defer data-pin-hover="true" data-pin-lang="en" src="//assets.pinterest.com/js/pinit.js"></script>
+    {% endif %}
 {% endif %}
     <script>
         function setLanguage() {
             localStorage.setItem("afk-lang", "ro");
         }
-        document.getElementById('lang-selector').addEventListener("click", setLanguage);
+        document.getElementById("lang-selector").addEventListener("click", setLanguage);
     </script>
 </html>

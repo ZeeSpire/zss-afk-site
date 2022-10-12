@@ -8,7 +8,8 @@ last_modified_at: 16 July 2022
 keywords: constanta, romania, neversea, festival, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU
 description: Neversea Festival, edition 2022, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU
 categories: [RO, Neversea, Romania, Constanta]
-permalink: /ro/festivalul-neversea-editia-2022
+permalink: /ro/festivalul-neversea-editia-2022/
+to-lang-permalink: /neversea-festival-2022-edition/
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1657566780/2022-neversea/neversea3_yuclp6.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 600

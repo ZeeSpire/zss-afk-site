@@ -115,7 +115,14 @@
                 style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
                   src="{{ site.logo }}" alt="{{ site.title }}" /></a>
 
-              <a id="lang-selector" class="hide-on-collapse" href="/ro/"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png" alt="ro flag"></a>
+
+                {% if page.to-lang-permalink %} 
+                  <a class="hide-on-collapse" href="{{ page.to-lang-permalink }}">
+                {% else %}
+                  <a class="hide-on-collapse" href="/ro/">
+                {% endif %}
+                <img class="img-fluid" id="lang-selector" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png" alt="ro flag">
+              </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -170,7 +177,13 @@
                   </li>
                   {% endif %}
                 </ul>
-                <a id="lang-selector" class="ps-4 mb-2" href="/ro/"><img class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png" alt="ro flag"></a>
+                {% if page.to-lang-permalink %} 
+                <a class="ps-4 mb-2"  href="{{ page.to-lang-permalink }}">
+                {% else %}
+                <a class="ps-4 mb-2" href="/ro/">
+                {% endif %}
+                  <img id="lang-selector" class="img-fluid" src="https://res.cloudinary.com/afkology/image/upload/w_25,c_scale,f_auto/v1657558241/assets/ro-mic_im58vp.png" alt="ro flag">
+                </a>
               </div>
             </nav>
         </div>
