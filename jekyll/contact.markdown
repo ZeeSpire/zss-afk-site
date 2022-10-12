@@ -2,6 +2,7 @@
 layout: default.en
 title: Contact us
 permalink: /contact/
+to-lang-permalink: /ro/contact/
 description: Contact AFKology, send us an email
 ---
 <!-- <div class="ratio ratio-1x1" style="height: 800px;">
