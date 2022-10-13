@@ -106,7 +106,6 @@ Noi ne-am cazat într-un alt sat, numit Meșendorf, la 17 kilometri de Viscri, d
  
 De asemenea, au un hambar restaurat, vechi de 100 de ani, unde oaspeții pot lua masa, un spațiu plăcut cu o bibliotecă plină de cărți, o livadă în spatele hambarului și doi câini prietenoși.
 
-{% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-inside-16x9-2.webp alt: "Mesendorf Gasthaus. Inside 2." %}
 {% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-outside-16x9.webp alt: "Mesendorf Gasthaus. The barn." %}
 
 ### Câte zile să stai în Viscri

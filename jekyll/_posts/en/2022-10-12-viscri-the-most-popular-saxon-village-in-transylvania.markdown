@@ -104,7 +104,6 @@ We actually stayed in another village, called Mesendorf, 17 kilometers from Visc
  
 They also have a restored 100-year-old barn where guests can enjoy the meals, a cozy space where you can read a book, an orchard behind the barn, and two friendly dogs.
 
-{% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-inside-16x9-2.webp alt: "Mesendorf Gasthaus. Inside 2." %}
 {% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-outside-16x9.webp alt: "Mesendorf Gasthaus. The barn." %}
 
 ### How many days to stay in Viscri
