@@ -121,7 +121,7 @@ Daca vreti să vedeți mai multe fotografii din calătoriile noastre, dați foll
          </picture>
     </a>
 </div>
-
+ 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
         <img src="https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/pin1_zuxpxv.png" class="img-fluid img-thumbnail" alt="Magura Pin 01" loading="lazy" width="540px" height="100%" />
