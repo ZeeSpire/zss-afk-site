@@ -1,25 +1,26 @@
 ---
-layout: post.en
+layout: post.ro
 type: post
-title: Măgura & Peștera villages, Brașov county, Romania
-front_page_title: Măgura & Peștera villages, Brașov county, Romania
+title: Satele Măgura și Peștera din judetul Brașov
+front_page_title: Satele Măgura și Peștera din judetul Brașov
 published: 26 October 2021
 last_modified_at: 16 November 2021
-keywords: magura, pestera, autumn, october, romania, landscape, mountains
-description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
-categories: [EN, Travel, Romania]
-to-lang-permalink: /ro/satele-magura-si-pestera-din-brasov-romania/
+keywords: magura, pestera, toamna, octombrie, romania, peisaje, munti
+description: Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
+categories: [RO, Transilvania, Romania]
+permalink: /ro/satele-magura-si-pestera-din-brasov-romania/
+to-lang-permalink: /magura-and-pestera-villages-brasov-county-romania/
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1641468467/0001-2021-magura/IMG_20211010_113741_yufvam.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
+Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
 
-Măgura means large, round, and isolated hill, usually forested, while Peștera means cave.
+Măgura înseamnă deal mare, rotund și izolat, de obicei împădurit.
 
-They are located at approximately 1000-1100 meters altitude, at the foot of Piatra Craiului mountains in Brașov county. You need a car to get there. The easiest route to Măgura is from Zărnești. There is an asphalt road till Botorog's Fountain, then there is a dirt serpentine road through the forest. To Peștera you can get from Moieciu de Jos on an asphalt road. The roads are bad, especially those in Măgura, but they can be traveled by car, although ideally, it would be a car with a high guard. It takes a lot of patience and skill to get to Măgura because the roads are full of potholes, and in winter they can even be impractical. 
-The distance between the two villages is about 6 kilometers which can be hiked.
+Ambele sate sunt situate la aproximativ 1000-1100 de metri altitudine, la poalele munților Piatra Craiului, în județul Brașov. Ai nevoie de o mașină pentru a ajunge acolo. Cel mai ușor drum spre Măgura este din Zărnești. Drumul este asfaltat până la Fântâna lui Botorog, apoi urmează un drum de pământ prin pădure. Până la Peștera se ajunge din Moieciu de Jos pe un drum asfaltat. Drumurile sunt proaste, mai ales cele din Măgura, dar se pot parcurge cu mașina, deși ideal ar fi ca mașina să aibă paza înaltă. Este nevoie de multă răbdare și pricepere pentru a ajunge la Măgura pentru că drumurile sunt pline de gropi, iar iarna pot fi chiar impracticabile.
+Distanța dintre cele două sate este de aproximativ 6 kilometri care pot fi parcurși pe jos.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -31,10 +32,9 @@ The distance between the two villages is about 6 kilometers which can be hiked.
     </a>
 </div>
 
-## Best time to visit
+## Cel mai bun moment pentru a vizita
  
-We visited the area both in summer when the weather is suitable for longer or shorter hikes depending on how much you can walk, and in autumn when the landscape is dreamy, the trees have yellow or rusty leaves, the mountain ridges are white, and the fog dances through the valleys. If you add to this image a slice of homemade bread with butter and jam and a hot tea or a baked apple with cinnamon after a walk outside in the fresh, crisp air, you will discover the perfect definition for the Danish term "hygge". 
-Every season has its charm. If you make sure that you can reach the accommodation with the chosen means of transport, then it is worth a visit in any season.
+Am vizitat zona atât vara când vremea este potrivită pentru drumeții mai lungi sau mai scurte în funcție de cât de mult poți merge, cât și toamna când peisajul este de vis, copacii au frunzele galbene sau ruginii, crestele munților sunt albe, iar ceața dansează prin văi. Dacă adaugi la această imagine o felie de pâine de casă cu unt și gem și un ceai fierbinte sau un măr copt cu scorțișoară după o plimbare pe-afară în aerul curat și rece, vei descoperi definiția perfectă pentru termenul danez „hygge”. Fiecare anotimp are farmecul lui până la urmă.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -64,13 +64,13 @@ Every season has its charm. If you make sure that you can reach the accommodatio
     </div>
 </div>
 
-## Accommodation and restaurant options
- 
-The first time we visited the area we were not accommodated in either of the two villages because there are more accommodation options in the more touristy areas nearby such as Bran, Râșnov, or Moieciu. But we wanted to return and stay in Măgura. Our first option would have been [Samedru](https://www.booking.com/hotel/ro/samedru-magura8.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}, but because we did not find any available weekend, we chose to stay at [Mosorel](https://www.booking.com/hotel/ro/mosorel-moieciu-de-jos.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"} with 4.8* out of over 200 reviews on Google, but we would say that a more suitable rating for Mosorel would be 2*.
+## Opțiuni de cazare și restaurante
 
-The third time we visited, we finally stayed at Samedru which exceeded our expectations especially after staying at Mosorel. The room we got had a beautiful view, it was clean and had everything we needed. The restaurant had a nice selection of local wines, a good house white wine, and a very good mulled wine. The food was very tasty and the portions were enormous. Also, the buffet breakfast included many options. So we can say that Samedru deserves 5*.
- 
-There aren’t many restaurants in these two villages. Most guesthouses offer different board types such as breakfast, half board, or a kitchen where guests can prepare their meals. It is best to talk to the host beforehand about dining options if you do not plan to travel by car to areas where there are several restaurants (Bran or Moieciu for example). Mosorel offers breakfast and dinner, but because we were not satisfied with the breakfast, we decided to eat dinner at Brandeberg restaurant in Șimon and have the next breakfast at Panner Bakery in Bran. Both were good enough options, but not excellent. The food from Samedru on the other hand was delicious.
+Prima dată când am vizitat zona nu am fost cazați în niciunul dintre cele două sate pentru că există mai multe opțiuni de cazare în zonele mai turistice din apropiere precum Bran, Râșnov sau Moieciu. Dar ne-am dorit foarte mult să ne întoarcem și să rămânem în Măgura. Prima noastră opțiune ar fi fost [Samedru](https://www.booking.com/hotel/ro/samedru-magura8.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}, dar pentru că nu am găsit niciun weekend disponibil, am ales să ne cazăm la [Mosorel](https://www.booking.com/hotel/ro/mosorel-moieciu-de-jos.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"} cu 4.8* din peste 200 de recenzii pe Google, dar am spune că un rating mai potrivit pentru Mosorel ar fi maxim 3* în comparație și cu alte opțiuni din zonă.
+
+A treia oara cand am vizitat, am stat în sfârșit la Samedru care ne-a depașit așteptările mai ales dupa ce am stat la Mosorel. Camera pe care am primit-o avea o priveliște frumoasă, era curata și avea tot ce ne trebuia. Restaurantul avea o selecție bună de vinuri locale, un vin alb de casă bun și un vin fiert foarte bun. Mâncarea a fost foarte gustoasă și porțiile enorme. De asemenea, micul dejun tip bufet include multe opțiuni. Deci putem spune că Samedru merită 5*.
+
+Nu sunt multe restaurante în aceste două sate. Cele mai multe cazări oferă diferite tipuri de pensiune, cum ar fi mic dejun inclus, demipensiune sau o bucătărie unde oaspeții își pot pregăti singuri mesele. Cel mai bine este să discuți în prealabil cu gazda despre opțiunile de luat masa dacă nu ai de gând să iei mașina până în zonele în care sunt mai multe restaurante (Bran sau Moieciu de exemplu). Mosorel oferă micul dejun și cina, dar pentru că nu am fost mulțumiți de micul dejun, am decis să luăm cina la restaurantul Brandeberg din Șimon și să luăm următorul mic dejun la Panner Bakery din Bran.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -82,17 +82,17 @@ There aren’t many restaurants in these two villages. Most guesthouses offer di
     </a>
 </div>
  
-## Things to do and see
+## Lucruri de făcut și de văzut
  
-Here time seems to stand still, the silence is interrupted only by cowbells or cock-a-doodle-doos, the air is clean, and the landscapes are heavenly. It is the perfect place to disconnect. Literally, because the mobile and internet network coverage are not good. Even if you only stay for a weekend, you will leave this place energized as it's urging you to relax and take it slowly. Nature is in its purest state, so it is easy to admire and appreciate its beauty.
+Aici timpul pare să stea pe loc, liniștea este întreruptă doar de clopoțeii văcuțelor care pasc liniștite sau de cântecul cocoșilor dimineața devreme, aerul este curat, iar peisajele sunt deosebite. Este locul perfect pentru a te deconecta. Literalmente, pentru că acoperirea rețelei de telefonie mobilă și internet nu este prea bună. Chiar dacă stai doar un weekend, vei părăsi acest loc plin de energie, deoarece te îndeamnă efectiv la relaxare. Natura este în starea sa cea mai pură, nu rămâne decât să-i admiri frumusețea.
 
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/PpNKnzD_3vo" title="Magura & Pestera villages, Brasov county, Romania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-In the area, there are mountain trails that can be traveled both on foot and by bike. The Peștera-Măgura-Şirnea route is appreciated by mountain biking enthusiasts and can be covered even by beginners.
+În zonă există trasee montane care pot fi parcurse atât pe jos, cât și cu bicicleta. Traseul Peștera-Măgura-Șirnea este apreciat de pasionații de mountain bike și poate fi parcurs chiar și de începători.
  
-In Peștera you can find the Bat Cave which houses rare species of bats. We hiked there, but we did not enter because it is not arranged.
+În Peștera este Peștera Liliecilor care adăpostește specii rare de lilieci. Am făcut o drumeție până acolo, dar nu am intrat pentru că nu este o peșteră amenajată.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -104,13 +104,13 @@ In Peștera you can find the Bat Cave which houses rare species of bats. We hike
     </a>
 </div>
 
-The trail that starts from Botorog's Fountain through the Zărnești Gorges (Cheile Zărneștilor) and goes up to Curmătura Chalet is incredibly beautiful and easy to follow. The descent can be done through Poiana Zănoaga. All trails are well marked. The area is also appreciated by foreign tourists. We became friends with a group of Germans staying in Măgura on our way to Curmătura Chalet.
+Traseul care pornește de la Fântâna lui Botorog prin Cheile Zărneștilor și urcă până la Cabana Curmătura este incredibil de frumos și ușor de urmat. Coborârea se poate face prin Poiana Zănoaga. Toate traseele sunt bine marcate. Zona este apreciată și de turiștii străini. Ne-am împrietenit cu un grup de nemți cazați în Măgura în drum spre Cabana Curmătura ceea ce a facut traseul și mai plăcut.
 
-For more information about the hiking trails, about the fauna and flora in Piatra Craiului National Park, but also to find out the visiting rules, you can access the official [website](https://www.pcrai.ro/){:target="_blank"}.
+Pentru mai multe informații despre traseele de drumeții, despre fauna și flora din Parcul Național Piatra Craiului, dar și pentru a afla regulile de vizitare, poți accesa [site-ul oficial](https://www.pcrai.ro/){:target="_blank"}.
 
-Also if you want to see more pictures from our trips, follow [#afkinmagura](https://www.instagram.com/explore/tags/afkinmagura/){:target="_blank"} on [Instagram](https://www.instagram.com/afkology/){:target="_blank"} and [Reels](https://www.instagram.com/afkology/reels/){:target="_blank"}.
+Daca vreti să vedeți mai multe fotografii din calătoriile noastre, dați follow [#afkinmagura](https://www.instagram.com/explore/tags/afkinmagura/){:target="_blank"} pe [Instagram](https://www.instagram.com/afkology/){:target="_blank"} și [Reels](https://www.instagram.com/afkology/reels/){:target="_blank"}.
 
-In these isolated villages the locals are hospitable and friendly. It was a pleasure for us to discover this! We were looking at the sky because we wanted to land the drone when an old man who reminded me of my grandfather approached and asked us what we were looking at. That's how the conversation started, and it was heart-warming.
+În aceste sate izolate, localnicii sunt primitori și prietenoși. A fost o plăcere pentru noi să descoperim lucrul acesta! Ne uitam spre cer pentru că urma să aterizăm drona, când s-a apropiat un bătrânel care îmi amintea de bunicul meu și curios fiind, ne-a întrebat la ce ne uităm. Așa a început o conversație cu adevărat încântătoare. Vom reveni cu plăcere în zonă, ca de fiecare dată.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
