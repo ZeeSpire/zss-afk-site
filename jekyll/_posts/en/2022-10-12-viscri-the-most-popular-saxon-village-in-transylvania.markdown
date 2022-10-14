@@ -69,10 +69,10 @@ There are a few places where you can enjoy a traditional, slow-cooked meal, with
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-1.webp alt: "Viscri 32, meal 1" smallest: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 1" smallest: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 2" smallest: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-4.webp alt: "Viscri 32, meal 2" smallest: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
             {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" smallest: true %}
