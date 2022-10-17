@@ -15,17 +15,17 @@ featured-image-top: "/assets/resized/viscri-top-16x9-1600x900.webp" # width - 12
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
+Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
  
 ### Unde este Viscri
  
-Viscri este un sat mic, in comuna Bunesti, judetul Brasov. Sunt 80 de kilometri de la Brasov pana la Viscri si inca 45 de kilometri pana la Cetatea Medievala Sighisoara. Drumurile erau bune când am mers acolo în octombrie 2022 și mijlocul nostru de transport preferat în România este întotdeauna mașina. De asemenea, mașina oferă libertatea de a explora alte puncte de interes din zonă, cum ar fi Cetatea Rupea, complexul geologic Racoș și alte sate încântătoare.
+Viscri este un sat mic, în comuna Bunești, județul Brașov. Sunt 80 de kilometri de la Brașov până la Viscri și încă 45 de kilometri până la Cetatea Medievală Sighișoara. Drumurile erau bune când am mers acolo în octombrie 2022 și mijlocul nostru de transport preferat în România este întotdeauna mașina. De asemenea, mașina oferă libertatea de a explora alte puncte de interes din zonă, cum ar fi Cetatea Rupea, complexul geologic Racoș și alte sate încântătoare.
 
-De reținut că în Viscri a fost amenajată o parcare gratuită unde puteți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că vă rog să vă gândiți de două ori înainte de a parca în altă parte pentru că vă este prea lene să mergeți 500 de metri.
+De reținut este faptul că în Viscri a fost amenajată o parcare gratuită unde puteți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că te rog să te gândești de două ori înainte de a parca în altă parte pentru că vă este prea lene să mergeți 500 de metri.
  
 ### Când să vizitezi Viscri
  
-Aș spune că fiecare anotimp are farmecul lui, dar dacă ar fi să fac o recomandare în această direcție, ar fi primăvara sau toamna când vremea este mai blândă. Iarna, poți avea ghinionul să prinzi zăpezi abundente și drumuri blocate. Vara, temperaturile pot depăși 30 de grade Celsius și, de asemenea, este mai greu să găsești cazare întrucât este vârf de sezon. Cu toate acestea, imaginează-ți cum ar fi să stai lângă sobă sau șemineu, sorbind dintr-o cană de vin fiert în timp ce afară ninge cu fulgi mari și totul este nemișcat. Pun pariu că vrei să vizitezi Viscri iarna acum. Şi eu. Vara este de preferat dacă intenționezi să faci drumeții sau să observi flora bogată.
+Aș spune că fiecare anotimp are farmecul lui, dar dacă ar fi să fac o recomandare în această direcție, ar fi primăvara sau toamna când vremea este mai blândă. Iarna, poți avea ghinionul să prinzi zăpezi abundente și drumuri blocate. Vara, temperaturile pot depăși 30 de grade Celsius și, de asemenea, este mai greu să găsești cazare întrucât este vârf de sezon. Cu toate acestea, imaginează-ți cum ar fi să stai lângă sobă sau șemineu, sorbind dintr-o cană de vin fiert în timp ce afară ninge cu fulgi mari și totul este încremenit. Pun pariu că vrei să vizitezi Viscri iarna acum. Şi eu. Vara este de preferat dacă intenționezi să faci drumeții sau să observi flora bogată.
 
 {% responsive_image path: assets/images/posts/viscri/viscri-houses-on-the-road.webp alt: "Viscri, houses on the road" %}
  
