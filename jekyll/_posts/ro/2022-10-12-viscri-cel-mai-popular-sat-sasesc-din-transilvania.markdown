@@ -5,9 +5,9 @@ title: Viscri, cel mai popular sat săsesc din Transilvania
 front_page_title: Viscri, cel mai popular sat săsesc din Transilvania
 published: 12 October 2022
 last_modified_at: 12 October 2022
-keywords: Viscri, Transylvania, Romania, calatorii, Mesendorf
+keywords: Viscri, Transilvania, Romania, calatorii, Mesendorf
 description: Acest sat săsesc pitoresc a devenit cunoscut în întreaga lume în ultimii 20 de ani datorită regelui Charles al III-lea, care s-a îndrăgostit de viața rurală neatinsă pe care a găsit-o aici. În 2006, fostul Prinț de Wales a cumpărat o proprietate în Viscri, care servește acum drept centru de meșteșuguri tradiționale. Acesta a fost începutul renașterii satului, oferindu-le sătenilor posibilitatea de a arăta miilor de turiști care vizitează satul în fiecare an, viața reală la țară precum și meșteșugurile lor. Charles s-a implicat enorm în păstrarea autenticității arhitecturale, precum și în protejarea comorilor naturale ale acestei zone, pentru care românii sunt veșnic crirecunoscători și îl iubesc pe rege enorm.
-categories: [RO, Transylvania, Romania, Calatorii]
+categories: [RO, Transilvania, Romania, Calatorii]
 permalink: /ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/
 to-lang-permalink: /viscri-the-most-popular-saxon-village-in-transylvania/
 featured-image: "/assets/images/posts/viscri/viscri-top-16x9.webp" # full size
@@ -15,6 +15,7 @@ featured-image-top: "/assets/resized/viscri-top-16x9-1600x900.webp" # width - 12
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
+
 Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
  
 ### Unde este Viscri
