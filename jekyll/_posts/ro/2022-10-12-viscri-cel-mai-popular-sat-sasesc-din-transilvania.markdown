@@ -22,7 +22,7 @@ Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotogr
  
 Viscri este un sat mic, în comuna Bunești, județul Brașov. Sunt 80 de kilometri de la Brașov până la Viscri și încă 45 de kilometri până la Cetatea Medievală Sighișoara. Drumurile erau bune când am mers acolo în octombrie 2022 și mijlocul nostru de transport preferat în România este întotdeauna mașina. De asemenea, mașina oferă libertatea de a explora alte puncte de interes din zonă, cum ar fi Cetatea Rupea, complexul geologic Racoș și alte sate încântătoare.
 
-De reținut este faptul că în Viscri a fost amenajată o parcare gratuită unde puteți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că te rog să te gândești de două ori înainte de a parca în altă parte pentru că vă este prea lene să mergeți 500 de metri.
+De reținut este faptul că în Viscri a fost amenajată o parcare gratuită unde poți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că te rog să te gândești de două ori înainte de a parca în altă parte pentru că îți este prea lene să mergeți 500 de metri.
  
 ### Când să vizitezi Viscri
  
@@ -59,8 +59,7 @@ Una dintre atracțiile principale este, fără îndoială, Biserica Fortificată
     </div>
 </div>
 
-
-În afară de explorarea satului și împrejurimile acestuia, așteptarea văcuțelor să se întoarcă de la pășunat, fotografiarea gâștelor lăsate libere pe stradă sau admirarea cerului înstelat noaptea, poți merge la vânătoare de trufe prin pădure sau la alte tururi ghidate organizate de gazde sau la cererea oaspeților.
+În afară de explorarea satului și împrejurimile acestuia, așteptarea văcuțelor să se întoarcă de la pășunat, fotografierea gâștelor lăsate libere pe stradă sau admirarea cerului înstelat noaptea, poți merge la vânătoare de trufe prin pădure sau la alte tururi ghidate organizate de gazde sau la cererea oaspeților.
 
 {% responsive_image path: assets/images/posts/viscri/ducks-in-viscri.webp alt: "Viscri. Ducks in the wild." %}
 
@@ -115,7 +114,7 @@ Asta depinde foarte mult de ceea ce vrei să faci de fapt. Dacă vrei doar să t
  
 Dacă vrei să te deconectezi, să experimentezi mai mult viața la țară, să participi la 2-3 activități dintre cele de mai sus, ar trebui să optezi pentru un weekend întreg.
  
-Însă există multe alte lucruri de făcut în zonă astfel că iți poți prelungi șederea în funcție de ceea ce dorești să bifezi. În continuare voi prezenta ce am vizitat noi într-o zi.
+Însă există multe alte lucruri de făcut în zonă astfel că îți poți prelungi șederea în funcție de ceea ce dorești să bifezi. În continuare voi prezenta ce am vizitat noi într-o zi.
 
 {% responsive_image path: assets/images/posts/viscri/viscri-from-above.webp alt: "Viscri from above." %}
 
@@ -128,7 +127,7 @@ Complexul geologic Racoș este o arie protejată de 95,2 hectare și include vul
 
 Când ajungi acolo, vei fi întâmpinat de o persoană care îți va înmâna un pliant cu informații despre complex și cu o hartă. Există două parcări și poteci amenajate spre fiecare obiectiv, iar biletul costă 20 lei de persoană.
  
-Acest preț include vizita la castelul [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, atestat în anii 1600, care se află în orașul Racos.
+Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, atestat în anii 1600, care se află în orașul Racosh.
 
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
