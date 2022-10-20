@@ -127,7 +127,7 @@ Complexul geologic Racoș este o arie protejată de 95,2 hectare și include vul
 
 Când ajungi acolo, vei fi întâmpinat de o persoană care îți va înmâna un pliant cu informații despre complex și cu o hartă. Există două parcări și poteci amenajate spre fiecare obiectiv, iar biletul costă 20 lei de persoană.
  
-Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, atestat în anii 1600, care se află în orașul Racosh.
+Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, atestat în anii 1600, care se află în orașul Racoș.
 
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
