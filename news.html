@@ -1,0 +1,29 @@
+---
+layout: default.en
+title: News
+description: Travel and Tech news and reviews | AFKology
+pagination: 
+  enabled: true
+  category: News-EN
+---
+
+<div class="row">
+    {% for post in paginator.posts %}
+    <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
+        <div class="card">
+            <a class="card-text" href="{{ site.url }}{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}" width="600" height="100%"></a>
+            <div class="card-body">
+                <div class="card-text-container"><a href="{{ site.url }}{{ post.url }}" class="card-text"><h2 class="card-text">{{ post.front_page_title }}</h2></a></div>
+                {% if site.show-posts-date %}<div class="text-center fw-lighter lh-lg text-muted fs-4" style="font-family: 'Italianno', cursive;">{{ post.published }}</div>{% endif %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+
+
+
+
+
+

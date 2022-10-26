@@ -1,0 +1,33 @@
+---
+title: AFKology | The most precious moments in life happen offline.
+type: homepage
+layout: home.en
+pagination: 
+  enabled: true
+  category: EN
+description: AFKology | The most precious moments in life happen offline. AFKology is a remembrance of that.
+---
+
+<h1 style="display: none;">AFKology, travel and outdoor activities</h1>
+
+<div class="row mt-4">
+    {% for post in paginator.posts %}
+    <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
+        <div class="card">
+            <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}" width="600" height="100%"></a>
+            <div class="card-body">
+                <div class="card-text-container"><a href="{{ post.url }}" class="card-text"><h2 class="card-text">{{ post.front_page_title }}</h2></a></div>
+                {% if site.show-posts-date %}<div class="text-center fw-lighter lh-lg text-muted fs-4" style="font-family: 'Italianno', cursive;">{{ post.published }}</div>{% endif %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+
+
+
+
+
+
+

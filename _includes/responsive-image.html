@@ -1,0 +1,38 @@
+{% if tall == "true" %}
+
+<a href="/{{ path }}" data-fslightbox="gallery">
+<picture>
+    <img src="/{{ resized[0].path }}" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="{{ alt }}"/>
+</picture>
+</a>
+
+{% elsif square == "true"%}
+
+<a href="/{{ path }}" data-fslightbox="gallery">
+    <picture>
+        <source srcset="/{{ resized[0].path }}" media="(min-width: 992px)" width="600px" height="100%">
+        <img src="/{{ resized[0].path }}" class="post-gallery-image img-thumbnail"  alt="{{ alt }}" loading="lazy" width="690px" height="100%" />
+    </picture>
+</a>
+
+{% else %}
+
+<div class="col-sm-12 text-center mb-3 mt-3">
+    <a href="/{{ path }}" data-fslightbox="gallery">
+    <picture>
+        {% for i in resized %}
+            <source srcset="/{{ i.path }}" media="(max-width: {{ i.width }}px)" >
+        {% endfor %}
+        
+        {% if resized[2].path %}
+        <img src="/{{ resized[2].path }}" loading="lazy" class="img-fluid img-thumbnail" alt="{{ alt }}" />
+        {% else %}
+        <img src="/{{ path }}" loading="lazy" class="img-fluid img-thumbnail" alt="{{ alt }}" />
+        {% endif %}
+
+    </picture>
+    </a>
+</div>
+
+{% endif %}
+
