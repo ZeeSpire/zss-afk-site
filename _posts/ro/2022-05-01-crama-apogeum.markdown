@@ -6,7 +6,7 @@ front_page_title: Crama Apogeum și cea mai bună Fetească Neagră din Romania
 published: 01 Mai 2022
 last_modified_at: 01 Mai 2022
 keywords: mancare, romania, fine dining, experiente, calatorii, vin, degustare de vinuri
-description: Article about spending one weekend at a winery in the renowned area, Dealu Mare, in Buzau County, Romania. Wine tasting experience. 
+description: Cum sa iti petreci un weekend la o crama in zona Dealu Mare din judetul Buzau. Degustare de vinuri.
 categories: [RO, Vin, Romania, Calatorii, Dealu Mare, Degustare de vinuri]
 permalink: /ro/crama-apogeum/
 to-lang-permalink: /apogeum-winery/
