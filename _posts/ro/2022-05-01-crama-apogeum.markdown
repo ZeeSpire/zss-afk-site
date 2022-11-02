@@ -1,14 +1,15 @@
 ---
-layout: post.en
+layout: post.ro
 type: post
-title: Apogeum Winery & the best Feteasca Neagra in Romania
-front_page_title: Apogeum Winery & the best Feteasca Neagra in Romania
-published: 01 May 2022
-last_modified_at: 01 May 2022
-keywords: food, romania, fine dining, experiences, travel, wine, wine tasting
-description: Article about spending one weekend at a winery in the renowned area, Dealu Mare, in Buzau County, Romania. Wine tasting experience.
-categories: [EN, Wine, Food, Romania, Travel, Dealu Mare, Degustare de vinuri]
-to-lang-permalink: /ro/crama-apogeum/
+title: Crama Apogeum și cea mai bună Fetească Neagră din Romania
+front_page_title: Crama Apogeum și cea mai bună Fetească Neagră din Romania
+published: 01 Mai 2022
+last_modified_at: 01 Mai 2022
+keywords: mancare, romania, fine dining, experiente, calatorii, vin, degustare de vinuri
+description: Article about spending one weekend at a winery in the renowned area, Dealu Mare, in Buzau County, Romania. Wine tasting experience. 
+categories: [RO, Vin, Romania, Calatorii, Dealu Mare, Degustare de vinuri]
+permalink: /ro/crama-apogeum/
+to-lang-permalink: /apogeum-winery/
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r_znfawp.webp" # width - 600
@@ -23,10 +24,9 @@ featured-image-style: full-width # can be left, centered, full-width
     </a>
 </div>
 
-In February we were on a one-day trip in Buzău County to visit the Muddy Volcanoes and we really liked it, we arrived relatively quickly at the destination and the road was rather good. So, we decided to return in the area, this time to visit a winery. 
-If you are curious to see spectacular views from the Muddy Volcanoes check out this [article](/the-muddy-volcanoes-buzau-county-romania).
+În februarie am fost într-o excursie de o zi în județul Buzău pentru a vizita Vulcanii Noroioși și am ajuns relativ repede la destinație, iar drumul a fost destul de bun astfel că ne-am hotărât să ne întoarcem în zonă, de data aceasta ca să vizităm o cramă. Dacă ești curios să vezi imagini spectaculoase cu Vulcanii Noroioși, mergi la acest [articol](/the-muddy-volcanoes-buzau-county-romania){:target="_blank"}.
 
-I did some research on the internet and I found out that between Ploiești and Buzău counties are lots of wineries, some even offering accommodation, restaurant, and wine tastings. So, our weekend getaway had every chance of being amazing. 
+Am făcut câteva cercetări pe internet și am aflat că între județele Ploiești și Buzău sunt o mulțime de crame, unele oferind cazare, restaurant și degustări de vinuri. Așadar, escapada noastră de weekend a avut toate șansele să fie reușită.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DJI_0013_gx9nrv.jpg" data-fslightbox="gallery">
@@ -37,7 +37,7 @@ I did some research on the internet and I found out that between Ploiești and B
     </a>
 </div>
 
-We chose to go on the first weekend of April to Apogeum Winery, the younger sister of Tohani wineries. Apogeum Winery is in Gura Vadului, at an equal distance between Ploiești and Buzău, in the renowned vine area - Dealul Mare. From Bucharest there are about 85 kilometers (about 52.82 mi) that can be covered in an hour and a half by car. 
+Am ales să mergem în primul weekend din aprilie la Apogeum Winery, sora mai mică a cramelor Tohani. Crama Apogeum se află în Gura Vadului, la o distanță egală între Ploiești și Buzău, în renumita zonă viticolă - Dealul Mare. Din București sunt aproximativ 85 de kilometri care pot fi parcurși într-o oră și jumătate cu mașina.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396160/0007-2022-apogeum/IMG_20220401_181023_ltbfsz.jpg" data-fslightbox="gallery">
@@ -48,11 +48,11 @@ We chose to go on the first weekend of April to Apogeum Winery, the younger sist
     </a>
 </div>
 
-## Accommodation 
+## Cazare 
 
-Apogeum winery offers several types of rooms, all with private bathroom starting from 350 RON/night (~71 EUR/night) with breakfast included. 
-  
-We booked a double room through [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"} and although it seemed a little too small at first, it was all we needed for a two-night stay. 
+Crama Apogeum oferă mai multe tipuri de camere, toate cu baie proprie începând de la 350 RON/noapte cu mic dejun inclus.
+
+Am rezervat o cameră dublă prin [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&auth_success=1&group_adults=2){:target="_blank"} și, deși mi s-a părut puțin prea mică la început, a fost tot ce ne-a trebuit pentru un sejur de două nopți.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -74,11 +74,11 @@ We booked a double room through [booking.com](https://www.booking.com/hotel/ro/c
     </div>
 </div>
   
-First of all, I must point out that both the room and the bathroom were extremely clean. Seriously, impeccably clean. I don't know if that's always the case or we were just extremely lucky, but I really appreciated this aspect. Although the room and the bathroom were very small, they were beautifully decorated, and in the bathroom, we found everything we could have needed: liquid soap, shower gel, shampoo, cleansing disks, toothbrushes and toothpaste, slippers, towels. 
+În primul rând trebuie să subliniez că atât camera cât și baia au fost extrem de curate. Serios, impecabil de curate. Nu știu dacă așa este întotdeauna sau doar am fost norocoși, dar am apreciat foarte mult acest aspect. Deși camera și baia erau foarte mici, erau frumos decorate, iar în baie, am găsit tot ce am fi putut avea nevoie: săpun lichid, gel de duș, șampon, dischete demachiante, periuțe și pastă de dinți, papuci, prosoape.
   
-## The Restaurant 
+## Restaurantul
 
-The breakfast was buffet style, but the sunny-side-up eggs and the scrambled eggs were prepared on the spot according to everyone's preferences. I like it when this happens because I prefer to eat a freshly fried egg. In addition, they have options such as cheese, dried salami, ham, tomatoes, cucumbers, bell peppers, boiled eggs, yogurt, cereals, coffee, milk, orange juice, grape juice. But also, options for sweet lovers: croissants and other types of sweetened pastries, jam, fruit. 
+Micul dejun a fost tip bufet suedez, dar ouăle ochi și omleta au fost preparate pe loc, după preferințele fiecăruia. Îmi place când se întâmplă asta pentru că prefer să mănânc un ou proaspăt prăjit, nu unul care a stat minute bune. În plus, au avut opțiuni precum brânză, salam uscat, șuncă, roșii, castraveți, ardei gras, ouă fierte, iaurt, cereale, cafea, lapte, suc de portocale, suc de struguri. Dar și opțiuni pentru iubitorii de dulce: croissante și alte tipuri de produse de patiserie dulci, dulceață, fructe.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DSCF3138_fdfbi3.jpg" data-fslightbox="gallery">
@@ -90,7 +90,7 @@ The breakfast was buffet style, but the sunny-side-up eggs and the scrambled egg
 </div>
 
 
-In the same restaurant you can have lunch and dinner at certain times. We had dinner one evening and opted for the poultry borsch with homemade noodles (35 RON / 7.1 EUR), veal in Fetească Neagră sauce with puree (85 RON / 17.2 EUR), Osso buco in wine sauce with vegetables (75 RON / 15.2 EUR), and at dessert we had crème brûlée with sponge cake, apples, and caramel (25 RON/5 EUR). So, let's just say we had a feast. All the dishes were super tasty, but we especially liked the borsch and the veal in wine sauce.
+În același restaurant se poate lua prânzul și cina la anumite ore. Am luat cina într-una din seri și am optat pentru borșul de pasăre cu tăieței de casă (35 RON), vițel în sos de Fetească Neagră cu piure (85 RON), Osso buco în sos de vin cu legume (75 RON), iar la desert am avut crème brûlée cu pandișpan, mere și caramel (25 RON). Deci, să spunem că am avut un festin. Toate preparatele au fost super gustoase, dar ne-au plăcut mai ales borșul și vițelul în sos de vin.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -112,12 +112,11 @@ In the same restaurant you can have lunch and dinner at certain times. We had di
     </div>
 </div>
   
-Now let's move on to the most interesting part, the reason for our trip: the wine tasting. 
+Acum să trecem la partea cea mai interesantă, motivul călătoriei noastre: degustarea de vinuri.
   
-## The Wine Tasting 
+## Degustarea de vinuri
 
-On Apogeum Winery's website you can find some information about wine tourism / wine tastings: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank"}. 
-We initially thought we would be the only two people there and we were prepared to pay extra to be able to have a wine tasting, but to our surprise there were 18 people in our group! And there were two distinct groups, not just one. I noticed that there were people in team buildings there. Many from our group had been all day at various wine cellars in the area, we certainly could not cope with so much alcohol. 
+Pe site-ul Cramei Apogeum găsești câteva informații despre enoturism/degustări de vin: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank"}. Am crezut inițial că vom fi singurii oameni de acolo și eram pregătiți să plătim în plus pentru a putea face o degustare de vinuri, dar spre surprinderea noastră erau 18 persoane în grupul nostru! Și erau două grupuri distincte, nu doar unul. Am observat că veniseră oameni în team buildings, iar mulți din grupul nostru fuseseră toată ziua la diferite crame din zonă.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DSCF3248-2_meiph0.jpg" data-fslightbox="gallery">
@@ -128,8 +127,7 @@ We initially thought we would be the only two people there and we were prepared 
     </a>
 </div>
 
-
-When we made the reservation, we opted for a certain tasting package, but being so many people participating, our preference was not considered, but the specialist proposed a selection of wines which was perfectly fine with us. 
+Când am făcut rezervarea, am optat pentru un anume pachet de degustare, dar fiind atât de mulți participanți, preferința noastră nu a fost luată în considerare, însă oenologul ne-a propus o selecție de vinuri care a fost perfect.
 
 <div class="row mb-4">
   <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mt-0">
@@ -150,7 +148,7 @@ When we made the reservation, we opted for a certain tasting package, but being 
     </div>
 </div>
  
-First, we visited the cellar where we were told about how the Apogeum's Fetească Neagră is made, we continued with the visit of the manor where the restaurant is, then we ended with the wine tasting in the winery. We sat at a long table, in front of each sit were three types of glasses, and for each couple there was a plate of cheese, nuts, crackers and salami. The oenologist told us about each wine and guided us in tasting them, shared tips & tricks about wines and told us what to combine the wine with from the plate to extract the maximum of taste. 
+Mai întâi am vizitat pivnița unde ni s-a spus cum se face Fetească Neagră a cramei Apogeum, am continuat cu vizita conacului unde se află restaurantul, apoi am încheiat cu degustarea de vinuri în cramă. Ne-am așezat la o masă lungă, în fața fiecăruia erau trei tipuri de pahare, iar pentru fiecare cuplu era o farfurie cu brânză, nuci, biscuiți și salam. Oenologul ne-a povestit despre fiecare vin și ne-a ghidat în degustare, ne-a împărtășit tips & tricks despre vinuri și ne-a spus cu ce să combinăm vinul din farfurie pentru a extrage maximul de gust.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/IMG_20220402_174005_uzppq9.jpg" data-fslightbox="gallery">
@@ -161,11 +159,11 @@ First, we visited the cellar where we were told about how the Apogeum's Feteasc�
     </a>
 </div>
   
-Here are some ideas from the wine tasting: 
-- When we eat our taste buds get used to the taste after the first 4-5 bites and we no longer feel the same pleasure as at the first mouthful. The role of wine is to reset the taste buds. 
-- You should hold your glass by the stem and not the bowl. 
-- The more distant the wine can be smelled, the more intense its aroma is. 
-- The better the wine, the longer its aroma develops in the mouth. If the development comes to an end in 3 seconds, it means that it is not a good wine. An extraordinary wine develops its aroma even after 8-9 seconds. 
+Iată câteva idei de la degustarea de vinuri:
+- Când mâncăm, papilele gustative se obișnuiesc cu gustul după primele 4-5 îmbucături și nu mai simțim aceeași plăcere ca la prima înghițitură. Rolul vinului este de a reseta papilele gustative.
+- Ar trebui să ținem paharul de bază, nu de cupă.
+- Cu cât vinul poate fi mirosit de la o distanță mai mare, cu atât aroma lui este mai intensă.
+- Cu cât vinul este mai bun, cu atât aroma lui se dezvoltă mai mult timp în gură. Dacă dezvoltarea se termină în 3 secunde înseamnă că nu este neapărat un vin bun. Un vin extraordinar își dezvoltă aroma chiar și după 8-9 secunde. 
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396159/0007-2022-apogeum/DSCF3260_e3gw7o.jpg" data-fslightbox="gallery">
@@ -176,7 +174,7 @@ Here are some ideas from the wine tasting:
     </a>
 </div>
   
-After the first glass of wine, we were all relaxed and the tasting became more interactive, more jovial. It was an experience I highly recommend. And we definitely want to come back to Apogeum Winery. 
+După primul pahar de vin, am fost cu toții relaxați și degustarea a devenit mai interactivă, mai jovială. A fost o experiență pe care o recomand cu căldură. Și ne dorim cu siguranță să revenim la Crama Apogeum.
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
