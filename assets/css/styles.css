@@ -3,6 +3,10 @@
     padding-left: 1rem
 }
 
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #000
+}
+
 .bg-light {
     background-color: #fff !important
 }
