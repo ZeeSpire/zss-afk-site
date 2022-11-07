@@ -98,7 +98,7 @@ h3 {
     max-height: 500px
 }
 
-.no-style-button {
+/* .no-style-button {
     background: 0 0;
     color: inherit;
     border: none;
@@ -106,12 +106,12 @@ h3 {
     font: inherit;
     cursor: pointer;
     outline: inherit
-}
+} */
 
-.btn-light,
+/* .btn-light,
 .form-control {
     background-color: #ebdfce
-}
+} */
 
 .custom-form-control {
     width: 94%;

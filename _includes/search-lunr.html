@@ -56,7 +56,9 @@ function lunr_search(term) {
 
 <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);" data-toggle="modal" data-target="#exampleModal">
     <input type="text" id="lunrsearch" name="q" class= "custom-form-control" style="background-color: #ffffff; border-color: #ebdfce" maxlength="255" value="" placeholder="..." />
-    <button type="submit" class="no-style-button"data-bs-toggle="modal" data-bs-target="#staticBackdrop"></button>
+    <div class="d-grid gap-2 ps-3 pe-4 pt-3">
+        <button type="submit" class="btn btn-outline-secondary btn-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Search</button>
+    </div>
 </form>
 
 <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
