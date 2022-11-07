@@ -155,3 +155,12 @@ After the restoration, the popularity of the Feldioara fortress grew exponential
 
 There are so many other things you can see, from fortified churches to medieval citadels, from charming cities and villages to wonderful nature, some we already know, others we can't wait to get to, but we will discover all of them on another occasion.
 
+<div class="row mb-4">
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" tall: true %}
+    </div>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" tall: true %}
+    </div>
+</div>
+
