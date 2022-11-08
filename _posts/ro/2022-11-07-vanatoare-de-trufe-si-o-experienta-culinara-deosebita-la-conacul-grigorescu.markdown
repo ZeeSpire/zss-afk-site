@@ -1,12 +1,12 @@
 ---
 layout: post.ro
 type: post
-title: Vanatoare de trufe si o experienta culinara deosebita la Conacul Grigorescu
-front_page_title: Vanatoare de trufe si o experienta culinara deosebita la Conacul Grigorescu
+title: Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu
+front_page_title: Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu
 published: 07 Noiembrie 2022
 last_modified_at: 07 Noiembrie 2022
 keywords: vanatoare de trufe, experienta culinara, Romania, travel, Transilvania, Conacul Grigorescu
-description: Inca de cand am vazut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus in plan sa ajungem la Conacul Grigorescu, entuziasmati fiind de ideea de Slow Food, de mancare buna facuta din ingrediente proaspete crescute organic, dar si din dorinta de a cunoaste oameni implicati si pasionati, pentru care ospitalitatea reprezinta un mod de viata, nu o afacere. Asadar in momentul in care Terra Carpatica - Conacul Grigorescu a anuntat pe pagina de Facebook ca organizeaza un weekend culinar dedicat vanatorii de trufe, nu am stat pe ganduri si am rezervat o camera.
+description: Încă de când am văzut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus în plan să ajungem la Conacul Grigorescu, entuziasmați fiind de ideea de Slow Food, de mâncare bună facută din ingrediente proaspete crescute organic, dar și din dorința de a cunoaște oameni implicați și pasionați, pentru care ospitalitatea reprezintă un mod de viață, nu o afacere. Așadar în momentul în care Terra Carpatica - Conacul Grigorescu a anunțat pe pagina de Facebook că organizează un weekend culinar dedicat vânătorii de trufe, nu am stat pe gânduri și am rezervat o cameră.
 categories: [RO, Transilvania, Romania, Calatorii]
 permalink: /ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/
 to-lang-permalink: /truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/
@@ -15,25 +15,25 @@ featured-image-top: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-Inca de cand am vazut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus in plan sa ajungem la Conacul Grigorescu, entuziasmati fiind de ideea de Slow Food, de mancare buna facuta din ingrediente proaspete crescute organic, dar si din dorinta de a cunoaste oameni implicati si pasionati, pentru care ospitalitatea reprezinta un mod de viata, nu o afacere. Asadar in momentul in care Terra Carpatica - Conacul Grigorescu a anuntat pe pagina de Facebook ca organizeaza un weekend culinar dedicat vanatorii de trufe, nu am stat pe ganduri si am rezervat o camera.
+Încă de când am văzut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus în plan să ajungem la Conacul Grigorescu, entuziasmați fiind de ideea de Slow Food, de mâncare bună facută din ingrediente proaspete crescute organic, dar și din dorința de a cunoaște oameni implicați și pasionați, pentru care ospitalitatea reprezintă un mod de viață, nu o afacere. Așadar în momentul în care Terra Carpatica - Conacul Grigorescu a anunțat pe pagina de Facebook că organizează un weekend culinar dedicat vânătorii de trufe, nu am stat pe gânduri și am rezervat o cameră.
 
-Incep prin a spune ca suntem deosebit de incantati de experienta de care am avut parte in ultimul weekend din acest calduros si secetos octombrie si cu greu as putea sa gasesc ceva negativ de spus despre aceasta. Totodata tin sa precizez ca toate recenziile sau articolele pe care le scriu sunt subiective, bazate pe experientele noastre dintr-un anumit moment temporal si nu suntem platiti sau rasplatiti in vreo forma pentru ceea ce scriem, despre filmarile pe care le publicam pe Youtube sau despre pozele pe care le postam pe Instagram. Tocmai de aceea atunci cand a fost cazul am specificat si ce anume nu mi-a placut la cazarea, restaurantul sau obiectivul turistic pe care le-am vizitat.
+Încep prin a spune că suntem deosebit de încântați de experiența de care am avut parte în ultimul weekend din acest călduros și secetos octombrie și cu greu aș putea să găsesc ceva negativ de spus despre aceasta. Totodată țin să precizez că toate recenziile sau articolele pe care le scriu sunt subiective, bazate pe experiențele noastre dintr-un anumit moment temporal și nu suntem plătiți sau răsplătiți în vreo formă pentru ceea ce scriem, pentru filmările pe care le publicăm pe Youtube sau pentru pozele pe care le postăm pe Instagram. Tocmai de aceea atunci când a fost cazul am specificat și ce anume nu mi-a plăcut la cazarea, restaurantul sau obiectivul turistic pe care le-am vizitat.
 
-Am ajuns vineri seara la destinatie: Conacul Grigorescu, sat Răteşti, comuna Berca, judetul Buzau. Din Bucuresti am facut in jur de doua ore si jumatate.
+Am ajuns vineri seară la destinație: Conacul Grigorescu, sat Răteşti, comuna Berca, județul Buzău. Din București am facut în jur de două ore și jumătate.
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1287.webp alt: "Conacul Grigorescu 01" %}
 
-Inca de cand am ajuns, am fost intampinati cu zambetul pe buze de gazda noastra, Thorsten, care ne-a prezentat conacul construit in 1930 si refacut dupa achizitionarea lui in 2011, dar si cladirile adiacente: casa Sophie, casa bunicii si casa Noelia unde am fost si noi cazati, in camera King. In cele 3 casute sunt astfel 5 apartamente care pot fi inchiriate, iar conacul este resedinta permanenta a familiei.  
+Încă de când am ajuns, am fost întâmpinați cu zâmbetul pe buze de gazda noastră, Thorsten, care ne-a prezentat conacul construit în 1930 și refăcut după achiziționarea lui în 2011, dar și clădirile adiacente: casa Sophie, casa bunicii și casa Noelia unde am fost și noi cazați, în camera King. În cele 3 căsuțe sunt astfel 5 apartamente care pot fi închiriate, iar conacul este resedința permanentă a familiei.  
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1323.webp alt: "Conacul Grigorescu 02" %}
 
-Dupa ce ne-am lasat bagajele in camera, am revenit in micutul restaurant, anexa a conacului, unde am fost intampinati cu palinca si lichior, precum si cu apa din partea casei. Servirea, pe tot parcursul sederii, a fost ireprosabila. Toti angajatii au fost mereu cu zambetul pe buze si gata sa ajute cu orice. Meniul a fost unul fix, stabilit de chef Juranda, insa am fost intrebati in avans daca avem restrictii alimentare. In meniul de bauturi am descoperit bauturi artizanale (cola, tonic, bere), sucuri naturale, limonada de casa, mied (bautura alcoolica din miere), vin de mure precum si alte vinuri produse in Dealul Mare, renumita zona viticola.
+După ce ne-am lăsat bagajele în cameră, am revenit în micuțul restaurant, anexă a conacului, unde am fost întâmpinați cu palincă și lichior, precum și cu apă din partea casei. Servirea, pe tot parcursul șederii, a fost ireproșabilă. Toți angajații au fost mereu cu zâmbetul pe buze și gata să ajute cu orice. Meniul a fost unul fix, stabilit de chef Juranda, însă am fost întrebați în avans dacă avem restricții alimentare. În meniul de băuturi am descoperit băuturi artizanale (cola, tonic, bere), sucuri naturale, limonadă de casă, mied (băutură alcoolică din miere), vin de mure precum și alte vinuri produse în Dealul Mare, renumita zonă viticolă.
 
-Cina a constat in trei aperitive, fel principal si desert si a fost nemaipomenita de la un capat la celalalt. 
+Cina a constat în trei aperitive, fel principal și desert și a fost nemaipomenită de la un capăt la celălalt. 
 
-Asadar am inceput cu o tarta rustica pe baza de oua, branza de capra, praz si bacon. Am continuat cu rulouri de vinete umplute cu mozzarella si busuioc, stropite cu sos de rosii si apoi bagate la cuptor. Iar cel de-al treilea aperitiv a constat in gogosi cu dovlecei si sos de iaurt cu menta si sumac. Toate au fost aromate si usoare si mi-am promis ca voi incerca si eu sa le recreez acasa.
+Așadar am început cu o tartă rustică pe bază de ouă, brânză de capră, praz și bacon. Am continuat cu rulouri de vinete umplute cu mozzarella și busuioc, stropite cu sos de roșii și apoi băgate la cuptor. Iar cel de-al treilea aperitiv a constat în gogoși cu dovlecei și sos de iaurt cu mentă și sumac. Toate au fost aromate și ușoare și mi-am promis ca voi încerca și eu să le recreez acasă.
 
-Felul principal a fost un muschiulet fraged de porc in reductie de Feteasca Neagra cu mirodenii, placinta de cartofi cu branza de capra si verdeturi si salata de baby spanac, rucola, sfecla razuita, seminte si sos de iaurt. Carnea a fost perfecta, iar salata a fost proaspata si aromata si a mers de minune alaturi de placinta de cartofi rustica.
+Felul principal a fost un muschiuleț fraged de porc în reducție de Fetească Neagră cu mirodenii, plăcintă de cartofi cu brânză de capră și verdețuri și salată de baby spanac, rucola, sfeclă răzuită, semințe și sos de iaurt. Carnea a fost perfectă, iar salata a fost proaspătă și aromată și a mers de minune alături de placinta de cartofi rustică.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
@@ -53,19 +53,19 @@ Felul principal a fost un muschiulet fraged de porc in reductie de Feteasca Neag
     </div>
 </div>
 
-La desert am primit un cheesecake cu espresso pe blat de biscuite de casa cu unt si sirop de artar, cu un ganache de ciocolata cu 85% cacao si un sirop de zmeura facut cu zmeura din gradina. Doamne Dumnezeule! A fost cel mai bun cheesecake gustat vreodata si nici macar nu semana cu alte cheesecake-uri incercate de noi datorita blatului de biscuiti care a fost efectiv altceva, nu acel blat folosit de obicei din biscuiti amestecati cu mult zahar si uleiuri vegetale.
+La desert am primit un cheesecake cu espresso pe blat de biscuite de casă cu unt și sirop de arțar, cu ganache de ciocolată cu 85% cacao și un sirop de zmeură făcut cu zmeură din grădină. Doamne Dumnezeule! A fost cel mai bun cheesecake gustat vreodată și nici măcar nu semăna cu alte cheesecake-uri încercate de noi datorită blatului de biscuiți care a fost efectiv altceva, nu acel blat folosit de obicei din biscuiți amestecați cu mult zahăr și uleiuri vegetale.
 
-Dupa fiecare preparat, chef Juranda ne-a intrebat daca suntem multumiti si daca totul a fost in regula. Da, da, da! De trei ori da!
+După fiecare preparat, chef Juranda ne-a întrebat dacă suntem mulțumiți și dacă totul a fost în regulă. Da, da, da! De trei ori da!
 
-Am inceput ziua de sambata cu un mic dejun bazat pe produse locale, majoritatea facute chiar la conac de gazdele noastre. Am putut alege dintre branzeturi cu diverse arome (inclusiv lavanda), babic, sunculita, prosciutto, legume proaspete, pate de casa, zacusca cu trufe, oua de prepelita, gemuri, prajituri si paine proaspata.
+Am început ziua de sâmbătă cu un mic dejun bazat pe produse locale, majoritatea făcute chiar la conac de gazdele noastre. Am putut alege dintre brânzeturi cu diverse arome (inclusiv lavandă), babic, șunculiță, prosciutto, legume proaspete, pate de casă, zacuscă cu trufe, ouă de prepeliță, gemuri, prăjituri și pâine proaspătă.
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1377.webp alt: "Conacul Grigorescu 03" %}
 
-Apoi ne-am reunit cu totii in fata conacului, ni s-a facut instructajul, ne-am suit in cele doua microbuze puse la dispozitie de catre gazde si am plecat spre padure in cautare de trufe. Cautarea de trufe a fost condusa de catre doi profesionisti alaturi de cateii lor dresati special in acest scop. Pe langa experienta in sine care ni s-a parut foarte interesanta, ne-am putut bucura de plimbarea propriu-zisa prin padure intr-o zi splendida de octombrie. Frunzele cazute formau un covor fosnitor care m-a dus cu gandul la un rau de caramel. Copacii aveau bolta in nuante calde de auriu, ciocolatiu, chihlimbariu, ruginiu. Cerul era senin. Cateii alergau zglobiu de colo-colo si ii mai vedeai scobind concentrati la radacina cate unui copac. Noi ne duceam repede sa vedem ce au gasit. Uneori era o trufa mica-mica infulecata rapid de catel, alteori trufa era mare si catelul o lasa in mana stapanului asteptandu-si nerabdator rasplata.
+Apoi ne-am reunit cu toții în fața conacului, ni s-a făcut instructajul, ne-am suit în cele două microbuze puse la dispoziție de către gazde și am plecat spre pădure în căutare de trufe. Căutarea de trufe a fost condusă de către doi profesioniști alături de cățeii lor dresați special în acest scop. Pe lângă experiența în sine care ni s-a părut foarte interesantă, ne-am putut bucura de plimbarea propriu-zisă prin pădure într-o zi splendidă de octombrie. Frunzele căzute formau un covor foșnitor care m-a dus cu gândul la un râu de caramel. Copacii aveau bolta în nuanțe calde de auriu, ciocolatiu, chihlimbariu, ruginiu. Cerul era senin. Cățeii alergau zglobiu de colo-colo și îi mai vedeai scobind concentrați la rădăcina câte unui copac. Noi ne duceam repede să vedem ce au găsit. Uneori era o trufă mică-mică înfulecată rapid de cățel, alteori trufa era mare și cățelul o lăsa în mâna stăpânului așteptându-și nerăbdător răsplata.
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1421.webp alt: "Truffle hunting 04" %}
 
-Trufele sunt ciuperci care traiesc in simbioza cu un arbore. Prin urmare nu iti poti face crescatorie de trufe decat daca plantezi o padure. Pentru a creste, ca orice ciuperca, au nevoie de caldura si de umiditate. Acestea traiesc la radacina copacului, in pamant, si a fost nevoie sa dezvolte un miros puternic pentru a atrage animalele astfel incat sa se poata reproduce prin spori. Am tot mirosit trufele gasite si intr-adevar au un miros destul de puternic chiar si pentru nasul meu uman. Fara un caine antrenat este aproape imposibil sa gasesti trufe in padure.
+Trufele sunt ciuperci care trăiesc în simbioză cu un arbore. Prin urmare nu îți poți face crescătorie de trufe decât dacă plantezi o pădure. Pentru a crește, ca orice ciupercă, trufele au nevoie de căldură și de umiditate. Acestea trăiesc la rădăcina copacului, în pământ, și a fost nevoie să dezvolte un miros puternic pentru a atrage animalele astfel încât să se poată reproduce prin spori. Am tot mirosit trufele găsite și într-adevar au un miros destul de puternic chiar și pentru nasul meu uman. Însă fără un câine antrenat este aproape imposibil să găsești trufe în pădure.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
@@ -79,19 +79,19 @@ Trufele sunt ciuperci care traiesc in simbioza cu un arbore. Prin urmare nu iti 
     </div>
 </div>
 
-Toate cele cinci familii participante au primit trufe pe masura ce acestea erau gasite, doar ca unele familii au primit doar o trufa, in timp ce altele au primit patru. Cred ca era mai bine sa fi existat un insotitor desemnat cu strangerea de trufe intr-un cos, iar la final fiecare familie sa primeasca o trufa din cele gasite. 
+Toate cele cinci familii participante au primit trufe pe măsură ce acestea erau găsite, doar că unele familii au primit doar o trufă, în timp ce altele au primit patru. Cred că era mai bine să fi existat un însotițor desemnat cu strângerea de trufe într-un coș, iar la final fiecare familie să primească o trufă din cele găsite. 
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1394.webp alt: "Truffle hunting 05" %}
 
-Dupa aceasta plimbare care nu a durat mai mult de doua ore si jumatate, ne-am intors la microbuze unde am avut parte de un picnic in padure. Am ciocnit un paharel de palinca sau lichior dupa preferinta si am gustat din mancarurile pregatite cu grija de chef Juranda: salata orientala, mini-snitele din piept de pui, mini-burgeri cu pulled pork si platouri cu fel de fel de mezeluri. Efectiv ne-am ghiftuit.
+După această plimbare care nu a durat mai mult de două ore și jumătate, ne-am întors la microbuze unde am avut parte de un picnic în pădure. Am ciocnit un păhărel de palincă sau lichior după preferință și am gustat din mâncărurile pregătite cu grijă de chef Juranda: salată orientală, mini-șnițele din piept de pui, mini-burgeri cu pulled pork și platouri cu fel de fel de mezeluri. Efectiv ne-am ghiftuit.
 
-Intorsi la conac am avut cateva ore la dispozitie sa ne odihnim inainte de a participa la una din cele mai memorabile cine din viata noastra. Am stat la o masa lunga alaturi de ceilalti oaspeti, atmosfera a fost una prietenoasa si relaxata, dar in acelasi timp sobra si pretioasa, masa a fost asezata impecabil cu pahare de vin, carafe cu apa si farfurii frumoase. 
+Întorși la conac am avut câteva ore la dispoziție să ne odihnim înainte de a participa la una din cele mai memorabile cine din viața noastră. Am stat la o masă lungă alături de ceilalți oaspeți, atmosfera a fost una prietenoasă și relaxată, dar în același timp sobră și prețioasă, masa a fost așezată impecabil cu pahare de vin, carafe cu apa și farfurii frumoase. 
 
-Am avut un invitat special, [Liviu Birceanu](https://www.facebook.com/people/Somelier-Buzau/100012366731915/){:target="_blank"}, singurul somelier din Buzau, care actualmente lucreaza la [crama Budureasca](https://budureasca.ro/){:target="_blank"}.  El a avut misiunea de a gasi vinul potrivit pentru fiecare din cele cinci preparate cu trufe pe care le-am avut in meniu. Ca de obicei, chef Juranda si-a facut aparitia dupa fiecare fel de mancare pentru a ne prezenta ce urmeaza sa degustam, dar si ca sa ne intrebe daca totul a fost bine. Evident ca totul a fost nemaipomenit de bine. Somelierul ne-a incantat pe tot parcursul cinei cu informatii despre vinuri, dar si cu glume si alte povesti suculente.
+Am avut un invitat special, [Liviu Birceanu](https://www.facebook.com/people/Somelier-Buzau/100012366731915/){:target="_blank"}, singurul somelier din Buzău, care actualmente lucrează la [crama Budureasca](https://budureasca.ro/){:target="_blank"}.  El a avut misiunea de a găsi vinul potrivit pentru fiecare din cele cinci preparate cu trufe pe care le-am avut în meniu. Ca de obicei, chef Juranda și-a făcut apariția după fiecare fel de mâncare pentru a ne prezenta ce urmează să degustăm, dar și ca să ne întrebe dacă totul a fost bine. Evident că totul a fost nemaipomenit de bine. Somelierul ne-a încântat pe tot parcursul cinei cu informații despre vinuri, dar și cu glume și alte povești suculente.
 
-Mi-as fi dorit sa pot retine ce vin am gustat la fiecare preparat in parte, insa imi aduc aminte doar ca am inceput cu un Fume Blanc despre care ni s-a zis ca se potriveste la orice. Apoi am fost prea prinsa in povesti si preparate delicioase ca sa mai fiu atenta si la ce vin am in pahar. La un moment dat stiu ca am avut un Shiraz pentru ca a fost o dezbatere referitoare la pronuntie. Se pare ca pronuntia australiana a castigat deoarece ei sunt acum in top cu acest tip de vin.
+Ne-am fi dorit să putem reține ce vin am gustat la fiecare preparat în parte, însă știm doar că am început cu un Fume Blanc despre care ni s-a zis că se potrivește la orice. Apoi am fost prea prinși în povești și preparate delicioase ca să mai fim atenți și la ce vin avem în pahar. La un moment dat, am avut un Shiraz pentru că a fost o dezbatere referitoare la pronunție. Se pare că pronunția australiană a câștigat deoarece ei sunt acum în top cu acest tip de vin.
 
-Am inceput asadar cina cu cele trei aperitive: cappuccino de ciuperci cu spuma de albus de ou si paine prajita, urmat de conopida gratinata marinata in ulei de masline si mirodenii cu gorgonzolla dulce cu trufe si o reductie de vin alb la baza, presarata pe deasupra cu pesmet facut din paine prajita cu usturoi, cimbru si patrunjel, incheind cu un carpaccio de vita cu o crema cu trufe si salata de rucola cu branza de capra.
+Am început așadar cina cu cele trei aperitive: cappuccino de ciuperci cu spumă de albuș de ou și pâine prăjită, urmat de conopidă gratinată marinată în ulei de măsline și mirodenii cu gorgonzola dulce cu trufe și o reducție de vin alb la bază, presărată cu pesmet făcut din pâine prăjită cu usturoi, cimbru și pătrunjel, încheind cu un carpaccio de vită cu o cremă cu trufe și salată de rucola cu brânză de capră.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
@@ -111,17 +111,17 @@ Am inceput asadar cina cu cele trei aperitive: cappuccino de ciuperci cu spuma d
     </div>
 </div>
 
-Ca fel principal am avut ribeye de vita gatit fiecare cum a dorit (noi am cerut medium-well) cu mamaliga cu trufe, sos pe baza de branza cu trufe, para posata in Feteasca Neagra si salata. Desertul a constat intr-o savarina dulce si insiropata cu urda frecata cu trufe in loc de frisca. Dupa asemenea delicatese as fi aplaudat si din urechi daca mi-ar fi permis anatomia.
+Ca fel principal am avut ribeye de vită gătit fiecare cum a dorit (noi am cerut medium-well) cu mămăligă cu trufe, sos pe bază de brânză cu trufe, pară poșată în Fetească Neagră și salată. Desertul a constat într-o savarină dulce și însiropată cu urdă frecată cu trufe în loc de frișcă. După asemenea delicatese aș fi aplaudat și din urechi dacă mi-ar fi permis anatomia.
 
-Duminica, gazdele noastre ne-au pregatit iar ceva deosebit - un brunch. Am avut la dispozitie aceleasi preparate ca la micul dejun de sambata la care s-au adaugat multe alte preparate care mai de care mai imbietoare: fasole facaluita, spring rolls, placintele cu carne, tarta cu spanac si branza, carnati Plescoi cu mamaliguta. Dar piesa de rezistenta a fost tortul cu morcovi cu crema fina de unt cu portocala care a mers nemaipomenit de bine alaturi de cafeaua de dimineata.
+Duminică, gazdele noastre ne-au pregătit iar ceva deosebit - un brunch. Am avut la dispoziție aceleași preparate ca la micul dejun de sâmbătă la care s-au adăugat multe alte preparate care mai de care mai îmbietoare: fasole făcăluită, spring rolls, plăcințele cu carne, tartă cu spanac și brânză, cârnați Pleșcoi cu mămăliguță. Dar piesa de rezistență a fost tortul cu morcovi cu cremă fină de unt cu portocală care a mers nemaipomenit de bine alături de cafeaua de dimineață.
 
-Cu zambetul pe buze si cu doua kilograme in plus (nu glumesc!), am pornit-o in drum spre casa nu inainte de a cumpara cateva borcane cu zacusca si dulceturi produse tot de chef Juranda sub eticheta ["Rafineturi"](https://www.rafineturi.ro/){:target="_blank"}, dar si doua borcane de catina cu miere de la [Melinis](https://melinis.ro/){:target="_blank"}.
+Cu zâmbetul pe buze și cu două kilograme în plus (nu glumesc!), am pornit-o la drum spre casă nu înainte de a cumpăra câteva borcane cu zacuscă și dulcețuri produse tot de chef Juranda sub eticheta ["Rafinețuri"](https://www.rafineturi.ro/){:target="_blank"}, dar și două borcane de cătină cu miere de la [Melinis](https://melinis.ro/){:target="_blank"}.
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1633.webp alt: "Rafineturi" %}
 
-Am vizitat si manastirea Ratesti si dealurile din zona. Insa ca activitate extra as recomanda Fierbatorile de la Berca, aflate la doar 6 km de conac, unde am gasit acelasi peisaj selenar ca la [Paclele Mari si Paclele Mici](/ro/vulcanii-noroiosi-judetul-buzau-romania/){:target="_blank"}.
+Am vizitat și mânăstirea Rătești și dealurile din zonă. Însă ca activitate extra aș recomanda Fierbătorile de la Berca, aflate la doar 6 km de conac, unde am găsit același peisaj selenar ca la [Pâclele Mari și Pâclele Mici](/ro/vulcanii-noroiosi-judetul-buzau-romania/){:target="_blank"}.
 
-A fost o experienta foarte frumoasa de care ne-am bucurat din tot sufletul, pe care o recomandam oricui ar vrea sa o incerce si le multumim din inima Jurandei si lui Thorsten. De abia asteptam sa revenim la Conacul Grigorescu.
+Întregul weekend a reprezentat o experiență foarte frumoasă de care ne-am bucurat din tot sufletul, pe care o recomandăm oricui ar vrea să o încerce și le mulțumim din inimă Jurandei și lui Thorsten. De abia așteptăm să revenim la Conacul Grigorescu.
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
