@@ -38,8 +38,7 @@ description: Contact AFKology, send us an email
   <br />
   <hr /> -->
   <div class="text-center pb-2">
-    For collaborations or PR enquiries, please contact us at:
-    <br />    <br />
+    Contact:
     <h3>office@afkology.com</h3>
   </div>
 

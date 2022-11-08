@@ -38,8 +38,7 @@ description: Contact AFKology
   <br />
   <hr /> -->
   <div class="text-center pb-2">
-    Pentru colaborari ne puteti contacta la adresa de e-mail:
-    <br />    <br />
+    Contact:
     <h3>office@afkology.com</h3>
   </div>
 
