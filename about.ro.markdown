@@ -19,11 +19,10 @@ De cele mai multe ori, când nu dormim, suntem online, de obicei dezvoltând sof
 
 #### Contact
 
-  <div class="text-center pb-2">
-    Pentru colaborari ne puteti contacta la adresa de e-mail:
-    <br />    <br />
+<div class="text-center pb-2">
+    Contact:
     <h3>office@afkology.com</h3>
-  </div>
+</div>
 
   <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">

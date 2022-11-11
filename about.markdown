@@ -19,11 +19,10 @@ description: Who are we? The most precious moments in life happen offline.
 
 #### Contact
 
- <div class="text-center pb-2">
-    For collaborations or PR enquiries, please contact us at:
-    <br />    <br />
+<div class="text-center pb-2">
+    Contact:
     <h3>office@afkology.com</h3>
-  </div>
+</div>
 
   <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
