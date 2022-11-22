@@ -12,7 +12,7 @@ permalink: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/
 permalink-to-next-language: /art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition/
 featured-image: 
 featured-image-top: 
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656776555/art-safari/art-safari-1_eaht3h.webp" # width - 600
+featured-image-home: "/assets/resized/IMG_20221120_121702-600x600.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 Art Safari, celebra expoziție de artă din capitala României, a ajuns la cea de-a zecea ediție.
@@ -21,15 +21,7 @@ După vizitarea ediției cu numărul 9, despre care poți afla mai multe informa
 
 Așadar am fost weekendul trecut la Art Safari organizat și de această dată în incinta Palatului Dacia-România din strada Lipscani.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1656776680/art-safari/art-safari-2_n4ypzf.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1656776680/art-safari/art-safari-2_n4ypzf.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1656776680/art-safari/art-safari-2_n4ypzf.webp" class="img-fluid img-thumbnail" alt="Art Safari 001" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/art-safari-2/palatul-dacia-romania.webp alt: "Palatul Dacia Romania 1" %}
 
 Cele cinci expoziții sunt:
 
@@ -50,33 +42,9 @@ Pavilionul internațional
 
 **Korean Beauty in Poster Art**  <br />
 Pavilionul internațional
-<!-- gallery -->
-<div class="row mb-4">
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765898834_e7sitf.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656764973819_e30uha.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765409878_ja19oj.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-</div>
+
+{% responsive_image path: assets/images/posts/art-safari-2/art-safari-2.webp alt: "Art Safari 10th Edition 1" %}
+{% responsive_image path: assets/images/posts/art-safari-2/art-safari.webp alt: "Art Safari 10th Edition 2" %}
 
 Nu suntem experți sau cunoscători, dar nouă ne-a plăcut mai mult ediția 9. Cred că din cadrul ediției cu numărul 10, expoziția preferată a fost Ștefan Popescu - Povestea călătoriilor.
 
@@ -86,30 +54,13 @@ Noi am optat, ca data trecută, pentru biletul cu acces de o zi la cele cinci ex
 
 Așteptăm cu interes ediția 11.
 
-<!-- gallery -->
+{% responsive_image path: assets/images/posts/art-safari-2/art-safari-3.webp alt: "Art Safari 10th Edition 3" %}
+
 <div class="row mb-4">
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776890/art-safari/art-safari-5_itnoc3.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776890/art-safari/art-safari-5_itnoc3.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776890/art-safari/art-safari-5_itnoc3.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-4.webp alt: "Art Safari 10th Edition 4" tall: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776891/art-safari/art-safari-6_n1hl2f.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776891/art-safari/art-safari-6_n1hl2f.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776891/art-safari/art-safari-6_n1hl2f.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776889/art-safari/art-safari-4_cbkvpt.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776889/art-safari/art-safari-4_cbkvpt.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776889/art-safari/art-safari-4_cbkvpt.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" tall: true %}
     </div>
 </div>
