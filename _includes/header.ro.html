@@ -112,8 +112,8 @@
               style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
                 src="{{ site.logo }}" alt="{{ site.title }}" /></a>
 
-            {% if page.to-lang-permalink %} 
-              <a class="hide-on-collapse" href="{{ page.to-lang-permalink }}">
+            {% if page.permalink-to-next-language %} 
+              <a class="hide-on-collapse" href="{{ page.permalink-to-next-language }}">
             {% else %}
               <a class="hide-on-collapse" href="/">
             {% endif %}
@@ -170,8 +170,8 @@
                 </li>
                 {% endif %}
               </ul>
-              {% if page.to-lang-permalink %} 
-              <a class="ps-4 mb-2" href="{{ page.to-lang-permalink }}">
+              {% if page.permalink-to-next-language %} 
+              <a class="ps-4 mb-2" href="{{ page.permalink-to-next-language }}">
               {% else %}
               <a class="ps-4 mb-2" href="/">
               {% endif %}

@@ -8,7 +8,8 @@ last_modified_at: 16 November 2021
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
 categories: [EN, Travel, Romania]
-to-lang-permalink: /ro/satele-magura-si-pestera-din-brasov-romania/
+permalink: /magura-and-pestera-villages-brasov-county-romania/
+permalink-to-next-language: /ro/satele-magura-si-pestera-din-brasov-romania/
 featured-image: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # full size
 featured-image-top: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # width - 1200
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600

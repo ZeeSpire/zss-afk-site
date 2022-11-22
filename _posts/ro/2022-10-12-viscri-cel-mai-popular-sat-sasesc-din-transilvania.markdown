@@ -9,7 +9,7 @@ keywords: Viscri, Transilvania, Romania, calatorii, Mesendorf
 description: Acest sat săsesc pitoresc a devenit cunoscut în întreaga lume în ultimii 20 de ani datorită regelui Charles al III-lea, care s-a îndrăgostit de viața rurală neatinsă pe care a găsit-o aici. În 2006, fostul Prinț de Wales a cumpărat o proprietate în Viscri, care servește acum drept centru de meșteșuguri tradiționale. Acesta a fost începutul renașterii satului, oferindu-le sătenilor posibilitatea de a arăta miilor de turiști care vizitează satul în fiecare an, viața reală la țară precum și meșteșugurile lor. Charles s-a implicat enorm în păstrarea autenticității arhitecturale, precum și în protejarea comorilor naturale ale acestei zone, pentru care românii sunt veșnic crirecunoscători și îl iubesc pe rege enorm.
 categories: [RO, Transilvania, Romania, Calatorii]
 permalink: /ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/
-to-lang-permalink: /viscri-the-most-popular-saxon-village-in-transylvania/
+permalink-to-next-language: /viscri-the-most-popular-saxon-village-in-transylvania/
 featured-image: "/assets/images/posts/viscri/viscri-top-16x9.webp" # full size
 featured-image-top: "/assets/resized/viscri-top-16x9-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600

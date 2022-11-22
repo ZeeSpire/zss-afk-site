@@ -8,6 +8,8 @@ last_modified_at: 28 December 2021
 keywords: copenhagen, denmark, trip, visit, stay
 description: Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor ...
 categories: [EN, Travel, Denmark]
+permalink: /tips-for-visiting-copenhagen-for-the-first-time/
+permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 600

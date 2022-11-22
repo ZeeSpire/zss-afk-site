@@ -1,20 +1,24 @@
 ---
 layout: post.en
 type: post
-title: Art Safari - a temporary art exhibition in Bucharest - 9th edition
-front_page_title: Art Safari - a temporary art exhibition in Bucharest - 9th edition
-published: 02 July 2022
-last_modified_at: 02 July 2022
+title: Art Safari - a temporary art exhibition in Bucharest - 10th edition
+front_page_title: Art Safari - a temporary art exhibition in Bucharest - 10th edition
+published: 22 November 2022
+last_modified_at: 22 November 2022
 keywords: bucharest, art, romania, museum, exhibition, art, safari
-description: Art Safari - a temporary art exhibition in Bucharest
+description: Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.
 categories: [EN, Art, Romania, Bucharest, Museum]
-permalink-to-next-language: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/
+permalink-to-next-language: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/
 featured-image: 
 featured-image-top: 
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656776555/art-safari/art-safari-1_eaht3h.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-We went to Art Safari today for the first time, although the event has reached its ninth edition this year. After today we will probably try to go to every edition. Visiting Art Safari is a good way to spend a few quality hours on the weekends. 
+Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.
+
+After visiting the ninth edition, about which you can find out more information [here](/art-safari-a-temporary-art-exhibition-in-bucharest/) we set out to reach in the next editions or at least to try.
+
+So last weekend we went to Art Safari housed in the Dacia-România Palace in Lipscani street.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -26,27 +30,25 @@ We went to Art Safari today for the first time, although the event has reached i
     </a>
 </div>
 
-For the ninth edition, there are 5 different exhibitions that can be visited until August 7, 2022. 
+The 5 exhibitions are:
 
-**Theodor Aman (1831 – 1891)** <br />
-**First Modern Romanian Artist**<br />
-Museum Pavilion 
+**Ștefan Popescu** <br />
+**Travel stories**<br />
+Romanian pavilion
 
-**Picasso, Dalí & Falla.**  <br />
-**Le Tricorne**  <br />
-Central Pavilion 
+**Mihai Mureșan**  <br />
+**Small things**  <br />
+Romanian pavilion
 
-**Irina Dragomir**  <br />
-**Red, Yellow and Blue**   <br />
-Contemporary Pavilion 
+**Lilian Theil**  <br />
+**A smiling old woman**   <br />
+Romanian pavilion 
 
-**Marcel Iancu**  <br />
-**Reconstructing the Arts. Romania - Israel**   <br />
-Invited Pavilion 
+**Seeking Truth: The Art of John Constable**  <br />
+International pavilion 
 
-**Barbara Klemm**  <br />
-**Light and Dark. Photographs from Germany**   <br />
-Anniversary Pavilion 
+**Korean Beauty in Poster Art**  <br />
+International pavilion 
 <!-- gallery -->
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
@@ -75,15 +77,13 @@ Anniversary Pavilion
     </div>
 </div>
 
-The tickets can also be purchased online from [here](https://tickets.artsafari.ro/e?lang=en){:target="_blank"}. At the time of writing this article, a day access ticket costs 80 lei (16 euros), and a night tour costs 130 lei (26 euros). 
+We are no experts or connoisseurs, but we liked the ninth edition more. I think that from the tenth edition, our favorite exhibition was Ștefan Popescu - Travel stories.
 
-Art Safari is temporarily housed in the superb Dacia-Romania Palace on Lipscani Street, a historic space built in the late 1890s. 
+You can go to Art Safari 10th edition from September 23 to December 11, 2022. There are several types of tickets. Details about ticket types [here](https://tickets.artsafari.ro/e?lang=ro){:target="_blank"}.
 
-We went there wanting to see Theodor Aman's artwork which did not disappoint, but we were also pleasantly surprised by Irina Dragomir's first solo exhibition. 
+We opted, as last time, for the ticket with one-day access to all five exhibitions. I bought the tickets on Black Friday with a 50% discount, the full price of a ticket being 120 RON (24 EUR), 50% more than the previous edition.
 
-The exhibits are very well highlighted due to the special lighting, but the descriptions of the artworks are hardly visible in low light, this is something that can be improved. Other than that, we only have words of praise. 
-
-Update: We also visited 10th edition. Check it out [here](/art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition/).
+We look forward to the 11th edition.
 
 <!-- gallery -->
 <div class="row mb-4">

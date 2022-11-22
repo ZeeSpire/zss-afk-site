@@ -9,7 +9,7 @@ keywords: mancare, romania, fine dining, experiente, calatorii, vin, degustare d
 description: Cum sa iti petreci un weekend la o crama in zona Dealu Mare din judetul Buzau. Degustare de vinuri.
 categories: [RO, Vin, Romania, Calatorii, Dealu Mare, Degustare de vinuri]
 permalink: /ro/crama-apogeum/
-to-lang-permalink: /apogeum-winery/
+permalink-to-next-language: /apogeum-winery/
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r_znfawp.webp" # width - 600

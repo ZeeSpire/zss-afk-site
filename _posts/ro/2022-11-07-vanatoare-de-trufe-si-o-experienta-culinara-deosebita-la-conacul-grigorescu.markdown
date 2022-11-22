@@ -9,7 +9,7 @@ keywords: vanatoare de trufe, experienta culinara, Romania, travel, Transilvania
 description: Încă de când am văzut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus în plan să ajungem la Conacul Grigorescu, entuziasmați fiind de ideea de Slow Food, de mâncare bună facută din ingrediente proaspete crescute organic, dar și din dorința de a cunoaște oameni implicați și pasionați, pentru care ospitalitatea reprezintă un mod de viață, nu o afacere. Așadar în momentul în care Terra Carpatica - Conacul Grigorescu a anunțat pe pagina de Facebook că organizează un weekend culinar dedicat vânătorii de trufe, nu am stat pe gânduri și am rezervat o cameră.
 categories: [RO, Transilvania, Romania, Calatorii]
 permalink: /ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/
-to-lang-permalink: /truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/
+permalink-to-next-language: /truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/
 featured-image: "/assets/images/posts/grigorescu/IMG_1546.webp" # full size
 featured-image-top: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600

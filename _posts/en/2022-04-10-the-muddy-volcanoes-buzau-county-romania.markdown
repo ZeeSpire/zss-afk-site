@@ -8,7 +8,8 @@ last_modified_at: 10 April 2022
 keywords: muddy, volcanoes, romania, buzau
 description: Visiting the muddy volcanoes in Buzau County, Romania.
 categories: [EN, Travel, Romania]
-to-lang-permalink: /ro/vulcanii-noroiosi-judetul-buzau-romania/
+permalink: /the-muddy-volcanoes-buzau-county-romania/
+permalink-to-next-language: /ro/vulcanii-noroiosi-judetul-buzau-romania/
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" # width - 600

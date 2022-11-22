@@ -9,7 +9,7 @@ keywords: noroiosi, vulcanii, romania, buzau
 description: Vizita la vulcanii noroiosi din judetul Buzau.
 categories: [RO, Romania, Calatorii]
 permalink: /ro/vulcanii-noroiosi-judetul-buzau-romania/
-to-lang-permalink: /the-muddy-volcanoes-buzau-county-romania/
+permalink-to-next-language: /the-muddy-volcanoes-buzau-county-romania/
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" # width - 600
