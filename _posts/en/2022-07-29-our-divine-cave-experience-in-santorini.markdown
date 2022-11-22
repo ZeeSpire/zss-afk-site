@@ -8,6 +8,8 @@ last_modified_at: 29 July 2022
 keywords: Santorini, Divine Cave Experience, accomodation, Greece, Imerogigli
 description: Divine Cave Experience is a hotel located in Imerovigli right next to the trailing path that leads to Oia and was inaugurated in 2021 which makes it a rather new hotel, with only nine rooms. 
 categories: [EN, Santorini, Greece, Travel, Food]
+permalink: /our-divine-cave-experience-in-santorini/
+permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1659197612/2022-divine/0_jp5koh.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1659197612/2022-divine/0_jp5koh.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1659197612/2022-divine/0_jp5koh.webp" # width - 600

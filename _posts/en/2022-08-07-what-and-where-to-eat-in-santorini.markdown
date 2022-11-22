@@ -8,6 +8,8 @@ last_modified_at: 07 August 2022
 keywords: greek food, santorinian salad, fava, souflaki
 description: There is nothing more pleasant than spending quality time with your loved ones and sharing several simple and tasty dishes such as Greek salad, Kalamata olives, pita with tzatziki, eggplant salad, vegetable frittes, and fried squid or french fries with feta cheese.
 categories: [EN, Santorini, Greece, Travel, Food]
+permalink: /what-and-where-to-eat-in-santorini/
+permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1659880741/2022-santorini/e2-IMG_20210708_161422_uf6pbd.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1659880741/2022-santorini/e2-IMG_20210708_161422_uf6pbd.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1659880566/2022-santorini/first-just_home2_fimn34.webp" # width - 600

@@ -8,6 +8,7 @@ last_modified_at: 22 November 2022
 keywords: bucharest, art, romania, museum, exhibition, art, safari
 description: Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.
 categories: [EN, Art, Romania, Bucharest, Museum]
+permalink: /art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition/
 permalink-to-next-language: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/
 featured-image: 
 featured-image-top: 

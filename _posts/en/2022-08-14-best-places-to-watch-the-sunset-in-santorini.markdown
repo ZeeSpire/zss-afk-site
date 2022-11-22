@@ -8,6 +8,8 @@ last_modified_at: 14 August 2022
 keywords: sunset, santorini, greece, oia, best places, food
 description: Best places to watch the sunset in Santorini, Katharos Beach, Oia, Imerovigli, Akrotiri Lighthouse
 categories: [EN, Santorini, Greece, Travel]
+permalink: /best-places-to-watch-the-sunset-in-santorini/
+permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1660490317/2022-sunset/e2-IMG_20210714_203245_stzjz0.jpg" # full size
 featured-image-top:
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1660490317/2022-sunset/e2-IMG_20210714_203245_stzjz0.webp" # width - 600
