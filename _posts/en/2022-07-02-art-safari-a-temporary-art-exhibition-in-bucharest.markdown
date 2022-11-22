@@ -8,6 +8,7 @@ last_modified_at: 02 July 2022
 keywords: bucharest, art, romania, museum, exhibition, art, safari
 description: Art Safari - a temporary art exhibition in Bucharest
 categories: [EN, Art, Romania, Bucharest, Museum]
+permalink: /art-safari-a-temporary-art-exhibition-in-bucharest/
 permalink-to-next-language: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/
 featured-image: 
 featured-image-top: 
