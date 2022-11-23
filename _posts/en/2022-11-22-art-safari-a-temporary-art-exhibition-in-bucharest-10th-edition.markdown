@@ -21,7 +21,7 @@ After visiting the ninth edition, about which you can find out more information 
 
 So last weekend we went to Art Safari housed in the Dacia-România Palace in Lipscani street.
 
-{% responsive_image path: assets/images/posts/art-safari-2/palatul-dacia-romania.webp alt: "Dacia Palace Romania 1" %}
+{% responsive_image path: assets/images/posts/art-safari-2/palatul-dacia-romania-light.webp alt: "Dacia Palace Romania 1" %}
 
 The 5 exhibitions are:
 
@@ -44,7 +44,7 @@ International pavilion
 International pavilion 
 
 {% responsive_image path: assets/images/posts/art-safari-2/art-safari-2.webp alt: "Art Safari 10th Edition 1" %}
-{% responsive_image path: assets/images/posts/art-safari-2/art-safari.webp alt: "Art Safari 10th Edition 2" %}
+{% responsive_image path: assets/images/posts/art-safari-2/art-safari-light.webp alt: "Art Safari 10th Edition 2" %}
 
 We are no experts or connoisseurs, but we liked the ninth edition more. I think that from the tenth edition, our favorite exhibition was Ștefan Popescu - Travel stories.
 
