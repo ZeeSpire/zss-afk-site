@@ -37,7 +37,7 @@ And we would have visited all of them if we stayed at least two weeks, but we ha
 
 It's very easy to get there. From Copenhagen Central Station you take the S-train (line A) to Hillerød Station. In 45 minutes, you'll arrive. 
 
-The train ticket is covered by Copenhagen Card. In this article, I've written more about [Copenhagen Card](/tips-for-visiting-copenhagen-for-the-first-time).
+The train ticket is covered by Copenhagen Card. In this article, I've written more about [Copenhagen Card](/tips-for-visiting-copenhagen-for-the-first-time/).
 
 Hillerød is approximately 35 km to the north of Copenhagen, and it is a charming little town with pedestrian streets full of shops, restaurants, and cafes.
 From Hillerød Station there is a 15 to 20 minutes walk to the castle (1.5 km). 

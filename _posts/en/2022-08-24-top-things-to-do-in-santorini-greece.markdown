@@ -101,7 +101,7 @@ There is a cliff jumping area as well. We didn't dare to jump, but it was fun wa
 </div>
   
 ## 3. Watch the sunset 
-It doesn’t matter where you watch the sunset from, it will paint some fantastic memories that you can carry in your heart. Santorini is a destination known for its beautiful sunsets. If you want to see my top 5 places where you can watch the Santorinian sunset from, check out this [article](/best-places-to-watch-the-sunset-in-santorini). 
+It doesn’t matter where you watch the sunset from, it will paint some fantastic memories that you can carry in your heart. Santorini is a destination known for its beautiful sunsets. If you want to see my top 5 places where you can watch the Santorinian sunset from, check out this [article](/best-places-to-watch-the-sunset-in-santorini/). 
   
 ## 4. Enjoy Santorini’s remarkable beaches  
 Because of the volcanic eruptions, you’ll find here some of the most interesting and apart beaches, like Vlychada for example. You can choose a boat tour and visit the Red Beach, the White Beach, and the Black Beach. We only went to the Red Beach by car and foot to snap some beautiful photos. Perissa and Perivolos are the most known beaches on this island, and there are sunbeds, tavernas, and shops. If you prefer a more secluded beach, go for Vourvoulos or Koloumpo. Bring your swimming shoes as most beaches are rocky. 
@@ -134,7 +134,7 @@ I highly recommend taking a boat tour and visiting Nea Kameni Volcanic Park. The
 The hiking trail it is more than 12 kilometers (about 7.46 mi) long so don’t forget your water. There are other hikes that you can do on the island, but this one is the most recommended by travel sites. Unfortunately, we couldn't do it because we went there in the middle of July, and it was too hot even in the morning. We couldn't get up at 5 AM when it was chillier. 
   
 ## 8. Taste locally grown vegetables and some of Santorini's famous dishes 
-Thanks to the nutrients from the volcanic soil, the veggies grown on the island are so flavorsome. You must try the Santorinian tomatoes, the "Katsuni" cucumber, the white eggplants, capers, and bell peppers. You can thank me later. While you are there don't miss the Santorinian Salad, the tomato fritters, and the local dish of fava. I dedicated an entire article to [what and where to eat in Santorini](/what-and-where-to-eat-in-santorini).  
+Thanks to the nutrients from the volcanic soil, the veggies grown on the island are so flavorsome. You must try the Santorinian tomatoes, the "Katsuni" cucumber, the white eggplants, capers, and bell peppers. You can thank me later. While you are there don't miss the Santorinian Salad, the tomato fritters, and the local dish of fava. I dedicated an entire article to [what and where to eat in Santorini](/what-and-where-to-eat-in-santorini/).  
   
 ## 9. Go for a wine tasting at one of Santorini’s Wineries 
 There are a lot of wineries and wine tasting tours that you can pick from. Don't forget to try the famous Vinsanto Wine made from sun-dried grapes.
@@ -202,7 +202,7 @@ There are other picturesque villages on the island that are not that popular amo
 </div> 
   
 ## 15. Stay in a cave hotel 
-Santorini is known for its luxurious cave-like hotels with pools or hot tubs from which you have a generous view over the caldera. Couples all over the world consider Santorini one of the best destinations for their honeymoon so it can be said that romance is floating in the air. Staying in an exquisite hotel can be an amazing experience on its own. Read about [our experience at Divine Cave](/our-divine-cave-experience-in-santorini) in Imerovigli. 
+Santorini is known for its luxurious cave-like hotels with pools or hot tubs from which you have a generous view over the caldera. Couples all over the world consider Santorini one of the best destinations for their honeymoon so it can be said that romance is floating in the air. Staying in an exquisite hotel can be an amazing experience on its own. Read about [our experience at Divine Cave](/our-divine-cave-experience-in-santorini/) in Imerovigli. 
   
 This was my list of things to do in Santorini. What do you think? Are there things worth mentioning that I haven't? Did you try or plan to try some of the things from this list? Interact with us on our Instagram account. Follow our hashtag to see our journey:  [#afkingreece](https://www.instagram.com/explore/tags/afkingreece/){:target="_blank"}. 
   

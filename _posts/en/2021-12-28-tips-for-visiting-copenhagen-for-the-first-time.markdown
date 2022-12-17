@@ -198,7 +198,7 @@ Or you can buy some beers and rent an electric boat for a ride on the canals as 
 5. We rediscovered our inner child in Tivoli Gardens amusement park, one of the oldest operating amusement parks in the world. 
 
 
-For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](/free-attractions-to-visit-in-copenhagen){:target="_blank"}. 
+For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](/free-attractions-to-visit-in-copenhagen/){:target="_blank"}. 
 
 The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.   
 
