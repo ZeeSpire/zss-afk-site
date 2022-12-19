@@ -83,6 +83,8 @@ Toate cele cinci familii participante au primit trufe pe măsură ce acestea era
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1394.webp alt: "Truffle hunting 05" %}
 
+Dacă vrei să afli mai multe despre vânătoarea de trufe, consultă [acest articol](/ro/despre-trufe-si-gasirea-lor/) care conține și linkul către videoclipul de pe youtube cu imagini din excursia noastră în pădure.
+
 După această plimbare care nu a durat mai mult de două ore și jumătate, ne-am întors la microbuze unde am avut parte de un picnic în pădure. Am ciocnit un păhărel de palincă sau lichior după preferință și am gustat din mâncărurile pregătite cu grijă de chef Juranda: salată orientală, mini-șnițele din piept de pui, mini-burgeri cu pulled pork și platouri cu fel de fel de mezeluri. Efectiv ne-am ghiftuit.
 
 Întorși la conac am avut câteva ore la dispoziție să ne odihnim înainte de a participa la una din cele mai memorabile cine din viața noastră. Am stat la o masă lungă alături de ceilalți oaspeți, atmosfera a fost una prietenoasă și relaxată, dar în același timp sobră și prețioasă, masa a fost așezată impecabil cu pahare de vin, carafe cu apa și farfurii frumoase. 

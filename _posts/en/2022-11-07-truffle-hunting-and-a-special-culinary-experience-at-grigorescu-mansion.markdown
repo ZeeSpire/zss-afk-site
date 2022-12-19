@@ -83,6 +83,8 @@ All five participating families received truffles as they were found, but some f
 
 {% responsive_image path: assets/images/posts/grigorescu/IMG_1394.webp alt: "Truffle hunting 05" %}
 
+If you are curious to find out more about truffle hunting, check out [this article](/about-truffles-and-how-to-find-them/) that also has the link to the youtube video with images from our excursion in the forest.
+
 After this walk, which did not last more than two and a half hours, we returned to the minibuses where we had a picnic in the forest. We had a glass of palinca or liqueur according to each one's preference and tasted the dishes carefully prepared by Chef Juranda: oriental salad, mini chicken breast schnitzels, mini burgers with pulled pork and platters with various types of charcuteries. We really binged. 
 
 Back at the mansion, we had a few hours to rest before attending one of the most memorable dinners of our lives. We sat at a long table with the other guests, the atmosphere was friendly and relaxed, but at the same time sober and precious, the table was set impeccably with wine glasses, water jugs, and beautiful plates. 
