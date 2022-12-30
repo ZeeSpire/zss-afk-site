@@ -18,19 +18,19 @@ featured-image-style: full-width # can be left, centered, full-width
 
 Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
  
-### Unde este Viscri
+## Unde este Viscri
  
 Viscri este un sat mic, în comuna Bunești, județul Brașov. Sunt 80 de kilometri de la Brașov până la Viscri și încă 45 de kilometri până la Cetatea Medievală Sighișoara. Drumurile erau bune când am mers acolo în octombrie 2022 și mijlocul nostru de transport preferat în România este întotdeauna mașina. De asemenea, mașina oferă libertatea de a explora alte puncte de interes din zonă, cum ar fi Cetatea Rupea, complexul geologic Racoș și alte sate încântătoare.
 
 De reținut este faptul că în Viscri a fost amenajată o parcare gratuită unde poți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că te rog să te gândești de două ori înainte de a parca în altă parte pentru că îți este prea lene să mergeți 500 de metri.
  
-### Când să vizitezi Viscri
+## Când să vizitezi Viscri
  
 Aș spune că fiecare anotimp are farmecul lui, dar dacă ar fi să fac o recomandare în această direcție, ar fi primăvara sau toamna când vremea este mai blândă. Iarna, poți avea ghinionul să prinzi zăpezi abundente și drumuri blocate. Vara, temperaturile pot depăși 30 de grade Celsius și, de asemenea, este mai greu să găsești cazare întrucât este vârf de sezon. Cu toate acestea, imaginează-ți cum ar fi să stai lângă sobă sau șemineu, sorbind dintr-o cană de vin fiert în timp ce afară ninge cu fulgi mari și totul este încremenit. Pun pariu că vrei să vizitezi Viscri iarna acum. Şi eu. Vara este de preferat dacă intenționezi să faci drumeții sau să observi flora bogată.
 
 {% responsive_image path: assets/images/posts/viscri/viscri-houses-on-the-road.webp alt: "Viscri, houses on the road" %}
  
-### Ce să faci în Viscri
+## Ce să faci în Viscri
  
 În primul rând, îmi imaginez că vrei să vizitezi satul săsesc pentru a experimenta viața la țară în cea mai simplă formă. Așa că prima mea recomandare ar fi să contactezi pensiunea unde vei fi cazat pentru a vedea ce activități poți face și a le rezerva din timp. Cel mai probabil îți vor spune despre plimbările cu căruța trasă de cai, plimbările călare pe dealurile din jur sau poate chiar oferă spre închiriere biciclete pentru a pleca în explorare pe traseele de biciclete construite de ONG-ul ADEPT.
 
@@ -41,7 +41,6 @@ Casa Prințului de Wales poate fi vizitată, prețul fiind de 12 lei de persoan�
 {% responsive_image path: assets/images/posts/viscri/viscri-2.webp alt: "Viscri, King Charles III" %}
 {% responsive_image path: assets/images/posts/viscri/viscri-inside-kings-house.webp alt: "Viscri. Inside king's house" %}
 
- 
 Una dintre atracțiile principale este, fără îndoială, Biserica Fortificată. Intrarea costă 15 lei. Pe lângă biserica și turnul bisericii, am putut vizita și un mic muzeu cu obiecte tradiționale, precum și o expoziție de ceramică de Mediaș, toate adăpostite în zidurile care împrejmuiesc biserica.
 
 {% responsive_image path: assets/images/posts/viscri/church-from-viscri.webp alt: "Viscri. The church" %}
@@ -65,7 +64,7 @@ Una dintre atracțiile principale este, fără îndoială, Biserica Fortificată
 
 După toate aceste activități, cu siguranță vei fi lihnit de foame, dar nu-ți face griji pentru că în Viscri se pune accent pe mâncarea din ingrediente locale organice.
  
-### Unde să mănânci
+## Unde să mănânci
  
 Există câteva locuri unde te poți bucura de o masă tradițională, gătită lent, cu ingrediente organice, de sezon, cultivate în grădinile proprii sau de la fermierii locali. Am ales "The White Barn" (Hambarul Alb) de la Viscri 32. Am comandat câte un meniu alcătuit din trei feluri de mâncare (supă, fel principal și desert) pentru a testa cât mai multe preparate. Mâncarea a fost delicioasă datorită măiestriei bucătarului, dar cu siguranță și a ingredientelor de calitate.
 
@@ -85,7 +84,7 @@ Am vrut să încercăm și punctul gastronomic local de la Meșendorf 65, pentru
  
 Mai sunt puncte gastronomice în Viscri, cât și în alte sate, dar este necesară rezervarea din timp.
  
-### Unde să înnoptezi
+## Unde să înnoptezi
  
 Viscri este un exemplu de turism bine făcut cu respect pentru mediu. Poți găsi cazare în case restaurate, decorate cu obiecte tradiționale, dintre care unele au zeci sau chiar sute de ani.
  
@@ -98,7 +97,7 @@ Mai multe variante găsești pe booking.com sau google, atât în Viscri, cât �
 
 {% responsive_image path: assets/images/posts/viscri/viscri-32-from-outside.webp alt: "Viscri 32. Outdoor life." %}
 
-### Mesendorf Gasthaus
+## Mesendorf Gasthaus
  
 Noi ne-am cazat într-un alt sat, numit Meșendorf, la 17 kilometri de Viscri, distanță ce poate fi parcursă cu mașina sau cu bicicleta. Ne-am simțit bine în timpul petrecut la Meșendorf Gasthaus deoarece camera era foarte frumoasă, cu tavan înalt și decorațiuni autentice săsești. Dar cireașa de pe tort a fost sauna privată pe care am avut-o chiar în apartamentul nostru.
 
@@ -108,7 +107,7 @@ De asemenea, au un hambar restaurat, vechi de 100 de ani, unde oaspeții pot lua
 
 {% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-outside-16x9.webp alt: "Mesendorf Gasthaus. The barn." %}
 
-### Câte zile să stai în Viscri
+## Câte zile să stai în Viscri
  
 Asta depinde foarte mult de ceea ce vrei să faci de fapt. Dacă vrei doar să te plimbi prin sat, să vizitezi biserica fortificată și casa Prințului de Wales și să iei masa la un punct gastronomic local, o zi este suficientă.
  

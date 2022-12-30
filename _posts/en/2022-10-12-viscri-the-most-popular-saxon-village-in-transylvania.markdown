@@ -17,17 +17,17 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 If you want to see the Transylvanian beauties with your own eyes because photos like always just don't do justice, you must visit this area and I promise that you will fall in love, like King Charles III did, with the vast forests, the hospitality of the people, and the delicious local dishes.
  
-### Where is Viscri
+## Where is Viscri
  
 Viscri is a small village, in Bunesti commune, Brasov County. There are 80 kilometers from Brasov to Viscri and another 45 kilometers to the Medieval Citadel of Sighisoara. The roads were good when we went there in October 2022 and our favorite means of transport in Romania is always the car. The car will also give you the freedom to explore other points of interest in the area, like Rupea Citadel, Racos geological complex, and other enchanting villages. Note that in Viscri was arranged a parking lot where you can leave the car and it is free of charge. From there you can easily go on foot anywhere in the village. All the cars parked on the streets of the village steal from its authenticity. So please think twice before parking anywhere else because you are too lazy to walk 500 meters.
  
-### When to visit Viscri
+## When to visit Viscri
  
 I'd say that each season has its charm, but if I had to make a recommendation in this direction, it would be spring or autumn when the weather is milder. In winter, you can have the misfortune of heavy snow and blocked roads. In summer, temperatures can exceed 30 degrees Celsius, and it is also more difficult to find accommodation as it is the peak season. Nevertheless, imagine what it would be like to sit by the stove or fireplace, sipping mulled wine while it's snowing with big flakes outside and everything else is still. I bet you want to visit Viscri in winter now. Me too. The summer is to be preferred if you are planning to go hiking or observe the rich flora.
 
 {% responsive_image path: assets/images/posts/viscri/viscri-houses-on-the-road.webp alt: "Viscri, houses on the road" %}
  
-### What to do in Viscri
+## What to do in Viscri
  
 First of all, I imagine you want to visit the Saxon village to experience country life in its simplest form. So, my top recommendation would be to contact your guest house and check with them what activities you can do and book them ahead. They will most likely tell you about the horse-drawn cart trips, the horseback riding trips on the surrounding hills, or maybe they can even offer bike renting services for you to go in exploration on the bike trails built by ADEPT NGO.
  
@@ -61,10 +61,9 @@ Besides exploring the village and its surrounding, watching the cows returning f
 
 {% responsive_image path: assets/images/posts/viscri/ducks-in-viscri.webp alt: "Viscri. Ducks in the wild." %}
 
- 
 After all these activities, you will definitely be starving, but don't worry because, in Viscri, the emphasis is on bio, organic, and local food.
  
-### Where to eat
+## Where to eat
  
 There are a few places where you can enjoy a traditional, slow-cooked meal, with organic, seasonal ingredients grown in their gardens or from local farmers. We chose the White Barn from Viscri 32, and we each had a 3 courses menu to try as many dishes as humanly possible. The food was delicious due to the mastery of the chef, but certainly also to the quality ingredients.
 
@@ -84,7 +83,7 @@ We also wanted to try the local gastronomic point at Mesendorf 65, because we re
  
 There are other gastronomic points in other villages, and in Viscri as well, but is highly recommendable to book ahead.
  
-### Where to sleep
+## Where to sleep
  
 Viscri is an example of tourism done well with respect for the environment. You can find accommodation in restored houses, decorated with traditional objects, some of which are decades or even hundreds of years old.
  
@@ -97,7 +96,7 @@ You can find more options on booking.com or google, both in Viscri and in the ne
 
 {% responsive_image path: assets/images/posts/viscri/viscri-32-from-outside.webp alt: "Viscri 32. Outdoor life." %}
 
-### Mesendorf Gasthaus
+## Mesendorf Gasthaus
  
 We actually stayed in another village, called Mesendorf, 17 kilometers from Viscri that can be traveled by car or bicycle. We enjoyed our time spent at Mesendorf Gasthaus because the accommodation was extraordinarily beautiful, with high ceilings and authentic Saxon decorations. But the icing on the cake was the private sauna that we had in our apartment.
 
@@ -107,7 +106,7 @@ They also have a restored 100-year-old barn where guests can enjoy the meals, a 
 
 {% responsive_image path: assets/images/posts/viscri/mesendorfgasthaus-outside-16x9.webp alt: "Mesendorf Gasthaus. The barn." %}
 
-### How many days to stay in Viscri
+## How many days to stay in Viscri
  
 This depends a lot on what you actually want to do. If you only want to walk around the village, visit the fortified church, the house of the Prince of Wales, and taste a local dish, one day is enough.
  
