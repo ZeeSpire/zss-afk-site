@@ -10,8 +10,8 @@ description: The best Easter offers for 2023 in ROmania.
 categories: [EN, Easter, Romania, Travel]
 permalink: /easter-offers-in-romania-2023/
 permalink-to-next-language: /ro/oferte-de-paste-in-romania-2023/
-featured-image: "/assets/images/posts/oferte-paste/primavara.webp" # full size
-featured-image-top: "/assets/resized/primavara-1600x900.webp" # width - 1200
+featured-image: 
+featured-image-top:
 featured-image-home: "/assets/resized/primavara-square-800x800.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
@@ -19,6 +19,8 @@ This year, Orthodox Easter falls on the 16th of April, and the offers dedicated 
 Most of the offers include 3 or 4 nights of accommodation, with the possibility of extending the stay, breakfast, special dinners, and traditional Easter dishes, but also other options to attract guests, such as trips, campfires, or egg-hunting for the children. Prices start from around 3000 RON (600 EUR) for two adults. To make it easier to convert from RON to EUR, I considered that 1 EUR = 5 RON.
 
 Below you can find the offers that I found attractive.
+
+{% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
 
 <br />
 
@@ -37,11 +39,11 @@ Price: 2800 RON (560 EUR)/2 adults. [Details](https://www.valeaverde.com/en/offe
 
 <br />
 
-### Easter mini vacation at Cincsor Transilvania Guesthouse
+### Easter at Cincsor Transylvania Guesthouses
 
 What is included:
 - 4 nights of accommodation
-- welcome with Saxon pie and pălincă
+- welcome with Saxon pie and palincă
 - 3 breakfasts
 - vegetarian lunch on Saturday and spring brunch on Sunday
 - 4 dinners

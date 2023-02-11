@@ -10,8 +10,8 @@ description: Cele mai bune oferte de Paşte în România pentru anul 2023.
 categories: [RO, Paste, Romania, Oferte turistice]
 permalink: /ro/oferte-de-paste-in-romania-2023/
 permalink-to-next-language: /easter-offers-in-romania-2023/
-featured-image: "/assets/images/posts/oferte-paste/primavara.webp" # full size
-featured-image-top: "/assets/resized/primavara-1600x900.webp" # width - 1200
+featured-image:
+featured-image-top:
 featured-image-home: "/assets/resized/primavara-square-800x800.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
@@ -19,6 +19,8 @@ Anul acesta, Paştele ortodox pică în data de 16 aprilie, iar ofertele dedicat
 Majoritatea ofertelor includ 3 nopţi de cazare, mic dejun, cine deosebite, preparate tradiţionale de Paşte, dar şi alte opţionale pentru a atrage oaspeţii, cum ar fi excursii, foc de tabără sau vânătoare de ouă pentru cei mici. Preţurile încep cam de pe la 3000 lei pentru doi adulţi.
 
 Mai jos găseşti cele mai atrăgătoare oferte.
+
+{% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
 
 <br />
 
@@ -37,11 +39,11 @@ Preţ: 2800 lei/2 adulţi. [Detalii](https://www.valeaverde.com/oferte/){:target
 
 <br />
 
-### Mini vacanţă de Paşte la Cincşor Transilvania Guesthouse
+### Mini vacanţă de Paşte la Cincşor Transilvania case de oaspeți
 
 Ce este inclus:
 - cazare 4 nopţi
-- întâmpinare cu plăcintă săseasca şi pălincă
+- întâmpinare cu plăcintă săseasca şi palincă
 - 3 mic dejunuri
 - prânz vegetarian în ziua de sâmbătă şi brunch de primăvară duminica
 - 4 cine 
