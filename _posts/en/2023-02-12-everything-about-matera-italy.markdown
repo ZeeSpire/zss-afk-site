@@ -48,7 +48,7 @@ As in all the cities visited on this trip, access by car to the historic center 
 
 We stayed two nights in the beautiful boutique hotel of [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"} (Palace of the Abbots) located in the heart of the Sasso Barisano, right next to Chiesa di San Pietro Barisano. Here I make a parenthesis to say that "sasso" (pl. sassi) means "stone" in Italian and that Sassi di Matera is divided into two districts: Sasso Caveoso and Sasso Barisano. Both of them were dug out of the rock on either side of Civita hill. 
 
-Another thing I want to point out is that whenever you'll see the word "Chiesa" in this article, just know that "chiesa" means "church" in Italian.
+Another thing I want to point out is that whenever you'll see the word "chiesa" in this article, just know that "chiesa" means "church" in Italian.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
 
@@ -75,10 +75,10 @@ Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_bl
 ### 2. Piazza Vittorio Veneto
 Vittorio Veneto Square is a good starting point to explore the streets of Sasso Barisano district. The area is full of gelato shops, patisseries, souvenir boutiques, restaurants with terraces, and clothing and jewelry stores. And it becomes very lively and packed with tourists, especially in the evening.
 
-But before going further, tick off two other objectives that can be found right in this square: Chiesa di San Domenica and Palombaro lungo.
+But before going further, tick off two other objectives that can be found right in this square: Chiesa di San Domenico and Palombaro lungo.
 
 ### 3. Chiesa di San Domenico
-The [Chiesa di San Domenico](http://www.visitmatera.it/san-domenico.html){:target="_blank"} is a notable church built in the 13th century. Its facade is partially carved into the stone, in the Apulian Romanesque style, making it a unique example of architectural integration with the natural environment. It is also known for its elaborate frescoes and sculptures, including a painted wooden crucifix that dates back to the 1400s.
+The Chiesa di San Domenico is a notable church built in the 13th century. Its facade is partially carved into the stone, in the Apulian Romanesque style, making it a unique example of architectural integration with the natural environment. It is also known for its elaborate frescoes and sculptures, including a painted wooden crucifix that dates back to the 1400s.
 
 ### 4. Palombaro lungo
 It is one of the largest and most important cisterns in the area and is considered a remarkable example of ancient water management systems. The cistern was carved out of the rock and was used to collect rainwater and channel it into underground storage tanks. The water was then used for various purposes, including irrigation, drinking, and washing.
@@ -122,13 +122,13 @@ You can take a break from all this by grabbing something local to eat, like a pa
 While walking along the winding streets, some going up, others going down, you have the chance to discover other tourist attractions on your way. Like Fontana dell'Amore.
 
 ### 9. Fontana dell'Amore
-The Fontana dell'Amore, or the "Fountain of Love," is a historic fountain and a well-known symbol of the city's rich cultural heritage. The fountain is situated in the heart of the Sassi district, surrounded by narrow streets and historic buildings, and is considered a perfect example of the unique urban landscape of the area. The fountain was once used as a public water source, but today it is mainly a decorative element and a gathering place for visitors and locals alike.
+The Fontana dell'Amore, or the "Fountain of Love", is a historic fountain and a well-known symbol of the city's rich cultural heritage. The fountain is situated in the heart of the Sassi district, surrounded by narrow streets and historic buildings, and is considered a perfect example of the unique urban landscape of the area. The fountain was once used as a public water source, but today it is mainly a decorative element and a gathering place for visitors and locals alike.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-fontana-dell-amore.webp alt: "Fontana dell'Amore, Matera, Italy" %}
 
 ### 10. Cattedrale di Matera and Piazza Duomo
 Located in Piazza Duomo, Cattedrale di Maria Santissima della Bruna e Sant'Eustachio (or Duomo di Matera) is the main Catholic place of worship in Matera. 
-The cathedral is notable for its impressive façade, which features ornate carvings, sculptures, and frescoes. The interior of the cathedral is equally impressive, with high, vaulted ceilings, intricate frescoes, and gilded altarpieces.
+The cathedral is notable for its impressive facade, which features ornate carvings, sculptures, and frescoes. The interior of the cathedral is equally impressive, with high, vaulted ceilings, intricate frescoes, and gilded altarpieces.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-cattedrale-exterior.webp alt: "Cattedrale di Matera, Duomo di Matera exterior" %}
 {% responsive_image path: assets/images/posts/matera/matera-italy-cattedrale-interior.webp alt: "Cattedrale di Matera, Duomo di Matera interior" %}
@@ -169,7 +169,7 @@ The entrance fee includes also the Chiesa Rupestre S. Agostino al Casalnuovo and
 After 100 meters more you'll arrive at Chiesa di Santa Lucia alle Malve.
 
 ### 14. Chiesa di Santa Lucia alle Malve
-[Santa Lucia alle Malve](https://www.isassidimatera.com/cosa-vedere/chiese-rupestri/santa-lucia-alle-malve/){:target="_blank"}, dedicated initially to Sant'Agata, is the first female monastic settlement of the Benedictine Order, dating back to the 8th century. It stands out among the others in the Matera area, due to the presence of numerous frescoes, still well preserved today, and an architectural layout of exquisite workmanship. Because it has undergone numerous changes and renovations over the centuries, today we can admire the frescoes from the 17th century.
+Santa Lucia alle Malve, dedicated initially to Sant'Agata, is the first female monastic settlement of the Benedictine Order, dating back to the 8th century. It stands out among the others in the Matera area, due to the presence of numerous frescoes, still well preserved today, and an architectural layout of exquisite workmanship. Because it has undergone numerous changes and renovations over the centuries, today we can admire the frescoes from the 17th century.
 
 The steps next to the church will lead you to the roof where there's a necropolis with rock tombs. When we were there, there were no signs or information boards. We only noticed the tombs because we had previously read about them on the Internet. Probably if you opt for a guided tour of the city you will find out more information.
 

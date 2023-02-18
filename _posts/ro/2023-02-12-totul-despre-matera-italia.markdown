@@ -19,9 +19,9 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 ## De ce să adaugi Matera pe lista cu locuri de văzut într-o viaţă
 
-Orașul Matera din Italia a fost [capitala culturală europeană](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank"} in 2019, împreună cu orașul Plovdiv din Bulgaria. Atunci am văzut pentru prima dată fotografii cu locuințele rupestre sculptate în stâncă în canionul râului Gravina. Și atunci mi-am dat seama că vreau să văd cu ochii mei acest oraș care părea a fi dintr-o lume foarte îndepărtată.
+Orașul Matera din Italia a fost [capitala culturală europeană](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank"} în 2019, împreună cu orașul Plovdiv din Bulgaria. Atunci am văzut pentru prima dată fotografii cu locuințele rupestre sculptate în stâncă în canionul râului Gravina. Și atunci mi-am dat seama că vreau să văd cu ochii mei acest oraș care părea a fi dintr-o lume foarte îndepărtată.
 
-Matera este un oraș din sudul Italiei care are o istorie bogată de mai bine de 9.000 de ani. Situată în regiunea Basilicata, este considerată una dintre cele mai vechi așezări locuite continuu din lume. Cel puțin, acestea sunt informațiile găsite pe anumite site-uri, în timp ce pe altele lucrurile diferă. De exemplu, pe acest [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank"} am descoperit că "Matera este cel mai vechi oraș din Italia și din Europa", în timp ce pe [acesta](https://www.europeathome.eu/plovdiv.html#:~:text=With%20its%20cultural%20and%20historical,Bulgarian%20cities%20to%20live%20in){:target="_blank"} este scris că "Plovdiv este considerat a fi cel mai vechi oraș locuit continuu din Europa și unul dintre cele mai vechi din Europa". Plovdiv se află și el pe lista noastră de destinații.
+Matera este un oraș din sudul Italiei care are o istorie bogată de mai bine de 9.000 de ani. Situată în regiunea Basilicata, este considerată una dintre cele mai vechi așezări locuite continuu din lume. Cel puțin, acestea sunt informațiile găsite pe anumite site-uri, în timp ce pe altele lucrurile diferă. De exemplu, pe acest [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank"} am descoperit că "Matera este cel mai vechi oraș din Italia și din Europa", în timp ce pe [acesta](https://www.europeathome.eu/plovdiv.html#:~:text=With%20its%20cultural%20and%20historical,Bulgarian%20cities%20to%20live%20in){:target="_blank"} este scris că "Plovdiv este considerat a fi cel mai vechi oraș locuit continuu din Europa". Plovdiv se află și el pe lista noastră de destinații.
 
 Cu toate acestea, Matera este renumită pentru arhitectura sa unică, inclusiv pentru „sassi”, o serie de locuințe antice sculptate în stâncă. Sassi au fost locuite din timpuri preistorice și au fost folosite pe post de case, grajduri și chiar biserici până în anii 1950.
 
@@ -42,13 +42,13 @@ Una dintre cele mai izbitoare caracteristici ale Materei este arhitectura sa dis
 
 ## Despre călătoria noastră - cum am călătorit, unde am stat și câte zile am petrecut în Matera
 
-Matera se află la aproximativ 70 km de Bari, distanță care poate fi parcursă cu trenul sau cu mașina. Am aterizat pe aeroportul internațional din Bari Bari - Karol Wojtyla, iar de acolo am închiriat o mașină pentru a putea explora cât mai multe locuri din sudul Italiei.
+Matera se află la aproximativ 70 km de Bari, distanță care poate fi parcursă cu trenul sau cu mașina. Am aterizat pe aeroportul internațional din Bari - Karol Wojtyla, iar de acolo am închiriat o mașină pentru a putea explora cât mai multe locuri din sudul Italiei.
 
 Ca în toate orașele vizitate în această excursie, accesul cu mașina în centrul istoric este interzis (cel puțin pentru turiști). Și este mult mai bine așa, pentru că aceste străzi nu au fost făcute pentru mașini în primul rând. Pentru noi, nu a fost atât de greu să găsim un loc de parcare și să plătim, dar felul în care se conduce în Italia ni s-a părut destul de haotic. Se pare că nimeni nu respectă regulile de circulație, dar asta este o poveste pentru altă dată.
 
 Am stat două nopți în hotelul-boutique [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"} (Palatul Stareților) situat în inima cartierului Sasso Barisano, chiar lângă Chiesa di San Pietro Barisano. Aici fac o paranteză pentru a spune că "sasso" (pl. sassi) înseamnă "piatră" în italiană și că Sassi di Matera este împărțit în două districte sau cartiere: Sasso Caveoso și Sasso Barisano. Amândouă au fost săpate din stânca de pe ambele părți ale dealului Civita.
 
-Un alt lucru pe care vreau să-l subliniez este că ori de câte ori veți vedea cuvântul "chiesa" în acest articol, trebuie să știți că "chiesa" înseamnă "biserică" în italiană.
+Un alt lucru pe care vreau să-l subliniez este că ori de câte ori vei vedea cuvântul "chiesa" în acest articol, trebuie să ști că "chiesa" înseamnă "biserică" în italiană.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
 
@@ -75,10 +75,10 @@ Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_bl
 ### 2. Piazza Vittorio Veneto
 Piața Vittorio Veneto este un bun punct de plecare în explorarea străzilor din Sasso Barisano. Zona este plină de gelaterii, patiserii, buticuri de suveniruri, restaurante cu terase și magazine de îmbrăcăminte și bijuterii. Devine foarte animat și plin de turiști mai ales seara.
 
-Dar înainte de a merge mai departe, poţi bifa alte două obiective care se găsesc chiar în această piață: Chiesa di San Domenica și Palombaro lungo.
+Dar înainte de a merge mai departe, poţi bifa alte două obiective care se găsesc chiar în această piață: Chiesa di San Domenico și Palombaro lungo.
 
 ### 3. Chiesa di San Domenico
-[Chiesa di San Domenico](http://www.visitmatera.it/san-domenico.html){:target="_blank"} este o biserică notabilă construită în secolul al XIII-lea. Fațada sa este parțial cioplită în piatră, în stil romanic apulian, făcându-l un exemplu unic de integrare arhitecturală cu mediul natural. Este, de asemenea, cunoscută pentru frescele și sculpturile sale elaborate, inclusiv un crucifix din lemn pictat, care datează din anii 1400.
+Chiesa di San Domenico este o biserică notabilă construită în secolul al XIII-lea. Fațada sa este parțial cioplită în piatră, în stil romanic apulian, făcându-l un exemplu unic de integrare arhitecturală cu mediul natural. Este, de asemenea, cunoscută pentru frescele și sculpturile sale elaborate, inclusiv un crucifix din lemn pictat, care datează din anii 1400.
 
 ### 4. Palombaro lungo
 Este una dintre cele mai mari și mai importante cisterne din zonă și este considerată un exemplu remarcabil de sisteme antice de administrare a apei. Cisterna a fost săpată în stâncă și a fost folosită pentru a colecta apa de ploaie și a o stoca în rezervoare subterane. Apa era folosită apoi în diverse scopuri, inclusiv pentru irigare, băut și spălare.
@@ -169,7 +169,7 @@ Casa istorică este acum un muzeu și este deschisă publicului. Vizitatorii pot
 După încă 100 de metri vei ajunge la Chiesa di Santa Lucia alle Malve.
 
 ### 14. Chiesa di Santa Lucia alle Malve
-Biserica [Santa Lucia alle Malve](https://www.isassidimatera.com/cosa-vedere/chiese-rupestri/santa-lucia-alle-malve/){:target="_blank"}, dedicată iniţial Sfintei Agata, este primul așezământ monahal feminin al Ordinului Benedictin şi datează din secolul al VIII-lea. Se diferenţiază de celelalte din zona Matera, datorită prezenței a numeroase fresce, bine conservate și astăzi, și a unui aspect arhitectural de o măiestrie rafinată. Deoarece a suferit numeroase modificări și renovări de-a lungul secolelor, astăzi putem admira frescele adăugate în secolul al XVII-lea.
+Biserica Santa Lucia alle Malve, dedicată iniţial Sfintei Agata, este primul așezământ monahal feminin al Ordinului Benedictin şi datează din secolul al VIII-lea. Se diferenţiază de celelalte din zona Matera, datorită prezenței a numeroase fresce, bine conservate și astăzi, și a unui aspect arhitectural de o măiestrie rafinată. Deoarece a suferit numeroase modificări și renovări de-a lungul secolelor, astăzi putem admira frescele adăugate în secolul al XVII-lea.
 
 Treptele de lângă biserică te vor duce pe acoperișul bisericii unde se află o necropolă cu morminte săpate în stâncă. Când am fost noi acolo, nu erau semne sau panouri informative. Am observat mormintele doar pentru că citisem anterior despre ele pe internet. Probabil că dacă optezi pentru un tur ghidat al orașului vei afla mai multe informații.
 
