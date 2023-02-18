@@ -37,9 +37,6 @@ show-theme-watermark: true
 google-tag-manager-id: GTM-PF6ZFZZ
 
 # Pagination settings
-# paginate: 9
-# paginate_path: "/:num/"
-
 pagination:
   enabled: true
   per_page: 9
@@ -49,6 +46,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  offset: 1 
 
 # Build settings
 plugins:
