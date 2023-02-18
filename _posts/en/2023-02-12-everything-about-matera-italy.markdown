@@ -264,6 +264,6 @@ In conclusion, Matera is a unique and fascinating city that offers a glimpse int
             {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" tall: true %}
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/Matera-pin-2.webp alt: "Matera Pin 02" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" tall: true %}
     </div>
 </div>
