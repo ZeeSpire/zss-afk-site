@@ -7,7 +7,8 @@ published: 22 Noiembrie 2022
 last_modified_at: 22 Noiembrie 2022
 keywords: art safari, bucuresti, romania, expozitie arta, muzeu
 description: Art Safari, celebra expoziție de artă din capitala României, a ajuns la cea de-a zecea ediție.
-categories: [RO, Bucuresti, Romania, Calatorii, Muzeu, Obiectiv turistic]
+categories: [RO, Romania-RO]
+tag: RO
 permalink: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/
 permalink-to-next-language: /art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition/
 featured-image: 

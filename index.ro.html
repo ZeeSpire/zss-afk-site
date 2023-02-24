@@ -10,6 +10,11 @@ description: AFKology | Cele mai frumoase momente din viata se intampla offline.
 ---
 <div class="row mt-4">
     {% for post in paginator.posts %}
+    {% if forloop.index == 1 %}
+     {% if paginator.next_page == 2 %}
+     {% continue %}
+     {% endif %}
+    {% endif %}
     <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
         <div class="card">
             <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}" width="600" height="100%"></a>

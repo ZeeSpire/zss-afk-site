@@ -7,7 +7,8 @@ published: 21 June 2022
 last_modified_at: 21 June 2022
 keywords: tiny houses, remote, mountains, accomodation, romania, nature
 description: Article about spending one weekend in nature in a remote location in a tiny house accomodation.
-categories: [EN, Travel, Romania]
+categories: [EN, Romania-EN]
+tag: EN
 permalink: /remote-accomodations-in-romania/
 permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1655828680/0009-2022-isolated-chalet/nor-11_xrj7cx.jpg" # full size

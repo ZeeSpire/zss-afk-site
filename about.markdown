@@ -1,6 +1,7 @@
 ---
 layout: default.en
-title: About us
+title: About us | AFKology
+simple-title: About us
 permalink: /about/
 permalink-to-next-language: /ro/despre-noi/
 description: Who are we? The most precious moments in life happen offline. 

@@ -7,7 +7,8 @@ published: 19 January 2022
 last_modified_at: 19 January 2022
 keywords: copenhagen, denmark, trip, visit, stay
 description: This is my guide on what you can do in Copenhagen in just three days to get the most out of it.
-categories: [EN, Travel, Denmark]
+categories: [EN, Denmark-EN]
+tag: EN
 permalink: /itinerary-three-days-in-copenhagen/
 permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.jpg" # full size

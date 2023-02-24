@@ -7,7 +7,8 @@ published: 02 Iulie 2022
 last_modified_at: 22 Noiembrie 2022
 keywords: art safari, bucuresti, romania, expozitie arta, muzeu
 description: Astăzi am fost pentru prima dată la Art Safari cu toate că evenimentul a ajuns anul acesta la ediția cu numărul 9. După vizita de astăzi probabil vom încerca să mergem la fiecare ediție deoarece ne-a plăcut foarte mult. O vizită la Art Safari este o modalitate bună de a petrece câteva ore de calitate în weekend.
-categories: [RO, Bucuresti, Romania, Calatorii, Muzeu, Obiectiv turistic]
+categories: [RO, Romania-RO]
+tag: RO
 permalink: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/
 permalink-to-next-language: /art-safari-a-temporary-art-exhibition-in-bucharest/
 featured-image: 

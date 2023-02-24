@@ -7,7 +7,8 @@ published: 09 October 2022
 last_modified_at: 09 October 2022
 keywords: Viscri, Transylvania, Romania, travel, Mesendorf
 description: This picturesque Saxon village became known all over the world in the past 20 years thanks to King Charles III, who fell in love with the unspoiled rural life he found here. Back in 2006, the former Prince of Wales bought a property in Viscri that now serves as a traditional crafts centre. This was the beginning of the revival of the village, allowing the villagers to show the thousands of tourists who visit every year, the real country life as well as their crafts. Charles was enormously involved in preserving the architectural authenticity, as well as in protecting the natural treasures of this area, for which the Romanians are eternally grateful.
-categories: [EN, Transylvania, Romania, Travel]
+categories: [EN, Romania-EN]
+tag: EN
 permalink: /viscri-the-most-popular-saxon-village-in-transylvania/
 permalink-to-next-language: /ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/
 featured-image: "/assets/images/posts/viscri/viscri-top-16x9.webp" # full size

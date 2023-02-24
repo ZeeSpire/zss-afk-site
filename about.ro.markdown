@@ -1,6 +1,7 @@
 ---
 layout: default.ro
-title: Despre noi
+title: Despre noi | AFKology
+simple-title: Despre noi | AFKology
 permalink: /ro/despre-noi/
 permalink-to-next-language: /about/
 description: Despre noi

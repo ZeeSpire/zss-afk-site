@@ -1,6 +1,7 @@
 ---
 layout: default.en
-title: Privacy Policy
+title: Privacy Policy | AFKology
+simple-title: Privacy Policy
 permalink: /privacy-policy/
 permalink-to-next-language: /ro/politica-de-confidentialitate/
 description: Privacy Policy

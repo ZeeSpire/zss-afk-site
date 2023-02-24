@@ -1,6 +1,7 @@
 ---
 layout: default.ro
-title: Contact
+title: Contact | AFKology
+simple-title: Contact
 permalink: /ro/contact/
 permalink-to-next-language: /contact/
 description: Contact AFKology

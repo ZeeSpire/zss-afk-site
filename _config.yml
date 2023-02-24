@@ -41,12 +41,10 @@ pagination:
   enabled: true
   per_page: 9
   permalink: '/:num/'
-  category: 'EN'
   title: ':title - :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  offset: 1 
 
 # Build settings
 plugins:

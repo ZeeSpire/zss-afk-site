@@ -1,6 +1,7 @@
 ---
 layout: default.ro
-title: Politica de confidentialitate
+title: Politica de confidentialitate | AFKology
+simple-title: Politica de confidentialitate
 permalink: /ro/politica-de-confidentialitate/
 permalink-to-next-language: /privacy-policy/
 description: politica de confidentialitate

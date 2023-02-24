@@ -7,7 +7,8 @@ published: 01 May 2022
 last_modified_at: 01 May 2022
 keywords: food, romania, fine dining, experiences, travel, wine, wine tasting
 description: Article about spending one weekend at a winery in the renowned area, Dealu Mare, in Buzau County, Romania. Wine tasting experience.
-categories: [EN, Wine, Food, Romania, Travel, Dealu Mare, Wine]
+categories: [EN, Romania-EN]
+tag: EN
 permalink: /apogeum-winery/
 permalink-to-next-language: /ro/crama-apogeum/
 featured-image: # full size
