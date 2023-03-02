@@ -13,7 +13,7 @@ permalink: /ro/totul-despre-matera-italia/
 permalink-to-next-language: /everything-about-matera-italy/
 featured-image: "/assets/images/posts/matera/matera-italy-1.webp" # full size
 featured-image-top: "/assets/resized/matera-italy-1-1600x900.webp" # width - 1200
-featured-image-primary: "/assets/resized/matera-italy-1-1600x900.webp" # width - 1200
+featured-image-primary: "/assets/resized/matera-italy-1-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/matera-italy-1-800x450.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---

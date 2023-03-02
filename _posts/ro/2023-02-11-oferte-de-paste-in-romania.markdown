@@ -13,6 +13,7 @@ permalink: /ro/oferte-de-paste-in-romania-2023/
 permalink-to-next-language: /easter-offers-in-romania-2023/
 featured-image:
 featured-image-top:
+featured-image-primary: "/assets/resized/primavara-800x450.webp"
 featured-image-home: "/assets/resized/primavara-square-800x800.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---

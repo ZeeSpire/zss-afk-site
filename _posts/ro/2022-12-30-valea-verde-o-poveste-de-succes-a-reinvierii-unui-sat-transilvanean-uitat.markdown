@@ -12,6 +12,7 @@ tag: RO
 permalink: /ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat/
 permalink-to-next-language: /valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village/
 featured-image: "/assets/images/posts/valea-verde/valea-verde-cover.webp" # full size
+featured-image-primary: "/assets/resized/valea-verde-cover-800x450.webp" # width - 1200
 featured-image-top: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/valea-verde-800x800.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width

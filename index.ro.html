@@ -8,13 +8,43 @@ pagination:
   category: RO
 description: AFKology | Cele mai frumoase momente din viata se intampla offline. AFKology este o amintire a acestui lucru.
 ---
+<!-- {% if paginator.next_page == 2 %}
+<div class="row mt-4 mb-4">
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+        Romania
+    </div>
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+    </div>
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+    </div>
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+    </div>
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+    </div>
+    <div class="col-xs-4 col-md-4 col-lg-2 text-center mb-2">
+        <a href="/ro/romania/"><img class="img-fluid border border-3 rounded-circle" src="/assets/images/helper/category-placeholder.webp"  alt="Romania Category EN"></a>
+    </div>
+</div>
+{% endif %} -->
 <div class="row mt-4">
     {% for post in paginator.posts %}
-    {% if forloop.index == 1 %}
-     {% if paginator.next_page == 2 %}
-     {% continue %}
-     {% endif %}
-    {% endif %}
+        {% if forloop.index == 1 %}
+        {% if paginator.next_page == 2 %}
+        {% continue %}
+        {% endif %}
+        {% if forloop.index == 2 %}
+        {% if paginator.next_page == 2 %}
+        {% continue %}
+        {% endif %}
+        {% if forloop.index == 3 %}
+        {% if paginator.next_page == 2 %}
+        {% continue %}
+        {% endif %}
     <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
         <div class="card">
             <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}" width="600" height="100%"></a>
