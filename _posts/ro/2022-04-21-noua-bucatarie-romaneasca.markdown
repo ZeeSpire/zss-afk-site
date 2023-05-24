@@ -1,33 +1,33 @@
 ---
-layout: post.en
+layout: post.ro
 type: post
-title: Noua - A restaurant at another level in Bucharest
-front_page_title: Noua - A restaurant at another level in Bucharest
-published: 21 April 2022
-last_modified_at: 21 April 2022
-keywords: food, romania, fine dining, experiences, travel
-description: The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millau guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant.
-categories: [EN, Romania-EN]
-tag: EN
-permalink: /noua-bucatarie-romaneasca/
-permalink-to-next-language: /ro/noua-bucatarie-romaneasca/
+title: Noua - Un restaurant la alt nivel în București
+front_page_title: Noua - Un restaurant la alt nivel în București
+published: 21 Aprilie 2022
+last_modified_at: 21 Aprilie 2022
+keywords: mancare, romania, fine dining, experiente, calatorii, bucuresti, restaurant
+description: Bucătarul șef este Alex Petricean, cunoscut de mulți români ca fost participant la MasterChef România, desemnat de Ghidul Gault & Millau Bucătarul Anului în 2018 în timp ce lucra la Restaurantul Maize Farm to Table.
+categories: [RO, Romania-RO]
+tag: RO
+permalink: /ro/noua-bucatarie-romaneasca/
+permalink-to-next-language: /noua-bucatarie-romaneasca/
 featured-image: # full size
 featured-image-top: # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_172829_tkjo1d.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 
-I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant. Eventually, a more comprehensive Google review sold me on visiting the [restaurant](https://nouarestaurant.ro){:target="_blank"}. 
+Despre Restaurantul Noua am aflat printr-un simplu story pe Instagram. Doar o fotografie, postată fără prea multe cuvinte, m-a făcut să vreau să aflu mai multe despre acest restaurant. Însă, în cele din urmă, o recenzie Google mai cuprinzătoare m-a convins să vizitez [restaurantul](https://nouarestaurant.ro){:target="_blank"}.
 
-Noua is located in a house in the old part of Bucharest, with a garden transformed into a terrace when the weather allows it, on Popa Nan Street, no. 7. It is advisable to go there with a reservation made and ask for details on the phone in case you have questions about their menu.  
+Noua se află într-o casă din zona veche a Bucureștiului, cu grădina transformată în terasă când vremea o permite, pe strada Popa Nan, nr. 7. Este indicat să mergi acolo cu rezervarea făcută și să ceri detalii la telefon în cazul în care ai întrebări despre meniul lor.
 
-The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millau guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant. Alex Petricean launched in May 2019 his own restaurant - Noua Romanian cuisine. Noua in short. 
+Bucătarul șef este Alex Petricean, cunoscut de mulți români ca fost participant la MasterChef România, desemnat de Ghidul Gault & Millau Bucătarul Anului în 2018 în timp ce lucra la Restaurantul Maize Farm to Table. Alex Petricean și-a lansat în mai 2019 propriul restaurant - Noua Bucătărie Românească. Pe scurt, Noua.
 
-Noua, in my humble opinion, brings a lot with Noma, the restaurant proclaimed to be the best in the world in 2021. Or at least I think that's where the chef and his team aspire to. Noma is in Copenhagen, and the menu costs around 400 euros. At Noua, you have an experience like in a restaurant with Michelin stars, but for 190 RON (approx. 40 euros) for the menu for one person (in April 2022).  
+Noua, după umila mea părere, aduce cu Noma, restaurantul proclamat cel mai bun din lume în 2021. Cred că la asta aspiră bucătarul și echipa sa. Noma este în Copenhaga, iar meniul costă în jur de 400 de euro. La Noua ai o experiență ca într-un restaurant cu stele Michelin, dar la 190 RON (aprox. 40 euro) pentru meniul pentru o persoană (în aprilie 2022).
 
-At Noua, the menu is seasonal, it changes depending on what nature offers at different times of the year. The ingredients are mostly from local farms. The dishes highlight ingredients that can be overlooked, forgotten, or abandoned. Simple, seasonal ingredients are put in a different light so that they become truly spectacular.  
+La Noua, meniul este unul sezonier, se schimbă în funcție de ce oferă natura în diferite perioade ale anului. Ingredientele provin în mare parte din fermele locale. Mâncărurile evidențiază ingrediente care pot fi trecute cu vederea, uitate sau abandonate. Ingredientele simple, de sezon, sunt puse într-o altă lumină, astfel încât să devină cu adevărat spectaculoase.
 
-The interior is cozy with natural accents such as wood or wool. We stayed in a room on the ground floor, but next time we would like to stay upstairs where we understood that you can see directly into the kitchen.  
+Interiorul este confortabil, cu accente naturale, cum ar fi lemnul sau lâna. Noi ne-am așezat într-o cameră de la parter, dar data viitoare am vrea să stăm la etaj unde se vede direct în bucătărie.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -57,13 +57,13 @@ The interior is cozy with natural accents such as wood or wool. We stayed in a r
     </div>
 </div>
 
-The menu is a tasting menu consisting of twelve dishes: four amuse bouches, three appetizers, two main courses, a pre-dessert, and two desserts. You will not get up fully satiated, but there is just enough food. Each dish is presented by the waiter so that the dinner becomes an experience itself, an incredibly special one.  
+Meniul este un meniu de degustare format din douăsprezece feluri de mâncare: patru amuse bouche, trei aperitive, două feluri principale, un pre-desert și două deserturi. Nu te vei ridica sătul de la masă, dar este suficientă mâncare. Fiecare fel de mâncare este prezentat de chelner astfel încât cina devine o experiență în sine, una incredibil de specială.
 
-I liked the fact that you are served with still or sparkling water from the house. Drinks have prices like in other middle to high restaurants in Bucharest, for example, a coffee costs 10 RON (2 euros), homemade lemonade with smoked hay, caramelized lemon, and chamomile costs 20 RON (4 euros), and a Zaganu beer at 500ml (about 16.91 oz) costs 18 RON (3.5 euros).  
+Mi-a plăcut faptul că ești servit cu apă plată sau carbogazoasă din partea casei. Băuturile au prețuri ca în alte restaurante cu prețuri medii spre mari din București. De exemplu, o cafea costă 10 RON, limonadă de casă cu fân afumat, lămâie caramelizată și mușețel costă 20 RON, iar o bere Zăganu la 500ml costă 18 RON.
 
-At first, you are asked if you have food allergies or intolerances. We said we don't have any of those, but we later realized that if we had been served with beef tartar, most likely we wouldn't have been able to eat it. We don't even eat sushi that contains raw fish. So, we practically don't like to eat uncooked or semi-cooked meat, in other words, rare or medium-rare meat.  
+La început, ești întrebat dacă ai alergii sau intoleranțe alimentare. Am spus că nu avem niciuna dintre ele, dar ulterior ne-am dat seama că dacă am fi fost serviți cu tartar de vită, cel mai probabil nu am fi putut să-l mâncăm. Nu mâncăm nici sushi care conține pește crud. Deci, nu ne place să mâncăm carne negătită.
 
-I wish I could remember what the dishes contained, but I'll try to say a few words about each dish just to give you an idea.  
+Mi-aș fi dorit să pot reține ce conțineau felurile de mâncare, dar voi încerca să spun totuși câteva cuvinte despre fiecare, doar pentru a-ți face o idee.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -165,21 +165,21 @@ I wish I could remember what the dishes contained, but I'll try to say a few wor
     </div>
 </div>
 
-As amuse bouches we had a star stuffed with nettles and grated egg yolk, a very fragrant potato croquette with wild garlic buds, a Romanian "mic" made from beef tongue with fondant potato and mustard, and polenta with smoked cream and cheese "snow".  
+Ca amuse bouche am avut o stea umplută cu urzici și gălbenuș de ou ras, o crochetă de cartofi cu muguri de usturoi sălbatic (leurdă), un mititel românesc din limbă de vită cu cartof fondant și muștar, și mămăligă cu smântână afumată și „zăpadă” din brânză.
 
-As starters, we had a dish based on wild garlic and new potatoes (one of my favorites), followed by a bouquet of salads from Gradina Corbilor (Garden of the Ravens) with cream cheese and a skewer of roots (maybe parsnip and celery) with an egg white foam. Then we received the bread-and-butter service which was insanely good! Pure happiness.  
+Ca aperitiv am degustat un preparat pe bază de leurdă și cartofi noi (unul dintre felurile mele preferate), urmat de un buchet de salate de la Grădina Corbilor cu cremă de brânză și o frigăruie de rădăcini (poate păstârnac și țelină din câte mi-am putut da seama) cu o spumă de albuș de ou. Apoi am primit serviciul de pâine și unt al casei, care a fost extraordinar de bun! Fericire pură.
 
-The first main course consisted of fish stuffed with spinach with a slightly spicy sauce, I think it had just the right amount of spice. The next main course was mutton (perfectly cooked from the point of view of a professional cook, but I am a simple home cook who prefers well-done meat) served with sauerkraut.  
+Primul fel principal a fost pește umplut cu spanac cu un sos ușor picant, cred că avea cantitatea potrivită de iuțeală. Următorul fel principal a fost carne de berbecuț (gătită perfect din punctul de vedere al unui bucătar profesionist, dar eu sunt un simplu bucătar de casă care preferă carnea bine făcută) servită cu varză murată.
 
-The pre-dessert was Jerusalem artichoke ice cream wrapped inside a Jerusalem artichoke peel with Jerusalem artichoke jelly. As I was saying about forgotten or overlooked ingredients, I didn't know what a Jerusalem artichoke (Helianthus tuberosus) is, so I searched on the net for information about it. It is quite easy to cultivate, the part that can be eaten is the tubercle of the plant, is good for both human and animal consumption and is full of vitamins and minerals. It was the most surprising dish on the whole menu. And I understood that the chefs at Noua successfully apply a zero-waste policy. It was really delicious, and I regret I didn't eat more of the "soil" which scared me a little at the beginning because it looked so real.  
+Pre-desertul a fost înghețată de topinambur (nap porcesc) învelită într-o coajă de topinambur cu jeleu de topinambur. Spuneam mai devreme despre ingredientele uitate sau trecute cu vederea - nu mai mâncasem napi (Helianthus tuberosus), așa că am căutat pe net informații despre acest ingredient. Este destul de ușor de cultivat, partea care poate fi mâncată este tuberculul plantei, este bună atât pentru consum uman cât și pentru animale și este plină de vitamine și minerale. A fost cel mai surprinzător fel de mâncare din tot meniul. Și am înțeles că bucătarii de la Noua aplică cu succes o politică zero-waste. A fost cu adevărat delicios acest pre-desert, și regret că nu am mâncat și din „pământ” care părea foarte de real, dar evident că era ceva dulce ca un biscuite fărâmițat.
 
-And we got to the dessert. The first dessert was a meringue mace, a perfectly cooked meringue, not like the ones that stick to your teeth. Under the meringue, we found sea buckthorn cream, tangerines, and baked yeast ice cream. One word: divine.  
+Și am ajuns la desert. Primul desert a fost un buzdugan de bezea, o bezea perfectă, nu ca cele care se lipesc de dinți. Sub bezea, am găsit cremă de cătină, mandarine și înghețată de drojdie. Un cuvânt care să caracterizeze acest desert? Dumnezeiesc.
 
-The last dish was composed of semolina with milk and caramel in a crispy crust like a wafer with a wonderful presentation on a bed of wildflowers. I would have switched it with the mace, meaning that it would have gone better this one as the first dessert and the meringue mace left the last one.  
+Cel de-al doilea desert, și ultimul fel de mâncare a fost compus din griș cu lapte și caramel într-o crustă crocantă ca o napolitană cu o prezentare minunată sub forma unui pat de flori sălbatice. L-aș fi schimbat cu buzduganul, adică ar fi mers mai bine acesta ca primul desert și buzduganul de bezea să fi rămas pe ultimul loc deoarece acela mi s-a părut mai spectaculos.
 
-I want to emphasize that we really appreciated the waiters. They did a fantastic job on presenting and providing details about each course. They can do it in English as well.  
+Vreau să subliniez că am apreciat foarte mult ospătarii. Au făcut o treabă fantastică în prezentarea și furnizarea de detalii despre fiecare preparat în parte. O pot face la fel de bine și în engleză.
 
-In conclusion, I would just like to point out that we had a wonderful and memorable experience at Noua Bucatarie Romaneasca.
+În concluzie, aș dori doar să subliniez că am avut parte de o experiență minunată și absolut memorabilă la Noua Bucătărie Românească.
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
@@ -190,3 +190,6 @@ In conclusion, I would just like to point out that we had a wonderful and memora
     </div>
 </div>
  
+
+
+

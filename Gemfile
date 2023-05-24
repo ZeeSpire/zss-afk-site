@@ -1,20 +1,20 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.2"
+gem "jekyll", "~> 4.3.2"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
   gem "jekyll-paginate-v2"
   gem "jekyll-responsive-image"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo"
   gem "tzinfo-data"
 end
 
-gem 'wdm', '>= 0.1.0'
-gem "webrick", "~> 1.7"
+gem 'wdm'
+gem "webrick"
 
 gem 'jekyll-sitemap'
 gem 'jekyll-minifier'
