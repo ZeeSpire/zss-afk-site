@@ -4,8 +4,8 @@ type: post
 title: Noua - Un restaurant la alt nivel în București
 front_page_title: Noua - Un restaurant la alt nivel în București
 published: 21 Aprilie 2022
-last_modified_at: 21 Aprilie 2022
-keywords: mancare, romania, fine dining, experiente, calatorii, bucuresti, restaurant
+last_modified_at: 26 Mai 2023
+keywords: mancare, romania, fine dining, experiente, calatorii, bucuresti, restaurant, Chef Alex Petricean
 description: Bucătarul șef este Alex Petricean, cunoscut de mulți români ca fost participant la MasterChef România, desemnat de Ghidul Gault & Millau Bucătarul Anului în 2018 în timp ce lucra la Restaurantul Maize Farm to Table.
 categories: [RO, Romania-RO]
 tag: RO

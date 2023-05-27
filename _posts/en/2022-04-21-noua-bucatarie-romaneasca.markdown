@@ -4,8 +4,8 @@ type: post
 title: Noua - A restaurant at another level in Bucharest
 front_page_title: Noua - A restaurant at another level in Bucharest
 published: 21 April 2022
-last_modified_at: 21 April 2022
-keywords: food, romania, fine dining, experiences, travel
+last_modified_at: 26 May 2023
+keywords: food, romania, fine dining, experiences, travel, Chef Alex Petricean
 description: The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millau guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant.
 categories: [EN, Romania-EN]
 tag: EN
