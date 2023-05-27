@@ -6,7 +6,7 @@ front_page_title: Noua B.A.R. - unul din restaurantele noastre preferate din Buc
 published: 26 Mai 2023
 last_modified_at: 26 Mai 2023
 keywords: Bucuresti, calatorii, restaurant, Noua BAR, Chef Alex Petricean, good food, mancare, top restaurante, unde iesim
-description: Noua B.A.R este fratele mai mic al restaurantului Noua Bucătărie Românească (link catre site-ul nostru) deschis de chef Alex Petricean, finalist MasterChef România şi desemnat de către Ghidul Gault & Millau Bucătarul Anului în 2018, 2020 şi 2022.
+description: Noua B.A.R este fratele mai mic al restaurantului Noua Bucătărie Românească deschis de chef Alex Petricean, finalist MasterChef România şi desemnat de către Ghidul Gault & Millau Bucătarul Anului în 2018, 2020 şi 2022.
 categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/noua-bar-bucuresti/

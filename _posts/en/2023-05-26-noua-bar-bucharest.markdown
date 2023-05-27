@@ -6,7 +6,7 @@ front_page_title: Noua B.A.R. - one of our favorite restaurants in Bucharest and
 published: 26 May 2023
 last_modified_at: 26 May 2023
 keywords: Bucharest, travel, restaurant, Noua BAR, Chef Alex Petricean, good food
-description: Noua B.A.R is the younger sibling of the Noua Bucătărie Românească Restaurant (link to our website) opened by chef Alex Petricean, finalist of MasterChef Romania and designated Chef of the Year in 2018, 2020, and 2022 by the Gault & Millau Guide.
+description: Noua B.A.R is the younger sibling of the Noua Bucătărie Românească Restaurant opened by chef Alex Petricean, finalist of MasterChef Romania and designated Chef of the Year in 2018, 2020, and 2022 by the Gault & Millau Guide.
 categories: [EN, Romania-EN]
 tag: EN
 permalink: /noua-bar-bucharest/
