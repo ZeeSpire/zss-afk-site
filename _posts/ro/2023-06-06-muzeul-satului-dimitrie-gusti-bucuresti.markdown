@@ -1,12 +1,12 @@
 ---
 layout: post.ro
 type: post
-title: O plimbare prin Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti
-front_page_title: O plimbare prin Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti
+title: O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
+front_page_title: O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
 published: 06 Iunie 2023
 last_modified_at: 06 Iunie 2023
 keywords: Bucuresti, calatorii, parc, unde iesim, ce vizitam, muzeu, aer liber, sate romanesti, viata la tara
-description: Muzeul Naţional al Satului "Dimitrie Gusti" reprezintă fără îndoială o atracţie de neratat în Bucureşti. Muzeul în aer liber se află pe malul lacului Herăstrău, în mijlocul capitalei şi reprezintă o "evadare" din tumultul oraşului.
+description: Muzeul Naţional al Satului Dimitrie Gusti reprezintă fără îndoială o atracţie de neratat în Bucureşti. Muzeul în aer liber se află pe malul lacului Herăstrău, în mijlocul capitalei şi reprezintă o evadare din tumultul oraşului.
 categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/muzeul-satului-dimitrie-gusti-bucuresti/
@@ -25,7 +25,7 @@ Deschiderea oficială a Muzeului Satului a avut loc la data de 10 mai 1936, în 
 
 În interiorul muzeului se găsesc, printre exponate, hărţi, panouri informative, toalete, bănci, un restaurant unde îţi poţi reîncărca bateriile şi un magazin cu suveniruri. De asemenea, noi ne-am bucurat de prezenţa unor pisici, unele plictisite, altele jucăuşe, precum şi de cea a unei broaşte ţestoase care se plimba prin iarbă. Am văzut inclusiv casa ilustrată pe bancnota de 10 lei.
 
-{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti 1" %}
+{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 1" %}
 
 O listă a gospodariilor cu informaţii despre fiecare poate fi găsită chiar pe [site-ul muzeului](https://muzeul-satului.ro/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/){:target="_blank" rel="nofollow"}.
 
@@ -36,4 +36,4 @@ Noi am alocat o ora şi 30 de minute pentru această vizită, dar puteam petrece
 
 Muzeul Naţional al Satului "Dimitrie Gusti" reprezintă fără îndoială o atracţie de neratat în Bucureşti.
 
-{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti 3" %}
+{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 3" %}

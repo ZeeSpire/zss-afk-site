@@ -1,12 +1,12 @@
 ---
 layout: post.en
 type: post
-title: A walk through the "Dimitrie Gusti" National Village Museum in Bucharest
-front_page_title: A walk through the "Dimitrie Gusti" National Village Museum in Bucharest
+title: A walk through the Dimitrie Gusti National Village Museum in Bucharest
+front_page_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest
 published: 06 June 2023
 last_modified_at: 06 June 2023
 keywords: Bucharest, travel, park, open-air museum, what to visit, must-see attraction, Romanian villages
-description: The "Dimitrie Gusti" National Village Museum is undoubtedly a must-see attraction in Bucharest. The open-air museum is located on the banks of the Herăstrău lake, in the middle of the capital and represents an "escape" from the tumult of the city.
+description: The Dimitrie Gusti National Village Museum is undoubtedly a must-see attraction in Bucharest. The open-air museum is located on the banks of the Herăstrău lake, in the middle of the capital and represents an escape from the tumult of the city.
 categories: [EN, Romania-EN]
 tag: EN
 permalink: /national-village-museum-bucharest/
@@ -26,7 +26,7 @@ The official opening of the Village Museum took place on the 10th of May, 1936, 
 
 Inside the museum, there are, among the actual exhibits, maps, information boards, toilets, benches, a restaurant where you can recharge your batteries, and a souvenir shop. We also enjoyed the presence of some cats, some bored, others playful, as well as that of a turtle walking through the grass. We also saw the house illustrated on the 10 RON banknote.
 
-{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti 1" %}
+{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 1" %}
 
 A list of households with information about each one can be found right on [the museum website](https://muzeul-satului.ro/en/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/){:target="_blank" rel="nofollow"}.
 
@@ -36,5 +36,5 @@ We allocated an hour and 30 minutes for this visit, but we could have spent much
 
 The "Dimitrie Gusti" National Village Museum is undoubtedly a must-see attraction in Bucharest.
 
-{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul Naţional al Satului "Dimitrie Gusti" din Bucureşti 3" %}
+{% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 3" %}
 
