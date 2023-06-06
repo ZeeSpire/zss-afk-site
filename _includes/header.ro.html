@@ -74,8 +74,8 @@
         "@id": "{{ site.url }}{{ page.url }}"
       },
       "headline": "{{ page.title }}",
-      "description": {% if page.description %}{{page.description }}{% else %}{{ site.description-ro }}{% endif %},
-      "image": "",  
+      "description": "{% if page.description %}{{page.description }}{% else %}{{ site.description-ro }}{% endif %}",
+      "image": "{{ site.url }}{{ page.featured-image-home }}",  
       "author": {
         "@type": "Organization",
         "name": "AFKology"
@@ -85,7 +85,7 @@
         "name": "AFKology",
         "logo": {
           "@type": "ImageObject",
-          "url": "{{ site.url }}{{ page.featured-image-home }}"
+          "url": "{{ site.url }}{{ site.logo }}"
         }
       },
       "datePublished": {{ page.published }},
