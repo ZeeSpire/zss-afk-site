@@ -11,7 +11,6 @@ layout: null
       {% else %}
         <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
       {% endif %}
-      <changefreq>monthly</changefreq>
       <priority>1.0</priority>
     </url>
   {% endfor %}
@@ -19,7 +18,6 @@ layout: null
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
         <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>0.8</priority>
        </url>
     {% endif %}

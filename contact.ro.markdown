@@ -4,8 +4,7 @@ title: Contact | AFKology
 simple-title: Contact
 permalink: /ro/contact/
 permalink-to-next-language: /contact/
-sitemap: 
-    changefreq: monthly
+sitemap: true
 description: Contact AFKology
 ---
 <!-- <div class="ratio ratio-1x1" style="height: 800px;">
