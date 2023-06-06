@@ -49,8 +49,8 @@ pagination:
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  # - jekyll-minifier
+  # - jekyll-sitemap
+  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-responsive-image
 

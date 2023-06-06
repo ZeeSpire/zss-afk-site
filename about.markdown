@@ -4,6 +4,8 @@ title: About us | AFKology
 simple-title: About us
 permalink: /about/
 permalink-to-next-language: /ro/despre-noi/
+sitemap: 
+    changefreq: monthly
 description: Who are we? The most precious moments in life happen offline. 
 ---
  Hello, world! We are two passionate software engineers who appreciate every little pleasure in life from reading an interesting book or watching a nice movie in the evening to enjoying a freshly brewed cup of coffee in the morning talking about the next place we should visit. To be 100% accurate, we are talking about what we should eat at dinner, but for the sake of our presentation let's leave it like this because we also love traveling.

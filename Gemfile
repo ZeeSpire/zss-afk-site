@@ -16,7 +16,7 @@ end
 gem 'wdm'
 gem "webrick"
 
-gem 'jekyll-sitemap'
+# gem 'jekyll-sitemap'
 gem 'jekyll-minifier'
 
 
