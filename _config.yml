@@ -50,7 +50,7 @@ pagination:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-minifier
+  # - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-responsive-image
 
