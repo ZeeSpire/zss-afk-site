@@ -18,8 +18,7 @@ layout: null
   {% for page in site.pages %}
     {% if page.sitemap != null and page.sitemap != empty %}
       <url>
-        <loc>{{ site.url }}{{ page.url }}</loc>
-        <lastmod>{{ page.sitemap.last_modified_at | date_to_xmlschema }}</lastmod>
+        <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>0.8</priority>
        </url>
