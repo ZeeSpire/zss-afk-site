@@ -49,7 +49,7 @@ Pavilionul internațional
 
 Nu suntem experți sau cunoscători, dar nouă ne-a plăcut mai mult ediția 9. Cred că din cadrul ediției cu numărul 10, expoziția preferată a fost Ștefan Popescu - Povestea călătoriilor.
 
-Poți merge la Art Safari, ediția 10, în perioada 23 septembrie – 11 decembrie 2022. Există mai multe tipuri de bilete. Detalii despre tipurile de bilete [aici](https://tickets.artsafari.ro/e?lang=ro){:target="_blank"}.
+Poți merge la Art Safari, ediția 10, în perioada 23 septembrie – 11 decembrie 2022. Există mai multe tipuri de bilete. Detalii despre tipurile de bilete [aici](https://tickets.artsafari.ro/e?lang=ro){:target="_blank" rel="nofollow"}.
 
 Noi am optat, ca data trecută, pentru biletul cu acces de o zi la cele cinci expoziții. Am cumpărat biletele de Black Friday cu 50% reducere, prețul întreg al unui bilet fiind de 120 lei, cu 50% mai mult ca la ediția precedentă. 
 

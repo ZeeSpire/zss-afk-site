@@ -78,7 +78,7 @@ Pavilionul Aniversar
     </div>
 </div>
 
-Biletele pot fi achiziționate și online de [aici](https://tickets.artsafari.ro/e?lang=en){:target="_blank"}. Un bilet cu acces de o zi la toate cele cinci expoziții costa la data scrierii acestui articol 80 de lei (16 euro), iar un tur de noapte costa 130 de lei (26 de euro).
+Biletele pot fi achiziționate și online de [aici](https://tickets.artsafari.ro/e?lang=en){:target="_blank" rel="nofollow"}. Un bilet cu acces de o zi la toate cele cinci expoziții costa la data scrierii acestui articol 80 de lei (16 euro), iar un tur de noapte costa 130 de lei (26 de euro).
 
 Art Safari este găzduit temporar în superbul Palat Dacia-România de pe strada Lipscani, un spațiu istoric construit la sfârșitul anilor 1890.
 

@@ -89,7 +89,7 @@ You can also visit the ruins of the Castle of Oia where you can watch the sunset
   
 ## 2. Eat freshly caught fish in Ammoudi Bay 
 You can reach this wonderful small port packed with restaurants that promise fresh caught fish and seafood by going down the stairs from Oia, or by car (just add the destination Ammoudi Bay on Google Maps). Please refrain from using the donkeys to go back up to Oia.
-This is the [website](http://ammoudisantorini.com/taste/){:target="_blank"} of one of the fish taverns located in Ammoudi Bay. They have lots of local specialties, like the sundried octopus.  
+This is the [website](http://ammoudisantorini.com/taste/){:target="_blank" rel="nofollow"} of one of the fish taverns located in Ammoudi Bay. They have lots of local specialties, like the sundried octopus.  
 There is a cliff jumping area as well. We didn't dare to jump, but it was fun watching others doing it. 
 
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -205,7 +205,7 @@ There are other picturesque villages on the island that are not that popular amo
 ## 15. Stay in a cave hotel 
 Santorini is known for its luxurious cave-like hotels with pools or hot tubs from which you have a generous view over the caldera. Couples all over the world consider Santorini one of the best destinations for their honeymoon so it can be said that romance is floating in the air. Staying in an exquisite hotel can be an amazing experience on its own. Read about [our experience at Divine Cave](/our-divine-cave-experience-in-santorini/) in Imerovigli. 
   
-This was my list of things to do in Santorini. What do you think? Are there things worth mentioning that I haven't? Did you try or plan to try some of the things from this list? Interact with us on our Instagram account. Follow our hashtag to see our journey:  [#afkingreece](https://www.instagram.com/explore/tags/afkingreece/){:target="_blank"}. 
+This was my list of things to do in Santorini. What do you think? Are there things worth mentioning that I haven't? Did you try or plan to try some of the things from this list? Interact with us on our Instagram account. Follow our hashtag to see our journey:  [#afkingreece](https://www.instagram.com/explore/tags/afkingreece/){:target="_blank" rel="nofollow"}. 
   
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1661325807/2022-santorini-main/e-IMG_20210714_211333_iu0wrg.jpg" data-fslightbox="gallery">

@@ -27,7 +27,7 @@ Valea Verde se află în Cund, un sat pitoresc din județul Mureș, la doar 30 k
 
 Proprietarii, Ulrike și Jonas Schäfer, s-au mutat din Germania în România, îndrăgostiți fiind de peisajele minunate descoperite aici, de cultura bogată și de viața simplă și autentică. În 2005 au demarat proiectul Valea Verde Retreat prin care au reușit să reînsuflețească micul sat din Transilvania. Pentru Valea Verde s-au inspirat din italienescul "albergo difusso" care înseamnă "hotel împrăștiat". Cei doi au renovat câteva case din sat, rând pe rând, transformându-le în case de oaspeți, fără a distruge farmecul caselor vechi săsești.
 
-Toate opțiunile de cazare sunt pe site-ul [Valea Verde](https://www.valeaverde.com/cazare/){:target="_blank"}
+Toate opțiunile de cazare sunt pe site-ul [Valea Verde](https://www.valeaverde.com/cazare/){:target="_blank" rel="nofollow"}
 La o simplă numărătoare, aflăm ca sunt puse la dispoziția oaspeților 8 case, aflate la diferite distanțe de restaurant, care pot găzdui peste 60 de persoane.
 
 Casele în care te poți caza sunt următoarele:
@@ -104,7 +104,7 @@ Cina de sâmbătă a avut cinci feluri de mâncare, după cum urmează: terină 
 
 ## Weekenduri tematice şi activităţi la Valea Verde
 
-Pe [site-ul Valea Verde](https://www.valeaverde.com/experiente/){:target="_blank"}, găseşti mai multe oferte pentru de weekenduri tematice şi experienţe de care poţi avea parte aici: plimbări cu trăsura, călărie, drumeţii, ciclism, degustări de vinuri, cine tematice, SPA, vânătoare de trufe şi altele.
+Pe [site-ul Valea Verde](https://www.valeaverde.com/experiente/){:target="_blank" rel="nofollow"}, găseşti mai multe oferte pentru de weekenduri tematice şi experienţe de care poţi avea parte aici: plimbări cu trăsura, călărie, drumeţii, ciclism, degustări de vinuri, cine tematice, SPA, vânătoare de trufe şi altele.
 
 {% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Weekenduri tematice la Valea Verde" %}
 
@@ -118,7 +118,7 @@ O altă experienţă unică şi autentică de care am avut parte a fost petrecer
 ## Alte locuri de vizitat în împrejurimi
 
 ### Manufactura de brânză
-Chiar în Cund poate fi vizitată [Manufactura de Brânză](http://manufacturadebranza.ro/){:target="_blank"} unde se prelucrează laptele obţinut de la văcuţele din ferma proprie şi de unde poţi cumpăra diverse tipuri de brânză maturată. La cerere, se pot organiza degustări de brânzeturi sau chiar şi vizite la atelier pentru a vedea cum este produsă brânza.
+Chiar în Cund poate fi vizitată [Manufactura de Brânză](http://manufacturadebranza.ro/){:target="_blank" rel="nofollow"} unde se prelucrează laptele obţinut de la văcuţele din ferma proprie şi de unde poţi cumpăra diverse tipuri de brânză maturată. La cerere, se pot organiza degustări de brânzeturi sau chiar şi vizite la atelier pentru a vedea cum este produsă brânza.
 
 ### Biertan
 Biertan, este un sat săsesc, aflat la 23 de kilometri de Cund. A fost atestat documentar în secolul XIII, fiind una din primele aşezări germane de saşi din Ardeal. De departe cea mai mare şi impunătoare biserică fortificată din câte am văzut este cea din Biertan.
@@ -132,10 +132,10 @@ Cele mai importante obiective turistice pe care le poţi vizita în Sighişoara 
 {% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" %}
 
 ### Târgu Mureş
-De neratat în Târgu Mureş, aflat la 43 de kilometri de Cund, este [Palatul Culturii](https://palatul-culturii.ro/){:target="_blank"} ce găzduieşte mai multe expoziţii, dar şi Cetatea Târgu Mureş. De asemenea, am înţeles că şi [grădina zoologică](https://www.zootirgumures.ro/){:target="_blank"} merită o vizită. Având în vedere că pe Google are nota 4.6 din 9000 de recenzii, îmi pare rău că nu am reuşit să o vizităm. Prin comparaţie, cea din Bucureşti are nota 3.9 din aproximativ 12000 de recenzii.
+De neratat în Târgu Mureş, aflat la 43 de kilometri de Cund, este [Palatul Culturii](https://palatul-culturii.ro/){:target="_blank" rel="nofollow"} ce găzduieşte mai multe expoziţii, dar şi Cetatea Târgu Mureş. De asemenea, am înţeles că şi [grădina zoologică](https://www.zootirgumures.ro/){:target="_blank" rel="nofollow"} merită o vizită. Având în vedere că pe Google are nota 4.6 din 9000 de recenzii, îmi pare rău că nu am reuşit să o vizităm. Prin comparaţie, cea din Bucureşti are nota 3.9 din aproximativ 12000 de recenzii.
 
 Castelul Bethlen-Haller din Cetatea de Baltă şi crama Jidvei
-Aflat la 47 de kilometri de Cund,  castelul în stil renascentist Bethlen-Haller şi-a deschis porţile pentru vizitatori. Pe lângă vizita propriu-zisă a castelului, turiştii pot opta pentru diferite pachete ce includ degustare de vinuri şi masa de prânz. Detalii pe site-ul [jidvei.ro](https://www.jidvei.ro/castelul-bethlen-haller/){:target="_blank"}
+Aflat la 47 de kilometri de Cund,  castelul în stil renascentist Bethlen-Haller şi-a deschis porţile pentru vizitatori. Pe lângă vizita propriu-zisă a castelului, turiştii pot opta pentru diferite pachete ce includ degustare de vinuri şi masa de prânz. Detalii pe site-ul [jidvei.ro](https://www.jidvei.ro/castelul-bethlen-haller/){:target="_blank" rel="nofollow"}
 
 ### Saschiz
 Aflat la 50 de kilometri de Cund, Saschiz este un sat săsesc în care principalul obiectiv turistic este reprezentat de Biserica Evanghelică Fortificată Sf. Ştefan, construită în secolul XV, actual monument UNESCO. Ar mai fi şi Cetatea Țărănească din Saschiz pe care noi însă nu am vizitat-o deoarece la momentul vizitei noastre era închisă pentru renovare, lucru ce m-a bucurat.

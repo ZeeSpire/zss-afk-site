@@ -49,7 +49,7 @@ International pavilion
 
 We are no experts or connoisseurs, but we liked the ninth edition more. I think that from the tenth edition, our favorite exhibition was Ștefan Popescu - Travel stories.
 
-You can go to Art Safari 10th edition from September 23 to December 11, 2022. There are several types of tickets. Details about ticket types [here](https://tickets.artsafari.ro/e?lang=ro){:target="_blank"}.
+You can go to Art Safari 10th edition from September 23 to December 11, 2022. There are several types of tickets. Details about ticket types [here](https://tickets.artsafari.ro/e?lang=ro){:target="_blank" rel="nofollow"}.
 
 We opted, as last time, for the ticket with one-day access to all five exhibitions. I bought the tickets on Black Friday with a 50% discount, the full price of a ticket being 120 RON (24 EUR), 50% more than the previous edition.
 

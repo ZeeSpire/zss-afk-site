@@ -44,7 +44,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
 
 ## Accommodation and restaurant options
  
-The first time we visited the area we were not accommodated in either of the two villages because there are more accommodation options in the more touristy areas nearby such as Bran, Râșnov, or Moieciu. But we wanted to return and stay in Măgura. Our first option would have been [Samedru](https://www.booking.com/hotel/ro/samedru-magura8.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}, but because we did not find any available weekend, we chose to stay at [Mosorel](https://www.booking.com/hotel/ro/mosorel-moieciu-de-jos.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"} with 4.8* out of over 200 reviews on Google, but we would say that a more suitable rating for Mosorel would be 2*.
+The first time we visited the area we were not accommodated in either of the two villages because there are more accommodation options in the more touristy areas nearby such as Bran, Râșnov, or Moieciu. But we wanted to return and stay in Măgura. Our first option would have been [Samedru](https://www.booking.com/hotel/ro/samedru-magura8.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, but because we did not find any available weekend, we chose to stay at [Mosorel](https://www.booking.com/hotel/ro/mosorel-moieciu-de-jos.en.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"} with 4.8* out of over 200 reviews on Google, but we would say that a more suitable rating for Mosorel would be 2*.
 
 The third time we visited, we finally stayed at Samedru which exceeded our expectations especially after staying at Mosorel. The room we got had a beautiful view, it was clean and had everything we needed. The restaurant had a nice selection of local wines, a good house white wine, and a very good mulled wine. The food was very tasty and the portions were enormous. Also, the buffet breakfast included many options. So we can say that Samedru deserves 5*.
  
@@ -68,9 +68,9 @@ In Peștera you can find the Bat Cave which houses rare species of bats. We hike
 
 The trail that starts from Botorog's Fountain through the Zărnești Gorges (Cheile Zărneștilor) and goes up to Curmătura Chalet is incredibly beautiful and easy to follow. The descent can be done through Poiana Zănoaga. All trails are well marked. The area is also appreciated by foreign tourists. We became friends with a group of Germans staying in Măgura on our way to Curmătura Chalet.
 
-For more information about the hiking trails, about the fauna and flora in Piatra Craiului National Park, but also to find out the visiting rules, you can access the official [website](https://www.pcrai.ro/){:target="_blank"}.
+For more information about the hiking trails, about the fauna and flora in Piatra Craiului National Park, but also to find out the visiting rules, you can access the official [website](https://www.pcrai.ro/){:target="_blank" rel="nofollow"}.
 
-Also if you want to see more pictures from our trips, follow [#afkinmagura](https://www.instagram.com/explore/tags/afkinmagura/){:target="_blank"} on [Instagram](https://www.instagram.com/afkology/){:target="_blank"} and [Reels](https://www.instagram.com/afkology/reels/){:target="_blank"}.
+Also if you want to see more pictures from our trips, follow [#afkinmagura](https://www.instagram.com/explore/tags/afkinmagura/){:target="_blank" rel="nofollow"} on [Instagram](https://www.instagram.com/afkology/){:target="_blank" rel="nofollow"} and [Reels](https://www.instagram.com/afkology/reels/){:target="_blank" rel="nofollow"}.
 
 In these isolated villages the locals are hospitable and friendly. It was a pleasure for us to discover this! We were looking at the sky because we wanted to land the drone when an old man who reminded me of my grandfather approached and asked us what we were looking at. That's how the conversation started, and it was heart-warming.
 

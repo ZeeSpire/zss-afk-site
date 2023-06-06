@@ -19,7 +19,7 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 Lecce is located in the Salento region, 150 kilometers from Bari, 40 kilometers from Gallipoli, and 45 kilometers from Otranto. Gallipoli and Otranto are two seaside towns worth visiting. It is also 25 kilometers from the coast of the Adriatic Sea and 35 kilometers from the coast of the Ionian Sea. So it can represent a good starting point for exploring the "heel" of Italy. 
 
-We went there by car and because the access to the historic center is restricted and because we wanted to find a parking space as easily as possible, we opted to stay outside the old city center. We stayed the night in this cute apartment, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}, 
+We went there by car and because the access to the historic center is restricted and because we wanted to find a parking space as easily as possible, we opted to stay outside the old city center. We stayed the night in this cute apartment, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, 
 owned by Maria Luisa who was an amazing host and gave us lots of recommendations on what to see in the city or where to eat.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
@@ -27,12 +27,12 @@ owned by Maria Luisa who was an amazing host and gave us lots of recommendations
 
 We have to admit though that we would have liked to stay in one of these luxurious hotels in the heart of Lecce:
 
-[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
-[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 
-[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 We only spent one day in this vibrant, touristy, steeped-in history place, and we regret that we couldn't stay longer because we really enjoyed the time here. Basically, we strolled through the streets of the "centro storico", entered churches (open until late), and visited museums. But the most pleasant activity is to sit on a terrace, eat local cheeses, and admire the bustling piazzas full of tourists and locals having a good time. 
 
@@ -83,7 +83,7 @@ Roman Amphitheatre - a well-preserved ancient arena used for gladiator games and
 
 {% responsive_image path: assets/images/posts/lecce/lecce-roman-amphitheatre.webp alt: "Lecce, Salento, Italy - Roman Amphitheatre" %}
 
-[Palazzo del Seminario](https://museo.diocesilecce.org/il-palazzo-del-seminario/){:target="_blank"} - a Baroque building that houses several important cultural institutions, including the Provincial Museum of Sacred Art, the Provincial Library, and the Academy of Fine Arts.
+[Palazzo del Seminario](https://museo.diocesilecce.org/il-palazzo-del-seminario/){:target="_blank" rel="nofollow"} - a Baroque building that houses several important cultural institutions, including the Provincial Museum of Sacred Art, the Provincial Library, and the Academy of Fine Arts.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-palazzo-del-seminario.webp alt: "Lecce, Salento, Italy - Palazzo del Seminario" %}
 

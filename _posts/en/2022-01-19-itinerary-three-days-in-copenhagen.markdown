@@ -231,7 +231,7 @@ This guide was based on our experience in Copenhagen. We stayed 5 days in Septem
 There were lots of other attractions we wanted to visit, but we just couldn't in the time frame we had. Also, we visited Copenhagen in the pandemic and some of the attractions were closed for different reasons. On the other hand, there weren't so many tourists.
 
 <a id="Extra"></a>Some of the attractions that are on our list for a future trip to Copenhagen:
-- [Carlsberg Brewery](https://www.visitcarlsberg.com/){:target="_blank"}
+- [Carlsberg Brewery](https://www.visitcarlsberg.com/){:target="_blank" rel="nofollow"}
 - Amalienborg
 - The Royal Library (Det Kongelige Bibliotek)
 - City hall Tower

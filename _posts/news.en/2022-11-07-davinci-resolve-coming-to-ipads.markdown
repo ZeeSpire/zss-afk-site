@@ -25,7 +25,7 @@ The most important thing is that Davinci Resolve will be optimized for MultiTouc
 
 Davinci Resolve for iPad will allow collaboration and favor mobility and it will have a free version as well as a paid studio version.
 
-For more information you can check the [press release](https://www.blackmagicdesign.com/media/release/20221020-02){:target="_blank"}.
+For more information you can check the [press release](https://www.blackmagicdesign.com/media/release/20221020-02){:target="_blank" rel="nofollow"}.
 
 iPads with M1 and M2 processors are more powerful than most of the Intel and AMD laptops on the market, but they lack productivity apps and a full OS as iPadOS is still limited even if Apple launched support for external HDDs, Stage Manager application for multi-tasking, and other features through which it tries to bring the iPads closer to the MacBook. Needles to say they are not there yet.
 

@@ -16,7 +16,7 @@ featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_s
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1659197612/2022-divine/0_jp5koh.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
-I felt I had to dedicate an entirely separate article to one of the accommodations we had in Santorini because it was the most beautiful accommodation we have ever stayed in, and it was an experience in itself. We booked through [booking.com](https://www.booking.com/hotel/gr/divine-cave-experience.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank"} and we were so happy that we found this place in the peak season at a reasonable price.
+I felt I had to dedicate an entirely separate article to one of the accommodations we had in Santorini because it was the most beautiful accommodation we have ever stayed in, and it was an experience in itself. We booked through [booking.com](https://www.booking.com/hotel/gr/divine-cave-experience.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"} and we were so happy that we found this place in the peak season at a reasonable price.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -28,7 +28,7 @@ I felt I had to dedicate an entirely separate article to one of the accommodatio
     </a>
 </div>
 
-Divine Cave Experience is a hotel located in Imerovigli right next to the trailing path that leads to Oia and was inaugurated in 2021 which makes it a rather new hotel, with only nine rooms. It has a swimming pool, a pool bar, and a SPA, and each room has its own jacuzzi with a wonderful view of the caldera as well as a separate lounge. For all the amenities check out their [website](https://www.divinesuites.com/){:target="_blank"}.
+Divine Cave Experience is a hotel located in Imerovigli right next to the trailing path that leads to Oia and was inaugurated in 2021 which makes it a rather new hotel, with only nine rooms. It has a swimming pool, a pool bar, and a SPA, and each room has its own jacuzzi with a wonderful view of the caldera as well as a separate lounge. For all the amenities check out their [website](https://www.divinesuites.com/){:target="_blank" rel="nofollow"}.
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">
@@ -74,7 +74,7 @@ Even though we didn't use the TV, we appreciated the fact that it had Netflix. W
     </div>
 </div>
 
-The bed and especially the pillows were so comfortable that we looked at the label to see where we could buy them. They were from [Matt-Royal](https://matt-royal.gr/products-pillows.html){:target="_blank"} and were made in Greece which is to be appreciated.
+The bed and especially the pillows were so comfortable that we looked at the label to see where we could buy them. They were from [Matt-Royal](https://matt-royal.gr/products-pillows.html){:target="_blank" rel="nofollow"} and were made in Greece which is to be appreciated.
 
 You can also leave with a souvenir from the hotel, namely a beach bag. I think it is a common practice in other hotels as well, as I saw this kind of beach bag inscribed with the names of other hotels on several people walking through Oia.
 

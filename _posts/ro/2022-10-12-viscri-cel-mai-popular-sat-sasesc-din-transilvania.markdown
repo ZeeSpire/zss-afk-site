@@ -90,9 +90,9 @@ Mai sunt puncte gastronomice în Viscri, cât și în alte sate, dar este necesa
 Viscri este un exemplu de turism bine făcut cu respect pentru mediu. Poți găsi cazare în case restaurate, decorate cu obiecte tradiționale, dintre care unele au zeci sau chiar sute de ani.
  
 Unele dintre aceste pensiuni sunt:
-- [Viscri 32](https://viscri32.com/){:target="_blank"}
-- [Viscri 125](https://www.viscri125.ro/){:target="_blank"}
-- [Viscri 63](http://www.experiencetransylvania.ro/guesthouse/viscri-63/){:target="_blank"}
+- [Viscri 32](https://viscri32.com/){:target="_blank" rel="nofollow"}
+- [Viscri 125](https://www.viscri125.ro/){:target="_blank" rel="nofollow"}
+- [Viscri 63](http://www.experiencetransylvania.ro/guesthouse/viscri-63/){:target="_blank" rel="nofollow"}
  
 Mai multe variante găsești pe booking.com sau google, atât în Viscri, cât și în satele limitrofe.
 
@@ -127,7 +127,7 @@ Complexul geologic Racoș este o arie protejată de 95,2 hectare și include vul
 
 Când ajungi acolo, vei fi întâmpinat de o persoană care îți va înmâna un pliant cu informații despre complex și cu o hartă. Există două parcări și poteci amenajate spre fiecare obiectiv, iar biletul costă 20 lei de persoană.
  
-Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, atestat în anii 1600, care se află în orașul Racoș.
+Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsukosdbethlen.ro/){:target="_blank" rel="nofollow"}, atestat în anii 1600, care se află în orașul Racoș.
 
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
@@ -137,7 +137,7 @@ Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsu
  
 Pe drumul de la Brașov spre Viscri vei trece pe lângă Cetatea Rupea, care stă impunătoare pe dealul Cohalmul, dominând de sus orașul Rupea. Imaginea cetății, pe măsură ce te apropii, îți taie răsuflarea.
 
-Această cetate medievală se întinde pe o suprafață de 11 hectare cu ziduri, turnuri și curți interioare și poate fi vizitată pentru suma de 15 lei de persoană. Chiar lângă cetate există o parcare unde îți poți lăsa mașina gratuit. Pe [site-ul primăriei](https://www.primariarupea.ro/program-tarife/){:target="_blank"} găsești mai multe informații despre programul de vizitare precum și tipurile de bilete disponibile.
+Această cetate medievală se întinde pe o suprafață de 11 hectare cu ziduri, turnuri și curți interioare și poate fi vizitată pentru suma de 15 lei de persoană. Chiar lângă cetate există o parcare unde îți poți lăsa mașina gratuit. Pe [site-ul primăriei](https://www.primariarupea.ro/program-tarife/){:target="_blank" rel="nofollow"} găsești mai multe informații despre programul de vizitare precum și tipurile de bilete disponibile.
  
 În orașul Rupea mai poate fi vizitat și un mic muzeu etnografic localizat lângă parc.
 

@@ -25,7 +25,7 @@ featured-image-style: full-width # can be left, centered, full-width
     </a>
 </div>
 
-În februarie am fost într-o excursie de o zi în județul Buzău pentru a vizita Vulcanii Noroioși și am ajuns relativ repede la destinație, iar drumul a fost destul de bun astfel că ne-am hotărât să ne întoarcem în zonă, de data aceasta ca să vizităm o cramă. Dacă ești curios să vezi imagini spectaculoase cu Vulcanii Noroioși, mergi la acest [articol](/the-muddy-volcanoes-buzau-county-romania){:target="_blank"}.
+În februarie am fost într-o excursie de o zi în județul Buzău pentru a vizita Vulcanii Noroioși și am ajuns relativ repede la destinație, iar drumul a fost destul de bun astfel că ne-am hotărât să ne întoarcem în zonă, de data aceasta ca să vizităm o cramă. Dacă ești curios să vezi imagini spectaculoase cu Vulcanii Noroioși, mergi la acest [articol](/the-muddy-volcanoes-buzau-county-romania){:target="_blank" rel="nofollow"}.
 
 Am făcut câteva cercetări pe internet și am aflat că între județele Ploiești și Buzău sunt o mulțime de crame, unele oferind cazare, restaurant și degustări de vinuri. Așadar, escapada noastră de weekend a avut toate șansele să fie reușită.
 
@@ -53,7 +53,7 @@ Am ales să mergem în primul weekend din aprilie la Apogeum Winery, sora mai mi
 
 Crama Apogeum oferă mai multe tipuri de camere, toate cu baie proprie începând de la 350 RON/noapte cu mic dejun inclus.
 
-Am rezervat o cameră dublă prin [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&auth_success=1&group_adults=2){:target="_blank"} și, deși mi s-a părut puțin prea mică la început, a fost tot ce ne-a trebuit pentru un sejur de două nopți.
+Am rezervat o cameră dublă prin [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&auth_success=1&group_adults=2){:target="_blank" rel="nofollow"} și, deși mi s-a părut puțin prea mică la început, a fost tot ce ne-a trebuit pentru un sejur de două nopți.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -117,7 +117,7 @@ Acum să trecem la partea cea mai interesantă, motivul călătoriei noastre: de
   
 ## Degustarea de vinuri
 
-Pe site-ul Cramei Apogeum găsești câteva informații despre enoturism/degustări de vin: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank"}. Am crezut inițial că vom fi singurii oameni de acolo și eram pregătiți să plătim în plus pentru a putea face o degustare de vinuri, dar spre surprinderea noastră erau 18 persoane în grupul nostru! Și erau două grupuri distincte, nu doar unul. Am observat că veniseră oameni în team buildings, iar mulți din grupul nostru fuseseră toată ziua la diferite crame din zonă.
+Pe site-ul Cramei Apogeum găsești câteva informații despre enoturism/degustări de vin: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank" rel="nofollow"}. Am crezut inițial că vom fi singurii oameni de acolo și eram pregătiți să plătim în plus pentru a putea face o degustare de vinuri, dar spre surprinderea noastră erau 18 persoane în grupul nostru! Și erau două grupuri distincte, nu doar unul. Am observat că veniseră oameni în team buildings, iar mulți din grupul nostru fuseseră toată ziua la diferite crame din zonă.
 
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DSCF3248-2_meiph0.jpg" data-fslightbox="gallery">

@@ -19,9 +19,9 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 ## Why Matera should be on your travel list
 
-The Italian city of Matera was the [European capital of culture](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank"} in 2019, along with the city of Plovdiv in Bulgaria. That's when I saw for the first time photos of the cave dwellings carved in rock in the Gravina river canyon. And that's when I realized that I want to see with my own eyes this city that seemed to be from a very distant world.
+The Italian city of Matera was the [European capital of culture](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank" rel="nofollow"} in 2019, along with the city of Plovdiv in Bulgaria. That's when I saw for the first time photos of the cave dwellings carved in rock in the Gravina river canyon. And that's when I realized that I want to see with my own eyes this city that seemed to be from a very distant world.
 
-Matera is a city in southern Italy that has a rich history dating back over 9,000 years. Located in the Basilicata region of the country, it is considered one of the oldest continuously inhabited settlements in the world. At least, this is the information found on certain sites, while on others things differ. For example, on this [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank"} I found that "Matera is the oldest city in Italy and in Europe", while on this [website](https://www.europeathome.eu/plovdiv.html#:~:text=With%20its%20cultural%20and%20historical,Bulgarian%20cities%20to%20live%20in){:target="_blank"} is written that "Plovdiv is considered to be the oldest continuously inhabited city in Europe and one of the oldest in the world". Plovdiv is on our destinations list as well.
+Matera is a city in southern Italy that has a rich history dating back over 9,000 years. Located in the Basilicata region of the country, it is considered one of the oldest continuously inhabited settlements in the world. At least, this is the information found on certain sites, while on others things differ. For example, on this [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank" rel="nofollow"} I found that "Matera is the oldest city in Italy and in Europe", while on others is written that "Plovdiv is considered to be the oldest continuously inhabited city in Europe and one of the oldest in the world". Plovdiv is on our destinations list as well.
 
 Nevertheless, Matera is famous for its unique architecture, including the "sassi", a series of ancient cave dwellings carved into the rock. The sassi have been inhabited since prehistoric times and were used as homes, stables, and even churches until the 1950s. 
 
@@ -46,19 +46,19 @@ Matera is approximately 70 km from Bari, a distance that can be traveled by trai
 
 As in all the cities visited on this trip, access by car to the historic center is prohibited (at least for tourists). And it is much better this way because these streets were not made for cars in the first place. For us, it wasn't that hard to find a parking spot and pay, but we found the way of driving in Italy quite chaotic. It seems that no one respects the traffic rules, but that is a story for another time.
 
-We stayed two nights in the beautiful boutique hotel of [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"} (Palace of the Abbots) located in the heart of the Sasso Barisano, right next to Chiesa di San Pietro Barisano. Here I make a parenthesis to say that "sasso" (pl. sassi) means "stone" in Italian and that Sassi di Matera is divided into two districts: Sasso Caveoso and Sasso Barisano. Both of them were dug out of the rock on either side of Civita hill. 
+We stayed two nights in the beautiful boutique hotel of [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"} (Palace of the Abbots) located in the heart of the Sasso Barisano, right next to Chiesa di San Pietro Barisano. Here I make a parenthesis to say that "sasso" (pl. sassi) means "stone" in Italian and that Sassi di Matera is divided into two districts: Sasso Caveoso and Sasso Barisano. Both of them were dug out of the rock on either side of Civita hill. 
 
 Another thing I want to point out is that whenever you'll see the word "chiesa" in this article, just know that "chiesa" means "church" in Italian.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
 
-But let's return to the [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}, which apparently dates back to 1756 and was carefully restored and transformed into a 4-stars hotel. We wanted to stay in a cave, this being in itself a memorable experience. So we booked the room "Suite in Cave – U Firn du Cidd" which exceeded our expectations. This room previously served as an oven as the name of the room tells us, "U Firn du Cidd" translating into "The oven of the mule". In the walls of the cave, we could admire marine fossils that we found out that they were real and date back to 2 million years ago. But the piece de resistance was the glass floor through which we could see the archaeological finds on which the oven was built. Also, the view from the terrace where we served breakfast and an afternoon aperitif is breathtaking.
+But let's return to the [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, which apparently dates back to 1756 and was carefully restored and transformed into a 4-stars hotel. We wanted to stay in a cave, this being in itself a memorable experience. So we booked the room "Suite in Cave – U Firn du Cidd" which exceeded our expectations. This room previously served as an oven as the name of the room tells us, "U Firn du Cidd" translating into "The oven of the mule". In the walls of the cave, we could admire marine fossils that we found out that they were real and date back to 2 million years ago. But the piece de resistance was the glass floor through which we could see the archaeological finds on which the oven was built. Also, the view from the terrace where we served breakfast and an afternoon aperitif is breathtaking.
 
 These are the other luxury hotels that we considered when looking for accommodation:
 
-- [Palazzotto Residence & Winery](https://www.booking.com/hotel/it/il-palazzotto-matera.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
-- [Aquatio Cave Luxury Hotel & SPA](https://www.booking.com/hotel/it/aquatio-cave-luxury-amp-spa.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
-- [Sextantio Le Grotte Della Civita](https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
+- [Palazzotto Residence & Winery](https://www.booking.com/hotel/it/il-palazzotto-matera.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
+- [Aquatio Cave Luxury Hotel & SPA](https://www.booking.com/hotel/it/aquatio-cave-luxury-amp-spa.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
+- [Sextantio Le Grotte Della Civita](https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
 
 We spent a day and a half in Matera and here is what we were able to do and visit in this interval.
 <br /><br />
@@ -66,7 +66,7 @@ We spent a day and a half in Matera and here is what we were able to do and visi
 ## Top 20 things to do in Matera
 
 ### 1. Parco Regionale della Murgia Materana
-Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_blank"} is a regional park located in the Murgia area near the city of Matera and it was our first stop before heading to the city. It covers an area of approximately 50,000 hectares and it contains several important cultural and historical sites, including ancient cave dwellings, rock-hewn churches, and fortifications. These sites are testimony to the long and rich history of the region and are important cultural landmarks.
+Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_blank" rel="nofollow"} is a regional park located in the Murgia area near the city of Matera and it was our first stop before heading to the city. It covers an area of approximately 50,000 hectares and it contains several important cultural and historical sites, including ancient cave dwellings, rock-hewn churches, and fortifications. These sites are testimony to the long and rich history of the region and are important cultural landmarks.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana-view.webp alt: "Parco Regionale della Murgia Materana View, Matera, Italy" %}
 
@@ -83,7 +83,7 @@ The Chiesa di San Domenico is a notable church built in the 13th century. Its fa
 ### 4. Palombaro lungo
 It is one of the largest and most important cisterns in the area and is considered a remarkable example of ancient water management systems. The cistern was carved out of the rock and was used to collect rainwater and channel it into underground storage tanks. The water was then used for various purposes, including irrigation, drinking, and washing.
 
-Today, the [Palombaro Lungo](https://www.palombarolungo.it/index.htm){:target="_blank"} is a popular tourist attraction and a symbol of the ingenuity and resourcefulness of the people who lived in the Sassi district. Visitors can explore the cistern and admire its architectural features, including the large underground chambers and the network of tunnels and channels that were used to collect and distribute water. The cistern is also an important cultural site and a testament to the rich history and heritage of the Matera region.
+Today, the [Palombaro Lungo](https://www.palombarolungo.it/index.htm){:target="_blank" rel="nofollow"} is a popular tourist attraction and a symbol of the ingenuity and resourcefulness of the people who lived in the Sassi district. Visitors can explore the cistern and admire its architectural features, including the large underground chambers and the network of tunnels and channels that were used to collect and distribute water. The cistern is also an important cultural site and a testament to the rich history and heritage of the Matera region.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palombaro-lungo.webp alt: "Palombaro Lungo, Matera, Italy" %}
 
@@ -93,7 +93,7 @@ Situated in Piazza San Giovani, only 170 m from Palombaro Lungo, this church was
 {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-san-giovanni-battista.webp alt: "Chiesa di San Giovanni Battista, Matera, Italy" %}
 
 ### 6. Casa grotta C'era una volta
-We stumbled upon [this house](https://www.anticamatera.it/){:target="_blank"} that exemplifies how people used to live here before the 1950s. The house was dug into the limestone rock and the only opening that allowed light and air to enter the room was the door. It was divided into three different areas: the sleeping area with the bed and the cradle, the area where the animals were kept, and the kitchen area.
+We stumbled upon [this house](https://www.anticamatera.it/){:target="_blank" rel="nofollow"} that exemplifies how people used to live here before the 1950s. The house was dug into the limestone rock and the only opening that allowed light and air to enter the room was the door. It was divided into three different areas: the sleeping area with the bed and the cradle, the area where the animals were kept, and the kitchen area.
 
 "Casa grotta" refers to these types of house museums that can be visited all over the Sassi. This is just one of them. Keep reading to discover more.
 
@@ -146,7 +146,7 @@ Just a stone's throw from Madonna de Idris, there's Piazza San Pietro where Chie
 After taking in the views from Piazza San Pietro, go on to Vico Solitario Street, where you'll find in less than 150 meters Chiesa rupestre di Sant'Agostino al Casalnuovo and right next to it Casa Grotta nei Sassi di Matera.
 
 ### 13. Casa Grotta nei Sassi di Matera
-Casa Grotta nei Sassi di Matera, how you'll find it on Google, or [Casa Grotta di Vico Solitario](http://www.casagrotta.it/index.php?lang=en){:target="_blank"}, is a well-preserved example of the traditional cave dwellings that were common in the area for centuries. The house is carved into the rock face and is thought to date back to the 17th century or earlier. Although it is not the only house of this kind that can be visited in Matera, it is certainly the most popular one.
+Casa Grotta nei Sassi di Matera, how you'll find it on Google, or [Casa Grotta di Vico Solitario](http://www.casagrotta.it/index.php?lang=en){:target="_blank" rel="nofollow"}, is a well-preserved example of the traditional cave dwellings that were common in the area for centuries. The house is carved into the rock face and is thought to date back to the 17th century or earlier. Although it is not the only house of this kind that can be visited in Matera, it is certainly the most popular one.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-di-vico-solitario-4.webp alt: "Casa Grotta di Vico Solitario interior 1, Matera, Italy" %}
 
@@ -183,7 +183,7 @@ The steps next to the church will lead you to the roof where there's a necropoli
 </div>
 
 ### 15. Casa Grotta del Casalnuovo
-After visiting Chiesa di Santa Lucia alle Malve and the necropolis, head to [Casa Grotta del Casalnuovo](https://www.casagrottamatera.com/){:target="_blank"}. Don't worry, you'll have to walk only 150 meters. The Casa Grotta del Casalnuovo is another typical house of the Sassi, partially sculpted in the cave and partially built. You will see inside the original furnishings and tools that the family who lived there used in their everyday life before the depopulation that took place at the end of the 1950s. 
+After visiting Chiesa di Santa Lucia alle Malve and the necropolis, head to [Casa Grotta del Casalnuovo](https://www.casagrottamatera.com/){:target="_blank" rel="nofollow"}. Don't worry, you'll have to walk only 150 meters. The Casa Grotta del Casalnuovo is another typical house of the Sassi, partially sculpted in the cave and partially built. You will see inside the original furnishings and tools that the family who lived there used in their everyday life before the depopulation that took place at the end of the 1950s. 
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bedroom.webp alt: "Casa Grotta del Casalnuovo bedroom, Matera, Italy" %}
 
@@ -219,7 +219,7 @@ Just one stone's throw from Chiesa del Purgatorio, there's Chiesa di San Frances
 
 ### 18. Enjoy an aperitivo as Italians do
 The aperitivo typically takes place before dinner. It is a time to relax and unwind with friends or family while enjoying a drink and a light snack. 
-We spent some incredible moments on the terrace of our hotel (Palazzo degli Abati) called [Crialoss Café](http://www.palazzodegliabati.it/crialoss/){:target="_blank"}, with spectacular views over Sasso Caveoso. We sipped from a top-notch Aperol Spritz and ordered a light dinner. We tried some local foods like a trio of bruschetta and Cialledda which is a salad of cucumbers, tomatoes, onions, bread, and olive oil. It was very aromatic and fresh. 
+We spent some incredible moments on the terrace of our hotel (Palazzo degli Abati) called [Crialoss Café](http://www.palazzodegliabati.it/crialoss/){:target="_blank" rel="nofollow"}, with spectacular views over Sasso Caveoso. We sipped from a top-notch Aperol Spritz and ordered a light dinner. We tried some local foods like a trio of bruschetta and Cialledda which is a salad of cucumbers, tomatoes, onions, bread, and olive oil. It was very aromatic and fresh. 
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">

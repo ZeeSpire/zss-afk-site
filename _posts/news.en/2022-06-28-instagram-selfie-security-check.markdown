@@ -13,6 +13,6 @@ featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_400,c_sc
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656439754/news/1/Instagram-logo-with-brush-PNG_znhshm.webp" # width - 600
 featured-image-style: centered # can be left, centered, full-width
 ---
-According to [BBC](https://www.bbc.com/news/technology-61828900){:target="_blank"}, Instagram tests new ways through which it can check a user's real age. One of the ways can be video selfies which will be analyzed using face recognition software. 
+According to [BBC](https://www.bbc.com/news/technology-61828900){:target="_blank" rel="nofollow"}, Instagram tests new ways through which it can check a user's real age. One of the ways can be video selfies which will be analyzed using face recognition software. 
 
 US teens will be able to verify age in three ways: upload ID, ask three adult users to approve their age, or take a video selfie which will be analyzed. 

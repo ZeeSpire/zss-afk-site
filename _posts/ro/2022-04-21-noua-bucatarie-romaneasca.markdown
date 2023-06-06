@@ -17,7 +17,7 @@ featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_s
 featured-image-style: full-width # can be left, centered, full-width
 ---
 
-Despre Restaurantul Noua am aflat printr-un simplu story pe Instagram. Doar o fotografie, postată fără prea multe cuvinte, m-a făcut să vreau să aflu mai multe despre acest restaurant. Însă, în cele din urmă, o recenzie Google mai cuprinzătoare m-a convins să vizitez [restaurantul](https://nouarestaurant.ro){:target="_blank"}.
+Despre Restaurantul Noua am aflat printr-un simplu story pe Instagram. Doar o fotografie, postată fără prea multe cuvinte, m-a făcut să vreau să aflu mai multe despre acest restaurant. Însă, în cele din urmă, o recenzie Google mai cuprinzătoare m-a convins să vizitez [restaurantul](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}.
 
 Noua se află într-o casă din zona veche a Bucureștiului, cu grădina transformată în terasă când vremea o permite, pe strada Popa Nan, nr. 7. Este indicat să mergi acolo cu rezervarea făcută și să ceri detalii la telefon în cazul în care ai întrebări despre meniul lor.
 

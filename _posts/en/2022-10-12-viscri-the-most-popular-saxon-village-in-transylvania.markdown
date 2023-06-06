@@ -89,9 +89,9 @@ There are other gastronomic points in other villages, and in Viscri as well, but
 Viscri is an example of tourism done well with respect for the environment. You can find accommodation in restored houses, decorated with traditional objects, some of which are decades or even hundreds of years old.
  
 Some of these guest houses are:
-- [Viscri 32](https://viscri32.com/){:target="_blank"}
-- [Viscri 125](https://www.viscri125.ro/){:target="_blank"}
-- [Viscri 63](http://www.experiencetransylvania.ro/guesthouse/viscri-63/){:target="_blank"}
+- [Viscri 32](https://viscri32.com/){:target="_blank" rel="nofollow"}
+- [Viscri 125](https://www.viscri125.ro/){:target="_blank" rel="nofollow"}
+- [Viscri 63](http://www.experiencetransylvania.ro/guesthouse/viscri-63/){:target="_blank" rel="nofollow"}
  
 You can find more options on booking.com or google, both in Viscri and in the neighboring villages.
 
@@ -126,7 +126,7 @@ The geological complex is a protected area of 95.2 hectares and includes the ext
  
 When you get there, you will be greeted by a person who will hand you a leaflet with information about the complex and a map. You can leave the car in the parking lot, there are paths arranged to each objective, and the ticket costs 20 RON (4 EUR) per person.
  
-This price also includes a visit to the [Sükösd-Bethlen castle](https://www.castelulsukosdbethlen.ro/){:target="_blank"}, certified in the 1600s, which lies in the city of Racos. 
+This price also includes a visit to the [Sükösd-Bethlen castle](https://www.castelulsukosdbethlen.ro/){:target="_blank" rel="nofollow"}, certified in the 1600s, which lies in the city of Racos. 
 
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
@@ -136,7 +136,7 @@ This price also includes a visit to the [Sükösd-Bethlen castle](https://www.ca
  
 While driving from Brasov to Viscri, you will pass by the Rupea Citadel, which stands imposingly on the top of the Cohalmul hill, dominating the city of Rupea from above. Its image really takes your breath away.
  
-This medieval fortress covers an area of 11 hectares with walls, towers, and inner courtyards and can be visited for 15 RON (3 EUR) per person. To be noted that there's also a parking lot where you can leave your car for free. [Here](https://www.primariarupea.ro/program-tarife/){:target="_blank"} you can find more info about the visiting schedule and the available types of tickets.
+This medieval fortress covers an area of 11 hectares with walls, towers, and inner courtyards and can be visited for 15 RON (3 EUR) per person. To be noted that there's also a parking lot where you can leave your car for free. [Here](https://www.primariarupea.ro/program-tarife/){:target="_blank" rel="nofollow"} you can find more info about the visiting schedule and the available types of tickets.
  
 In the town of Rupea there is also a small ethnographic museum next to the park.
 

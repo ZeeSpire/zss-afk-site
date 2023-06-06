@@ -19,9 +19,9 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 ## De ce să adaugi Matera pe lista cu locuri de văzut într-o viaţă
 
-Orașul Matera din Italia a fost [capitala culturală europeană](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank"} în 2019, împreună cu orașul Plovdiv din Bulgaria. Atunci am văzut pentru prima dată fotografii cu locuințele rupestre sculptate în stâncă în canionul râului Gravina. Și atunci mi-am dat seama că vreau să văd cu ochii mei acest oraș care părea a fi dintr-o lume foarte îndepărtată.
+Orașul Matera din Italia a fost [capitala culturală europeană](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank" rel="nofollow"} în 2019, împreună cu orașul Plovdiv din Bulgaria. Atunci am văzut pentru prima dată fotografii cu locuințele rupestre sculptate în stâncă în canionul râului Gravina. Și atunci mi-am dat seama că vreau să văd cu ochii mei acest oraș care părea a fi dintr-o lume foarte îndepărtată.
 
-Matera este un oraș din sudul Italiei care are o istorie bogată de mai bine de 9.000 de ani. Situată în regiunea Basilicata, este considerată una dintre cele mai vechi așezări locuite continuu din lume. Cel puțin, acestea sunt informațiile găsite pe anumite site-uri, în timp ce pe altele lucrurile diferă. De exemplu, pe acest [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank"} am descoperit că "Matera este cel mai vechi oraș din Italia și din Europa", în timp ce pe [acesta](https://www.europeathome.eu/plovdiv.html#:~:text=With%20its%20cultural%20and%20historical,Bulgarian%20cities%20to%20live%20in){:target="_blank"} este scris că "Plovdiv este considerat a fi cel mai vechi oraș locuit continuu din Europa". Plovdiv se află și el pe lista noastră de destinații.
+Matera este un oraș din sudul Italiei care are o istorie bogată de mai bine de 9.000 de ani. Situată în regiunea Basilicata, este considerată una dintre cele mai vechi așezări locuite continuu din lume. Cel puțin, acestea sunt informațiile găsite pe anumite site-uri, în timp ce pe altele lucrurile diferă. De exemplu, pe acest [website](https://www.waitaly.net/en/2022/10/28/matera-the-city-of-culture-landscape-and-heritage/#:~:text=Italy%20is%20famous%20for%20its,the%20UNESCO%20World%20Heritage%20sites){:target="_blank" rel="nofollow"} am descoperit că "Matera este cel mai vechi oraș din Italia și din Europa", în timp ce pe altele este scris că "Plovdiv este considerat a fi cel mai vechi oraș locuit continuu din Europa". Plovdiv se află și el pe lista noastră de destinații.
 
 Cu toate acestea, Matera este renumită pentru arhitectura sa unică, inclusiv pentru „sassi”, o serie de locuințe antice sculptate în stâncă. Sassi au fost locuite din timpuri preistorice și au fost folosite pe post de case, grajduri și chiar biserici până în anii 1950.
 
@@ -46,19 +46,19 @@ Matera se află la aproximativ 70 km de Bari, distanță care poate fi parcursă
 
 Ca în toate orașele vizitate în această excursie, accesul cu mașina în centrul istoric este interzis (cel puțin pentru turiști). Și este mult mai bine așa, pentru că aceste străzi nu au fost făcute pentru mașini în primul rând. Pentru noi, nu a fost atât de greu să găsim un loc de parcare și să plătim, dar felul în care se conduce în Italia ni s-a părut destul de haotic. Se pare că nimeni nu respectă regulile de circulație, dar asta este o poveste pentru altă dată.
 
-Am stat două nopți în hotelul-boutique [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"} (Palatul Stareților) situat în inima cartierului Sasso Barisano, chiar lângă Chiesa di San Pietro Barisano. Aici fac o paranteză pentru a spune că "sasso" (pl. sassi) înseamnă "piatră" în italiană și că Sassi di Matera este împărțit în două districte sau cartiere: Sasso Caveoso și Sasso Barisano. Amândouă au fost săpate din stânca de pe ambele părți ale dealului Civita.
+Am stat două nopți în hotelul-boutique [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"} (Palatul Stareților) situat în inima cartierului Sasso Barisano, chiar lângă Chiesa di San Pietro Barisano. Aici fac o paranteză pentru a spune că "sasso" (pl. sassi) înseamnă "piatră" în italiană și că Sassi di Matera este împărțit în două districte sau cartiere: Sasso Caveoso și Sasso Barisano. Amândouă au fost săpate din stânca de pe ambele părți ale dealului Civita.
 
 Un alt lucru pe care vreau să-l subliniez este că ori de câte ori vei vedea cuvântul "chiesa" în acest articol, trebuie să ști că "chiesa" înseamnă "biserică" în italiană.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
 
-Dar să revenim la [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}, care aparent datează din 1756 și care a fost restaurat cu grijă și transformat într-un hotel de 4 stele. Ne-am dorit să stăm într-o peșteră, aceasta fiind în sine o experiență memorabilă. Așa că am rezervat camera "Suite in Cave – U Firn du Cidd" care ne-a depășit așteptările. Această încăpere a servit anterior drept cuptor, după cum ne spune și numele camerei, "U Firn du Cidd" care se traduce prin "Cuptorul catârului". În pereții grotei, am putut admira fosile marine despre care am aflat că sunt reale și că datează de acum 2 milioane de ani. Dar piesa de rezistență a fost podeaua de sticlă prin care puteam vedea descoperirile arheologice pe care a fost construit anterior cuptorul. De asemenea, priveliștea de pe terasa unde am luat micul dejun este uluitoare.
+Dar să revenim la [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, care aparent datează din 1756 și care a fost restaurat cu grijă și transformat într-un hotel de 4 stele. Ne-am dorit să stăm într-o peșteră, aceasta fiind în sine o experiență memorabilă. Așa că am rezervat camera "Suite in Cave – U Firn du Cidd" care ne-a depășit așteptările. Această încăpere a servit anterior drept cuptor, după cum ne spune și numele camerei, "U Firn du Cidd" care se traduce prin "Cuptorul catârului". În pereții grotei, am putut admira fosile marine despre care am aflat că sunt reale și că datează de acum 2 milioane de ani. Dar piesa de rezistență a fost podeaua de sticlă prin care puteam vedea descoperirile arheologice pe care a fost construit anterior cuptorul. De asemenea, priveliștea de pe terasa unde am luat micul dejun este uluitoare.
 
 Acestea sunt celelalte hoteluri pe care le-am luat în considerare atunci când am căutat cazare:
 
-- [Palazzotto Residence & Winery](https://www.booking.com/hotel/it/il-palazzotto-matera.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
-- [Aquatio Cave Luxury Hotel & SPA](https://www.booking.com/hotel/it/aquatio-cave-luxury-amp-spa.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
-- [Sextantio Le Grotte Della Civita](https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank"}
+- [Palazzotto Residence & Winery](https://www.booking.com/hotel/it/il-palazzotto-matera.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
+- [Aquatio Cave Luxury Hotel & SPA](https://www.booking.com/hotel/it/aquatio-cave-luxury-amp-spa.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
+- [Sextantio Le Grotte Della Civita](https://www.booking.com/hotel/it/sextantio-le-grotte-della-civita.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}
 
 Am petrecut o zi şi jumătate în Matera şi iată ce am putut face şi vizita în acest interval.
 <br /><br />
@@ -66,7 +66,7 @@ Am petrecut o zi şi jumătate în Matera şi iată ce am putut face şi vizita 
 ## Top 20 lucruri de făcut în Matera
 
 ### 1. Parco Regionale della Murgia Materana
-Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_blank"} este un parc regional situat în zona Murgia, lângă orașul Matera și a fost prima noastră oprire înainte de a ne îndrepta spre oraș. Se întinde pe o suprafață de aproximativ 50.000 de hectare și conține mai multe situri culturale și istorice importante, inclusiv locuințe rupestre, biserici cioplite în stâncă și fortificații. Aceste situri stau mărturie pentru istoria lungă și bogată a regiunii și sunt repere culturale importante.
+Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_blank" rel="nofollow"} este un parc regional situat în zona Murgia, lângă orașul Matera și a fost prima noastră oprire înainte de a ne îndrepta spre oraș. Se întinde pe o suprafață de aproximativ 50.000 de hectare și conține mai multe situri culturale și istorice importante, inclusiv locuințe rupestre, biserici cioplite în stâncă și fortificații. Aceste situri stau mărturie pentru istoria lungă și bogată a regiunii și sunt repere culturale importante.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana-view.webp alt: "Parco Regionale della Murgia Materana View, Matera, Italy" %}
 
@@ -83,7 +83,7 @@ Chiesa di San Domenico este o biserică notabilă construită în secolul al XII
 ### 4. Palombaro lungo
 Este una dintre cele mai mari și mai importante cisterne din zonă și este considerată un exemplu remarcabil de sisteme antice de administrare a apei. Cisterna a fost săpată în stâncă și a fost folosită pentru a colecta apa de ploaie și a o stoca în rezervoare subterane. Apa era folosită apoi în diverse scopuri, inclusiv pentru irigare, băut și spălare.
 
-Astăzi, [Palombaro Lungo](https://www.palombarolungo.it/index.htm){:target="_blank"}  este o atracție turistică populară și un simbol al ingeniozității și inventivității oamenilor care au locuit în Sassi. Vizitatorii pot explora cisterna și pot admira caracteristicile sale arhitecturale, inclusiv camerele subterane și rețeaua de tuneluri și canale care au fost folosite pentru colectarea și distribuirea apei.
+Astăzi, [Palombaro Lungo](https://www.palombarolungo.it/index.htm){:target="_blank" rel="nofollow"}  este o atracție turistică populară și un simbol al ingeniozității și inventivității oamenilor care au locuit în Sassi. Vizitatorii pot explora cisterna și pot admira caracteristicile sale arhitecturale, inclusiv camerele subterane și rețeaua de tuneluri și canale care au fost folosite pentru colectarea și distribuirea apei.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palombaro-lungo.webp alt: "Palombaro Lungo, Matera, Italy" %}
 
@@ -93,7 +93,7 @@ Situată în Piazza San Giovani, la doar 170 m de Palombaro Lungo, această bise
 {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-san-giovanni-battista.webp alt: "Chiesa di San Giovanni Battista, Matera, Italy" %}
 
 ### 6. Casa grotta C'era una volta
-Am dat din întâmplare peste această [casă](https://www.anticamatera.it/){:target="_blank"} care exemplifică modul în care oamenii trăiau aici înainte de anii 1950. Casa este săpată în stânca de calcar, iar singura deschidere care permitea luminii și aerului să intre este ușa. Casa este împărțită în trei zone diferite: zona de dormit, zona în care erau ținute animalele și zona bucătăriei.
+Am dat din întâmplare peste această [casă](https://www.anticamatera.it/){:target="_blank" rel="nofollow"} care exemplifică modul în care oamenii trăiau aici înainte de anii 1950. Casa este săpată în stânca de calcar, iar singura deschidere care permitea luminii și aerului să intre este ușa. Casa este împărțită în trei zone diferite: zona de dormit, zona în care erau ținute animalele și zona bucătăriei.
 
 "Casa grotta" se referă la acest tip de case-muzeu care pot fi vizitate în Sassi. Acesta este doar una dintre ele. Continuă să citeşti pentru a afla mai multe.
 
@@ -146,7 +146,7 @@ La doar o aruncătură de băț de Madonna de Idris, se află Piazza San Pietro,
 După ce ai admirat priveliștile din Piazza San Pietro, ia-o pe strada Vico Solitario, unde vei găsi în mai puțin de 150 de metri Chiesa rupestre di Sant'Agostino al Casalnuovo și chiar lângă ea, Casa Grotta nei Sassi di Matera.
 
 ### 13. Casa Grotta nei Sassi di Matera
-Casa Grotta nei Sassi di Matera, cum o vei găsi pe Google, sau [Casa Grotta di Vico Solitario](http://www.casagrotta.it/index.php?lang=en){:target="_blank"},  este un exemplu bine conservat de locuință rupestră tradițională. Casa este cioplită în stâncă și se crede că datează din secolul al XVII-lea sau chiar mai mult. Deși nu este singura casă de acest gen care poate fi vizitată în Matera, este cu siguranță cea mai populară.
+Casa Grotta nei Sassi di Matera, cum o vei găsi pe Google, sau [Casa Grotta di Vico Solitario](http://www.casagrotta.it/index.php?lang=en){:target="_blank" rel="nofollow"},  este un exemplu bine conservat de locuință rupestră tradițională. Casa este cioplită în stâncă și se crede că datează din secolul al XVII-lea sau chiar mai mult. Deși nu este singura casă de acest gen care poate fi vizitată în Matera, este cu siguranță cea mai populară.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-di-vico-solitario-4.webp alt: "Casa Grotta di Vico Solitario interior 1, Matera, Italy" %}
 
@@ -183,7 +183,7 @@ Treptele de lângă biserică te vor duce pe acoperișul bisericii unde se află
 </div>
 
 ### 15. Casa Grotta del Casalnuovo
-După ce ai vizitat Chiesa di Santa Lucia alle Malve și necropola, mergi la [Casa Grotta del Casalnuovo](https://www.casagrottamatera.com/){:target="_blank"}. Nu-ți face griji, va trebui să mergi doar 150 de metri. Casa Grotta del Casalnuovo este o altă casă tipică, parțial sculptată în peșteră și parțial construită. Vei vedea în interior mobilier și unelte originale pe care familia care locuia acolo le folosea în viața de zi cu zi înainte de depopularea care a avut loc la sfârșitul anilor 1950.
+După ce ai vizitat Chiesa di Santa Lucia alle Malve și necropola, mergi la [Casa Grotta del Casalnuovo](https://www.casagrottamatera.com/){:target="_blank" rel="nofollow"}. Nu-ți face griji, va trebui să mergi doar 150 de metri. Casa Grotta del Casalnuovo este o altă casă tipică, parțial sculptată în peșteră și parțial construită. Vei vedea în interior mobilier și unelte originale pe care familia care locuia acolo le folosea în viața de zi cu zi înainte de depopularea care a avut loc la sfârșitul anilor 1950.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bedroom.webp alt: "Casa Grotta del Casalnuovo bedroom, Matera, Italy" %}
 
@@ -220,7 +220,7 @@ Prima clădire de pe acest sit datează din secolul al XIII-lea, dar fațada a c
 
 ### 18. Bucură-te de un "aperitivo" așa cum fac italienii
 Aperitivul italienesc are loc de obicei înainte de cină. Este un moment pentru relaxare cu prietenii sau familia alături de o băutură și de o gustare.
-Am petrecut câteva momente incredibile pe terasa hotelului în care am stat (Palazzo degli Abati), numită [Crialoss Café](http://www.palazzodegliabati.it/crialoss/){:target="_blank"}, ce are o vedere spectaculoasă asupra Sasso Caveoso. Am sorbit dintr-un Aperol Spritz și am comandat o cină ușoară. Am optat pentru câteva mâncăruri locale, cum ar fi un trio de bruschete și Cialledda, care este o salată de castraveți, roșii, ceapă, pâine și ulei de măsline. Totul a fost proaspăt şi aromat. 
+Am petrecut câteva momente incredibile pe terasa hotelului în care am stat (Palazzo degli Abati), numită [Crialoss Café](http://www.palazzodegliabati.it/crialoss/){:target="_blank" rel="nofollow"}, ce are o vedere spectaculoasă asupra Sasso Caveoso. Am sorbit dintr-un Aperol Spritz și am comandat o cină ușoară. Am optat pentru câteva mâncăruri locale, cum ar fi un trio de bruschete și Cialledda, care este o salată de castraveți, roșii, ceapă, pâine și ulei de măsline. Totul a fost proaspăt şi aromat. 
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">

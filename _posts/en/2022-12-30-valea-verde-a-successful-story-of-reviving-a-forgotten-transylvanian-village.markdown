@@ -27,7 +27,7 @@ Valea Verde is located in Cund, a picturesque village in Mureş county, just 30 
 
 The owners, Ulrike and Jonas Schäfer, moved from Germany to Romania, being in love with the wonderful landscapes they discovered here, the rich culture and the simple and authentic life. In 2005, they started the Valea Verde Retreat project through which they succeeded in reviving the small village in Transylvania. For Valea Verde they were inspired by the Italian "albergo difusso" which means "scattered hotel". They renovated several houses in the village, one by one, turning them into guest houses, without destroying the charm of the old Saxon houses.
 
-All accommodation options are on the [Valea Verde website](https://www.valeaverde.com/en/stay){:target="_blank"}
+All accommodation options are on the [Valea Verde website](https://www.valeaverde.com/en/stay){:target="_blank" rel="nofollow"}
 From their website, we find out that there are 8 houses available to the guests, located at different distances from the restaurant, which can host over 60 people.
 
 The houses where you can stay are the following:
@@ -105,7 +105,7 @@ Saturday dinner had five dishes, as follows: goose liver terrine with hot pepper
 
 ## Thematic weekends and activities at Valea Verde
 
-On the [Valea Verde website](https://www.valeaverde.com/en/experiences/){:target="_blank"}, you can find a multitude of thematic weekends and experiences that you can have here: carriage rides, horse riding, hiking, cycling, wine tasting, themed dinners, SPA, truffle hunting and others.
+On the [Valea Verde website](https://www.valeaverde.com/en/experiences/){:target="_blank" rel="nofollow"}, you can find a multitude of thematic weekends and experiences that you can have here: carriage rides, horse riding, hiking, cycling, wine tasting, themed dinners, SPA, truffle hunting and others.
 
 {% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Thematic weekends at Valea Verde" %}
 
@@ -119,7 +119,7 @@ Another unique and authentic experience we had was spending a few hours in the o
 ## Other places to visit in the surroundings
 
 ### Manufactura de Brânză
-In Cund you can visit the [Manufactura de Brânză](http://manufacturadebranza.ro/){:target="_blank"} where the milk obtained from the cows is processed and where you can buy various types of matured cheese. On request, cheese tastings can be organized or even visits to the workshop to see how the cheese is produced.
+In Cund you can visit the [Manufactura de Brânză](http://manufacturadebranza.ro/){:target="_blank" rel="nofollow"} where the milk obtained from the cows is processed and where you can buy various types of matured cheese. On request, cheese tastings can be organized or even visits to the workshop to see how the cheese is produced.
 
 ### Biertan
 Biertan is a Saxon village, located 23 kilometers from Cund and was documented in the 13th century, being one of the first German Saxon settlements in Transylvania. By far the largest and most imposing fortified church that we have seen is the one in Biertan and I must say that it was difficult to select just one photo with it.
@@ -133,10 +133,10 @@ Among the tourist attractions that you can visit in Sighisoara, we mention: the 
 {% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" %}
 
 ### Târgu Mureș
-Not to be missed in Târgu Mureș, located 43 kilometers from Cund, is the [Palace of Culture](https://palatul-culturii.ro/en/){:target="_blank"} which hosts several exhibitions, as well as the Târgu Mureș Citadel. Also, I understood that [the zoo](https://www.zootirgumures.ro/){:target="_blank"} is worth a visit. Considering that on Google it has a score of 4.6 out of 9000 reviews, I'm sorry we didn't get to visit it. By comparison, the one in Bucharest has a score of 3.9 out of approximately 12,000 reviews.
+Not to be missed in Târgu Mureș, located 43 kilometers from Cund, is the [Palace of Culture](https://palatul-culturii.ro/en/){:target="_blank" rel="nofollow"} which hosts several exhibitions, as well as the Târgu Mureș Citadel. Also, I understood that [the zoo](https://www.zootirgumures.ro/){:target="_blank" rel="nofollow"} is worth a visit. Considering that on Google it has a score of 4.6 out of 9000 reviews, I'm sorry we didn't get to visit it. By comparison, the one in Bucharest has a score of 3.9 out of approximately 12,000 reviews.
 
 ### Bethlen-Haller Castle from Cetatea de Baltă and Jidvei winery
-Located 47 kilometers from Cund, the Bethlen-Haller Renaissance-style castle has opened its doors to visitors. Besides the actual visit to the castle, tourists can opt for different packages that include wine tasting and lunch. Details on the website [jidvei.ro](https://www.jidvei.ro/castelul-bethlen-haller/){:target="_blank"}
+Located 47 kilometers from Cund, the Bethlen-Haller Renaissance-style castle has opened its doors to visitors. Besides the actual visit to the castle, tourists can opt for different packages that include wine tasting and lunch. Details on the website [jidvei.ro](https://www.jidvei.ro/castelul-bethlen-haller/){:target="_blank" rel="nofollow"}
 
 ### Saschiz
 Located 50 kilometers from Cund, Saschiz is a Saxon village where the main tourist attraction is represented by the Fortified Evangelical Church of St. Stephen, built in the 15th century, currently a UNESCO monument. There would also be the Saschiz Peasant Citadel, which we did not visit because at the time of our visit it was closed for renovation, which I must admit made me quite content to hear.

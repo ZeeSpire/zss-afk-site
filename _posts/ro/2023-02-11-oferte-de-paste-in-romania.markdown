@@ -37,7 +37,7 @@ Ce este inclus:
 - foc de tabără cu gustare dulce
 - atelier de pictură pe ouă/vânătoare de ouă
 
-Preţ: 2800 lei/2 adulţi. [Detalii](https://www.valeaverde.com/oferte/){:target="_blank"}
+Preţ: 2800 lei/2 adulţi. [Detalii](https://www.valeaverde.com/oferte/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -52,7 +52,7 @@ Ce este inclus:
 - foc de tabără
 - excursii ghidate la biserica fortificată din Cincşor, la mânăstirea brâncovenească de la Sâmbăta de Sus şi la fosta abaţie cisterciană de la Cârţa. De asemenea la biserica fortificată din Biertan şi la cea din Richiş, precum şi o vizită la Cetatea Mediaş.
 
-Preţ: de la 3800 lei/2 adulţi. [Detalii](https://transilvania-cincsor.ro/en/offers/){:target="_blank"}
+Preţ: de la 3800 lei/2 adulţi. [Detalii](https://transilvania-cincsor.ro/en/offers/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -65,7 +65,7 @@ Ce este inclus:
 - brunch pascal şi masă festivă duminică
 - vânătoare de ouă şi cadouri de la iepuraş
 
-Preţ: de la 2990 lei/2 adulţi. [Detalii](https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023){:target="_blank"}
+Preţ: de la 2990 lei/2 adulţi. [Detalii](https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023){:target="_blank" rel="nofollow"}
 
 <br />
  
@@ -78,7 +78,7 @@ Ce este inclus în pachetul “Family Stay & Brunch Pascal”:
 - foc de tabără cu platouri tradiționale, vin și ţuică fiartă / ceai pentru cei mici
 - brunch pascal
 
-Preţ: de la 3150 lei/2 adulţi. [Detalii](https://casatimis.ro/oferte/){:target="_blank"}
+Preţ: de la 3150 lei/2 adulţi. [Detalii](https://casatimis.ro/oferte/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -95,7 +95,7 @@ Ce este inclus:
 - cadouri de la iepuraş
 - activităţi pentru copii
 
-Preţ: 6000 lei/2 adulţi. [Detalii](https://www.zabola.com/articles/special-offers){:target="_blank"}
+Preţ: 6000 lei/2 adulţi. [Detalii](https://www.zabola.com/articles/special-offers){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -112,7 +112,7 @@ Ce este inclus:
 - acces la zona SPA
 - foc de tabără
 
-Preţuri [aici](https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17){:target="_blank"}. [Detalii](https://www.potcoava.ro/pachete-tematice/){:target="_blank"}
+Preţuri [aici](https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17){:target="_blank" rel="nofollow"}. [Detalii](https://www.potcoava.ro/pachete-tematice/){:target="_blank" rel="nofollow"}
 
 <br />
  
@@ -130,4 +130,4 @@ Ce este inclus
 - atelier de creaţie
 - muzică live, foc de tabără
 
-Preţ: de la 4350 lei/2 adulţi. [Detalii](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank"}
+Preţ: de la 4350 lei/2 adulţi. [Detalii](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank" rel="nofollow"}

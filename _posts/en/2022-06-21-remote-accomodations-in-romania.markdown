@@ -35,7 +35,7 @@ While we were working between the same four walls, we looked longingly at Instag
   
 Although my favorite platform is booking.com, I found several such accommodations on airbnb.com, and I made a list of 10 such special accommodations in Romania. So here is my selection: 
   
-<span>1.</span> [TripSylvania Tiny House](https://www.airbnb.com/rooms/44628810?federated_search_id=f8f20d3e-9bc3-499a-a724-8d3058dda38d&source_impression_id=p3_1652088740_KCtVf9tb42vgw%2BVB){:target="_blank"}
+<span>1.</span> [TripSylvania Tiny House](https://www.airbnb.com/rooms/44628810?federated_search_id=f8f20d3e-9bc3-499a-a724-8d3058dda38d&source_impression_id=p3_1652088740_KCtVf9tb42vgw%2BVB){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Located on a 14000 sqm land, our tiny house gives you the freedom to explore the surroundings and enjoy their vibrant energy, away from the city hustle. 
@@ -44,14 +44,14 @@ During the day you can sit and relax with your favorite book and enjoy an amazin
 As the night falls, explore the Universe through the 1.4m x 1.4m skylight, right above the bed in the tiny loft." 
   
   
-<span>2.</span> [The Tree Cottage](https://www.airbnb.com/rooms/20000984?source_impression_id=p3_1652088504_wrYvS7aqi1oqMa3S0){:target="_blank"}
+<span>2.</span> [The Tree Cottage](https://www.airbnb.com/rooms/20000984?source_impression_id=p3_1652088504_wrYvS7aqi1oqMa3S0){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Tiny wood cottage build on top of a hill for a unique nature experience. Far away from the busy city, this is perfect for a couple who just wants to have a break, relax, hike, read.  
 This cottage provides a unique nature experience: no neighbors in site, just trees, pastures and maybe some cows. " 
   
   
-<span>3.</span> [Casa Maria](https://www.airbnb.com/rooms/24928590?source_impression_id=p3_1652088947_cGPUQz5fkVjAM5Pe){:target="_blank"}
+<span>3.</span> [Casa Maria](https://www.airbnb.com/rooms/24928590?source_impression_id=p3_1652088947_cGPUQz5fkVjAM5Pe){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Casa Maria is a charming and elegant hideout that satisfy a yearning for 
@@ -60,46 +60,46 @@ Casa Maria is, together with the timber home of Lili & Ivo, located on the edge 
 Walking here without seeing anyone is the rule rather than the exception. But you do have a chance of passing stray cows and horses. 
   
   
-<span>4.</span> [Moon Lake Bicaz](https://www.airbnb.com/rooms/52708536?adults=2&federated_search_id=80eb13e9-a883-41ae-a36e-f48f7a7a4610&source_impression_id=p3_1652089399_asi7ZKx8ym6hcID4){:target="_blank"}
+<span>4.</span> [Moon Lake Bicaz](https://www.airbnb.com/rooms/52708536?adults=2&federated_search_id=80eb13e9-a883-41ae-a36e-f48f7a7a4610&source_impression_id=p3_1652089399_asi7ZKx8ym6hcID4){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Enjoy a holiday in a unique place, just yours, with no neighbors, with a great view over the Ceahlau massif and the biggest artificial lake in Europe." 
   
   
-<span>5.</span> [Transylvania Loft Treehouse](https://www.airbnb.com/rooms/35854800?source_impression_id=p3_1652089371_J75qVr%2BYlcH8DUp%2B&guests=2&adults=2){:target="_blank"}
+<span>5.</span> [Transylvania Loft Treehouse](https://www.airbnb.com/rooms/35854800?source_impression_id=p3_1652089371_J75qVr%2BYlcH8DUp%2B&guests=2&adults=2){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "A beautiful treehouse for an exquisite experience perfect for an individual or family (max 2 adults 1 child) looking for a night or more away. Surrounded by towering trees and set back in a 3-acre domain, this treehouse offers you an intimate and relaxing stay. " 
   
   
-<span>6.</span> [Outlook Cabin](https://www.airbnb.com/rooms/50627171?source_impression_id=p3_1652089373_AjHTG83Hp2pPnwm0){:target="_blank"}
+<span>6.</span> [Outlook Cabin](https://www.airbnb.com/rooms/50627171?source_impression_id=p3_1652089373_AjHTG83Hp2pPnwm0){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Cozy restored cabin in the middle of nowhere. 
 Our wooden hut is a newly renovated and ideal for a couple or a small family. There is an open space downstairs with a wood burning stove for heating, a small kitchen area and the sleeping area is upstairs. There is also a small bathroom and an outside patio to enjoy the beautiful view and take in the silence and the singing of the birds." 
   
   
-<span>7.</span> [NorAtlas Heritage](https://www.airbnb.com/rooms/52860822?adults=2&federated_search_id=80eb13e9-a883-41ae-a36e-f48f7a7a4610&source_impression_id=p3_1652089404_0pscmQ45gKd%2BVYDY){:target="_blank"}
+<span>7.</span> [NorAtlas Heritage](https://www.airbnb.com/rooms/52860822?adults=2&federated_search_id=80eb13e9-a883-41ae-a36e-f48f7a7a4610&source_impression_id=p3_1652089404_0pscmQ45gKd%2BVYDY){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Welcome to our lovely cabin, the place where you can disconnect, relax and treat yourself with a little “me time”, while enjoying the benefits of your best accommodation experience. 
 Before you book your reservation with us, please note that NorAtlas is located in the middle of nature, without neighbours and with a fairytale view." 
   
   
-<span>8.</span> [Cottage in the Beautiful Pit 4](https://www.airbnb.com/rooms/52633498?adults=2&federated_search_id=5c0151ec-f29b-4524-aed1-73dd2b092905&source_impression_id=p3_1652090307_pfxoiWoUdeR8Ig6H){:target="_blank"}
+<span>8.</span> [Cottage in the Beautiful Pit 4](https://www.airbnb.com/rooms/52633498?adults=2&federated_search_id=5c0151ec-f29b-4524-aed1-73dd2b092905&source_impression_id=p3_1652090307_pfxoiWoUdeR8Ig6H){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "The chalet is situated on the Glajeria Valley 3 km from Rasnov town in a quiet secluded area at the edge of the ideal forest to make you forget about the tumult of everyday days!" 
   
   
-<span>9.</span> [Cozy mountain retreat](https://www.airbnb.com/rooms/14025909?adults=2&federated_search_id=15a7d652-7270-4787-8c06-9ea73997ae9b&source_impression_id=p3_1652090317_VDpXEimWYHOuGfsf){:target="_blank"}
+<span>9.</span> [Cozy mountain retreat](https://www.airbnb.com/rooms/14025909?adults=2&federated_search_id=15a7d652-7270-4787-8c06-9ea73997ae9b&source_impression_id=p3_1652090317_VDpXEimWYHOuGfsf){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "Set at the foot of the Fagaras mountains, our cozy cabin offers a rare chance to completely escape into the heart of nature, while enjoying the full comfort of a modern home - electricity provided by solar power panels and a small generator, clear running water, toilet, fridge, fireplace, fully equipped kitchen and so on. 
 If you enjoy privacy, nature, fresh mountain air and quietness, you will love our place. " 
   
   
-<span>10.</span> [The Tiny House](https://www.airbnb.com/rooms/50320366?adults=2&federated_search_id=7aa34caa-11bd-417a-9f09-dceadcb3c1ba&source_impression_id=p3_1652090919_IOMHR9QaMpo%2FULZz){:target="_blank"}
+<span>10.</span> [The Tiny House](https://www.airbnb.com/rooms/50320366?adults=2&federated_search_id=7aa34caa-11bd-417a-9f09-dceadcb3c1ba&source_impression_id=p3_1652090919_IOMHR9QaMpo%2FULZz){:target="_blank" rel="nofollow"}
 
 What do they say?<br /> 
 "The Tiny House is a cozy, friendly, remote house on wheels in the middle of the nature, surrounded by mountains, with all the comfort of a home, yet just a short drive to the city of Brasov! 

@@ -19,19 +19,19 @@ featured-image-style: full-width # can be left, centered, full-width
 ---
 Lecce este situat în regiunea Salento, la 150 de kilometri de Bari, la 40 de kilometri de Gallipoli și la 45 de kilometri de Otranto. Gallipoli și Otranto sunt două orașe turistice de la malul mării care merită să fie vizitate. De asemenea, se află la 25 de kilometri de coasta Mării Adriatice și la 35 de kilometri de coasta Mării Ionice. Deci poate reprezenta un bun punct de plecare în explorarea "tocului" Italiei.
 
-Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric este restricționat, dar și pentru că ne-am dorit să găsim cât mai ușor un loc de parcare, am optat pentru o cazare în afara centrului vechi al orașului. Am înnoptat în acest apartament drăguț, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}, deținut de Maria Luisa, care a fost o gazdă extraordinară și ne-a oferit o mulțime de recomandări despre ce să vedem în oraș sau unde să mâncăm.
+Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric este restricționat, dar și pentru că ne-am dorit să găsim cât mai ușor un loc de parcare, am optat pentru o cazare în afara centrului vechi al orașului. Am înnoptat în acest apartament drăguț, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, deținut de Maria Luisa, care a fost o gazdă extraordinară și ne-a oferit o mulțime de recomandări despre ce să vedem în oraș sau unde să mâncăm.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
 
 
 Trebuie să recunoaștem totuși că ne-ar fi plăcut să stăm într-unul dintre aceste hoteluri luxoase din inima orașului Lecce:
 
-[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
-[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 
-[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"}
+[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 Am petrecut doar o zi în acest loc vibrant, turistic, plin de istorie și regretăm că nu am putut sta mai mult pentru că ne-a plăcut foarte mult timpul petrecut aici. Practic, ne-am plimbat pe străzile din "centro storico", am intrat în biserici (deschise până târziu) și am vizitat muzee. Dar cea mai plăcută activitate pe care o poţi face în Lecce este să stai pe o terasă, să mănânci brânzeturi locale și să admiri piețele pline de turiști și localnici care socializează.
 
@@ -82,7 +82,7 @@ Amfiteatrul Roman - o arenă bine conservată, folosită pentru jocuri cu gladia
 
 {% responsive_image path: assets/images/posts/lecce/lecce-roman-amphitheatre.webp alt: "Lecce, Salento, Italy - Roman Amphitheatre" %}
 
-[Palazzo del Seminario](https://museo.diocesilecce.org/il-palazzo-del-seminario/){:target="_blank"} -  o clădire în stil baroc care găzduiește mai multe instituții culturale importante, inclusiv Muzeul Provincial de Artă Sacră, Biblioteca Provincială și Academia de Arte Frumoase.
+[Palazzo del Seminario](https://museo.diocesilecce.org/il-palazzo-del-seminario/){:target="_blank" rel="nofollow"} -  o clădire în stil baroc care găzduiește mai multe instituții culturale importante, inclusiv Muzeul Provincial de Artă Sacră, Biblioteca Provincială și Academia de Arte Frumoase.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-palazzo-del-seminario.webp alt: "Lecce, Salento, Italy - Palazzo del Seminario" %}
 

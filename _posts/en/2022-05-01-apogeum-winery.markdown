@@ -54,7 +54,7 @@ We chose to go on the first weekend of April to Apogeum Winery, the younger sist
 
 Apogeum winery offers several types of rooms, all with private bathroom starting from 350 RON/night (~71 EUR/night) with breakfast included. 
   
-We booked a double room through [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank"} and although it seemed a little too small at first, it was all we needed for a two-night stay. 
+We booked a double room through [booking.com](https://www.booking.com/hotel/ro/crama-apogeum.ro.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"} and although it seemed a little too small at first, it was all we needed for a two-night stay. 
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -118,7 +118,7 @@ Now let's move on to the most interesting part, the reason for our trip: the win
   
 ## The Wine Tasting 
 
-On Apogeum Winery's website you can find some information about wine tourism / wine tastings: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank"}. 
+On Apogeum Winery's website you can find some information about wine tourism / wine tastings: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank" rel="nofollow"}. 
 We initially thought we would be the only two people there and we were prepared to pay extra to be able to have a wine tasting, but to our surprise there were 18 people in our group! And there were two distinct groups, not just one. I noticed that there were people in team buildings there. Many from our group had been all day at various wine cellars in the area, we certainly could not cope with so much alcohol. 
 
 <div class="col-sm-12 text-center mb-3 mt-3">

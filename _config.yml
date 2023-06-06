@@ -5,8 +5,8 @@ title-ro: "AFKology | Cele mai frumoase momente din viata se intampla offline."
 email: office@afkology.com
 description: "The most precious moments in life happen offline. AFKology is a remembrance of that."
 description-ro: "Cele mai frumoase momente din viata se intampla offline. AFKology este o amintire a acestui lucru."
-keywords: "afkology, travel, drone, photography, cinematic, travel ideas"
-keywords-ro: "afkology, calatorii, drone, fotografie, cinematic, idei de calatorie"
+keywords: "afkology, travel, cinematic travel, travel ideas, travel guide, food buide, travel europe, restaurants, places to visit"
+keywords-ro: "afkology, calatorii, idei de calatorie, restaurante, calatorii in europa, locuri de vizitat"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.afkology.com"
 permalink: /:title/
@@ -41,7 +41,7 @@ pagination:
   enabled: true
   per_page: 9
   permalink: '/:num/'
-  title: ':title - :num'
+  title: ':title - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true

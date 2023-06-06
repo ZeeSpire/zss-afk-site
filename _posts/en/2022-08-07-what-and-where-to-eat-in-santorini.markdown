@@ -68,11 +68,11 @@ Santorini is also known for its wines. Because of the scorching sunlight and the
     </a>
 </div>
 
-If wine isn't your cup of tea, maybe you'll prefer Greek beer. On the island, there's a [microbrewery](https://www.santorinibrewingcompany.gr/){:target="_blank"} since 2011 making different types of unfiltered beer. You should give it a taste, maybe next to a delicious souflaki.
+If wine isn't your cup of tea, maybe you'll prefer Greek beer. On the island, there's a [microbrewery](https://www.santorinibrewingcompany.gr/){:target="_blank" rel="nofollow"} since 2011 making different types of unfiltered beer. You should give it a taste, maybe next to a delicious souflaki.
 
 During our eight-day holiday on the Greek island, we ate in some fabulous restaurants. Not in the luxurious ones in Oia on the edge of the caldera facing the sunset where you mostly pay for the view. But in ones with amazing food. 
 
-Our dearest discovery was [Artemis Karamolegos Winery](https://www.artemiskaramolegos-winery.com/en/index.php){:target="_blank"} and its restaurant Aroma Avlis in Exo Gonia. First, we went there to eat, and because the food was so good and the service was irreproachable, we decided to book a cooking class. It was the best experience ever. We learned how to make an authentic Santorinian salad, and got to taste as many cherry tomatoes as we wanted. 
+Our dearest discovery was [Artemis Karamolegos Winery](https://www.artemiskaramolegos-winery.com/en/index.php){:target="_blank" rel="nofollow"} and its restaurant Aroma Avlis in Exo Gonia. First, we went there to eat, and because the food was so good and the service was irreproachable, we decided to book a cooking class. It was the best experience ever. We learned how to make an authentic Santorinian salad, and got to taste as many cherry tomatoes as we wanted. 
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -102,9 +102,9 @@ Our dearest discovery was [Artemis Karamolegos Winery](https://www.artemiskaramo
     </div>
 </div>
 
-We also made the most velvety fava, the traditional tomato fritters, and as a main dish, we cooked a pork fillet in Vinsanto wine sauce. We also received a glass of wine during the cooking class, and after the cooking class we sat down in the restaurant where we ate what we cooked. On top of all that we received a bottle of wine, a dessert, and of course, a glass of Vinsanto wine. It was perfect and I highly recommend it. On their [website](https://www.artemiskaramolegos-winery.com/en/winery-santorini/8/){:target="_blank"}, you can find more information about what they offer. 
+We also made the most velvety fava, the traditional tomato fritters, and as a main dish, we cooked a pork fillet in Vinsanto wine sauce. We also received a glass of wine during the cooking class, and after the cooking class we sat down in the restaurant where we ate what we cooked. On top of all that we received a bottle of wine, a dessert, and of course, a glass of Vinsanto wine. It was perfect and I highly recommend it. On their [website](https://www.artemiskaramolegos-winery.com/en/winery-santorini/8/){:target="_blank" rel="nofollow"}, you can find more information about what they offer. 
 
-Another excellent restaurant, situated in Akrotiri, was [Misteli](https://mistelirestaurant.com){:target="_blank"}. This is a family-run taverna, and they're using bio-local ingredients to cook delicious traditional Greek food. We ordered multiple starters and salads from the menu and had a feast. Everything was flavorsome and we had a great time.
+Another excellent restaurant, situated in Akrotiri, was [Misteli](https://mistelirestaurant.com){:target="_blank" rel="nofollow"}. This is a family-run taverna, and they're using bio-local ingredients to cook delicious traditional Greek food. We ordered multiple starters and salads from the menu and had a feast. Everything was flavorsome and we had a great time.
 
 <!-- gallery -->
 <div class="row mb-4">
@@ -134,9 +134,9 @@ Another excellent restaurant, situated in Akrotiri, was [Misteli](https://mistel
     </div>
 </div>
 
-In Oia, you can find delicious food at [Melitini](https://melitinioia.com/){:target="_blank"}. This unpretentious restaurant in Oia serves a variety of spreads, salads, cheeses, grilled meats, and seafood that can be shared. My favorite dish from them was the vegetable fritters. You can also order the food as a takeaway and eat it in some other place if they don't have free tables.
+In Oia, you can find delicious food at [Melitini](https://melitinioia.com/){:target="_blank" rel="nofollow"}. This unpretentious restaurant in Oia serves a variety of spreads, salads, cheeses, grilled meats, and seafood that can be shared. My favorite dish from them was the vegetable fritters. You can also order the food as a takeaway and eat it in some other place if they don't have free tables.
 
-Another nice, unpretentious place in Oia with good Greek food is [Pitogyros Grill House](https://pitogyros.com/){:target="_blank"}. They serve gyros, souflaki, kebab, and handmade sausages. You can grab a pita wrap and eat it on the street, but they also have some tables. The souflaki was super tasty.
+Another nice, unpretentious place in Oia with good Greek food is [Pitogyros Grill House](https://pitogyros.com/){:target="_blank" rel="nofollow"}. They serve gyros, souflaki, kebab, and handmade sausages. You can grab a pita wrap and eat it on the street, but they also have some tables. The souflaki was super tasty.
 
 A popular spot to grab a souvlaki in Thira is Lucky's Souvlakis. This small place maybe does not look that great, but the souvlaki is really good. If you're in Thira, you have to try it. 
 
@@ -150,7 +150,7 @@ A popular spot to grab a souvlaki in Thira is Lucky's Souvlakis. This small plac
     </a>
 </div>
 
-Wandering the streets of Thira, we stopped for ice cream at [5 Senses Grab n' Go](https://5senses.com.gr/menu){:target="_blank"}. We basically had creamy ice cream maybe made from yogurt or something like that on which we added fresh strawberries. This immediately transported me to a childhood memory when my grandmother gave me strawberries freshly picked up with homemade cream. They were divine, and so was the ice cream from 5 senses.
+Wandering the streets of Thira, we stopped for ice cream at [5 Senses Grab n' Go](https://5senses.com.gr/menu){:target="_blank" rel="nofollow"}. We basically had creamy ice cream maybe made from yogurt or something like that on which we added fresh strawberries. This immediately transported me to a childhood memory when my grandmother gave me strawberries freshly picked up with homemade cream. They were divine, and so was the ice cream from 5 senses.
 
 These are our recommendations for phenomenally good food in Santorini. If you go to Santorini, I hope you'll try at least some of them and tell me what you thought. I always enjoy talking about food.
 

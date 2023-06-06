@@ -17,7 +17,7 @@ featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_s
 featured-image-style: full-width # can be left, centered, full-width
 ---
 
-I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant. Eventually, a more comprehensive Google review sold me on visiting the [restaurant](https://nouarestaurant.ro){:target="_blank"}. 
+I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant. Eventually, a more comprehensive Google review sold me on visiting the [restaurant](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}. 
 
 Noua is located in a house in the old part of Bucharest, with a garden transformed into a terrace when the weather allows it, on Popa Nan Street, no. 7. It is advisable to go there with a reservation made and ask for details on the phone in case you have questions about their menu.  
 

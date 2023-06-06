@@ -37,7 +37,7 @@ What is included:
 - campfire with a sweet snack
 - egg painting workshop/egg hunt
 
-Price: 2800 RON (560 EUR)/2 adults. [Details](https://www.valeaverde.com/en/offers/){:target="_blank"}
+Price: 2800 RON (560 EUR)/2 adults. [Details](https://www.valeaverde.com/en/offers/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -52,7 +52,7 @@ What is included:
 - campfire
 - guided tours
 
-Price: from 3800 RON (760 EUR)/2 adults. [Details](https://transilvania-cincsor.ro/en/offers/){:target="_blank"}
+Price: from 3800 RON (760 EUR)/2 adults. [Details](https://transilvania-cincsor.ro/en/offers/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -65,7 +65,7 @@ What is included:
 - Easter brunch and festive meal on Sunday
 - egg hunting and gifts from the bunny
 
-Price: from 2990 RON (598 EUR)/2 adults. [Details](https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023/){:target="_blank"}
+Price: from 2990 RON (598 EUR)/2 adults. [Details](https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -78,7 +78,7 @@ What is included in the "Family Stay & Easter Brunch" package:
 - campfire with traditional dishes, wine and ţuică / tea for children
 - Easter Brunch
 
-Price: from 3150 RON (630 EUR)/2 adults. [Details](https://casatimis.ro/oferte/){:target="_blank"}
+Price: from 3150 RON (630 EUR)/2 adults. [Details](https://casatimis.ro/oferte/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -95,7 +95,7 @@ What is included:
 - gifts from the bunny
 - activities for children
 
-Price: 6000 RON (1200 EUR)/2 adults. [Details](https://www.zabola.com/articles/special-offers){:target="_blank"}
+Price: 6000 RON (1200 EUR)/2 adults. [Details](https://www.zabola.com/articles/special-offers){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -112,7 +112,7 @@ What is included:
 - access to the SPA area
 - campfire
 
-Prices [here](https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17){:target="_blank"}. [Details](https://www.potcoava.ro/pachete-tematice/){:target="_blank"}
+Prices [here](https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17){:target="_blank" rel="nofollow"}. [Details](https://www.potcoava.ro/pachete-tematice/){:target="_blank" rel="nofollow"}
 
 <br />
 
@@ -130,4 +130,4 @@ What is included:
 - workshop
 - live music, campfire
 
-Price: from 4350 RON (870 EUR)/2 adults. [Details](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank"}
+Price: from 4350 RON (870 EUR)/2 adults. [Details](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank" rel="nofollow"}

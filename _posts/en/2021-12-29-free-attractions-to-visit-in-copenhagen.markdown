@@ -163,7 +163,7 @@ In some areas, it is allowed to sit on the lawns, and we followed the examples o
 
 ## 9. Frederik's Church (Frederiks Kirke)
 
-Also known as the Marble Church (Marmorkirken) with its copper-green dome is an Evangelical Lutheran church and has the largest church dome in Scandinavia. Visiting the church is free. However, you can also access the dome for a fee. You may find more information here: [marmorkirken.dk](https://www.marmorkirken.dk/admission){:target="_blank"}
+Also known as the Marble Church (Marmorkirken) with its copper-green dome is an Evangelical Lutheran church and has the largest church dome in Scandinavia. Visiting the church is free. However, you can also access the dome for a fee. You may find more information here: [marmorkirken.dk](https://www.marmorkirken.dk/admission){:target="_blank" rel="nofollow"}
 
 Extra tip:  
 Frederik's church is in the near vicinity of Amalienborg - the home of the Danish royal family - guarded day and night by Royal Life Guards (Den Kongelige Livgarde). The guard marches from Rosenborg Castle at 11:30 A.M. daily and executes the changing of the guard in front of Amalienborg at noon.
@@ -182,7 +182,7 @@ Frederik's church is in the near vicinity of Amalienborg - the home of the Danis
 
 One of the main public squares of Copenhagen is a popular location for events, concerts, demonstrations.
 
-Here you can join a free walking tour with very good reviews from Thursday to Monday from 10:30 A.M. Reservation needed: [copenhagenfreewalkingtours.dk](http://www.copenhagenfreewalkingtours.dk/){:target="_blank"}
+Here you can join a free walking tour with very good reviews from Thursday to Monday from 10:30 A.M. Reservation needed: [copenhagenfreewalkingtours.dk](http://www.copenhagenfreewalkingtours.dk/){:target="_blank" rel="nofollow"}
 
 <!-- full width in article image -->
 <div class="col-sm-12 text-center mb-3 mt-3">

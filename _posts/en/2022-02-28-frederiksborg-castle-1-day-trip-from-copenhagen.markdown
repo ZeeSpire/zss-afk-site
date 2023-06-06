@@ -83,7 +83,7 @@ The visit wouldn't be complete without a walk through the Castle's Gardens. The 
     </a>
 </div>
 
-There is a symmetrically constructed Baroque Garden with perfectly straight hedges. There is also a romantic, English-style garden, where the small Bath House Castle is located. There are many small lakes and each one is unique and has its own beauty. You can also enjoy a delicious brunch at Cafe Havehuset located in the gardens. Here is their [menu]( https://cafehavehuset.dk/en/menu/){:target="_blank"}. 
+There is a symmetrically constructed Baroque Garden with perfectly straight hedges. There is also a romantic, English-style garden, where the small Bath House Castle is located. There are many small lakes and each one is unique and has its own beauty. You can also enjoy a delicious brunch at Cafe Havehuset located in the gardens. Here is their [menu]( https://cafehavehuset.dk/en/menu/){:target="_blank" rel="nofollow"}. 
 
 After a full, but very pleasant day, we returned to Copenhagen, and we kindly recommend to anyone who has a spare day to visit Frederiksborg Castle.
 

@@ -77,7 +77,7 @@ Anniversary Pavilion
     </div>
 </div>
 
-The tickets can also be purchased online from [here](https://tickets.artsafari.ro/e?lang=en){:target="_blank"}. At the time of writing this article, a day access ticket costs 80 lei (16 euros), and a night tour costs 130 lei (26 euros). 
+The tickets can also be purchased online from [here](https://tickets.artsafari.ro/e?lang=en){:target="_blank" rel="nofollow"}. At the time of writing this article, a day access ticket costs 80 lei (16 euros), and a night tour costs 130 lei (26 euros). 
 
 Art Safari is temporarily housed in the superb Dacia-Romania Palace on Lipscani Street, a historic space built in the late 1890s. 
 

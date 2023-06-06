@@ -19,7 +19,7 @@ featured-image-style: full-width # can be left, centered, full-width
 
 I start by saying that Santorini is a world-renowned place for beautiful sunsets and that many tourists go to Santorini, especially for this. 
 
-Of course, the sun sets at a different hour and in a different place depending on the time of year you visit this amazing island. We visited the island in the middle of summer, but these recommendations can be applied regardless of the time of year, and if you want to know the exact time at which the sunset takes place in Santorini, you can check this [website](https://www.timeanddate.com/sun/greece/santorini){:target="_blank"}.
+Of course, the sun sets at a different hour and in a different place depending on the time of year you visit this amazing island. We visited the island in the middle of summer, but these recommendations can be applied regardless of the time of year, and if you want to know the exact time at which the sunset takes place in Santorini, you can check this [website](https://www.timeanddate.com/sun/greece/santorini){:target="_blank" rel="nofollow"}.
 
 I made a list of places from which we saw the sunset. We found it just as special and spectacular from any of these places.   
 
@@ -131,7 +131,7 @@ Near the lighthouse, you will find different paths in the grass that lead you to
     </a>
 </div>
 
-In Santorini are countless options of agencies or private operators that offer "sunset cruise" trips. You should search for them online or ask at your hotel reception and pick whatever suits best for you. Some of them offer pick-up from the hotel, others leave from Fira's port or Ammoudi Bay or Vlychada or any other port, some offer dinner, and drinks, some offer private or semi-private tours, and so on. This one from [Santo Sails](https://www.santosails.com/sailing-cruises/sunset-sailing-cruise/){:target="_blank"} is just an example of a sunset cruise. 
+In Santorini are countless options of agencies or private operators that offer "sunset cruise" trips. You should search for them online or ask at your hotel reception and pick whatever suits best for you. Some of them offer pick-up from the hotel, others leave from Fira's port or Ammoudi Bay or Vlychada or any other port, some offer dinner, and drinks, some offer private or semi-private tours, and so on. This one from [Santo Sails](https://www.santosails.com/sailing-cruises/sunset-sailing-cruise/){:target="_blank" rel="nofollow"} is just an example of a sunset cruise. 
 
 If you want something even more special, you can opt for a helicopter ride at sunset. 
 
