@@ -88,8 +88,8 @@
           "url": "{{ site.url }}{{ site.logo }}"
         }
       },
-      "datePublished": {{ page.published | date: "%Y-%m-%d"}},
-      "dateModified": {{ page.last_modified_at | date: "%Y-%m-%d"}}
+      "datePublished": "{{ page.published | date: "%Y-%m-%d"}}",
+      "dateModified": "{{ page.last_modified_at | date: "%Y-%m-%d"}}"
     }
   </script>
   {% endif %}
