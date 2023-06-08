@@ -1,7 +1,8 @@
 ---
 layout: post.en
 type: post
-title: A walk through the Dimitrie Gusti National Village Museum in Bucharest
+h1_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest
+title: Dimitrie Gusti National Village Museum in Bucharest
 front_page_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest
 published: 06 June 2023
 last_modified_at: 06 June 2023

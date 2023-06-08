@@ -9,7 +9,7 @@
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-4 mb-2 mt-2">
                                 <a class="card-text" href="{{ post.url }}"><h1>{{ post.front_page_title }}</h1></a>
-                                {{ post.description }}
+                                {% if post.description_for_first_page %} {{ post.description_for_first_page }} {% else %} {{ post.description }}{% endif %}
                                 <br/>
                                 <a class="card-text" href="{{ post.url }}"><p class="text-end">read more</p></a>
                         </div>

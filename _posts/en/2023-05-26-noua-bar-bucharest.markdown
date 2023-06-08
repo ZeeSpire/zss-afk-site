@@ -2,7 +2,7 @@
 layout: post.en
 type: post
 title: Noua B.A.R. - one of our favorite restaurants in Bucharest and why it impressed us
-front_page_title: Noua B.A.R. - one of our favorite restaurants in Bucharest and why it impressed us
+front_page_title: Noua B.A.R. - one of our favorite restaurants in Bucharest
 published: 26 May 2023
 last_modified_at: 26 May 2023
 keywords: Bucharest, travel, restaurant, Noua BAR, Chef Alex Petricean, good food

@@ -2,7 +2,7 @@
 layout: post.ro
 type: post
 title: Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti şi de ce ne-a impresionat
-front_page_title: Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti şi de ce ne-a impresionat
+front_page_title: Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti
 published: 26 Mai 2023
 last_modified_at: 26 Mai 2023
 keywords: Bucuresti, calatorii, restaurant, Noua BAR, Chef Alex Petricean, good food, mancare, top restaurante, unde iesim

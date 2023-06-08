@@ -1,7 +1,8 @@
 ---
 layout: post.ro
 type: post
-title: O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
+h1_title: O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
+title: Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
 front_page_title: O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti
 published: 06 Iunie 2023
 last_modified_at: 06 Iunie 2023
