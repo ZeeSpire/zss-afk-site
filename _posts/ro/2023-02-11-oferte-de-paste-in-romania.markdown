@@ -2,6 +2,7 @@
 layout: post.ro
 type: post
 title: Oferte de Paşte în România (2023)
+h1_title: Cele mai bune oferte de Paşte în România (2023)
 front_page_title: Oferte de Paşte în România (2023)
 published: 11 Februarie 2023
 last_modified_at: 11 Februarie 2023

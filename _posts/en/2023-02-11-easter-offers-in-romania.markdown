@@ -2,6 +2,7 @@
 layout: post.en
 type: post
 title: Easter offers in Romania (2023)
+h1_title: The best Easter offers in Romania (2023)
 front_page_title: Easter offers in Romania (2023)
 published: 11 February 2023
 last_modified_at: 11 February 2023
