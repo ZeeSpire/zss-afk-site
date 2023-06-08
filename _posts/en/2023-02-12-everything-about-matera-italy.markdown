@@ -7,7 +7,7 @@ front_page_title: Everything about Matera, Italy
 published: 12 February 2023
 last_modified_at: 12 February 2023
 keywords: Italy, travel, Matera, UNESCO, tourism
-description: Matera is a unique and fascinating city that offers a glimpse into the rich history of Italy and the Mediterranean region. With its ancient cave dwellings, beautiful churches, and vibrant cultural scene, it is a destination that appeals to travelers of all interests and backgrounds.
+description: Matera is a unique and fascinating city that offers a glimpse into the rich history of Italy and the Mediterranean region. With its ancient cave dwellings, beautiful churches, and vibrant cultural scene, it is an appealing destination.
 categories: [EN, Italy-EN]
 tag: EN
 permalink: /everything-about-matera-italy/

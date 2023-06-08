@@ -7,7 +7,7 @@ front_page_title: Totul despre Matera, Italia
 published: 12 Februarie 2023
 last_modified_at: 12 Februarie 2023
 keywords: Italia, travel, Matera, UNESCO, turism
-description: Matera este un oraș cu adevărat unic și fascinant care oferă o privire asupra istoriei bogate a Italiei și a regiunii mediteraneene. Cu peșteri transformate în locuinţe, biserici rupestre și o scenă culturală vibrantă, este o destinație care atrage călători de pretutindeni. Citește în continuare tot ce trebuie să știi înainte de a vizita Matera.
+description: Matera este un oraș cu adevărat unic și fascinant care oferă o privire asupra istoriei bogate a Italiei și a regiunii mediteraneene. Cu peșteri transformate în locuinţe, biserici rupestre și o scenă culturală vibrantă, este o destinație care atrage călători de pretutindeni.
 categories: [RO, Italia-RO]
 tag: RO
 permalink: /ro/totul-despre-matera-italia/

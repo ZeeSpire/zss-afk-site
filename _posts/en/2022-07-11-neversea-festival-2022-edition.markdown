@@ -6,7 +6,7 @@ front_page_title: Neversea Festival, 2022 edition
 published: 11 July 2022
 last_modified_at: 16 July 2022
 keywords: constanta, romania, neversea, festival, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU
-description: Neversea Festival, edition 2022, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU
+description: Neversea Festival, edition 2022, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU.
 categories: [EN, Romania-EN]
 tag: EN
 permalink: /neversea-festival-2022-edition/
