@@ -1,8 +1,8 @@
 ---
 layout: post.en
 type: post
-title: Cişmigiu Garden
-h1_title: Escape to Cişmigiu Garden, the oldest park in Bucharest 
+h1_title: Cişmigiu Garden
+title: Escape to Cişmigiu Garden, the oldest park in Bucharest 
 front_page_title: Escape to Cişmigiu Garden, the oldest park in Bucharest 
 published: 08 June 2023
 last_modified_at: 08 June 2023
