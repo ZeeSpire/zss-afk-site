@@ -1,7 +1,7 @@
 ---
 layout: post.en
 type: post
-title: Remote accommodations in Romania <br /> Reconnecting with nature
+title: Remote accommodations in Romania. Reconnecting with nature.
 front_page_title: Remote accommodations in Romania
 published: 21 June 2022
 last_modified_at: 21 June 2022
