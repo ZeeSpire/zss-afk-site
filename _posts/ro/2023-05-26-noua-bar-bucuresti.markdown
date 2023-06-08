@@ -2,6 +2,7 @@
 layout: post.ro
 type: post
 title: Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti şi de ce ne-a impresionat
+h1_title: Noua B.A.R., Bucureşti
 front_page_title: Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti
 published: 26 Mai 2023
 last_modified_at: 26 Mai 2023

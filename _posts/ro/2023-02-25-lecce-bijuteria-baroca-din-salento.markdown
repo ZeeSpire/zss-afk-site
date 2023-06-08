@@ -1,8 +1,8 @@
 ---
 layout: post.ro
 type: post
-title: Lecce, Italy
-h1_title: Lecce - bijuteria barocă din Salento
+h1_title: Lecce, Italy
+title: Lecce - bijuteria barocă din Salento
 front_page_title: Lecce - bijuteria barocă din Salento
 published: 25 Februarie 2023
 last_modified_at: 25 Februarie 2023

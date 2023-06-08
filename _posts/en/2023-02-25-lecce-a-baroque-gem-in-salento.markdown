@@ -1,8 +1,8 @@
 ---
 layout: post.en
 type: post
-title: Lecce, Italy
-h1_title: Lecce - the Baroque gem of Salento
+h1_title: Lecce, Italy
+title: Lecce - the Baroque gem of Salento
 front_page_title: Lecce - the Baroque gem of Salento
 published: 25 February 2023
 last_modified_at: 25 February 2023
