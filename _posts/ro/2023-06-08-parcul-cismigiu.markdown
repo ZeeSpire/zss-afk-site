@@ -57,6 +57,6 @@ Varianta nr. 2:
 </div>
 
 
-Ce părere ai? Care dintre cele două variante este pe placul tău? Haide pe instagram/facebook şi interacţionează cu noi. 
+Ce părere ai? Care dintre cele două variante este pe placul tău? Haide pe <a  href="{{ site.instagram }}" target="_blank"><i class="bi bi-instagram h3"></i></a> sau <a href="{{ site.facebook }}" target="_blank"><i class="bi bi-facebook h3"></i></a> şi interacţionează cu noi. 
 
 Ah, era să uit. Răspunsul corect este C.

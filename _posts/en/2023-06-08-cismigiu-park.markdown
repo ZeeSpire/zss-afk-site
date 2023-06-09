@@ -55,6 +55,6 @@ Option 2:
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Pa3HHX7K61g" title="Cismigiu Park version 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-What do you think? Which of the two options do you prefer? Interact with us on Instagram/Facebook.
+What do you think? Which of the two options do you prefer? Interact with us on <a  href="{{ site.instagram }}" target="_blank"><i class="bi bi-instagram h3"></i></a> or <a href="{{ site.facebook }}" target="_blank"><i class="bi bi-facebook h3"></i></a>.
 
 Ah, it was about to slip my mind. The correct answer is C.
