@@ -1,6 +1,7 @@
 ---
 layout: post.ro
 type: post
+h1_title: Conacul Grigorescu, România
 title: Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu
 front_page_title: Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu
 published: 07 Noiembrie 2022

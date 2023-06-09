@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Viscri, Romania
 title: Viscri, the most popular Saxon village in Transylvania
 front_page_title: Viscri, the most popular Saxon village in Transylvania
 published: 09 October 2022

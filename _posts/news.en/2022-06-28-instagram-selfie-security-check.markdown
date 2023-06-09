@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Instagram will check the age
 title: Instagram may soon check your real age using video selfies
 front_page_title: Instagram may soon check your real age using video selfies
 published: 28 June 2022

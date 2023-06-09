@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Best food in Constanta, Romania
 title: Where to eat in Constanta, Romania
 front_page_title: Where to eat in Constanta, Romania
 published: 16 July 2022

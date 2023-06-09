@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: iPhone 14
 title: Order your iPhone 14 today
 front_page_title: Order your iPhone 14 today
 published: 09 September 2022

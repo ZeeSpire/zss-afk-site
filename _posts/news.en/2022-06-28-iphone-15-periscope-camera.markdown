@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: iPhone 15
 title: iPhone 15 with periscope camera
 front_page_title: iPhone 15 with periscope camera
 published: 28 June 2022

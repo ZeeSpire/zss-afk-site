@@ -1,6 +1,7 @@
 ---
 layout: post.ro
 type: post
+h1_title: Satele Măgura și Peștera, România
 title: Satele Măgura și Peștera din judetul Brașov
 front_page_title: Satele Măgura și Peștera din judetul Brașov
 published: 26 October 2021

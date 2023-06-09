@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Sunset in Santorini 
 title: Best places to watch the sunset in Santorini 
 front_page_title: Best places to watch the sunset in Santorini 
 published: 14 August 2022

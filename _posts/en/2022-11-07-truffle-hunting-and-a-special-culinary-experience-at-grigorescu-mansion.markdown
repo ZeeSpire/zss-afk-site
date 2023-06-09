@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Grigorescu Mansion, Romania
 title: Truffle hunting and a special culinary experience at Grigorescu Mansion
 front_page_title: Truffle hunting and a special culinary experience at Grigorescu Mansion
 published: 07 November 2022

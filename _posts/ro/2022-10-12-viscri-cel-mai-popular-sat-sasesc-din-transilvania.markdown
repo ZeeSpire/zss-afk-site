@@ -1,6 +1,7 @@
 ---
 layout: post.ro
 type: post
+h1_title: Viscri, România
 title: Viscri, cel mai popular sat săsesc din Transilvania
 front_page_title: Viscri, cel mai popular sat săsesc din Transilvania
 published: 12 October 2022

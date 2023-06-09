@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Măgura & Peștera villages, Romania
 title: Măgura & Peștera villages, Brașov county, Romania
 front_page_title: Măgura & Peștera villages, Brașov county, Romania
 published: 26 October 2021

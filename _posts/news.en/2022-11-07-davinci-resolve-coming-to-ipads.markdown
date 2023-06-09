@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Davinci Resolve
 title: Davinci Resolve coming to iPads
 front_page_title: Davinci Resolve coming to iPads
 published: 07 November 2022

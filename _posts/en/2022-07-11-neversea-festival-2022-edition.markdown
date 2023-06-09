@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Neversea 2022, Romania
 title: Neversea Festival, 2022 edition 
 front_page_title: Neversea Festival, 2022 edition 
 published: 11 July 2022

@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Tips for visiting Copenhagen, Denmark
 title: Tips for visiting Copenhagen for the first time
 front_page_title: Tips for visiting Copenhagen for the first time
 published: 28 December 2021

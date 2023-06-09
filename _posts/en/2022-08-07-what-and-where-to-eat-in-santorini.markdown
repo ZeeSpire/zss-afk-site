@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Best food in Santorini, Greece
 title: What and where to eat in Santorini
 front_page_title: What and where to eat in Santorini
 published: 07 August 2022

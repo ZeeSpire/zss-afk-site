@@ -1,6 +1,7 @@
 ---
 layout: post.ro
 type: post
+h1_title: Valea Verde, România
 title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat
 front_page_title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat
 published: 30 Decembrie 2022

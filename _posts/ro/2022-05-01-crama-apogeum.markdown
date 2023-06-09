@@ -1,8 +1,9 @@
 ---
 layout: post.ro
 type: post
-title: Crama Apogeum și cea mai bună Fetească Neagră din Romania
-front_page_title: Crama Apogeum și cea mai bună Fetească Neagră din Romania
+h1_title: Crama Apogeum, România
+title: Crama Apogeum și cea mai bună Fetească Neagră din România
+front_page_title: Crama Apogeum și cea mai bună Fetească Neagră din România
 published: 01 Mai 2022
 last_modified_at: 01 Mai 2022
 keywords: mancare, romania, fine dining, experiente, calatorii, vin, degustare de vinuri

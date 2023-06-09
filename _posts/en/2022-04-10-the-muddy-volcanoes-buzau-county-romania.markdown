@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Muddy Volcanoes, Romania
 title: The Muddy Volcanoes, Buzău County, Romania
 front_page_title: The Muddy Volcanoes, Buzău County, Romania
 published: 10 April 2022

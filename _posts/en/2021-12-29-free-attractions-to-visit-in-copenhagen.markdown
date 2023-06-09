@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Top attractions in Copenhagen 
 title: 15 free attractions to visit in Copenhagen 
 front_page_title: 15 free attractions to visit in Copenhagen 
 published: 29 December 2021

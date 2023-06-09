@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: Top activities in Santorini, Greece
 title: Top 15 things to do in Santorini
 front_page_title: Top 15 things to do in Santorini
 published: 24 August 2022

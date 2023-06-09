@@ -1,6 +1,7 @@
 ---
 layout: post.en
 type: post
+h1_title: The best things you can do while visiting Copenhagen
 title: Three days in Copenhagen
 front_page_title: Three days in Copenhagen
 published: 19 January 2022
