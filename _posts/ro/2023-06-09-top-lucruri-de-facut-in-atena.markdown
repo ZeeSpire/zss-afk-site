@@ -69,6 +69,7 @@ Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.
      <div class="text-muted text-center"><small>Erechtheion</small></div>
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 2. Vezi biblioteca lui Hadrian
 Biblioteca lui Hadrian a fost construită de împăratul roman Hadrian în secolul al II-lea d.Hr. şi a fost cea mai mare bibliotecă din Atena. Peretele vestic şi coloanele sunt foarte impresionante şi, deşi se văd din exteriorul sitului arheologic, nu am regretat că am intrat, mai ales că am cumpărat biletul care cuprindea şi acest sit.
@@ -92,6 +93,7 @@ Agora romană a fost construită în perioada romană şi include mai multe stru
 În interiorul sitului, poţi vedea detaliile sculptate în marmură de aproape, precum şi un mozaic frumos sau ce a mai rămas din el.
 
 {% responsive_image path: assets/images/posts/athens/roman-agora-athens.webp alt: "Roman Agora Athens" %}
+{% include in-article-ad.html %}
 
 ## 6. Mergi la Liceul lui Artistotel
 Acesta a fost locul unde filosoful Aristotel a predat şi a condus cercetările sale filozofice şi ştiinţifice. Şcoala a fost înfiinţată în secolul al IV-lea î.Hr. şi a fost una dintre cele mai proeminente instituţii de învăţământ din Grecia antică. Pentru că programul de vizitare este până la ora 15:00, iar noi am întârziat vreo 5 minute, l-am văzut de la distanţă din păcate.
@@ -120,6 +122,7 @@ Am plătit 10 euro pe un bilet care a inclus şi un ghid audio.
 Pentru că audioghidul trebuia returnat în 30 de minute, ne-am grăbit să vizităm stadionul, dar am fi putut să stăm şi mai mult. A fost foarte distractiv, ne-am aşezat pe treptele de marmură şi am alergat pe pistă şi a fost una dintre atracţiile noastre preferate din Atena.
 
 {% responsive_image path: assets/images/posts/athens/panathenaic-stadium-athens.webp alt: "Panathenaic stadium Athens" %}
+{% include in-article-ad.html %}
 
 ## 10. Asistă la ceremonia de schimbare a gărzii în piaţa Syntagma
 Piaţa Syntagma este piaţa centrală a Atenei şi este situată în inima cartierului comercial al oraşului. Piaţa este numită după cuvântul grecesc "syntagma" care înseamnă "constituţie" şi găzduieşte clădirea Parlamentului grec. Ceremonia de schimbare a gărzii, cunoscută sub numele de Evzones, are loc în faţa clădirii Parlamentului la fiecare oră. Este o atracţie populară pentru turişti, aşa că dacă este ceva ce vrei să vezi, încearcă să ajungi acolo cât mai devreme posibil pentru un loc în faţă.
@@ -141,6 +144,7 @@ Este cunoscută pentru atmosfera plină de viaţă şi este un loc numai bun pen
 Am cumpărat de aici ceai grecesc de munte ca suvenir. Ceaiul este făcut din plante de Sideritis uscate şi are un gust similar cu alte ierburi pentru ceai, cum ar fi menta sau muşeţelul.
 
 {% responsive_image path: assets/images/posts/athens/athens-central-market-varvakios.webp alt: "Athens Central Market Varvakios" %}
+{% include in-article-ad.html %}
 
 ## 13. Urcă pe dealul Philopappos
 Înainte de a merge la Atena, am citit despre Dealul Lycabettus care reprezintă cel mai înalt punct din Atena, cu vederi uluitoare ale oraşului şi o capelă în vârf. Am citit şi despre Dealul Areopagus care se află la nord-vest de Acropola, cu vederi panoramice ale oraşului.
@@ -176,6 +180,7 @@ Am petrecut aici câteva ore dimineaţa în timp ce ne-am bucurat de o ceaşcă 
             {% responsive_image path: assets/images/posts/athens/beautiful-door-athens-greece-3.webp alt: "Beautiful door Athens Greece 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 15. Răsfaţă-te cu mâncarea grecească
 În Atena poţi găsi o mulţime de opţiuni de la mâncarea stradală, taverne, restaurante mai extravagante şi sky baruri.
@@ -206,6 +211,7 @@ La Falafellas am mâncat nişte wrap-uri super gustoase. Poţi alege din următo
             {% responsive_image path: assets/images/posts/athens/local-greek-food-athens.webp alt: "Local Greek food in Athens" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 4. Taverna Krasopoulio tou Kokkora
 Acesta este un restaurant grecesc autentic, popular mai degrabă printre localnici şi este mai puţin aglomerat. Un gest frumos a fost să ni se ofere o carafă cu apă din partea casei.
@@ -220,6 +226,7 @@ Aceasta este o cafenea desprinsă poveşti, foarte aproape de Taverna Krasopouli
 Deşi simţi că eşti într-un basm (chiar şi chelnerii sunt îmbrăcaţi pe măsură), cafeneaua este foarte populară, este o atracţie turistică în sine, aşa că este destul de aglomerată. Preţurile sunt mari pentru calitatea oferită şi nu ne-a plăcut nimic din ce am comandat. Aş spune în mod normal că aceasta este o capcană pentru turişti, dar ne-a plăcut decorul şi ne-am distrat făcând poze aşa că nu pot spune că nu mi-a plăcut deloc.
 
 {% responsive_image path: assets/images/posts/athens/little-kook-decor-athens-1.webp alt: "Little Kook decor Athens" %}
+{% include in-article-ad.html %}
 
 ## 6. Lukumades
 Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, care vinde Loukoumades. Loukoumades sunt nişte gogoşele stropite cu sirop de miere şi presărate cu scorţişoară.
