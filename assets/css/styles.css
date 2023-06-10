@@ -59,8 +59,32 @@ h3 {
 
 .card-img-top {
     height: 356px;
-    width: 100%;
+    width: 356px;
     object-fit: cover
+}
+
+@media (max-width: 1200px) { 
+    .card-img-top {
+        height: 296px;
+        width: 296px;
+        object-fit: cover
+    }
+}
+
+@media (max-width: 992px) { 
+    .card-img-top {
+        height: 336px;
+        width: 336px;
+        object-fit: cover
+    }
+}
+
+@media (max-width: 768px) { 
+    .card-img-top {
+        height: 356px;
+        width: 516px;
+        object-fit: cover
+    }
 }
 
 .img-insta-footer:hover {
@@ -78,20 +102,65 @@ h3 {
     .card-body {
         padding-bottom: 0
     }
+}
 
+.featured-image {
+    object-fit: cover;
+    width: 736px;
+    height: 414px;
+}
+
+@media (max-width: 1200px) { 
     .featured-image {
-        object-fit: cover;
-        width: 100%;
-        height: 356px;
+        height: 347px;
+        width: 616px;
+        object-fit: cover
     }
 }
 
-@media (max-width:1200px) {
-    .featured-image-second-row {
-        object-fit: cover;
-        /* width: 600px; */
-        width: 100%;
+@media (max-width: 992px) { 
+    .featured-image {
+        height: 392px;
+        width: 696px;
+        object-fit: cover
+    }
+}
+
+@media (max-width: 768px) { 
+    .featured-image {
         height: 356px;
+        width: 516px;
+        object-fit: cover
+    }
+}
+
+.featured-image-second-row {
+    height: 307px;
+    width: 546px;
+    object-fit: cover
+}
+
+@media (max-width: 1200px) { 
+    .featured-image-second-row {
+        height: 356px;
+        width: 456px;
+        object-fit: cover
+    }
+}
+
+@media (max-width: 992px) { 
+    .featured-image-second-row {
+        height: 336px;
+        width: 336px;
+        object-fit: cover
+    }
+}
+
+@media (max-width: 768px) { 
+    .featured-image-second-row {
+        height: 356px;
+        width: 516px;
+        object-fit: cover
     }
 }
 

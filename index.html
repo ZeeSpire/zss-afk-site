@@ -52,7 +52,7 @@ description: Travel information. What to visit, where to eat, how to spend your 
         {% endif %}
     <div class="col-sm-12 col-md-6 col-lg-4 mb-2 mt-2">
         <div class="card">
-            <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top" alt="{{ post.title }}" width="600" height="100%"></a>
+            <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-home }}"  class="card-img-top img-fluid" alt="{{ post.title }}"></a>
             <div class="card-body">
                 <div class="card-text-container"><a href="{{ post.url }}" class="card-text"><h2 class="card-text">{{ post.front_page_title }}</h2></a></div>
                 {% if site.show-posts-date %}<div class="text-center fw-lighter lh-lg text-muted fs-4" style="font-family: 'Italianno', cursive;">{{ post.published }}</div>{% endif %}
