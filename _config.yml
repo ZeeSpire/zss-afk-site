@@ -24,17 +24,9 @@ tiktok: https://www.tiktok.com/@afkology
 # Show posts date on homepage
 show-posts-date: false 
 
-# Pinterest settings
-enable-pinterest-on-image-hover: false
-pinterest-site-key: a6fc09c0694f88b02ffdc31fd0e107ae
-pinterest: https://pinterest.com/afkology
-
 # Footer settings
 footer-color: ffffff
 show-theme-watermark: true
-
-# Track traffic
-google-tag-manager-id: GTM-PF6ZFZZ
 
 # Pagination settings
 pagination:
@@ -49,7 +41,6 @@ pagination:
 # Build settings
 plugins:
   - jekyll-feed
-  # - jekyll-sitemap
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-responsive-image

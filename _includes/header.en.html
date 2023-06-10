@@ -100,12 +100,6 @@
   {% endif %}
 
   {% if jekyll.environment == "production" %}
-    <!-- Google Tag Manager -->
-    <!-- <script>
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PF6ZFZZ');
-    </script> -->
-    <!-- End Google Tag Manager -->
-
     <!-- Google analytics (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2E08R5263Y"></script>
     <script>
@@ -144,22 +138,12 @@
   <!-- custom styles -->
   <link rel="stylesheet" href="/assets/css/styles.css">
 
-  <!-- Pinterest verify -->
-  {% if site.pinterest-site-key %}
-  <meta name="p:domain_verify" content="{{ site.pinterest-site-key }}" />
-  {% endif %}
-
   <!-- google ads -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6143747859842915" crossorigin="anonymous"></script>
 </head>
 
 <main class="flex-shrink-0">
   <body class="d-flex flex-column h-100">
-    {% if jekyll.environment == "production" %}
-          <!-- Google Tag Manager (noscript) -->
-          <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PF6ZFZZ"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
-          <!-- End Google Tag Manager (noscript) -->
-    {% endif %}
     <div class="container">
         <div class="row" >
           <div class="col-12 text-center">
