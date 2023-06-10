@@ -15,7 +15,7 @@ permalink-to-next-language: /ro/oferte-de-paste-in-romania-2023/
 featured-image: 
 featured-image-top:
 featured-image-primary: "/assets/resized/primavara-800x450.webp"
-featured-image-home: "/assets/resized/primavara-square-800x800.webp" # width - 600
+featured-image-home: "/assets/resized/primavara-square-600x600.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
 This year, Orthodox Easter falls on the 16th of April, and the offers dedicated to this holiday have already started to appear.
