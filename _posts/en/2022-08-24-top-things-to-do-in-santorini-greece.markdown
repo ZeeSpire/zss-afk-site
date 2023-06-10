@@ -14,7 +14,6 @@ permalink: /top-things-to-do-in-santorini-greece/
 permalink-to-next-language: 
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.webp" # width - 1200
-featured-image-top-small: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1661325808/2022-santorini-main/e-PANO_20210714_203525_copy_yjfd0q.webp" # width - 1200
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1661325806/2022-santorini-main/e-IMG_20210711_121317_copy_2_16_9_xmsou3.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---

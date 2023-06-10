@@ -14,7 +14,6 @@ permalink: /crama-de-piatra-a-boutique-winery-with-a-huge-potential/
 permalink-to-next-language: 
 featured-image: 
 featured-image-top: 
-featured-image-top-small: 
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1662294905/2022-crama-de-piatra/IMG_20220828_080307-e1_tio8fx.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
