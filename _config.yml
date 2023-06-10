@@ -10,7 +10,7 @@ keywords-ro: "afkology, calatorii, idei de calatorie, restaurante, calatorii in 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.afkology.com"
 permalink: /:title/
-logo: '/assets/images/logo-autumn-afk.png'
+logo: '/assets/images/logo-autumn-afk.webp'
 logo-height: 130
 logo-width: 230
 
