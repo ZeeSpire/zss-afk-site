@@ -69,7 +69,7 @@ Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.
      <div class="text-muted text-center"><small>Erechtheion</small></div>
     </div>
 </div>
-{% include in-article-ad.html %}
+
 
 ## 2. Vezi biblioteca lui Hadrian
 Biblioteca lui Hadrian a fost construită de împăratul roman Hadrian în secolul al II-lea d.Hr. şi a fost cea mai mare bibliotecă din Atena. Peretele vestic şi coloanele sunt foarte impresionante şi, deşi se văd din exteriorul sitului arheologic, nu am regretat că am intrat, mai ales că am cumpărat biletul care cuprindea şi acest sit.
@@ -226,7 +226,6 @@ Aceasta este o cafenea desprinsă poveşti, foarte aproape de Taverna Krasopouli
 Deşi simţi că eşti într-un basm (chiar şi chelnerii sunt îmbrăcaţi pe măsură), cafeneaua este foarte populară, este o atracţie turistică în sine, aşa că este destul de aglomerată. Preţurile sunt mari pentru calitatea oferită şi nu ne-a plăcut nimic din ce am comandat. Aş spune în mod normal că aceasta este o capcană pentru turişti, dar ne-a plăcut decorul şi ne-am distrat făcând poze aşa că nu pot spune că nu mi-a plăcut deloc.
 
 {% responsive_image path: assets/images/posts/athens/little-kook-decor-athens-1.webp alt: "Little Kook decor Athens" %}
-{% include in-article-ad.html %}
 
 ## 6. Lukumades
 Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, care vinde Loukoumades. Loukoumades sunt nişte gogoşele stropite cu sirop de miere şi presărate cu scorţişoară.

@@ -93,6 +93,7 @@ The Roman Agora was built during the Roman period and includes several important
 Inside the site, you can see the details carved into the marble up close, as well as a beautiful mosaic, or what remains of it.
 
 {% responsive_image path: assets/images/posts/athens/roman-agora-athens.webp alt: "Roman Agora Athens" %}
+{% include in-article-ad.html %}
 
 ## 6. Visit Aristotle's Lyceum
 This was the place where the philosopher Aristotle taught and conducted his philosophical and scientific research. The school was established in the 4th century BC and was one of the most prominent educational institutions in ancient Greece. Because it closes at 3 PM and we were 5 minutes late, we've seen it from outside, unfortunately.
@@ -145,6 +146,7 @@ It's known for its lively atmosphere and is a great place to experience the loca
 We bought Greek mountain tea from here as a souvenir. The tea is made from dried Sideritis plants and tastes similar to other herbs for tea, like mint or chamomile.
 
 {% responsive_image path: assets/images/posts/athens/athens-central-market-varvakios.webp alt: "Athens Central Market Varvakios" %}
+{% include in-article-ad.html %}
 
 ## 13. Climb Philopappos Hill
 Before going to Athens, we read about Lycabettus Hill, which represents the highest point in Athens, with stunning views of the city and a small chapel at the top. We also read about Areopagus Hill, which is located northwest of the Acropolis and has panoramic views of the city.
@@ -181,6 +183,7 @@ We spent a few hours here early in the morning, enjoying a cup of coffee and a d
             {% responsive_image path: assets/images/posts/athens/beautiful-door-athens-greece-3.webp alt: "Beautiful door Athens Greece 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 15. Indulge in Greek food
 In Athens, you can find a lot of options where you can dine, including street food, taverns, steakhouse restaurants, and sky bars.
@@ -212,6 +215,7 @@ At Falafellas, we had some super tasty wraps. There are two choices: falafel or 
             {% responsive_image path: assets/images/posts/athens/local-greek-food-athens.webp alt: "Local Greek food in Athens" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 4. Krasopoulio tou Kokkora Tavern
 This is an authentic Greek restaurant, popular with locals, and quieter than other places. A nice gesture was to offer us tap water from the house.
@@ -231,3 +235,5 @@ Although you feel like you're in a fairy tale (even the waiters are dressed acco
 Near Agia Irini Square, we found a wonderful place, which is always crowded, that sells Loukoumades. Loukoumades are small fried dough balls drizzled with honey syrup and sprinkled with cinnamon.
 The place is called [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}. 
 You could choose from several toppings, but we chose the classic version: honey + cinnamon. We ate them hot, and they were delicious.
+
+{% include in-article-ad.html %}
