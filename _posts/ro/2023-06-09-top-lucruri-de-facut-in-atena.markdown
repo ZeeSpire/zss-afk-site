@@ -225,3 +225,5 @@ Deşi simţi că eşti într-un basm (chiar şi chelnerii sunt îmbrăcaţi pe m
 Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, care vinde Loukoumades. Loukoumades sunt nişte gogoşele stropite cu sirop de miere şi presărate cu scorţişoară.
 Locul se numeşte, ce sa vezi, [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}.
 Erau disponibile multe toppinguri, dar noi am ales varianta clasică: miere + scorţişoară. Le-am mâncat calde şi au fost delicioase.
+
+{% include in-article-ad.html %}
