@@ -25,7 +25,7 @@ tiktok: https://www.tiktok.com/@afkology
 show-posts-date: false 
 
 # Pinterest settings
-enable-pinterest-on-image-hover: true
+enable-pinterest-on-image-hover: false
 pinterest-site-key: a6fc09c0694f88b02ffdc31fd0e107ae
 pinterest: https://pinterest.com/afkology
 
