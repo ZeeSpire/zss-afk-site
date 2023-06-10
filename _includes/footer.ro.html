@@ -7,14 +7,14 @@
             <div class="col">
                 {% if paginator.previous_page %}
                 <a href="{{ paginator.previous_page_path }}" style="color: #000000" class="text-uppercase fw-normal lh-lg text-decoration-none">
-                    <img src = "/assets/images/helper/arrow-left-circle.svg" style="fill: #6c757d; padding-bottom: 3px;" alt="Pagina anterioara"/> Pagina anterioara
+                    <img src = "/assets/images/helper/arrow-left-circle.svg" style="padding-bottom: 3px;" alt="Pagina anterioara"/> Pagina anterioara
                 </a>
                 {% endif %}
             </div>
             <div class="col text-end">
                 {% if paginator.next_page %}
                 <a href="{{ paginator.next_page_path }}" style="color: #000000" class="text-uppercase fw-normal lh-lg text-decoration-none">Pagina urmatoare
-                    <img src = "/assets/images/helper/arrow-right-circle.svg" style="fill: #6c757d; padding-bottom: 3px;" alt="Urmatoarea pagina"/>
+                    <img src = "/assets/images/helper/arrow-right-circle.svg" style="padding-bottom: 3px;" alt="Urmatoarea pagina"/>
                 </a>
                 {% endif %}
             </div>
@@ -42,34 +42,34 @@
                         <div class="row mb-3">
                             {% if site.youtube %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.youtube }}" target="_blank"><i class="bi bi-youtube h2"></i></a>
+                                <a class="text-secondary" href="{{ site.youtube }}" target="_blank"><img src = "/assets/images/helper/youtube-large.svg" alt="youtube"/></a>
                             </div>
                             {% endif %}
                             {% if site.instagram %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.instagram }}" target="_blank"><i class="bi bi-instagram h2"></i></a>
+                                <a class="text-secondary" href="{{ site.instagram }}" target="_blank"><img src = "/assets/images/helper/instagram-large.svg" alt="instagram"/></a>
                             </div>
                             {% endif %}
                             {% if site.facebook %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.facebook }}" target="_blank"><i class="bi bi-facebook h2"></i></a>
+                                <a class="text-secondary" href="{{ site.facebook }}" target="_blank"><img src = "/assets/images/helper/facebook-large.svg" alt="facebook"/></a>
                             </div>
                             {% endif %}
                         </div>
                         <div class="row">
                             {% if site.medium %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.medium }}" target="_blank"><i class="bi bi-medium h2"></i></a>
+                                <a class="text-secondary" href="{{ site.medium }}" target="_blank"><img src = "/assets/images/helper/medium-large.svg" alt="medium"/></a>
                             </div>
                             {% endif %}
                             {% if site.tiktok %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.tiktok }}" target="_blank"><i class="bi bi-tiktok h2"></i></a>
+                                <a class="text-secondary" href="{{ site.tiktok }}" target="_blank"><img src = "/assets/images/helper/tiktok-large.svg" alt="tiktok"/></a>
                             </div>
                             {% endif %}
                             {% if site.pinterest %}
                             <div class="col text-center">
-                                <a class="text-secondary" href="{{ site.pinterest }}" target="_blank"><i class="bi bi-pinterest h2"></i></a>
+                                <a class="text-secondary" href="{{ site.pinterest }}" target="_blank"><img src = "/assets/images/helper/pinterest-large.svg" alt="pinterest"/></a>
                             </div>
                             {% endif %}
                         </div>
