@@ -1,9 +1,10 @@
 ---
 layout: post.ro
 type: post
-h1_title: Grădina Cişmigiu, Bucureşti #different than title, smaller
-title: Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti
-front_page_title: Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti
+title: Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti #up in browser, max 60 chars
+h1_title: Grădina Cişmigiu, Bucureşti #hidden, just for seo
+front_page_title: Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti #shows on the front page
+article_title: Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti #shows on article page
 published: 08 Iunie 2023
 last_modified_at: 08 Iunie 2023
 keywords: Bucuresti, calatorii, parc, unde iesim, ce vizitam, muzeu, aer liber

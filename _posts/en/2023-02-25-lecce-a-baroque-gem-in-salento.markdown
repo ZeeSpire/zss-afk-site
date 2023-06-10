@@ -25,15 +25,11 @@ owned by Maria Luisa who was an amazing host and gave us lots of recommendations
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
 
-
 We have to admit though that we would have liked to stay in one of these luxurious hotels in the heart of Lecce:
 
-[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
-
-[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
-
-
-[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 We only spent one day in this vibrant, touristy, steeped-in history place, and we regret that we couldn't stay longer because we really enjoyed the time here. Basically, we strolled through the streets of the "centro storico", entered churches (open until late), and visited museums. But the most pleasant activity is to sit on a terrace, eat local cheeses, and admire the bustling piazzas full of tourists and locals having a good time. 
 

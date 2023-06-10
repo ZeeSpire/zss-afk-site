@@ -27,12 +27,9 @@ Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric
 
 Trebuie să recunoaștem totuși că ne-ar fi plăcut să stăm într-unul dintre aceste hoteluri luxoase din inima orașului Lecce:
 
-[Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
-
-[Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
-
-
-[Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Palazzo De Noha - Boutique Hotel](https://www.booking.com/hotel/it/palazzo-de-noha.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Patria Palace Lecce](https://www.booking.com/hotel/it/patria-palace.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
+- [Palazzo Lecce - Epoca Collection](https://www.booking.com/hotel/it/palazzo-lecce.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}
 
 Am petrecut doar o zi în acest loc vibrant, turistic, plin de istorie și regretăm că nu am putut sta mai mult pentru că ne-a plăcut foarte mult timpul petrecut aici. Practic, ne-am plimbat pe străzile din "centro storico", am intrat în biserici (deschise până târziu) și am vizitat muzee. Dar cea mai plăcută activitate pe care o poţi face în Lecce este să stai pe o terasă, să mănânci brânzeturi locale și să admiri piețele pline de turiști și localnici care socializează.
 

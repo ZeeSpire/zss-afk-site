@@ -1,14 +1,21 @@
 ---
 layout: post.en
 type: post
-h1_title: Davinci Resolve
-title: Davinci Resolve coming to iPads
-front_page_title: Davinci Resolve coming to iPads
+
+title: Davinci Resolve coming to iPads #up in browser, max 60 chars
+h1_title: Davinci Resolve #hidden, just for seo, must be different than title
+front_page_title: Davinci Resolve coming to iPads  #shows on the front page
+article_title: Davinci Resolve coming to iPads  #shows on article page
+
 published: 07 November 2022
 last_modified_at: 07 November 2022
+
 keywords: davinci, resolve, ipad, apple, colorgrading, video editing, mobile
 description: Davinci Resolve coming to iPads at the end of 2022.
+description_for_first_page: Davinci Resolve coming to iPads at the end of 2022.
+
 categories: News-EN
+
 featured-image: "/assets/images/posts/news/DaVinci-Resolve-for-iPad-Color.webp" # full size
 featured-image-top: "/assets/images/posts/news/DaVinci-Resolve-for-iPad-Color.webp" # width - 1200
 featured-image-home: "/assets/resized/DaVinci-Resolve-for-iPad-Color-800x624.webp" # width - 600

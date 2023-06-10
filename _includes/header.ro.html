@@ -10,6 +10,11 @@
   <meta name="description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description-ro }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{page.keywords }}{% else %}{{ site.keywords-ro }}{% endif %}">
 
+  {% if page.permalink-to-next-language %} 
+  <link rel="alternate" href="{{ site.url }}{{ page.permalink-to-next-language }}" hreflang="x-default" />
+  <link rel="alternate" href="{{ site.url }}{{ page.url | replace:'index.html',''}}" hreflang="ro-RO" />
+  {% endif %}
+
   {% if page.type != "post" %}
   <meta property="og:site_name" content="{{ site.title-ro }}" />
   <meta property="og:title" content="{% if page.type != 'homepage' %}{{ page.title }} | {% endif %}{{ site.title-ro }}" />

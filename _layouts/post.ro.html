@@ -3,7 +3,7 @@
 <div class="row">
     <div class="col text-center">
         <h1 style="display: none;">{% if page.h1_title %} {{ page.h1_title }} {% else %} {{ page.title }}{% endif %}</h1>
-        <p class="post-title pt-4 pb-4">{{ page.title }}</p>
+        <p class="post-title pt-4 pb-4">{% if page.article_title %} {{ page.article_title }} {% else %} {{ page.title }}{% endif %}</p>
     </div>
 </div>
 <div class="row">

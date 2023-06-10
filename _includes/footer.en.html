@@ -6,12 +6,18 @@
         <div class="row pt-2 pb-2">
             <div class="col">
                 {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none"><i class="bi bi-arrow-left-circle"></i> Newer posts</a>
+                <a href="{{ paginator.previous_page_path }}" style="color: #000000" class="text-uppercase fw-normal lh-lg text-decoration-none">
+                    <img src = "/assets/images/helper/arrow-left-circle.svg" style="fill: #6c757d; padding-bottom: 3px;" alt="Previous page"/> Previous page
+                </a>
                 {% endif %}
             </div>
             <div class="col text-end">
                 {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path }}" class="text-uppercase fw-normal lh-lg text-muted text-decoration-none">Older posts <i class="bi bi-arrow-right-circle"></i></a>
+                <a href="{{ paginator.next_page_path }}" style="color: #000000"  class="text-uppercase fw-normal lh-lg text-decoration-none">Next page
+                    <img src = "/assets/images/helper/arrow-right-circle.svg" style="fill: #6c757d; padding-bottom: 3px;" alt="Next page"/>
+                </a>
+
+                
                 {% endif %}
             </div>
         </div>
@@ -100,7 +106,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-7 fw-normal lh-lg text-decoration-none">
-                        <small>© 2022 AFKology | <a href="/privacy-policy/" class="text-decoration-none" style="color: #000000;">Privacy Policy</a></small>
+                        <small>© 2023 AFKology | <a href="/privacy-policy/" class="text-decoration-none" style="color: #000000;">Privacy Policy</a></small>
                     </div>
                     <div class="col-5 text-end fw-normal lh-lg text-decoration-none">
                         {% if site.show-theme-watermark %}<small><a class="text-decoration-none" style="color: #000000;" href="http://shop.zeespire.com">ZeeSpire One</a></small>{% endif %}
@@ -110,7 +116,7 @@
         </div>
     </div>
 </footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+<script src="/assets/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 {% if page.type == 'post' %}
 <script src="/assets/js/fslightbox.js"></script>
     {% if site.enable-pinterest-on-image-hover %}
