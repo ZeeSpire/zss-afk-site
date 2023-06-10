@@ -80,14 +80,14 @@ h3 {
 
     .featured-image {
         object-fit: cover;
-        width: 600px;
+        /* width: 600px; */
         height: 356px;
     }
 }
 @media (max-width:1200px) {
     .featured-image-second-row {
         object-fit: cover;
-        width: 600px;
+        /* width: 600px; */
         height: 356px;
     }
 }
