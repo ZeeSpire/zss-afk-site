@@ -59,6 +59,7 @@ h3 {
 
 .card-img-top {
     height: 356px;
+    width: 100%;
     object-fit: cover
 }
 
@@ -84,10 +85,12 @@ h3 {
         height: 356px;
     }
 }
+
 @media (max-width:1200px) {
     .featured-image-second-row {
         object-fit: cover;
         /* width: 600px; */
+        width: 100%;
         height: 356px;
     }
 }
