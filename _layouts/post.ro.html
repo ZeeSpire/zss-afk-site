@@ -11,8 +11,8 @@
         {% if page.featured-image-top %}
         <a href="{{ page.featured-image }}" data-fslightbox="gallery">
             <picture>
-                <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)" width="600px" height="100%">
-                <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="img-fluid img-thumbnail mx-auto d-block mb-3" width="1116px" height="100%"/>
+                <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)">
+                <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="img-thumbnail mb-3"/>
             </picture>
         </a>
         {% endif %}
