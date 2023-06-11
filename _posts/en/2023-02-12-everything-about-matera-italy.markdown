@@ -176,10 +176,10 @@ The steps next to the church will lead you to the roof where there's a necropoli
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-exterior.webp alt: "Chiesa di Santa Lucia alle Malve exterior, Matera, Italy" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-exterior.webp alt: "Chiesa di Santa Lucia alle Malve exterior, Matera, Italy" 2pelinie9pe16: true %}
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-necropolis.webp alt: "Chiesa di Santa Lucia alle Malve necropolis, Matera, Italy" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-necropolis.webp alt: "Chiesa di Santa Lucia alle Malve necropolis, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
 
@@ -190,10 +190,10 @@ After visiting Chiesa di Santa Lucia alle Malve and the necropolis, head to [Cas
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-details.webp alt: "Casa Grotta del Casalnuovo details, Matera, Italy" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-details.webp alt: "Casa Grotta del Casalnuovo details, Matera, Italy" 2pelinie9pe16: true %}
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bathroom.webp alt: "Casa Grotta del Casalnuovo bathroom, Matera, Italy" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bathroom.webp alt: "Casa Grotta del Casalnuovo bathroom, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
 
@@ -224,10 +224,10 @@ We spent some incredible moments on the terrace of our hotel (Palazzo degli Abat
 
 <div class="row mb-4">
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-aperol.webp alt: "Italian aperitivo - Aperol spritz" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-aperol.webp alt: "Italian aperitivo - Aperol spritz" 2pelinie9pe16: true %}
     </div>
     <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-bruschetta.webp alt: "Italian aperitivo - bruschetta" tall: true %}
+            {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-bruschetta.webp alt: "Italian aperitivo - bruschetta" 2pelinie9pe16: true %}
     </div>
 </div>
 
@@ -261,10 +261,10 @@ Route 2:
 In conclusion, Matera is a unique and fascinating city that offers a glimpse into the rich history of Italy and the Mediterranean region. With its ancient cave dwellings, beautiful churches, and vibrant cultural scene, it is a destination that appeals to travelers of all interests and backgrounds. We were left with wonderful memories after visiting this re-invented city.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

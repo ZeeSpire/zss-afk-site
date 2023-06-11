@@ -59,10 +59,10 @@ Așteptăm cu interes ediția 11.
 {% responsive_image path: assets/images/posts/art-safari-2/art-safari-3.webp alt: "Art Safari 10th Edition 3" %}
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-4.webp alt: "Art Safari 10th Edition 4" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-4.webp alt: "Art Safari 10th Edition 4" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" 2pelinie4pe5: true %}
     </div>
 </div>

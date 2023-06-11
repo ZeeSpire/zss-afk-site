@@ -23,11 +23,11 @@ featured-image-style: full-width # can be left, centered, full-width
 
 Am ajuns vineri seară la destinație: Conacul Grigorescu, sat Răteşti, comuna Berca, județul Buzău. Din București am facut în jur de două ore și jumătate.
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1287.webp alt: "Conacul Grigorescu 01" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1287.webp alt: "Conacul Grigorescu 01" patrupetrei: true %}
 
 Încă de când am ajuns, am fost întâmpinați cu zâmbetul pe buze de gazda noastră, Thorsten, care ne-a prezentat conacul construit în 1930 și refăcut după achiziționarea lui în 2011, dar și clădirile adiacente: casa Sophie, casa bunicii și casa Noelia unde am fost și noi cazați, în camera King. În cele 3 căsuțe sunt astfel 5 apartamente care pot fi închiriate, iar conacul este resedința permanentă a familiei.  
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1323.webp alt: "Conacul Grigorescu 02" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1323.webp alt: "Conacul Grigorescu 02" patrupetrei: true %}
 
 După ce ne-am lăsat bagajele în cameră, am revenit în micuțul restaurant, anexă a conacului, unde am fost întâmpinați cu palincă și lichior, precum și cu apă din partea casei. Servirea, pe tot parcursul șederii, a fost ireproșabilă. Toți angajații au fost mereu cu zâmbetul pe buze și gata să ajute cu orice. Meniul a fost unul fix, stabilit de chef Juranda, însă am fost întrebați în avans dacă avem restricții alimentare. În meniul de băuturi am descoperit băuturi artizanale (cola, tonic, bere), sucuri naturale, limonadă de casă, mied (băutură alcoolică din miere), vin de mure precum și alte vinuri produse în Dealul Mare, renumita zonă viticolă.
 
@@ -39,19 +39,19 @@ Felul principal a fost un muschiuleț fraged de porc în reducție de Fetească 
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>
 
@@ -61,7 +61,7 @@ După fiecare preparat, chef Juranda ne-a întrebat dacă suntem mulțumiți și
 
 Am început ziua de sâmbătă cu un mic dejun bazat pe produse locale, majoritatea făcute chiar la conac de gazdele noastre. Am putut alege dintre brânzeturi cu diverse arome (inclusiv lavandă), babic, șunculiță, prosciutto, legume proaspete, pate de casă, zacuscă cu trufe, ouă de prepeliță, gemuri, prăjituri și pâine proaspătă.
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1377.webp alt: "Conacul Grigorescu 03" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1377.webp alt: "Conacul Grigorescu 03" patrupetrei: true %}
 
 Apoi ne-am reunit cu toții în fața conacului, ni s-a făcut instructajul, ne-am suit în cele două microbuze puse la dispoziție de către gazde și am plecat spre pădure în căutare de trufe. Căutarea de trufe a fost condusă de către doi profesioniști alături de cățeii lor dresați special în acest scop. Pe lângă experiența în sine care ni s-a părut foarte interesantă, ne-am putut bucura de plimbarea propriu-zisă prin pădure într-o zi splendidă de octombrie. Frunzele căzute formau un covor foșnitor care m-a dus cu gândul la un râu de caramel. Copacii aveau bolta în nuanțe calde de auriu, ciocolatiu, chihlimbariu, ruginiu. Cerul era senin. Cățeii alergau zglobiu de colo-colo și îi mai vedeai scobind concentrați la rădăcina câte unui copac. Noi ne duceam repede să vedem ce au găsit. Uneori era o trufă mică-mică înfulecată rapid de cățel, alteori trufa era mare și cățelul o lăsa în mâna stăpânului așteptându-și nerăbdător răsplata.
 
@@ -71,13 +71,13 @@ Trufele sunt ciuperci care trăiesc în simbioză cu un arbore. Prin urmare nu �
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_1493-2.webp alt: "Truffle hunting 01" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_1493-2.webp alt: "Truffle hunting 01" 3pelinie1pe1: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_111005.webp alt: "Truffle hunting 02" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_111005.webp alt: "Truffle hunting 02" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" 3pelinie1pe1: true %}
     </div>
 </div>
 
@@ -99,19 +99,19 @@ Am început așadar cina cu cele trei aperitive: cappuccino de ciuperci cu spum�
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_194106.webp alt: "Conacul Grigorescu. Mancare. 06" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_194106.webp alt: "Conacul Grigorescu. Mancare. 06" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_195816.webp alt: "Conacul Grigorescu. Mancare. 07" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_195816.webp alt: "Conacul Grigorescu. Mancare. 07" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_202723.webp alt: "Conacul Grigorescu. Mancare. 08" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_202723.webp alt: "Conacul Grigorescu. Mancare. 08" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_210502.webp alt: "Conacul Grigorescu. Mancare. 09" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_210502.webp alt: "Conacul Grigorescu. Mancare. 09" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" cincipelinie: true %}
     </div>
 </div>
 
@@ -128,10 +128,10 @@ Am vizitat și mânăstirea Rătești și dealurile din zonă. Însă ca activit
 Întregul weekend a reprezentat o experiență foarte frumoasă de care ne-am bucurat din tot sufletul, pe care o recomandăm oricui ar vrea să o încerce și le mulțumim din inimă Jurandei și lui Thorsten. De abia așteptăm să revenim la Conacul Grigorescu.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

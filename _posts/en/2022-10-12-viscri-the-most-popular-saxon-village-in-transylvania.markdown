@@ -71,13 +71,13 @@ There are a few places where you can enjoy a traditional, slow-cooked meal, with
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 1" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 1" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-4.webp alt: "Viscri 32, meal 2" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-4.webp alt: "Viscri 32, meal 2" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" 3pelinie1pe1: true %}
     </div>
 </div>
  
@@ -158,11 +158,11 @@ After the restoration, the popularity of the Feldioara fortress grew exponential
 There are so many other things you can see, from fortified churches to medieval citadels, from charming cities and villages to wonderful nature, some we already know, others we can't wait to get to, but we will discover all of them on another occasion.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>
 

@@ -58,19 +58,19 @@ Cei de la Valea Verde propun un meniu pentru schimbare. Mai precis, un meniu pen
 
 <div class="row mb-4">
   <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Cina Valea Verde 1" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Cina Valea Verde 1" cincipelinie: true %}
     </div>
       <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Cina Valea Verde 2" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Cina Valea Verde 2" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Cina Valea Verde 3" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Cina Valea Verde 3" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Cina Valea Verde 4" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Cina Valea Verde 4" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Cina Valea Verde 5" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Cina Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
 
@@ -79,7 +79,7 @@ Noi am ales câte două aperitive diferite şi anume carpaccio de cerb, terină 
 
 Micul dejun a fost unul bogat, cu diferite tipuri de brânzeturi şi mezeluri, legume, fructe, zacuscă, salată de vinete, unt, dulceţuri, clătite, suc, lapte, ceai şi cafea. Ouăle erau preparate pe loc în funcţie de preferinţele fiecărui oaspete. Noi am optat pentru ouă benedict şi omletă cu şuncă şi caşcaval.
 
-{% responsive_image path: assets/images/posts/valea-verde/mic-dejun-valea-verde.webp alt: "Mic dejun la Valea verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/mic-dejun-valea-verde.webp alt: "Mic dejun la Valea verde" patrupetrei: true %}
 
 Prânzul a fost unul uşor cu două feluri de mâncare: o salată de valeriană cu brânză de capră şi oţet balsamic şi un risotto cu ciuperci.
 
@@ -87,19 +87,19 @@ Cina de sâmbătă a avut cinci feluri de mâncare, după cum urmează: terină 
 
 <div class="row mb-4">
   <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-1.webp alt: "Cina 2 Valea Verde 1" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-1.webp alt: "Cina 2 Valea Verde 1" cincipelinie: true %}
     </div>
       <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-2.webp alt: "Cina 2 Valea Verde 2" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-2.webp alt: "Cina 2 Valea Verde 2" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-3.webp alt: "Cina 2 Valea Verde 3" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-3.webp alt: "Cina 2 Valea Verde 3" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-4.webp alt: "Cina 2 Valea Verde 4" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-4.webp alt: "Cina 2 Valea Verde 4" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Cina 2 Valea Verde 5" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Cina 2 Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
 
@@ -107,12 +107,12 @@ Cina de sâmbătă a avut cinci feluri de mâncare, după cum urmează: terină 
 
 Pe [site-ul Valea Verde](https://www.valeaverde.com/experiente/){:target="_blank" rel="nofollow"}, găseşti mai multe oferte pentru de weekenduri tematice şi experienţe de care poţi avea parte aici: plimbări cu trăsura, călărie, drumeţii, ciclism, degustări de vinuri, cine tematice, SPA, vânătoare de trufe şi altele.
 
-{% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Weekenduri tematice la Valea Verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Weekenduri tematice la Valea Verde" patrupetrei: true %}
 
 Noi am fost la vânătoarea de trufe condusă de Viorel Şandru care ne-a încântat cu tot felul de poveşti pe tot parcursul celor două ore de drumeţie prin pădure. A venit însoțit de trei câini de rase diferite. Unul din ei, pe nume Muchi, a fost vedeta vânătorii deoarece găsea trufă după trufă. Dar tot Muchi le-a şi mâncat aproape pe toate. Am fost surprinşi să vedem câte trufe sunt scoase din pământ, mai multe decât am găsit în octombrie şi pe o suprafaţă mai mică de pădure.
 Despre trufe poţi citi mai multe în [acest articol](/ro/despre-trufe-si-gasirea-lor/).
 
-{% responsive_image path: assets/images/posts/valea-verde/vanatoare-de-trufe-valea-verde.webp alt: "vanatoare de trufe la Valea Verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/vanatoare-de-trufe-valea-verde.webp alt: "vanatoare de trufe la Valea Verde" patrupetrei: true %}
 
 O altă experienţă unică şi autentică de care am avut parte a fost petrecerea câtorva ore în observatorul poziţionat în spatele unei livezi de peri, undeva la marginea pădurii. Observatorul este o cabană micuţă de lemn, un loc fermecător unde te poţi bucura de linişte, şi poate cu puţin noroc, să vezi animale sălbatice precum vulpi, căprioare, iepuri, pisici sălbatice, şi de ce nu, chiar şi urşi. Noi am ajuns acolo la apus şi chiar în drumul spre cabană am zărit o caprioară.
 
@@ -124,13 +124,13 @@ Chiar în Cund poate fi vizitată [Manufactura de Brânză](http://manufacturade
 ### Biertan
 Biertan, este un sat săsesc, aflat la 23 de kilometri de Cund. A fost atestat documentar în secolul XIII, fiind una din primele aşezări germane de saşi din Ardeal. De departe cea mai mare şi impunătoare biserică fortificată din câte am văzut este cea din Biertan.
 
-{% responsive_image path: assets/images/posts/valea-verde/biertan.webp alt: "Biertan" %}
+{% responsive_image path: assets/images/posts/valea-verde/biertan.webp alt: "Biertan" patrupetrei: true %}
 
 ### Cetatea Medievală Sighişoara
 Cetatea Medievală Sighişoara este cea mai mare cetate medievală din Europa locuită fără întrerupere şi face parte din Patrimoniul Mondial UNESCO încă din 1999.
 Cele mai importante obiective turistice pe care le poţi vizita în Sighişoara sunt turnul cu ceas, piaţa cetăţii, casa cu cerb, muzeul de istorie, scara şcolarilor, biserica din deal şi turnurile cetăţii.
 
-{% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" %}
+{% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" patrupetrei: true %}
 
 ### Târgu Mureş
 De neratat în Târgu Mureş, aflat la 43 de kilometri de Cund, este [Palatul Culturii](https://palatul-culturii.ro/){:target="_blank" rel="nofollow"} ce găzduieşte mai multe expoziţii, dar şi Cetatea Târgu Mureş. De asemenea, am înţeles că şi [grădina zoologică](https://www.zootirgumures.ro/){:target="_blank" rel="nofollow"} merită o vizită. Având în vedere că pe Google are nota 4.6 din 9000 de recenzii, îmi pare rău că nu am reuşit să o vizităm. Prin comparaţie, cea din Bucureşti are nota 3.9 din aproximativ 12000 de recenzii.
@@ -141,7 +141,7 @@ Aflat la 47 de kilometri de Cund,  castelul în stil renascentist Bethlen-Haller
 ### Saschiz
 Aflat la 50 de kilometri de Cund, Saschiz este un sat săsesc în care principalul obiectiv turistic este reprezentat de Biserica Evanghelică Fortificată Sf. Ştefan, construită în secolul XV, actual monument UNESCO. Ar mai fi şi Cetatea Țărănească din Saschiz pe care noi însă nu am vizitat-o deoarece la momentul vizitei noastre era închisă pentru renovare, lucru ce m-a bucurat.
 
-{% responsive_image path: assets/images/posts/valea-verde/saschiz.webp alt: "Saschiz" %}
+{% responsive_image path: assets/images/posts/valea-verde/saschiz.webp alt: "Saschiz" patrupetrei: true %}
 
 ### Viscri
 La 70 de kilometri de Cund se află Viscri, despre care noi credem că este cel mai popular sat transilvănean, căruia i-am dedicat [un articol separat](/ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/).

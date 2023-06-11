@@ -64,7 +64,7 @@ What impressed us the most, apart from the food, which we have already determine
 
 This breakfast raised our serotonin levels for the whole day.
 
-{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp alt: "Noua BAR detail" %}
+{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp alt: "Noua BAR detail" fluid: true %}
 
 We went to dinner as well at Noua B.A.R. a couple of times. At lunch and dinner, the menu is different. You can choose even a single dish, each dish having its own price. I repeat, the menu and prices change quite often from what we could tell. At the end of May 2023, a dish from the "Before everything" category cost 37 RON (~7.5 EUR), a dish from the "To begin with" category cost 45 RON (~9 EUR), a main dish from the "To continue over and over" category cost 58 RON (~11.5 EUR), and a dessert cost 34 RON (~7 EUR).
 

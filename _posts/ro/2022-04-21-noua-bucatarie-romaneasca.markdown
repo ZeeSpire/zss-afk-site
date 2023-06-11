@@ -183,11 +183,11 @@ Vreau să subliniez că am apreciat foarte mult ospătarii. Au făcut o treabă 
 În concluzie, aș dori doar să subliniez că am avut parte de o experiență minunată și absolut memorabilă la Noua Bucătărie Românească.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>
  

@@ -49,10 +49,10 @@ Truffles are used as a condiment. They have a very strong aroma, and a small amo
 Besides all these, truffles have various health benefits because they are rich in antioxidants, vitamins, and minerals.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

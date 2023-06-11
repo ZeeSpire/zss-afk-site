@@ -23,11 +23,11 @@ Let me start by saying that we are very pleased with the experience we had durin
 
 We arrived on Friday evening at the destination: Grigorescu Mansion, Răteşti village, Berca commune, Buzau County. From Bucharest, it took us around two and a half hours.
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1287.webp alt: "Conacul Grigorescu 01" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1287.webp alt: "Conacul Grigorescu 01" patrupetrei: true %}
 
 From the moment we arrived, we were greeted by our host, Thorsten, who showed us the mansion built in 1930 and restored after its purchase in 2011, and the adjacent buildings: Sophie's house, grandma's house, and Noelia's house where we were accommodated, in the King room. In these 3 houses, there are 5 apartments that can be rented, and the mansion is the permanent residence of the family. 
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1323.webp alt: "Conacul Grigorescu 02" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1323.webp alt: "Conacul Grigorescu 02" patrupetrei: true %}
 
 After leaving our luggage in the room, we returned to the small restaurant, annex of the mansion, where we were greeted with Romanian "palinca" and liquor, as well as water from the house. The service, throughout the stay, was impeccable. All employees were always smiling and ready to help with anything. The menu was a fixed one, set by Chef Juranda, but we were asked in advance if we had dietary restrictions. In the drinks menu, we discovered artisan drinks (cola, tonic, beer), natural juices, homemade lemonade, mead (an alcoholic drink made from honey), blackberry wine as well as other wines produced in Dealul Mare, the renowned vine area. 
 
@@ -39,19 +39,19 @@ The main course was a tenderloin of pork in Feteasca Neagra wine reduction with 
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>
 
@@ -61,7 +61,7 @@ After each dish, chef Juranda asked us if we were satisfied and if everything wa
 
 We started Saturday with a breakfast based on local products, most of which were made right at the mansion by our hosts. We could choose from cheeses with various flavors (including lavender), babic, bacon, prosciutto, fresh vegetables, homemade pate, Romanian "zacusca" with truffles, quail eggs, jams, cakes, and fresh bread. 
 
-{% responsive_image path: assets/images/posts/grigorescu/IMG_1377.webp alt: "Conacul Grigorescu 03" %}
+{% responsive_image path: assets/images/posts/grigorescu/IMG_1377.webp alt: "Conacul Grigorescu 03" patrupetrei: true %}
 
 Then we all gathered in front of the mansion, we were briefed, we got into the two minibuses provided by the hosts and went to the forest in search of truffles. The search for truffles was conducted by two professional truffle hunters together with their dogs specially trained for this purpose. Besides the experience itself, which we found very interesting, we were able to enjoy the actual walk through the forest on a splendid October day. The fallen leaves formed a rustling carpet that made me think of a caramel river. The trees were covered in warm shades of gold, chocolate, amber, and rust. The sky was clear. The dogs were running happily around us when suddenly they were stopping to dig concentrated at the root of a tree. We quickly went to see what they found. Sometimes it was a small truffle quickly devoured by the dog, other times the truffle was big and the dog left it in the owner's hand, impatiently waiting for its reward. 
 
@@ -71,13 +71,13 @@ Truffles are fungi that live in symbiosis with a tree. Therefore, you can only f
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_1493-2.webp alt: "Truffle hunting 01" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_1493-2.webp alt: "Truffle hunting 01" 3pelinie1pe1: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_111005.webp alt: "Truffle hunting 02" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_111005.webp alt: "Truffle hunting 02" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" square: true %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" 3pelinie1pe1: true %}
     </div>
 </div>
 
@@ -99,19 +99,19 @@ We started dinner with the three appetizers: a mushroom cappuccino with egg whit
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_194106.webp alt: "Conacul Grigorescu. Mancare. 06" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_194106.webp alt: "Conacul Grigorescu. Mancare. 06" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_195816.webp alt: "Conacul Grigorescu. Mancare. 07" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_195816.webp alt: "Conacul Grigorescu. Mancare. 07" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_202723.webp alt: "Conacul Grigorescu. Mancare. 08" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_202723.webp alt: "Conacul Grigorescu. Mancare. 08" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_210502.webp alt: "Conacul Grigorescu. Mancare. 09" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_210502.webp alt: "Conacul Grigorescu. Mancare. 09" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" %}
+    {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" cincipelinie: true %}
     </div>
 </div>
 
@@ -128,10 +128,10 @@ We also visited the Ratesti monastery and the hills in the area. But as an extra
 It was a very beautiful experience that we enjoyed with all our hearts, and we recommend it to anyone who would like to try it and we thank Juranda and Thorsten from the bottom of our hearts. We can't wait to return to the Grigorescu Mansion. 
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

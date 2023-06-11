@@ -57,6 +57,298 @@ h3 {
     }
 }
 
+.img-article-169 {
+    height: 627px;
+    width: 1116px;
+    padding: 0;
+}
+
+.img-article-43 {
+    height: 837px;
+    width: 1116px;
+    padding: 0;
+}
+
+.img-article-5pelinie {
+    height: 204px;
+    width: 204px;
+    padding: 0;
+}
+
+.img-article-3pelinie16pe9 {
+    height: 200px;
+    width: 355px;
+    padding: 0;
+}
+
+.img-article-3pelinie9pe16 {
+    height: 632px;
+    width: 356px;
+    padding: 0;
+}
+
+.img-article-2pelinie4pe5 {
+    height: 819px;
+    width: 546px;
+    padding: 0;
+}
+
+.img-article-2pelinie9pe16 {
+    height: 971px;
+    width: 546px;
+    padding: 0;
+}
+
+.img-article-3pelinie1pe1 {
+    height: 360px;
+    width: 360px;
+    padding: 0;
+}
+
+.img-article-3pelinie1pe1cover {
+    height: 360px;
+    width: 360px;
+    padding: 0;
+    object-fit: cover;
+}
+
+@media (max-width: 1200px) { 
+    .img-article-43 {
+        height: 703px;
+        width: 936px;
+        padding: 0;
+    }
+
+    .img-article-169 {
+        height: 526.5px;
+        width: 936px;
+        padding: 0;
+    }
+
+    .img-article-5pelinie {
+        height: 168px;
+        width: 168px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie16pe9 {
+        height: 166.5px;
+        width: 269px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie9pe16 {
+        height: 525.89px;
+        width: 296px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie4pe5 {
+        height: 684px;
+        width: 456px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie9pe16 {
+        height: 811px;
+        width: 456px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1 {
+        height: 296px;
+        width: 296px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1cover {
+        height: 296px;
+        width: 296px;
+        padding: 0;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 992px) { 
+    .img-article-43 {
+        height: 522px;
+        width: 696px;
+        padding: 0;
+    }
+
+    .img-article-169 {
+        height: 391.5px;
+        width: 696px;
+        padding: 0;
+    }
+
+    .img-article-5pelinie {
+        height: 120px;
+        width: 120px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie16pe9 {
+        height: 121.5px;
+        width: 216px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie9pe16 {
+        height: 383.75px;
+        width: 216px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie4pe5 {
+        height: 504px;
+        width: 336px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie9pe16 {
+        height: 597.5px;
+        width: 336px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1 {
+        height: 216px;
+        width: 216px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1cover {
+        height: 216px;
+        width: 216px;
+        padding: 0;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 768px) { 
+    .img-article-43 {
+        height: 387px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-169 {
+        height: 290px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-5pelinie {
+        height: 516px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie16pe9 {
+        height: 290px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie9pe16 {
+        height: 916.75px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie4pe5 {
+        height: 369px;
+        width: 246px;
+        padding: 0;
+    }
+
+    .img-article-2pelinie9pe16 {
+        height: 437.5px;
+        width: 246px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1 {
+        height: 516px;
+        width: 516px;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1cover {
+        height: 516px;
+        width: 516px;
+        padding: 0;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 576px) { 
+    .img-article-43 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-169 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-5pelinie {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-3pelinie16pe9 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-3pelinie9pe16 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-2pelinie4pe5 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-2pelinie9pe16 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1 {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+    }
+
+    .img-article-3pelinie1pe1cover {
+        height: auto;
+        max-width: 100%;
+        width: auto;
+        padding: 0;
+        object-fit: cover;
+    }
+}
+
 .card-img-top {
     height: 356px;
     width: 356px;

@@ -48,10 +48,10 @@ Trufele sunt folosite în bucătărie pe post de condiment. Au o aromă foarte p
 Pe lângă toate acestea, trufele au diverse beneficii pentru sănătate, deoarece sunt bogate în antioxidanți, vitamine și minerale.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

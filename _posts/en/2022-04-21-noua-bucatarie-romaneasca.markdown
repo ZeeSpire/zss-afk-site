@@ -183,11 +183,11 @@ I want to emphasize that we really appreciated the waiters. They did a fantastic
 In conclusion, I would just like to point out that we had a wonderful and memorable experience at Noua Bucatarie Romaneasca.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>
  

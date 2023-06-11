@@ -59,19 +59,19 @@ and we raise against climate change!"
 
 <div class="row mb-4">
   <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Dinner at Valea Verde 1" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Dinner at Valea Verde 1" cincipelinie: true %}
     </div>
       <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Dinner at Valea Verde 2" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Dinner at Valea Verde 2" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Dinner at Valea Verde 3" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Dinner at Valea Verde 3" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Dinner at Valea Verde 4" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Dinner at Valea Verde 4" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Dinner at Valea Verde 5" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
 
@@ -80,7 +80,7 @@ We each chose two different appetizers, namely venison carpaccio, chicken terrin
 
 For the breakfast we had many options to choose from: different types of cheeses and meats, vegetables, fruits, Romanian "zacuscă", eggplant salad, butter, jams, pancakes, juice, milk, tea and coffee. The eggs were prepared on the spot according to the preferences of each guest. We opted for eggs benedict and omelette with ham and cheese.
 
-{% responsive_image path: assets/images/posts/valea-verde/mic-dejun-valea-verde.webp alt: "Breakfast at Valea verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/mic-dejun-valea-verde.webp alt: "Breakfast at Valea verde" patrupetrei: true %}
 
 Lunch was a light one consisting of two dishes: a salad with goat cheese and balsamic vinegar and a risotto with mushrooms.
 
@@ -88,19 +88,19 @@ Saturday dinner had five dishes, as follows: goose liver terrine with hot pepper
 
 <div class="row mb-4">
   <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-1.webp alt: "Second dinner at Valea Verde 1" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-1.webp alt: "Second dinner at Valea Verde 1" cincipelinie: true %}
     </div>
       <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-2.webp alt: "Second dinner at Valea Verde 2" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-2.webp alt: "Second dinner at Valea Verde 2" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-3.webp alt: "Second dinner at Valea Verde 3" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-3.webp alt: "Second dinner at Valea Verde 3" cincipelinie: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-4.webp alt: "Second dinner at Valea Verde 4" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-4.webp alt: "Second dinner at Valea Verde 4" cincipelinie: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md mt-2">
-    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Second dinner at Valea Verde 5" %}
+    {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Second dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
 
@@ -108,12 +108,12 @@ Saturday dinner had five dishes, as follows: goose liver terrine with hot pepper
 
 On the [Valea Verde website](https://www.valeaverde.com/en/experiences/){:target="_blank" rel="nofollow"}, you can find a multitude of thematic weekends and experiences that you can have here: carriage rides, horse riding, hiking, cycling, wine tasting, themed dinners, SPA, truffle hunting and others.
 
-{% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Thematic weekends at Valea Verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/weekenduri-tematice-si-activitati-valea-verde.webp alt: "Thematic weekends at Valea Verde" patrupetrei: true %}
 
 We went on the truffle hunt led by Viorel Șandru, who delighted us with all kinds of stories throughout the two-hour hike through the forest. He came accompanied by three dogs of different breeds. One of them, named Muchi, was the star of the hunt because he found truffle after truffle. But Muchi also ate almost all of them. We were surprised to see how many truffles were found, more than we found in October and on a smaller area of ​​forest.
 You can read more information about truffles and their hunting in [this article](/about-truffles-and-how-to-find-them/).
 
-{% responsive_image path: assets/images/posts/valea-verde/vanatoare-de-trufe-valea-verde.webp alt: "Truffle hunting at Valea Verde" %}
+{% responsive_image path: assets/images/posts/valea-verde/vanatoare-de-trufe-valea-verde.webp alt: "Truffle hunting at Valea Verde" patrupetrei: true %}
 
 Another unique and authentic experience we had was spending a few hours in the observatory located behind a pear orchard, somewhere on the edge of the forest. The observatory is a small wooden cabin, a charming place where you can enjoy the tranquility, and maybe with a little luck you can see wild animals such as foxes, deer, rabbits, wild cats, and why not even bears. We got there at sunset and on the way to the cabin we saw a deer.
 
@@ -125,13 +125,13 @@ In Cund you can visit the [Manufactura de Brânză](http://manufacturadebranza.r
 ### Biertan
 Biertan is a Saxon village, located 23 kilometers from Cund and was documented in the 13th century, being one of the first German Saxon settlements in Transylvania. By far the largest and most imposing fortified church that we have seen is the one in Biertan and I must say that it was difficult to select just one photo with it.
 
-{% responsive_image path: assets/images/posts/valea-verde/biertan.webp alt: "Biertan" %}
+{% responsive_image path: assets/images/posts/valea-verde/biertan.webp alt: "Biertan" patrupetrei: true %}
 
 ### Sighișoara Medieval Citadel
 The Sighișoara Medieval Citadel is the largest continuously inhabited medieval citadel in Europe and has been part of the UNESCO World Heritage since 1999.
 Among the tourist attractions that you can visit in Sighisoara, we mention: the clock tower, the fortress square, the deer house, the history museum, the scholars staircase, the hill church and the fortress towers.
 
-{% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" %}
+{% responsive_image path: assets/images/posts/valea-verde/sighisoara.webp alt: "Sighisoara" patrupetrei: true %}
 
 ### Târgu Mureș
 Not to be missed in Târgu Mureș, located 43 kilometers from Cund, is the [Palace of Culture](https://palatul-culturii.ro/en/){:target="_blank" rel="nofollow"} which hosts several exhibitions, as well as the Târgu Mureș Citadel. Also, I understood that [the zoo](https://www.zootirgumures.ro/){:target="_blank" rel="nofollow"} is worth a visit. Considering that on Google it has a score of 4.6 out of 9000 reviews, I'm sorry we didn't get to visit it. By comparison, the one in Bucharest has a score of 3.9 out of approximately 12,000 reviews.
@@ -142,7 +142,7 @@ Located 47 kilometers from Cund, the Bethlen-Haller Renaissance-style castle has
 ### Saschiz
 Located 50 kilometers from Cund, Saschiz is a Saxon village where the main tourist attraction is represented by the Fortified Evangelical Church of St. Stephen, built in the 15th century, currently a UNESCO monument. There would also be the Saschiz Peasant Citadel, which we did not visit because at the time of our visit it was closed for renovation, which I must admit made me quite content to hear.
 
-{% responsive_image path: assets/images/posts/valea-verde/saschiz.webp alt: "Saschiz" %}
+{% responsive_image path: assets/images/posts/valea-verde/saschiz.webp alt: "Saschiz" patrupetrei: true %}
 
 ### Viscri
 Seventy kilometers from Cund is Viscri, which we believe is the most popular Transylvanian village, to which we have dedicated [a separate article](/viscri-the-most-popular-saxon-village-in-transylvania/).

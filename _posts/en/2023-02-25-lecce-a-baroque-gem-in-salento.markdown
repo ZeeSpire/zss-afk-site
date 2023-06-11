@@ -104,10 +104,10 @@ We ended the day with a typical aperitif from Salento at La Bottega del Corso. W
 It was a day to remember! What impressed us the most in Lecce were the buildings with their warm and golden colors and the inviting atmosphere throughout the town. No wonder Lecce is considered one of the most beautiful cities in Italy.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

@@ -104,10 +104,10 @@ Am încheiat ziua cu un aperitiv tipic din Salento la Bottega del Corso. Am fi p
 A fost o zi de neuitat! Ceea ce ne-a impresionat cel mai mult la Lecce au fost clădirile în culori calde și atmosfera primitoare din tot orașul. Nu e de mirare că Lecce este considerat unul dintre cele mai frumoase orașe din Italia.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>

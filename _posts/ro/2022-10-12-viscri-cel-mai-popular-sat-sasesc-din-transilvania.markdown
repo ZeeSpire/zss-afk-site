@@ -72,13 +72,13 @@ Există câteva locuri unde te poți bucura de o masă tradițională, gătită 
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 1" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-2.webp alt: "Viscri 32, meal 1" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-4.webp alt: "Viscri 32, meal 2" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-4.webp alt: "Viscri 32, meal 2" 3pelinie1pe1: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" tall: true %}
+            {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" 3pelinie1pe1: true %}
     </div>
 </div>
  
@@ -158,3 +158,11 @@ După restaurare, popularitatea cetății Marienburg a crescut exponențial, dev
 
 Sunt atâtea alte locuri frumoase pe care le poți vizita, de la biserici fortificate la cetăți medievale, de la orașe și sate fermecătoare până la peisaje minunate, pe unele le cunoaștem deja, la altele abia așteptăm să ajungem, dar le vom descoperi pe toate cu altă ocazie.
 
+<div class="row mb-4">
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" 2pelinie4pe5: true %}
+    </div>
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" 2pelinie4pe5: true %}
+    </div>
+</div>

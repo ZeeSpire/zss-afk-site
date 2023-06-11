@@ -32,13 +32,13 @@ Am vizitat zona atât vara când vremea este potrivită pentru drumeții mai lun
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/magura/DJI_0101_cc05bn.webp alt: "Viscri 3" square: true %}
+    {% responsive_image path: assets/images/posts/magura/DJI_0101_cc05bn.webp alt: "Viscri 3" 3pelinie1pe1cover: true %}
     </div>
      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/magura/DJI_0115_fayob4.webp alt: "Viscri 1" square: true %}
+    {% responsive_image path: assets/images/posts/magura/DJI_0115_fayob4.webp alt: "Viscri 1" 3pelinie1pe1cover: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-    {% responsive_image path: assets/images/posts/magura/DJI_0142_rfm1qt.webp alt: "Viscri 2" square: true %}
+    {% responsive_image path: assets/images/posts/magura/DJI_0142_rfm1qt.webp alt: "Viscri 2" 3pelinie1pe1cover: true %}
     </div>
 </div>
 
@@ -77,10 +77,10 @@ Daca vreti să vedeți mai multe fotografii din calătoriile noastre, dați foll
 {% responsive_image path: assets/images/posts/magura/IMG_20211010_113305_zcuzus.webp alt: "Magura 07" %}
  
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" 2pelinie4pe5: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" tall: true %}
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" 2pelinie4pe5: true %}
     </div>
 </div>
