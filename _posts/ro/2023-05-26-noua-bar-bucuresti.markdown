@@ -63,7 +63,7 @@ Ce ne-a impresionat cel mai mult, în afară de mâncare, despre care am stabili
 
 Micul acesta dejun ne-a ridicat nivelul de serotonină pentru întreaga zi. 
 
-{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp alt: "Noua BAR detail" fluid: true %}
+{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp ratio: 1116/424 alt: "Noua BAR detail" fluid: true  %}
 
 Am fost de cateva ori si la cină la Noua B.A.R. La prânz şi cină, meniul este diferit. Poţi alege chiar şi un singur fel, fiecare fel de mâncare având preţul său. Repet, meniul şi preţurile se schimbă destul de des din ce mi-am putut da seama. Aşadar, la finalul lunii mai 2023 când am trecut noi pragul restaurantului, un preparat din categoria "înainte de toate" costa 37 RON, un preparat din categoria "pentru început" costa 45 RON, un fel principal din categoria "să continue iar și iar" costa 58 RON, iar un desert costa 34 RON.
 
