@@ -28,7 +28,8 @@ Noua B.A.R. is located on Ion Mihalache Boulevard 16, Bucharest, in a two-story 
 Although the restaurant was opened at the end of 2022, we only visited it in May 2023, but we believe that it is the beginning of an idyll between us and the insanely tasty food at Noua BAR. And it could not be otherwise considering the experience at [Noua](/noua-bucatarie-romaneasca/).
 
 <div class="ratio ratio-16x9 mb-3">
-    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <lite-youtube videoid="bDxHi3RKaEA"></lite-youtube>
+    <!-- <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 </div>
 
 On Saturdays and Sundays, the restaurant is also open for breakfast. Only by chance, we were in the area that morning and not have had breakfast at home. We went in, sat down at the table on the terrace, and ticked off with a pencil five dishes each.
@@ -64,7 +65,7 @@ What impressed us the most, apart from the food, which we have already determine
 
 This breakfast raised our serotonin levels for the whole day.
 
-{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp alt: ratio: 1116/424 "Noua BAR detail" fluid: true %}
+{% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp ratio: 1116/424 alt: "Noua BAR detail" fluid: true %}
 
 We went to dinner as well at Noua B.A.R. a couple of times. At lunch and dinner, the menu is different. You can choose even a single dish, each dish having its own price. I repeat, the menu and prices change quite often from what we could tell. At the end of May 2023, a dish from the "Before everything" category cost 37 RON (~7.5 EUR), a dish from the "To begin with" category cost 45 RON (~9 EUR), a main dish from the "To continue over and over" category cost 58 RON (~11.5 EUR), and a dessert cost 34 RON (~7 EUR).
 

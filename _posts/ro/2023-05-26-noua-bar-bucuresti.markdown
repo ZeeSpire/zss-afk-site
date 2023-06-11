@@ -27,7 +27,8 @@ Noua B.A.R. se află pe Bulevardul Ion Mihalache, nr. 16, București, într-o ca
 Deşi restaurantul a fost deschis la finalul anului 2022, noi i-am făcut o vizită de abia în mai 2023, dar credem că este începutul unei idile între noi şi mâncarea demenţial de gustoasă de la Noua BAR. Şi nu se putea să fie altfel având în vedere experienţa avută la [Noua](/ro/noua-bucatarie-romaneasca/).
 
 <div class="ratio ratio-16x9 mb-3">
-    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <lite-youtube videoid="bDxHi3RKaEA"></lite-youtube>
+    <!-- <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 </div>
 
 În zilele de sâmbătă şi duminică, restaurantul este deschis şi pentru mic dejun. Întâmplarea a făcut să fim în zonă de dimineaţă şi să nu fi luat micul dejun acasă. Am intrat, ne-am aşezat la o masă pe terasă şi am bifat cu un creion câte cinci preparate care ne făceau cu ochiul. 
