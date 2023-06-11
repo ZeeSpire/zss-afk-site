@@ -158,9 +158,9 @@
         {% endfor %}
         
         {% if resized[2].path %}
-        <img src="/{{ resized[2].path }}" style= "aspect-ratio: {{ratio}};" loading="lazy" class="img-fluid" alt="{{ alt }}"  />
+        <img src="/{{ resized[2].path }}" style=" width: 100%; height: auto; aspect-ratio: {{ratio}};" loading="lazy" alt="{{ alt }}"  />
         {% else %}
-        <img src="/{{ path }}" loading="lazy" style= "aspect-ratio: {{ratio}};" class="img-fluid" alt="{{ alt }}" />
+        <img src="/{{ path }}" loading="lazy" style="width: 100%; height: auto; aspect-ratio: {{ratio}};"  alt="{{ alt }}" />
         {% endif %}
         
     </picture>
