@@ -28,8 +28,7 @@ Noua B.A.R. is located on Ion Mihalache Boulevard 16, Bucharest, in a two-story 
 Although the restaurant was opened at the end of 2022, we only visited it in May 2023, but we believe that it is the beginning of an idyll between us and the insanely tasty food at Noua BAR. And it could not be otherwise considering the experience at [Noua](/noua-bucatarie-romaneasca/).
 
 <div class="ratio ratio-16x9 mb-3">
-        <lite-youtube videoid="bDxHi3RKaEA"></lite-youtube>
-    <!-- <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 On Saturdays and Sundays, the restaurant is also open for breakfast. Only by chance, we were in the area that morning and not have had breakfast at home. We went in, sat down at the table on the terrace, and ticked off with a pencil five dishes each.
