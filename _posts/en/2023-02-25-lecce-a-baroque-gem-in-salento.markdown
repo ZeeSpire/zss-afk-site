@@ -12,11 +12,13 @@ categories: [EN, Italy-EN]
 tag: EN
 permalink: /lecce-a-baroque-gem-in-salento/
 permalink-to-next-language: /ro/lecce-bijuteria-baroca-din-salento/
-featured-image-top: "/assets/resized/lecce-a-baroque-gem-in-salento-1600x900.webp" # prima poza din articol, poate fi empty
+
 featured-image: "/assets/images/posts/lecce/lecce-a-baroque-gem-in-salento.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top: "/assets/resized/lecce-a-baroque-gem-in-salento-1600x900.webp" # prima poza din articol, poate fi empty
+featured-image-top-smaller: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp"
+
 featured-image-primary: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Lecce is located in the Salento region, 150 kilometers from Bari, 40 kilometers from Gallipoli, and 45 kilometers from Otranto. Gallipoli and Otranto are two seaside towns worth visiting. It is also 25 kilometers from the coast of the Adriatic Sea and 35 kilometers from the coast of the Ionian Sea. So it can represent a good starting point for exploring the "heel" of Italy. 
 
@@ -105,9 +107,9 @@ It was a day to remember! What impressed us the most in Lecce were the buildings
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

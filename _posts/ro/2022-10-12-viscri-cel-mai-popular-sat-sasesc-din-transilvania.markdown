@@ -12,10 +12,12 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/
 permalink-to-next-language: /viscri-the-most-popular-saxon-village-in-transylvania/
+
 featured-image: "/assets/images/posts/viscri/viscri-top-16x9.webp" # full size
 featured-image-top: "/assets/resized/viscri-top-16x9-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/viscri-top-16x9-800x450.webp" # width - 800
+
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 
 Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
@@ -160,9 +162,9 @@ Sunt atâtea alte locuri frumoase pe care le poți vizita, de la biserici fortif
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-3.webp alt: "Viscri Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

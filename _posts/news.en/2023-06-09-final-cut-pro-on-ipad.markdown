@@ -18,8 +18,9 @@ categories: News-EN
 
 featured-image: "/assets/images/posts/final-cut-pro/finalcutx-vl.webp" # full size
 featured-image-top: "/assets/resized/finalcutx-vl-600x600.webp" # width - 1200
-featured-image-home: "/assets/resized/finalcutx-vl-600x600.webp" # width - 600
 featured-image-style: centered # can be left, centered, full-width
+
+featured-image-home: "/assets/resized/finalcutx-vl-600x600.webp" # width - 600
 ---
 Blackmagic Design recently launched Davinci Resolve on iPads and now Apple launched Final Cut Pro on iPads too. It makes our life harder to choose between the two professional tools but also turns the iPad into a super video editing machine.
 

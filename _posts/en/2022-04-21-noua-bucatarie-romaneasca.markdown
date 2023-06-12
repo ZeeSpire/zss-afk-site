@@ -184,10 +184,10 @@ In conclusion, I would just like to point out that we had a wonderful and memora
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>
  

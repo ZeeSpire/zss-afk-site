@@ -12,10 +12,12 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/
 permalink-to-next-language: /ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/
+
 featured-image: "/assets/images/posts/grigorescu/IMG_1546.webp" # full size
 featured-image-top: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
+
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Ever since we saw the Flavors of Romania documentary presented by Charlie Ottley, we planned to go to Grigorescu Mansion, excited by the idea of Slow Food, of good food made from fresh organically grown ingredients, and also with the desire to meet involved and passionate people, for whom hospitality is a way of life, not a business. So, when Terra Carpatica - Grigorescu Mansion announced on its Facebook page that it was organizing a culinary weekend dedicated to truffle hunting, we didn't think twice and booked a room. 
 
@@ -129,9 +131,9 @@ It was a very beautiful experience that we enjoyed with all our hearts, and we r
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

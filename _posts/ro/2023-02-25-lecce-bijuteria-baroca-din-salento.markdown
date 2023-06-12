@@ -12,11 +12,13 @@ categories: [RO, Italia-RO]
 tag: RO
 permalink: /ro/lecce-bijuteria-baroca-din-salento/
 permalink-to-next-language: /lecce-a-baroque-gem-in-salento/
+
 featured-image: "/assets/images/posts/lecce/lecce-a-baroque-gem-in-salento.webp" # full size
 featured-image-top: "/assets/resized/lecce-a-baroque-gem-in-salento-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # width - 1200
+
 featured-image-primary: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Lecce este situat în regiunea Salento, la 150 de kilometri de Bari, la 40 de kilometri de Gallipoli și la 45 de kilometri de Otranto. Gallipoli și Otranto sunt două orașe turistice de la malul mării care merită să fie vizitate. De asemenea, se află la 25 de kilometri de coasta Mării Adriatice și la 35 de kilometri de coasta Mării Ionice. Deci poate reprezenta un bun punct de plecare în explorarea "tocului" Italiei.
 
@@ -105,9 +107,9 @@ A fost o zi de neuitat! Ceea ce ne-a impresionat cel mai mult la Lecce au fost c
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

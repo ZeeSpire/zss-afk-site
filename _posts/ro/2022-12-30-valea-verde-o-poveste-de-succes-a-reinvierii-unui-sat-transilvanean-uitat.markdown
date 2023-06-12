@@ -12,11 +12,12 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat/
 permalink-to-next-language: /valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village/
+
 featured-image: "/assets/images/posts/valea-verde/valea-verde-cover.webp" # full size
 featured-image-primary: "/assets/resized/valea-verde-cover-800x450.webp" # width - 1200
+
 featured-image-top: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/valea-verde-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 După experiența gastronomică și vânătoarea de trufe ghidată de care am avut parte la Terra Carpatica - Conacul Grigorescu, despre care am povestit în [acest articol](/ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/), am achiziționat un pachet similar, de data aceasta la Valea Verde, cu ocazia reducerilor de Black Friday.
 

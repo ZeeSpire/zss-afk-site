@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/
 permalink-to-next-language: /truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/
+
 featured-image: "/assets/images/posts/grigorescu/IMG_1546.webp" # full size
 featured-image-top: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
+
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Încă de când am văzut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus în plan să ajungem la Conacul Grigorescu, entuziasmați fiind de ideea de Slow Food, de mâncare bună facută din ingrediente proaspete crescute organic, dar și din dorința de a cunoaște oameni implicați și pasionați, pentru care ospitalitatea reprezintă un mod de viață, nu o afacere. Așadar în momentul în care Terra Carpatica - Conacul Grigorescu a anunțat pe pagina de Facebook că organizează un weekend culinar dedicat vânătorii de trufe, nu am stat pe gânduri și am rezervat o cameră.
 
@@ -129,9 +130,9 @@ Am vizitat și mânăstirea Rătești și dealurile din zonă. Însă ca activit
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

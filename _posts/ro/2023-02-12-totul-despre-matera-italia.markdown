@@ -12,11 +12,13 @@ categories: [RO, Italia-RO]
 tag: RO
 permalink: /ro/totul-despre-matera-italia/
 permalink-to-next-language: /everything-about-matera-italy/
+
 featured-image: "/assets/images/posts/matera/matera-italy-1.webp" # full size
 featured-image-top: "/assets/resized/matera-italy-1-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/matera-italy-1-800x450.webp"
+
 featured-image-primary: "/assets/resized/matera-italy-1-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/matera-italy-1-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 ## De ce să adaugi Matera pe lista cu locuri de văzut într-o viaţă
 
@@ -262,9 +264,9 @@ Ruta 2:
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

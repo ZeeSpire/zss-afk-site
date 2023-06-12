@@ -13,11 +13,13 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /national-village-museum-bucharest/
 permalink-to-next-language: /ro/muzeul-satului-dimitrie-gusti-bucuresti/
-featured-image-top: "/assets/resized/muzeul-satului-roman-2-1600x900.webp" # prima poza din articol, poate fi empty
+
 featured-image: "/assets/images/posts/muzeul-satului/muzeul-satului-roman-2.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top: "/assets/resized/muzeul-satului-roman-2-1600x900.webp" # prima poza din articol, poate fi empty
+featured-image-top: "/assets/resized/muzeul-satului-roman-2-800450.webp" # prima poza din articol, poate fi empty
+
 featured-image-primary: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 
 On the sixth of June, 2023, we had a day off during the week when the rest were at work. Initially, we went to take a tour of the Herăstrău Park, but then we had the idea to visit the "Dimitrie Gusti" National Village Museum.

@@ -19,7 +19,9 @@
             {% else %}
             <a href="{{ page.featured-image }}" data-fslightbox="gallery">
                 <picture>
-                    <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)">
+                    {% if page.featured-image-top-smaller %}
+                    <source srcset="{{ page.featured-image-top-smaller }}" media="(max-width: 768px)">
+                    {% endif %}
                     <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="img-article-169 mb-3"/>
                 </picture>
             </a>

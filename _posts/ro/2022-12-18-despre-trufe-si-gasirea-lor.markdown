@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/despre-trufe-si-gasirea-lor/
 permalink-to-next-language: /about-truffles-and-how-to-find-them/
+
 featured-image:
 featured-image-top:
+
 featured-image-home: "/assets/resized/IMG_20221029_123239-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 În România există tot mai multe oferte care includ, pe lângă cazare, diverse tipuri de experiențe, de la incursiuni gastronomice, degustări de vinuri, cursuri care te învață ceva nou, până la activități în aer liber. Este și cazul vânătorii de trufe.
 
@@ -49,9 +50,9 @@ Pe lângă toate acestea, trufele au diverse beneficii pentru sănătate, deoare
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

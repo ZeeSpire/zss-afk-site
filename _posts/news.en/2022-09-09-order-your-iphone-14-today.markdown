@@ -11,8 +11,9 @@ description: Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14
 categories: News-EN
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1662710947/news/iphone14_kvpdor.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1662710947/news/iphone14_kvpdor.webp" # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1662710947/news/iphone14_kvpdor.webp" # width - 600
 featured-image-style: centered # can be left, centered, full-width
+
+featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1662710947/news/iphone14_kvpdor.webp" # width - 600
 ---
 Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max start today in Romania. Get your gadget today and never miss an opportunity to record great videos and take awesome photos while traveling.
 

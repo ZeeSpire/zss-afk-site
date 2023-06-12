@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/festivalul-neversea-editia-2022/
 permalink-to-next-language: /neversea-festival-2022-edition/
+
 featured-image: "https://res.cloudinary.com/afkology/image/upload/v1657566780/2022-neversea/neversea3_yuclp6.jpg" # full size
 featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 1200
+
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Weekendul ce tocmai a trecut am participat la ce-a de-a patra editie (7-10 iulie) a festivalului Neversea de pe tarmul Marii Negre. Voi scrie asadar cateva impresii la cald despre cum mi s-a parut. 
 

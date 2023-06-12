@@ -12,11 +12,13 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village/
 permalink-to-next-language: /ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat/
+
 featured-image: "/assets/images/posts/valea-verde/valea-verde-cover.webp" # full size
 featured-image-top: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/valea-verde-cover-800x450.webp" # width - 1200
+
 featured-image-primary: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/valea-verde-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 After the gastronomic experience and the guided truffle hunting that we had at Terra Carpatica - Grigorescu Mansion, which I wrote about in [this article](/truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/), we purchased a similar package, this time at Valea Verde, with a Black Friday discount.
 

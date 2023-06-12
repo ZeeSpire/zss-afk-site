@@ -12,11 +12,12 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/oferte-de-paste-in-romania-2023/
 permalink-to-next-language: /easter-offers-in-romania-2023/
+
 featured-image:
 featured-image-top:
+
 featured-image-primary: "/assets/resized/primavara-800x450.webp"
 featured-image-home: "/assets/resized/primavara-square-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Anul acesta, Paştele ortodox pică în data de 16 aprilie, iar ofertele dedicate acestei sărbători au început să apară deja.
 Majoritatea ofertelor includ 3 nopţi de cazare, mic dejun, cine deosebite, preparate tradiţionale de Paşte, dar şi alte opţionale pentru a atrage oaspeţii, cum ar fi excursii, foc de tabără sau vânătoare de ouă pentru cei mici. Preţurile încep cam de pe la 3000 lei pentru doi adulţi.

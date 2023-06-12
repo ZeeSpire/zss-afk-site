@@ -20,11 +20,12 @@ tag: RO
 permalink: /ro/top-lucruri-de-facut-in-atena/
 permalink-to-next-language: /top-things-to-do-in-athena/
 
-featured-image-top: "/assets/resized/parthenon-from-the-drone-athens-2-1600x900.webp" # prima poza din articol, poate fi empty
 featured-image: "/assets/images/posts/athens/parthenon-from-the-drone-athens-2.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top: "/assets/resized/parthenon-from-the-drone-athens-2-1600x900.webp" # prima poza din articol, poate fi empty
+featured-image-top-smaller: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp" # 800
+
 featured-image-primary: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Atena nu se afla pe lista noastră de călătorii din viitorul apropiat, dar ne bucurăm că lucrurile s-au aşezat în aşa fel încât am călătorit în acest oraş scăldat în istorie.
 
@@ -32,7 +33,7 @@ Atena nu se afla pe lista noastră de călătorii din viitorul apropiat, dar ne 
 
 Fiind o călătorie planificată cu puţin timp înainte, nu am găsit foarte multe opţiuni de cazare. Am ales să stăm la [The Social Athens Hotel, a member of Radisson Individuals](https://www.booking.com/hotel/gr/the-social-athens-a-member-of-radisson-indi.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}, de care am fost foarte mulţumiţi şi nu avem decât cuvinte de laudă pentru acest hotel. Toţi angajaţii erau zâmbitori, am primit apă îmbuteliată în fiecare zi, am primit o cameră mai spaţioasă decât cea pe care o rezervasem, iar articolele de toaletă erau de la Apivita, iubitul brand grecesc. Și, în plus, a fost o afacere bună, căci nu a costat foarte mult. 
 
-Iată alte trei opţiuni de hoteluri spectaculoase în Atena:
+Iată alte cinci opţiuni de hoteluri spectaculoase în Atena:
 - [Asomaton](https://www.booking.com/hotel/gr/asomaton.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 - [The Modernist Athens](https://www.booking.com/hotel/gr/the-modernist-athens.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 - [Hotel Grande Bretagne, a Luxury Collection Hotel, Athens](https://www.booking.com/hotel/gr/grandbretagneathens.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
@@ -40,29 +41,29 @@ Iată alte trei opţiuni de hoteluri spectaculoase în Atena:
 - [Athens Capital Center Hotel - MGallery Collection](https://www.booking.com/hotel/gr/mgallery-athens-capital.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 
 
-Dar haideţi să intrăm direct in paine cu topul celor 15 lucruri de făcut în Atena după multe cercetări şi după ce le-am încercat pe toate (şi chiar mai multe)!
+Dar haideţi să intrăm direct în pâine cu topul celor 15 lucruri de făcut în Atena după multe cercetări şi după ce le-am încercat pe toate (şi chiar mai multe)!
 
 # Top 15 lucruri de făcut în Atena
 
 Înainte de a începe, merită menţionat că există o mulţime de situri arheologice în acest oraş. Pentru unele dintre ele, trebuie să plăteşti un bilet, altele pot fi vizitate gratuit deoarece sunt pe marginea drumului ori în interiorul anumitor staţii de metrou, de exemplu. Pentru cele mai populare situri arheologice, există un bilet special valabil 5 zile care costă 30 de euro la momentul scrierii acestui articol (iunie 2023). Acest bilet include intrarea la cele mai importante situri arheologice: Acropola și versanții (ambele intrări), Agora Antică, Agora Romană, Kerameikos, Biblioteca lui Hadrian, Templul lui Zeus şi Liceul lui Aristotel. O să vorbesc despre fiecare mai jos, dar recomandarea principală este achiziţionarea acestui tip de bilet.
 
-Am vizitat Atena în extrasezon, la începutul lunii aprilie, şi nu am stat la coadă la nici o atracţie, dar recomand să ajungi la Acropola la ora deschiderii pentru a face fotografii frumoase cu cât mai puţină lume în peisaj.
-
-## 1. Rămâi mut de uimire în faţa Acropolei
+## 1. Rămâi mut de uimire în faţa impresionantei Acropole
 Acropola este unul dintre cele mai faimoase situri arheologice nu numai din Grecia, ci şi din lume şi include mai multe clădiri şi monumente antice, inclusiv Partenonul, Propileea, Templul Atenei Nike şi Erehtheion.
 
 În mitologia greacă, zeiţa Atena este zeiţa ce patronează asupra oraşului ce-i poartă numele. Atena era zeiţa înţelepciunii, a războiului şi a meşteşugurilor şi era considerată unul dintre cei doisprezece zei şi zeiţe olimpice care locuiau pe Muntele Olimp. Templul Partenon, situat pe dealul Acropolei, a fost dedicat Atenei şi este considerat ca fiind una dintre cele mai mari realizări arhitecturale ale Greciei antice. Templul a fost construit în secolul al V-lea î.Hr. şi prezintă multe sculpturi şi reliefuri care o înfăţişează pe Atena, dar şi alte figuri mitologice.
+
+Am vizitat Atena în extrasezon, la începutul lunii aprilie, şi nu am stat la coadă la nici o atracţie, dar recomand să ajungi la Acropolă la ora deschiderii pentru a face fotografii frumoase cu cât mai puţină lume în peisaj.
 
 Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         {% responsive_image path: assets/images/posts/athens/temple-of-athena-nike-acropolis-athens.webp alt: "Temple of Athena Nike Acropolis Athens"  3pelinie16pe9: true %}
-        <div class="text-muted text-center"><small>Temple of Athena Nike</small></div>
+        <div class="text-muted text-center"><small>Templul Atenei Nike</small></div>
     </div>
      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
         {% responsive_image path: assets/images/posts/athens/parthenon-acropolis-athens-without-people.webp alt: "Parthenon Acropolis Athens without people"  3pelinie16pe9: true  %}
-        <div class="text-muted text-center"><small>Parthenon</small></div>
+        <div class="text-muted text-center"><small>Partenonul</small></div>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
     {% responsive_image path: assets/images/posts/athens/erechtheion-acropolis-athens.webp alt: "Erechtheion Acropolis Athens"  3pelinie16pe9: true %}
@@ -104,10 +105,10 @@ Nu uita să intri în muzeu înainte de a pleca. Artefactele găsite în mormint
 
 {% responsive_image path: assets/images/posts/athens/kerameikos-cemetery-athens.webp alt: "Kerameikos Cemetery Athens" %}
 
-## 8. Vizitează Muzeul Acropolei
-Acropolis Museum este o completare excelentă a vizitei la Acropola. Muzeul găzduieşte o mare colecţie de artefacte găsite pe dealul Acropolei, incluzând statui, reliefuri şi alte obiecte antice.
+## 8. Vizitează Acropolis Museum
+Acropolis Museum este o completare excelentă a vizitei la Acropolă. Muzeul găzduieşte o mare colecţie de artefacte găsite pe dealul Acropolei, incluzând statui, reliefuri şi alte obiecte antice.
 
-Una dintre cele mai impresionante trăsături ale muzeului este podeaua din sticlă, care permite vizitatorilor să vadă ruinele unui vechi cartier atenian care a fost descoperit în timpul construcţiei muzeului. Muzeul are, de asemenea, un restaurant cu o vedere uimitoare asupra Acropolei şi a orasului.
+Una dintre cele mai impresionante trăsături ale muzeului este podeaua din sticlă, care permite vizitatorilor să vadă ruinele unui vechi cartier atenian care a fost descoperit în timpul construcţiei muzeului. Muzeul are, de asemenea, un restaurant cu o vedere uimitoare asupra Acropolei şi a orașului.
 
 Recomand o vizită după-amiaza pentru că muzeul se închide mai târziu decât siturile arheologice de mai sus. Pentru programul de funcţionare, consultă [site-ul oficial](https://www.theacropolismuseum.gr/en){:target="_blank" rel="nofollow"}.
 
@@ -130,7 +131,7 @@ Piaţa Syntagma este piaţa centrală a Atenei şi este situată în inima carti
 {% responsive_image path: assets/images/posts/athens/syntagma-square-changing-of-the-guard-athens.webp alt: "Syntagma Square changing of the guard Athens" %}
 
 ## 11. Profită de o pauză în interiorul Grădinii Naţionale din Atena
-Grădina Nationala din Atena oferă o evadare din agitaţia oraşului. Grădina publică este situată în centrul Atenei şi oferă o mare varietate de plante, flori şi copaci, precum şi mai multe iazuri şi o mică grădină zoologică.
+Grădina Națională din Atena oferă o evadare din agitaţia oraşului. Grădina publică este situată în centrul Atenei şi oferă o mare varietate de plante, flori şi copaci, precum şi mai multe iazuri şi o mică grădină zoologică.
 
 Noi ne-am plimbat prin mirosul de portocali înfloriţi şi prin sunetul papagalilor. A fost minunat.
 
@@ -147,7 +148,7 @@ Am cumpărat de aici ceai grecesc de munte ca suvenir. Ceaiul este făcut din pl
 {% include in-article-ad.html %}
 
 ## 13. Urcă pe dealul Philopappos
-Înainte de a merge la Atena, am citit despre Dealul Lycabettus care reprezintă cel mai înalt punct din Atena, cu vederi uluitoare ale oraşului şi o capelă în vârf. Am citit şi despre Dealul Areopagus care se află la nord-vest de Acropola, cu vederi panoramice ale oraşului.
+Înainte de a merge la Atena, am citit despre Dealul Lycabettus care reprezintă cel mai înalt punct din Atena, cu vederi uluitoare ale oraşului şi o capelă în vârf. Am citit şi despre Dealul Areopagus care se află la nord-vest de Acropolă, cu vederi panoramice ale oraşului.
 
 Dar, în final, am ales să urcăm pe dealul Philopappos. Acest deal este cunoscut pentru priveliştile sale pitoreşti ale Atenei, în special ale Acropolei şi ale orizontului oraşului, şi este un loc minunat pentru a scăpa de mulţime şi a experimenta o parte mai liniştită a oraşului.
 
@@ -229,7 +230,7 @@ Deşi simţi că eşti într-un basm (chiar şi chelnerii sunt îmbrăcaţi pe m
 
 ## 6. Lukumades
 Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, care vinde Loukoumades. Loukoumades sunt nişte gogoşele stropite cu sirop de miere şi presărate cu scorţişoară.
-Locul se numeşte, ce sa vezi, [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}.
+Locul se numeşte, ce să vezi, [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}.
 Erau disponibile multe toppinguri, dar noi am ales varianta clasică: miere + scorţişoară. Le-am mâncat calde şi au fost delicioase.
 
 {% include in-article-ad.html %}

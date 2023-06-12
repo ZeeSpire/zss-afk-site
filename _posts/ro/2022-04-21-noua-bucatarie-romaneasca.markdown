@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/noua-bucatarie-romaneasca/
 permalink-to-next-language: /noua-bucatarie-romaneasca/
+
 featured-image: # full size
 featured-image-top: # width - 1200
+
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_172829_tkjo1d.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 
 Despre Restaurantul Noua am aflat printr-un simplu story pe Instagram. Doar o fotografie, postată fără prea multe cuvinte, m-a făcut să vreau să aflu mai multe despre acest restaurant. Însă, în cele din urmă, o recenzie Google mai cuprinzătoare m-a convins să vizitez [restaurantul](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}.
@@ -184,10 +185,10 @@ Vreau să subliniez că am apreciat foarte mult ospătarii. Au făcut o treabă 
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>
  

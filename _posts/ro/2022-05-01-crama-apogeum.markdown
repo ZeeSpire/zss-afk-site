@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/crama-apogeum/
 permalink-to-next-language: /apogeum-winery/
+
 featured-image: # full size
 featured-image-top: # width - 1200
+
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651400350/0008-2022-apogeum-2/DSCF3072_r_znfawp.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="https://res.cloudinary.com/afkology/image/upload/v1651400350/0008-2022-apogeum-2/DSCF3072_r2_kdzmaw.jpg" data-fslightbox="gallery">

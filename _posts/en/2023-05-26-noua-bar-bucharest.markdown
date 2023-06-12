@@ -12,11 +12,13 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /noua-bar-bucharest/
 permalink-to-next-language: /ro/noua-bar-bucuresti/
-featured-image-top: "/assets/resized/noua-bar-outside-1600x900.webp" # prima poza din articol, poate fi empty
+
 featured-image: "/assets/images/posts/noua-bar/noua-bar-outside.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top: "/assets/resized/noua-bar-outside-1600x900.webp" # prima poza din articol, poate fi empty
+featured-image-top-smaller: "/assets/resized/noua-bar-outside-800x450.webp" # prima poza din articol, poate fi empty
+
 featured-image-primary: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 
 Noua B.A.R is the younger sibling of the [Noua Bucătărie Românească Restaurant](/noua-bucatarie-romaneasca/) opened by chef Alex Petricean, finalist of MasterChef Romania and designated Chef of the Year in 2018, 2020, and 2022 by the Gault & Millau Guide.

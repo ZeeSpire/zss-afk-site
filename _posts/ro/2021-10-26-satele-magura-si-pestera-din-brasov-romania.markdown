@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/satele-magura-si-pestera-din-brasov-romania/
 permalink-to-next-language: /magura-and-pestera-villages-brasov-county-romania/
+
 featured-image: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # full size
 featured-image-top: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # width - 1200
+
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
 
@@ -78,9 +79,9 @@ Daca vreti să vedeți mai multe fotografii din calătoriile noastre, dați foll
  
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

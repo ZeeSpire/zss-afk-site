@@ -12,10 +12,11 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /crama-de-piatra-a-boutique-winery-with-a-huge-potential/
 permalink-to-next-language: 
+
 featured-image: 
 featured-image-top: 
+
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1662294905/2022-crama-de-piatra/IMG_20220828_080307-e1_tio8fx.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Crama de Piatra is a boutique winery, with a small production of wine, which has all the assets to become a special destination for one's soul. Here you can participate in winery tours and wine tastings, relax with friends on the terrace or take a walk through the vineyards. You will also find here a very tastefully decorated restaurant, with an open kitchen and a terrace surrounded by greenery, as well as accommodation spaces in case you want to spend the night. In other words, it is a worthy destination to consider for a well-spent weekend. 
 

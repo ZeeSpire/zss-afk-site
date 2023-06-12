@@ -20,11 +20,12 @@ tag: EN
 permalink: /top-things-to-do-in-athena/
 permalink-to-next-language: /ro/top-lucruri-de-facut-in-atena/
 
-featured-image-top: "/assets/resized/parthenon-from-the-drone-athens-2-1600x900.webp" # prima poza din articol, poate fi empty
 featured-image: "/assets/images/posts/athens/parthenon-from-the-drone-athens-2.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top: "/assets/resized/parthenon-from-the-drone-athens-2-1600x900.webp" # prima poza din articol, poate fi empty
+featured-image-top-smaller: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp" # 800
+
 featured-image-primary: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 
 Athens wasn't on our bucket list for the near future, but we are glad that things have settled in such a way that we traveled to this steeped-in-history city.
@@ -33,7 +34,7 @@ What we knew about Athens was the super-popular image of the Acropolis and the f
 
 Being a trip planned shortly before, we did not find many accommodation options. We chose to stay at [The Social Athens Hotel, a member of Radisson Individuals](https://www.booking.com/hotel/gr/the-social-athens-a-member-of-radisson-indi.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}, with which we were very satisfied, and we have nothing but praise for this hotel. All the employees were smiling, we received bottled water every day, we got a more spacious room than we had booked, and the toiletries were from Apivita, the beloved Greek brand. And it was a good deal, as it didn't cost much either.
 
-Here are three more spectacular hotel options in Athens:
+Here are five more spectacular hotel options in Athens:
 - [Asomaton](https://www.booking.com/hotel/gr/asomaton.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 - [The Modernist Athens](https://www.booking.com/hotel/gr/the-modernist-athens.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 - [Hotel Grande Bretagne, a Luxury Collection Hotel, Athens](https://www.booking.com/hotel/gr/grandbretagneathens.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
@@ -47,14 +48,14 @@ But let's jump into our top 15 things to do in Athens after a lot of research an
 
 Before starting, it's worth mentioning that there are lots of archaeological sites in this city. For some, you have to pay a ticket to enter, while others can be visited for free as they are on the side of the road or inside some metro stations. For the main archaeological sites, there is a special ticket package valid for 5 days that costs 30 euros at the time of writing this article (June 2023). This combined ticket includes the entry to the most important archeological sites: the Acropolis and the Slopes (both entries), the Ancient Agora, the Roman Agora, Kerameikos, Hadrian's Library, the Temple of Olympian Zeus, and Aristotle's Lyceum. I will talk about each one below, but the main recommendation is to purchase this type of ticket.
 
-We visited Athens in the off-season, at the beginning of April, and there were no queues anywhere, but still, I recommend arriving at the Acropolis when it opens early in the morning to take beautiful shots with as few people as possible.
-
 ## 1. Stand in awe of the mighty Acropolis
 The Acropolis is one of the most famous archaeological sites not only in Greece but in the world, and it includes several ancient buildings and monuments, including the Parthenon, the Propylaea, the Temple of Athena Nike, and the Erechtheion.
 
 In ancient Greek mythology, the goddess Athena was the patron goddess of Athens. Athena was the goddess of wisdom, warfare, and crafts, and she was considered one of the twelve Olympian gods and goddesses who resided on Mount Olympus. The Parthenon temple, located on the Acropolis Hill, was dedicated to Athena, and it is considered one of the greatest architectural achievements of ancient Greece.
 
-If there is just one thing you have to tick off while in Athens, this is it. Admire it in the early morning, or illuminated at night, whenever you have the chance, or when you sip a drink from a rooftop bar. The Acropolis alone made our trip worthwhile.
+We visited Athens in the off-season, at the beginning of April, and there were no queues anywhere, but still, I recommend arriving at the Acropolis when it opens early in the morning to take beautiful shots with as few people as possible.
+
+If there is just one thing you have to tick off while in Athens, this is it. The Acropolis alone made our trip worthwhile.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
@@ -138,7 +139,7 @@ We walked through the smell of blossoming orange trees and the sound of parrots.
 
 {% responsive_image path: assets/images/posts/athens/athens-national-garden.webp alt: "Athens National Garden" %}
 
-## 12. Go shopping in the Varvakeios Central Market
+## 12. Go shopping in the Varvakios Central Market
 The Central Market of Athens, also known as Varvakios (or Varvakeios) Market, is one of the city's oldest and largest markets. It's located in the heart of Athens, near Omonia Square, and it is a tourist attraction in itself.
 
 It's known for its lively atmosphere and is a great place to experience the local culture and cuisine. The market is particularly busy in the mornings when locals come to shop for fresh ingredients for their meals.

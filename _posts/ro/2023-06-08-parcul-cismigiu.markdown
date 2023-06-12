@@ -14,11 +14,13 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/gradina-cismigiu/
 permalink-to-next-language: /cismigiu-garden/
+
+featured-image: "/assets/images/posts/cismigiu-park/cismigiu-park.webp" # full size, poate fi empty daca featured-image-top e empty
 featured-image-top: "/assets/resized/cismigiu-park-1600x900.webp" # prima poza din articol, poate fi empty
-featured-image: "/assets/images/posts/cismigiu-park/a-flower-from-cismigiu-park.webp" # full size, poate fi empty daca featured-image-top e empty
+featured-image-top-smaller: "/assets/resized/cismigiu-park-800x450.webp" # prima poza din articol, poate fi empty
+
 featured-image-primary: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina square
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Mă gândeam recent, de ce să nu promovăm mai mult oraşul în care ne petrecem cea mai mare parte a timpului şi anume - Bucureşti?
 

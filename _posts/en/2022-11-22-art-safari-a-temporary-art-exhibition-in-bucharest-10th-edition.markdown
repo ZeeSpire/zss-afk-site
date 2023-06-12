@@ -12,10 +12,11 @@ categories: [EN, Romania-EN]
 tag: EN
 permalink: /art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition/
 permalink-to-next-language: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/
+
 featured-image: 
 featured-image-top: 
+
 featured-image-home: "/assets/resized/IMG_20221120_121702-600x600.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.
 
@@ -60,9 +61,9 @@ We look forward to the 11th edition.
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-4.webp alt: "Art Safari 10th Edition 4" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-4.webp alt: "Art Safari 10th Edition 4" fluid: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" 2pelinie4pe5: true %}
+            {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" fluid: true ratio:2/3 %}
     </div>
 </div>

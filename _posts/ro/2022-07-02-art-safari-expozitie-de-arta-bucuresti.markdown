@@ -12,10 +12,11 @@ categories: [RO, Romania-RO]
 tag: RO
 permalink: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/
 permalink-to-next-language: /art-safari-a-temporary-art-exhibition-in-bucharest/
+
 featured-image: 
 featured-image-top: 
+
 featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656776555/art-safari/art-safari-1_eaht3h.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Astăzi am fost pentru prima dată la Art Safari cu toate că evenimentul a ajuns anul acesta la ediția cu numărul 9. După vizita de astăzi probabil vom încerca să mergem la fiecare ediție deoarece ne-a plăcut foarte mult.  
 O vizită la Art Safari este o modalitate bună de a petrece câteva ore de calitate în weekend.
