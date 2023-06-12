@@ -1,21 +1,29 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Tips for visiting Copenhagen, Denmark
 title: Tips for visiting Copenhagen for the first time
 front_page_title: Tips for visiting Copenhagen for the first time
+
 published: 28 December 2021
 last_modified_at: 28 December 2021
+
 keywords: copenhagen, denmark, trip, visit, stay
 description: Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor ...
+
 categories: [EN, Denmark-EN]
 tag: EN
+
 permalink: /tips-for-visiting-copenhagen-for-the-first-time/
 permalink-to-next-language: 
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.jpg" # full size
-featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1641468515/0002-2021-copenhaga/poza1_nyhavn_nfwm3x.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
+
+featured-image: "/assets/images/posts/copenhaga/poza1_nyhavn_nfwm3x.webp" # full size
+featured-image-top: "/assets/resized/poza1_nyhavn_nfwm3x-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" # width - 1200
+
+featured-image-primary: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" # width - 600
 ---
 Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with vibrant-colored townhouses, top-notch infrastructure, exquisite restaurants, and the reputation of being one of the happiest cities in the world. Copenhagen, the city of fairy tales, with more bikes than cars, has this enticing cool and laid-back vibe that makes you want to move there and start fresh. After just a couple of days spent there, you will start to feel this mood of coziness and contentment also known as hygge that will remain in your heart after returning home.  
 
@@ -41,43 +49,19 @@ The best time to visit Copenhagen may depend on person to person, but it is acce
 
 We visited Copenhagen in September and the weather was really nice in the majority although there were light showers, but nothing that ruined our plans. We honestly would return to Copenhagen any time, even in February.  
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/timetovisit_ixkctt.webp" class="img-fluid img-thumbnail" alt="Copenhagen best time to visit" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/timetovisit_ixkctt.webp alt: "Copenhagen best time to visit" %}
 
 ## Fun fact  
 
 Copenhagen was officially founded in 1167 when a bishop named Absalon, who is regarded as the city’s founder, built a castle where Christiansborg Palace is today. Originally there was only a small settlement called Havn (harbor), but with the increased trading in the Middle Ages the name was changed to Købmannehavn, which means “the merchant’s harbor”. It was later shortened to its current name København.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza4_funfact_nyhavn_ubdros.webp" class="img-fluid img-thumbnail" alt="Copenhagen fun fact" loading="lazy" width="1116px" height="100%" />
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/poza4_funfact_nyhavn_ubdros.webp alt: "Copenhagen fun fact" %}
 
 ## How to get around Copenhagen  
 
 Copenhagen is a relatively small city compared to other European capitals, but it's packed with attractions (impossible to visit in just a couple of days). Most of them are quite close to each other and it is worth mentioning that Copenhagen's public transportation system is very efficient. If you don't want to buy the Copenhagen Card that includes unlimited public transport, you have other options like buying a City Pass which gives you the freedom to make unlimited use of public transport. Visit this site for more information about all types of tickets, routes, bus stops timetables, and the city pass: [dinoffentligetransport.dk](https://dinoffentligetransport.dk/en/){:target="_blank" rel="nofollow"} or you can get the “DOT Tickets” app.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza5_howToGetAround_uacmd6.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around 02" loading="lazy" width="1116px" height="100%" />
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/poza5_howToGetAround_uacmd6.webp alt: "Copenhagen how to get around 02" %}
 
 **Other ways of navigating through the city**:  
 
@@ -95,16 +79,7 @@ Copenhagen is a relatively small city compared to other European capitals, but i
     - [dantaxi.dk](https://dantaxi.dk/english/){:target="_blank" rel="nofollow"}  
     - [viggo.com](https://www.viggo.com/){:target="_blank" rel="nofollow"}
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/fromabove_uschxi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468515/0002-2021-copenhaga/fromabove_uschxi.webp" class="img-fluid img-thumbnail" alt="Copenhagen how to get around" loading="lazy" width="1116px" height="100%" />
-        </picture>
-    </a>
-</div>
-
+{% responsive_image path: assets/images/posts/copenhaga/fromabove_uschxi.webp alt: "Copenhagen how to get around" %}
 
 ## Where to stay   
 
@@ -127,31 +102,15 @@ Copenhagen can be considered a foody destination with some of the best restauran
 
 Noma and Geranium, with 3 Michelin stars each, are at the top of the list of the World's 50 Best Restaurants in 2021. There are at least 10 other restaurants with one or two Michelin stars which for some may be a good enough reason to visit Copenhagen.  
 
-<!-- gallery -->
 <div class="row mb-4">
- <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468517/0002-2021-copenhaga/food04_uossl6.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468517/0002-2021-copenhaga/food04_uossl6.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468517/0002-2021-copenhaga/food04_uossl6.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 02" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+   <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/food04_uossl6.webp alt: "Copenhagen food 01" 3pelinie1pe1: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/food03_xsiqzv.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food03_xsiqzv.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food03_xsiqzv.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 03" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/food03_xsiqzv.webp alt: "Copenhagen food 02" 3pelinie1pe1: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1641468515/0002-2021-copenhaga/food02_sbeqsn.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468515/0002-2021-copenhaga/food02_sbeqsn.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1641468515/0002-2021-copenhaga/food02_sbeqsn.webp" class="post-gallery-image img-thumbnail" alt="Copenhagen food 04" loading="lazy" width="690px" height="100%" />
-             </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/food02_sbeqsn.webp alt: "Copenhagen food 03" 3pelinie1pe1: true %}
     </div>
 </div>
 
@@ -168,28 +127,13 @@ We tried some of the dishes for which Denmark is best known. Here's our selectio
 
 Our favorite spot to grab something to eat and a beer to quench our thirst was Torvehallerne, an urban, covered, fresh food market. I'm still dreaming of the duck sandwich from Ma Poule washed down by the delicious lemonade from Fresh Market. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/food1_hzuzng.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food1_hzuzng.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/food1_hzuzng.webp" class="img-fluid img-thumbnail" alt="Copenhagen food 01" loading="lazy" width="1116px" height="100%" />
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/food1_hzuzng.webp alt: "Copenhagen food 01" %}
 
 ## Things to do in Copenhagen 
 
 Aside from the usual tourist attractions, Copenhagen has a special charm that you can feel walking through the streets and admiring the wonderful buildings, canals and beautiful parks. You can also grab a coffee from Espresso House or a smoothie from Joe and the Juice and you can go for a walk in the Botanical Garden, admiring the plants. 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1641468516/0002-2021-copenhaga/poza6_howToGetAround_tbh0xw.webp" class="img-fluid img-thumbnail" alt="Copenhagen from above" loading="lazy" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+
+{% responsive_image path: assets/images/posts/copenhaga/poza6_howToGetAround_tbh0xw.webp alt: "Copenhagen from above" %}
 
 Or you can buy some beers and rent an electric boat for a ride on the canals as the locals do. It takes very little to feel the spirit of Copenhagen, so here's the things that made our trip a memorable one: 
 
@@ -199,17 +143,17 @@ Or you can buy some beers and rent an electric boat for a ride on the canals as 
 4. Amager Strandpark. We enjoyed taking a break from visiting museums and palaces on this serene beach with fine sand and friendly seagulls. 
 5. We rediscovered our inner child in Tivoli Gardens amusement park, one of the oldest operating amusement parks in the world. 
 
-
 For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](/free-attractions-to-visit-in-copenhagen/){:target="_blank" rel="nofollow"}. 
 
 The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.   
 
 Everyone speaks English very well so it's the only language you need to know. But here are some words if you’d like to practice your Danish. Also don't forget to pin the article.
+
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641468515/0002-2021-copenhaga/pin1_kwxdvo.webp" class="img-fluid img-thumbnail" alt="Copenhagen pin 01" loading="lazy" width="540px" height="100%" />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/pin1_kwxdvo.webp alt: "Copenhagen Pin 01" fluid: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1641468516/0002-2021-copenhaga/pin2_puskrs.webp" class="img-fluid img-thumbnail" alt="Copenhagen pin 02" loading="lazy" width="540px" height="100%" />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/pin2_puskrs.webp alt: "Copenhagen Pin 02" fluid: true ratio:2/3 %}
     </div>
 </div>

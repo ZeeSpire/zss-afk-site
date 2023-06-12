@@ -1,21 +1,30 @@
 ---
 layout: post.ro
 type: post
+
 h1_title: Satele Măgura și Peștera, România
 title: Satele Măgura și Peștera din judetul Brașov
 front_page_title: Satele Măgura și Peștera din judetul Brașov
+article_title: Satele Măgura și Peștera din judetul Brașov #shows on article page
+
 published: 26 October 2021
 last_modified_at: 16 November 2021
+
 keywords: magura, pestera, toamna, octombrie, romania, peisaje, munti
 description: Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
+description_for_first_page: Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/satele-magura-si-pestera-din-brasov-romania/
 permalink-to-next-language: /magura-and-pestera-villages-brasov-county-romania/
 
 featured-image: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # full size
 featured-image-top: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # 800
 
+featured-image-primary: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600
 ---
 Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.

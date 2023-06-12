@@ -1,21 +1,31 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Măgura & Peștera villages, Romania
 title: Măgura & Peștera villages, Brașov county, Romania
 front_page_title: Măgura & Peștera villages, Brașov county, Romania
+article_title: Măgura & Peștera villages, Brașov county, Romania #shows on article page
+
+
 published: 26 October 2021
 last_modified_at: 16 November 2021
+
 keywords: magura, pestera, autumn, october, romania, landscape, mountains
 description: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
+description_for_first_page: Magura and Pestera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place.
+
 categories: [EN, Romania-EN]
 tag: EN
 permalink: /magura-and-pestera-villages-brasov-county-romania/
 permalink-to-next-language: /ro/satele-magura-si-pestera-din-brasov-romania/
+
 featured-image: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # full size
 featured-image-top: "/assets/images/posts/magura/IMG_20211010_113741_yufvam.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # 800
+
+featured-image-primary: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
 ---
 Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
 
