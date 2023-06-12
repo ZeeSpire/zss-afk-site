@@ -56,7 +56,7 @@ Noi am optat, ca data trecută, pentru biletul cu acces de o zi la cele cinci ex
 
 Așteptăm cu interes ediția 11.
 
-{% responsive_image path: assets/images/posts/art-safari-2/art-safari-3.webp alt: "Art Safari 10th Edition 3" %}
+{% responsive_image path: assets/images/posts/art-safari-2/art-safari-3.webp fluid:true ratio: 5279/1565 alt: "Art Safari 10th Edition 3" %}
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
