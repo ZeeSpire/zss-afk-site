@@ -7,14 +7,23 @@
     </div>
 </div>
 <div class="row">
-    <div class="col">
+    <div class="col text-center">
         {% if page.featured-image-top %}
-        <a href="{{ page.featured-image }}" data-fslightbox="gallery">
-            <picture>
-                <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)">
-                <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="img-article-169 mb-3"/>
-            </picture>
-        </a>
+            {% if page.featured-image-style == "centered" %}
+            <a href="{{ page.featured-image }}" data-fslightbox="gallery">
+                <picture>
+                    <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)">
+                    <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="mb-3" style="aspect-ratio: 1/1; max-width: 512px; width: 100%; height: auto;"/>
+                </picture>
+            </a>
+            {% else %}
+            <a href="{{ page.featured-image }}" data-fslightbox="gallery">
+                <picture>
+                    <source srcset="{{ page.featured-image-home }}" media="(max-width: 768px)">
+                    <img src="{{ page.featured-image-top }}" alt="{{ page.title }}" class="img-article-169 mb-3"/>
+                </picture>
+            </a>
+            {% endif %}
         {% endif %}
     </div>
 </div>
