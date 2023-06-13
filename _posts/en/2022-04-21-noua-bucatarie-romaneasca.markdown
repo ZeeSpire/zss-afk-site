@@ -1,21 +1,29 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Noua restaurant, Romania
 title: Noua - A restaurant at another level in Bucharest
 front_page_title: Noua - A restaurant at another level in Bucharest
+
 published: 21 April 2022
 last_modified_at: 26 May 2023
+
 keywords: food, romania, fine dining, experiences, travel, Chef Alex Petricean
 description: The head chef is Alex Petricean, known by many Romanians as a former participant at MasterChef Romania, appointed by Gault & Millau guide Chef of the Year in 2018 while working at Maize Farm to Table Restaurant.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /noua-bucatarie-romaneasca/
 permalink-to-next-language: /ro/noua-bucatarie-romaneasca/
-featured-image: # full size
-featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_172829_tkjo1d.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
+
+featured-image:
+featured-image-top:
+featured-image-top-smaller:
+
+featured-image-primary: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # width - 600
 ---
 
 I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant. Eventually, a more comprehensive Google review sold me on visiting the [restaurant](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}. 
@@ -30,31 +38,15 @@ At Noua, the menu is seasonal, it changes depending on what nature offers at dif
 
 The interior is cozy with natural accents such as wood or wool. We stayed in a room on the ground floor, but next time we would like to stay upstairs where we understood that you can see directly into the kitchen.  
 
-<!-- gallery -->
 <div class="row mb-4">
-  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650542175/0006-2022-noua/IMG_20220403_183442_njue4d.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_183442_njue4d.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1650542175/0006-2022-noua/IMG_20220403_183442_njue4d.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Noua Restaurant 2" width="510px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+            {% responsive_image path: assets/images/posts/noua/IMG_20220403_183442_njue4d.webp alt: "Noua Restaurant" tall: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650542176/0006-2022-noua/IMG_20220403_174137_j0gphn.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1650542176/0006-2022-noua/IMG_20220403_174137_j0gphn.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1650542176/0006-2022-noua/IMG_20220403_174137_j0gphn.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Noua Restaurant 1" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/noua/IMG_20220403_174137_j0gphn.webp alt: "Noua Restaurant" tall: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650542174/0006-2022-noua/IMG_20220403_173615_v1c3sq.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1650542174/0006-2022-noua/IMG_20220403_173615_v1c3sq.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1650542174/0006-2022-noua/IMG_20220403_173615_v1c3sq.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Noua Restaurant 3" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/noua/noua-interior-2.webp alt: "Noua Restaurant" tall: true %}
     </div>
 </div>
 
@@ -66,103 +58,42 @@ At first, you are asked if you have food allergies or intolerances. We said we d
 
 I wish I could remember what the dishes contained, but I'll try to say a few words about each dish just to give you an idea.  
 
-<!-- gallery -->
 <div class="row mb-4">
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650871112/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175024_epk9to.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650871112/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175024_epk9to.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650871112/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175024_epk9to.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 4" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+   <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_175024_epk9to.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175612_ejpu1x_rcpmy1.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175612_ejpu1x_rcpmy1.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_175612_ejpu1x_rcpmy1.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 5" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_175612_ejpu1x_rcpmy1.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_180210_pi4cb1_tujflk.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_180210_pi4cb1_tujflk.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870480/0006-2022-noua/poze%20mancare/square2/IMG_20220403_180210_pi4cb1_tujflk.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 6" loading="lazy" width="690px" height="100%" />
-             </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_180210_pi4cb1_tujflk.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_181411_vkkgjp_cx1esv.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_181411_vkkgjp_cx1esv.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_181411_vkkgjp_cx1esv.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 4" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_181411_vkkgjp_cx1esv.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-     <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_182008_ekssc8_sfg1hg.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_182008_ekssc8_sfg1hg.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_182008_ekssc8_sfg1hg.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 5" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_182008_ekssc8_sfg1hg.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_183650_qapmxs_mx4spf.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_183650_qapmxs_mx4spf.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870481/0006-2022-noua/poze%20mancare/square2/IMG_20220403_183650_qapmxs_mx4spf.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 6" loading="lazy" width="690px" height="100%" />
-             </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_183650_qapmxs_mx4spf.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870482/0006-2022-noua/poze%20mancare/square2/IMG_20220403_185014_upupvw_isplmt.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870482/0006-2022-noua/poze%20mancare/square2/IMG_20220403_185014_upupvw_isplmt.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870482/0006-2022-noua/poze%20mancare/square2/IMG_20220403_185014_upupvw_isplmt.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 4" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_185014_upupvw_isplmt.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_192253_sjhdpt_h4a7d9.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_192253_sjhdpt_h4a7d9.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_192253_sjhdpt_h4a7d9.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 6" loading="lazy" width="690px" height="100%" />
-             </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_192253_sjhdpt_h4a7d9.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_193916_ktjvok_p2bodb.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_193916_ktjvok_p2bodb.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_193916_ktjvok_p2bodb.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 4" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_193916_ktjvok_p2bodb.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_195300_zr2git_mlir4r.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_195300_zr2git_mlir4r.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_195300_zr2git_mlir4r.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 5" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_195300_zr2git_mlir4r.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_200049_i8otub_dvoohv.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_200049_i8otub_dvoohv.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870483/0006-2022-noua/poze%20mancare/square2/IMG_20220403_200049_i8otub_dvoohv.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 6" loading="lazy" width="690px" height="100%" />
-             </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_200049_i8otub_dvoohv.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1650870484/0006-2022-noua/poze%20mancare/square2/IMG_20220403_202530_h6itov_zsdvsl.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1650870484/0006-2022-noua/poze%20mancare/square2/IMG_20220403_202530_h6itov_zsdvsl.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1650870484/0006-2022-noua/poze%20mancare/square2/IMG_20220403_202530_h6itov_zsdvsl.webp" class="post-gallery-image img-thumbnail" alt="Noua Restaurant 5" loading="lazy" width="690px" height="100%" />
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/noua/IMG_20220403_202530_h6itov_zsdvsl.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
 </div>
 
@@ -184,10 +115,10 @@ In conclusion, I would just like to point out that we had a wonderful and memora
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/noua/noua1_twgnqd.webp alt: "Noua Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
  

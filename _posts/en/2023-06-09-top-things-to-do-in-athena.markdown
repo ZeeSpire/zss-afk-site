@@ -120,6 +120,8 @@ In some parts of the museum, you can take photos, while in others, it is prohibi
 ## 9. Run on the track at Panathenaic Stadium
 The Panathenaic Stadium is the only stadium in the world made entirely of marble and was originally built in the 4th century BC as a venue for the Panathenaic Games, a festival held every four years in honor of the goddess Athena. The stadium was renovated and rebuilt several times over the centuries, with the most significant renovation taking place in the 2nd century AD by the Roman Emperor Hadrian.
 
+The current form was given when Athens was chosen as the venue for the first Olympic Games in 1896. For its reconstruction, Pentelic marble was used, a white marble used for sculpture and buildings that has been quarried at Mt. Pentelicus, north of Athens. Furthermore, it is the only stadium in the world built entirely of marble.
+
 We paid 10 euros per ticket, including an audio guide.
 Because the audio guide had to be returned in 30 minutes, we hurried to visit the stadium, but we could have stayed even longer. It was really fun, we sat on the marble seats and ran on the track, and it was one of our favorite attractions in Athens.
 
@@ -237,4 +239,20 @@ Near Agia Irini Square, we found a wonderful place, which is always crowded, tha
 The place is called [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}. 
 You could choose from several toppings, but we chose the classic version: honey + cinnamon. We ate them hot, and they were delicious.
 
+{% include in-article-ad.html %}
+
+This was our Athenian experience. We spent two and a half days in Athens, during which we managed to take the pulse of the city, visit the most important archaeological sites, walk through the charming neighborhoods of Athens, and taste the food we were longing for.
+
+If you want to see footage from the spot, where we walked, and what we saw, you can find a playlist dedicated to Greece on our YouTube channel.
+
+Enjoy life!
+
+<div class="row mb-4">
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/athens/pin-athens.webp alt: "Athens Pin 01" pin: true ratio:2/3 %}
+    </div>
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/athens/pin-athens2.webp alt: "Athens Pin 02" pin: true ratio:2/3 %}
+    </div>
+</div>
 {% include in-article-ad.html %}

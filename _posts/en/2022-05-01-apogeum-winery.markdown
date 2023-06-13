@@ -122,47 +122,22 @@ Now let's move on to the most interesting part, the reason for our trip: the win
 On Apogeum Winery's website you can find some information about wine tourism / wine tastings: [https://crama-apogeum.ro/#enoturism](https://crama-apogeum.ro/#enoturism){:target="_blank" rel="nofollow"}. 
 We initially thought we would be the only two people there and we were prepared to pay extra to be able to have a wine tasting, but to our surprise there were 18 people in our group! And there were two distinct groups, not just one. I noticed that there were people in team buildings there. Many from our group had been all day at various wine cellars in the area, we certainly could not cope with so much alcohol. 
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/DSCF3248-2_meiph0.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651396158/0007-2022-apogeum/DSCF3248-2_meiph0.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1651396158/0007-2022-apogeum/DSCF3248-2_meiph0.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Apogeum winery 6" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
-
+{% responsive_image path: assets/images/posts/apogeum/DSCF3248-2_meiph0.webp alt: "Apogeum winery" fluid:true ratio: 2000/1333 %}
 
 When we made the reservation, we opted for a certain tasting package, but being so many people participating, our preference was not considered, but the specialist proposed a selection of wines which was perfectly fine with us. 
 
 <div class="row mb-4">
-  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mt-0">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/IMG_20220403_100222_voiz79.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220403_100222_voiz79.webp" media="(min-width: 768px)" width="550px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220403_100222_voiz79.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Apogeum winery 7" width="550px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/IMG_20220403_100222_voiz79.webp alt: "Apogeum Winery" 2pelinie9pe16: true ratio:1125/2000 %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 mt-0">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/IMG_20220402_171649_f0huz1.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220402_171649_f0huz1.webp" media="(min-width: 768px)" width="550px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_750,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220402_171649_f0huz1.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Apogeum winery 8" width="550px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/IMG_20220402_171649_f0huz1.webp alt: "Apogeum Winery" 2pelinie9pe16: true ratio:1125/2000 %}
     </div>
 </div>
- 
+
 First, we visited the cellar where we were told about how the Apogeum's Fetească Neagră is made, we continued with the visit of the manor where the restaurant is, then we ended with the wine tasting in the winery. We sat at a long table, in front of each sit were three types of glasses, and for each couple there was a plate of cheese, nuts, crackers and salami. The oenologist told us about each wine and guided us in tasting them, shared tips & tricks about wines and told us what to combine the wine with from the plate to extract the maximum of taste. 
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1651396158/0007-2022-apogeum/IMG_20220402_174005_uzppq9.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220402_174005_uzppq9.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1651396158/0007-2022-apogeum/IMG_20220402_174005_uzppq9.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Apogeum winery 9" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/apogeum/IMG_20220402_174005_uzppq9.webp alt: "Apogeum winery" fluid:true ratio: 3/2 %}
   
 Here are some ideas from the wine tasting: 
 - When we eat our taste buds get used to the taste after the first 4-5 bites and we no longer feel the same pleasure as at the first mouthful. The role of wine is to reset the taste buds. 
@@ -170,28 +145,15 @@ Here are some ideas from the wine tasting:
 - The more distant the wine can be smelled, the more intense its aroma is. 
 - The better the wine, the longer its aroma develops in the mouth. If the development comes to an end in 3 seconds, it means that it is not a good wine. An extraordinary wine develops its aroma even after 8-9 seconds. 
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1651396159/0007-2022-apogeum/DSCF3260_e3gw7o.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1651396159/0007-2022-apogeum/DSCF3260_e3gw7o.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1651396159/0007-2022-apogeum/DSCF3260_e3gw7o.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Apogeum winery 10" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/apogeum/DSCF3260_e3gw7o.webp alt: "Apogeum winery" fluid:true ratio: 3/2 %}
   
 After the first glass of wine, we were all relaxed and the tasting became more interactive, more jovial. It was an experience I highly recommend. And we definitely want to come back to Apogeum Winery. 
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum2_rzo1uv.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/apogeum2_rzo1uv.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum1_kecbim.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/apogeum1_kecbim.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
 </div>

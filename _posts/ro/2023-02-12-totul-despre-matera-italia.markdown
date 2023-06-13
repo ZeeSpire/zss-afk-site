@@ -264,9 +264,9 @@ Ruta 2:
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/matera/matera-pin-1.webp alt: "Matera Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

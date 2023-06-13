@@ -89,9 +89,9 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
  
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/magura/pin1_zuxpxv.webp alt: "Magura Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

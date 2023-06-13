@@ -1,22 +1,29 @@
 ---
 layout: post.ro
 type: post
+
 h1_title: Vulcanii noroioși, România
 title: Vulcanii noroioși, județul Buzău, România
 front_page_title: Vulcanii noroioși, județul Buzău, România
+
 published: 10 Aprilie 2022
 last_modified_at: 10 Aprilie 2022
+
 keywords: noroiosi, vulcanii, romania, buzau
-description: Vizita la vulcanii noroiosi din judetul Buzau.
+description: Vizita la vulcanii noroiosi din judetul Buzau. Vulcanii noroioși din județul Buzău, România, sunt cei mai mari din Europa și sunt spectaculoși pentru că erup o dată la câteva minute sau chiar secunde.
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/vulcanii-noroiosi-judetul-buzau-romania/
 permalink-to-next-language: /the-muddy-volcanoes-buzau-county-romania/
 
-featured-image: # full size
-featured-image-top: # width - 1200
+featured-image:
+featured-image-top:
+featured-image-top-smaller:
 
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" # width - 600
+featured-image-primary: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # width - 600
 ---
 
  <div class="ratio ratio-16x9 mb-3">
@@ -27,25 +34,11 @@ Când spui "vulcan" te gândești automat la un vulcan magmatic, fiind mai popul
 
 Vulcanii noroioși din județul Buzău, România, sunt cei mai mari din Europa și sunt spectaculoși pentru că erup o dată la câteva minute sau chiar secunde.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 3" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0046_gjd2fi.webp alt: "Vulcanii noroioși" patrupetrei:true %}
 
 Unii vulcani noroioși formează conuri, în timp ce alții formează lacuri care emit gaze (cazane sau fierbători). Diferența dintre ele este dată de noroi. Dacă noroiul este mai vâscos, va curge încet și va forma conuri. Dacă noroiul este mai lichid va forma lacuri.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 1" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0023_kn16nq.webp alt: "Vulcanii noroioși" patrupetrei:true %}
 
 Cei mai cunoscuți vulcani noroioși din județul Buzău sunt: Pâclele Mari, Pâclele Mici, Fierbătorile de la Berca și Fierbătorile de la Beciu.
 
@@ -55,27 +48,13 @@ Cei mai cunoscuți vulcani noroioși din județul Buzău sunt: Pâclele Mari, P�
 
 În excursia noastră de o zi cu plecare din București, am vizitat doar Pâclele Mari și Pâclele Mici și ni s-a părut că cel mai spectaculos peisaj este probabil la Pâclele Mici, dar ambele locuri merită vizitate. Plănuim să le vizităm și pe celelalte două.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 4" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0087_me6ymd.webp alt: "Vulcanii noroioși" patrupetrei:true %}
 
 Există o mică taxă de intrare de 5 lei per adult pentru fiecare din cele doua situri cu vulcani noroioși și cred ca cel mai bine ar fi să ai numerar la tine. Taxa de intrare este prea mică după părerea mea.
 
 I-am vizitat într-o zi însorită și destul de caldă de februarie și a fost perfect pentru că eram aproape singurii vizitatori din acea zi și am putut pilota drona fără probleme. Nu cred că este indicat să vizitezi vulcanii când plouă sau dacă a plouat și este încă umed, deoarece este obligatoriu să mergi doar pe porțiunile uscate.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 1" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/IMG_20220122_134046_c9jvzi.webp alt: "Vulcanii noroioși" %}
 
 Trebuie să ții cont de faptul că acești vulcani transformă constant terenul, fiind în același timp atât de fragili. Cel mai bine este să eviți să te apropii prea mult de ei, nu numai pentru că noroiul este coroziv și toxic, iar vulcanii te pot stropi atunci când nu te aștepți. Nu este doar pentru curățenia și siguranța ta, ci pentru a proteja vulcanii noroioși. De ce ai vrea să riști să îi distrugi?
 
@@ -83,26 +62,13 @@ La intrarea în rezervație, vei găsi panouri informative din care vei afla că
 
 Bucură-te de peisajele selenare!
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 2" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/IMG_20220122_134506_wjvkju.webp alt: "Vulcanii noroioși" %}
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662210206/0005-2022-vulcanii-noroiosi/muddy1_gtvr1d.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/muddy-volcanoes/muddy1_gtvr1d.webp alt: "Vulcanii noroioși 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662210213/0005-2022-vulcanii-noroiosi/muddy2_we4ma0.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/muddy-volcanoes/muddy2_we4ma0.webp alt: "Vulcanii noroioși 02" pin: true ratio:2/3 %}
     </div>
 </div>

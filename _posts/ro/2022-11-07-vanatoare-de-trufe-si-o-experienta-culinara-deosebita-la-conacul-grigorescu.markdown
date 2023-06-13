@@ -130,9 +130,9 @@ Am vizitat și mânăstirea Rătești și dealurile din zonă. Însă ca activit
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-1.webp alt: "Conacul Grigorescu Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

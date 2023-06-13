@@ -50,9 +50,9 @@ Pe lângă toate acestea, trufele au diverse beneficii pentru sănătate, deoare
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU6.webp alt: "Truffle Hunting Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

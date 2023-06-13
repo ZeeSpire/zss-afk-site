@@ -1,21 +1,29 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Muddy Volcanoes, Romania
 title: The Muddy Volcanoes, Buzău County, Romania
 front_page_title: The Muddy Volcanoes, Buzău County, Romania
+
 published: 10 April 2022
 last_modified_at: 10 April 2022
+
 keywords: muddy, volcanoes, romania, buzau
-description: Visiting the muddy volcanoes in Buzau County, Romania.
+description: Visiting the muddy volcanoes in Buzau County, Romania. The mud volcanoes in Buzău county, Romania, are the largest in Europe and are spectacular because they erupt once every few minutes or even seconds.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /the-muddy-volcanoes-buzau-county-romania/
 permalink-to-next-language: /ro/vulcanii-noroiosi-judetul-buzau-romania/
-featured-image: # full size
-featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
+
+featured-image:
+featured-image-top:
+featured-image-top-smaller:
+
+featured-image-primary: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # width - 600
 ---
 
  <div class="ratio ratio-16x9 mb-3">
@@ -26,26 +34,11 @@ When you say "volcano" you automatically think of a magmatic volcano, they are m
 
 The mud volcanoes in Buzău county, Romania, are the largest in Europe and are spectacular because they erupt once every few minutes or even seconds.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0046_gjd2fi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 3" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0046_gjd2fi.webp alt: "The Muddy Volcanoes" patrupetrei:true %}
 
 Some mud volcanoes form cones while others form lakes that emit gases (boilers). The difference between them is given by the mud. If the mud is more viscous, it will flow slowly and will form cones. If the mud it's more liquid, it will form lakes.
 
-
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/DJI_0023_kn16nq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 1" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0023_kn16nq.webp alt: "The Muddy Volcanoes" patrupetrei:true %}
 
 The best-known muddy volcanoes in Buzău county are: The Large Mud Volcanoes (Pâclele Mari), The Small Mud Volcanoes (Pâclele mici), The Boilers From Berca (Fierbătorile de la Berca), and The Boilers from Beciu (Fierbătorile de la Beciu).
 
@@ -55,27 +48,13 @@ The best-known muddy volcanoes in Buzău county are: The Large Mud Volcanoes (P�
 
 On our one-day trip from Bucharest, we only visited Pâclele Mari and Pâclele Mici and it seemed to us that the most spectacular landscape is probably at Pâclele Mici, but both places are worth a visit. And we plan to visit the other two as well.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598169/0005-2022-vulcanii-noroiosi/DJI_0087_me6ymd.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 4" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/DJI_0087_me6ymd.webp alt: "The Muddy Volcanoes" patrupetrei:true %}
 
 There is a small admission fee (approx. 1 euro per adult) for each site and it's best to carry cash. The admission fee is too small in my opinion.
 
 We visited them on a sunny and quite warm day in February and it was perfect because we were almost the only people there and we could fly the drone without any issues. I don't think they can be visited when it's raining or if it rained and it's still wet as you should walk only on dry land. 
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598172/0005-2022-vulcanii-noroiosi/IMG_20220122_134046_c9jvzi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 1" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/IMG_20220122_134046_c9jvzi.webp alt: "The Muddy Volcanoes" %}
 
 You must keep in mind that these volcanoes are constantly transforming the terrain, at the same time being so fragile. It is best to avoid going too near to them, not only because the mud is corrosive and toxic, and the volcanoes can splash you when you're not expecting it. It's not just for your cleanliness and safety, but to preserve the muddy volcanoes. Why would you want to risk destroying them?
 
@@ -83,26 +62,13 @@ At the entrance of the reservation, you'll find information panels. Please read 
 
 Enjoy the lunar landscapes!
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1649598170/0005-2022-vulcanii-noroiosi/IMG_20220122_134506_wjvkju.webp" loading="lazy" class="img-fluid img-thumbnail" alt="The Muddy Volcanoes 2" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/muddy-volcanoes/IMG_20220122_134506_wjvkju.webp alt: "The Muddy Volcanoes" %}
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662210206/0005-2022-vulcanii-noroiosi/muddy1_gtvr1d.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/muddy-volcanoes/muddy1_gtvr1d.webp alt: "Muddy Volcanoes 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662210213/0005-2022-vulcanii-noroiosi/muddy2_we4ma0.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/muddy-volcanoes/muddy2_we4ma0.webp alt: "Muddy Volcanoes 02" pin: true ratio:2/3 %}
     </div>
 </div>

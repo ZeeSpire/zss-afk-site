@@ -17,9 +17,12 @@ tag: EN
 permalink: /itinerary-three-days-in-copenhagen/
 permalink-to-next-language: 
 
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.jpg" # full size
-featured-image-top: https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210910_094245_acxxaa.webp # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_700,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" # width - 600
+featured-image: "/assets/images/posts/copenhaga/IMG_20210910_094245_acxxaa.webp" # full size
+featured-image-top: "/assets/resized/IMG_20210910_094245_acxxaa-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/IMG_20210910_094245_acxxaa-800x450.webp" # width - 1200
+
+featured-image-primary: "/assets/resized/DSCF1163_hvfg2z-800x450.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/DSCF1163_hvfg2z-800x450.webp" # width - 600
 ---
 <hr />
 
@@ -89,45 +92,21 @@ From there you have a 15-minute walk to the <a id="Old_Stock_Exchange">Old Stock
 
 After 100 meters you will reach <a id="Christiansborg_Palace">Christiansborg Palace</a>. You will need four tickets to visit different areas of the palace: The Royal Reception Rooms, The Royal Kitchen, The Ruins under the Palace, and The Royal Stables. With the Copenhagen Card, you will have all of them included. We enjoyed most the Royal Reception Rooms.
 
-<!-- gallery -->
 <div class="row mb-4">
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210911_113916_oa1oeu.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210911_113916_oa1oeu.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210911_113916_oa1oeu.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Copenhagen 1" width="690px" height="100%"/>
-            </picture>
-        </a>
+   <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/IMG_20210911_113916_oa1oeu.webp alt: "Copenhagen 1" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/DSCF1002_gb5c3c.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1002_gb5c3c.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1002_gb5c3c.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Copenhagen 2" width="690px" height="100%"/>
-            </picture>
-        </a>
+     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/DSCF1002_gb5c3c.webp alt: "Copenhagen 2" 3pelinie1pe1cover: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1642605631/0003-2021-copenhaga/DSCF0700_dioxdk.jpg" data-fslightbox="gallery">
-             <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605631/0003-2021-copenhaga/DSCF0700_dioxdk.webp" media="(min-width: 992px)" width="600px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_690,c_scale,f_auto/v1642605631/0003-2021-copenhaga/DSCF0700_dioxdk.webp" loading="lazy" class="post-gallery-image img-thumbnail" alt="Copenhagen 3" width="690px" height="100%"/>
-            </picture>
-        </a>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+    {% responsive_image path: assets/images/posts/copenhaga/DSCF0700_dioxdk.webp alt: "Copenhagen 3" 3pelinie1pe1cover: true %}
     </div>
 </div>
 
 After you finished your royal visit, cross the street to take a <a id="boat_tour">boat tour</a> from the Ved Stranden station, also included in the Copenhagen Card. The tour is guided, and you will see some major attractions such as the Black Diamond library, the Opera, Nyhavn, and the Little Mermaid statue. This tour takes about an hour.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/DSCF1831_zbgp3z.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1831_zbgp3z.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1831_zbgp3z.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 4" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/DSCF1831_zbgp3z.webp alt: "Copenhagen 4" %}
  
 When you return to Ved Stranden, look in the canal for the <a id="Agnete_Statue">Agnete and the Merman Statue</a>. The bronze sculptures depict a merman and his seven children begging Agnete to return home. We found it creepy and interesting at the same time.
 
@@ -144,27 +123,11 @@ Head over to the  <a id="City_Hall_Square">City Hall Square</a>, one of the main
 
 Grab something to eat for breakfast from <a id="Torvehallerne_market">Torvehallerne market</a>. The duck sandwich from Ma Poule is to die for. Or if you prefer something sweet, try the porridge from Grød with homemade caramel sauce, roasted almonds, and fresh apples. Or better try them both.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605631/0003-2021-copenhaga/DSCF1502_hjmlbc.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605631/0003-2021-copenhaga/DSCF1502_hjmlbc.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605631/0003-2021-copenhaga/DSCF1502_hjmlbc.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 5" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
- 
+{% responsive_image path: assets/images/posts/copenhaga/DSCF1502_hjmlbc.webp alt: "Copenhagen 5" %}
+
 After breakfast, take your morning stroll inside the <a id="Botanical_Garden">Botanical Garden</a>, home of Denmark's largest collection of plants from all over the world, and maybe you'll be lucky to encounter a joyful squirrel. The visit inside the Victorian Palm House is included in the Copenhagen Card.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210911_152438_pmsfkf.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210911_152438_pmsfkf.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210911_152438_pmsfkf.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 6" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/IMG_20210911_152438_pmsfkf.webp alt: "Copenhagen 6" %}
 
 Next head to the <a id="Natural_History_Museum">Natural History Museum of Denmark</a>, located in the corner of the Botanical Garden. In the inner courtyard, you will see Agpalilik - one of the largest iron meteorites in the world, sitting on the same steel sleigh that was used to pull it free from the rocks in Northwestern Greenland.
 
@@ -174,15 +137,7 @@ Don't forget to stop and admire <a id="Frederiks_Church">Frederik's Church</a>, 
 
 For views over Copenhagen, 34.8 meters above the street to be exact, head over to the <a id="Round_Tower">Round Tower (Rundetaarn)</a>. The Round Tower was built to enable astronomers from the University of Copenhagen to gaze at the stars far above the lights and the smoke of the city and was finished in 1642. King Christian IV was advised to place it outside Copenhagen, but he wanted it in the middle of the city close to the rest of the university. The observatory is the oldest functioning in Europe. Inside the tower, you will also find The Hollow Core. You can stand on a glass floor and look 25 meters down. Spooky. Besides the observatory, the hollow core, and the spiral ramp that goes up to the platform, you can also see The Planetarium, The Library Hall, and The Bell Loft.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605707/0003-2021-copenhaga/DSCF1163_hvfg2z.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 7" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/DSCF1163_hvfg2z.webp alt: "Copenhagen 7" %}
 
 End your day with an evening full of joy at <a id="Tivoli_Gardens">Tivoli Gardens</a>, the second oldest amusement park in the world, opening its gates in 1843. Fairytale writer Hans Christian Andersen visited multiple times, as did Walt Disney who was so bewitched with Tivoli that he exclaimed to his wife: "Now this is what an amusement place should be!".
 The Copenhagen Card covers your entry, but if you wish to try the rides, you must purchase additional tickets or a multi-ride wristband.
@@ -196,15 +151,7 @@ The Copenhagen Card covers your entry, but if you wish to try the rides, you mus
 
 Begin your day with some good vibes on <a id="Amager_StrandPark">Amager StrandPark</a>, an artificial 2-kilometer-long beach, and a popular place for active Copenhageners. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/DSCF1559_j0msbq.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1559_j0msbq.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/DSCF1559_j0msbq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 8" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/DSCF1559_j0msbq.webp alt: "Copenhagen 8" %}
 
 Then head over to the <a id="Den_Bla_Planet">National Aquarium of Denmark, Den Blå Planet</a>. The ticket is not included in the Copenhagen Card and costs approximately 25 EUR/28 USD, but we thought it was worth it. Access to Den Blå Planet is limited and tickets must be purchased in their webshop for a designated timeslot. We saw some very interesting species, like Arapaima, a gigantic fish from the Amazon. They are among the world's largest freshwater fish, and they are really impressive. Another cool feature of this aquarium is that you can touch some of the animals. I touched a starfish and a stingray. 
 
@@ -212,15 +159,7 @@ From Kastrup metro station, you will reach Christianshavn in 20 minutes with M2.
 
 Close to the Church of Our Saviour, there is <a id="Freetown_Christiania">Freetown Christiania</a>, a community that has its own rules and regulations completely independent of the Danish government. You can find lots of information about Christiania online and it is described everywhere as a must-see attraction in Copenhagen. This is the reason I'm mentioning it, but I have to say that I didn't enjoy it at all. I didn't feel that hygge vibe that I felt in the rest of Copenhagen, it wasn't even clean, and I didn't feel safe, although everybody says that is a safe place, this is how I felt. Long story short, I find it funny that at the time of this article being written, Christiania has 24k reviews on Google with 4.4*, but one of the most iconic images of Copenhagen - the Little Mermaid statue - has only 15k reviews with 4.0*. Maybe it's because the tourists can't get stoned with the little mermaid.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1642605630/0003-2021-copenhaga/IMG_20210910_092256_qry4l9.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210910_092256_qry4l9.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload//w_1116,c_scale,f_auto/v1642605630/0003-2021-copenhaga/IMG_20210910_092256_qry4l9.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Copenhagen 9" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/IMG_20210910_092256_qry4l9.webp alt: "Copenhagen 9" %}
  
 Head to <a id="Ny_Carlsberg_Glyptotek">Ny Carlsberg Glyptotek</a> to enjoy a really beautiful art museum and to meet some Egyptian mummies. 
 
@@ -248,17 +187,11 @@ There were lots of other attractions we wanted to visit, but we just couldn't in
 You can choose Copenhagen for a 3-day city break to visit the major attractions, but this wonderful city is the kind of destination to return to.
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1642616690/0003-2021-copenhaga/pin-copenhagen-3days_qftven.webp" 
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 03" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/pin-copenhagen-3days_qftven.webp alt: "Copenhagen Pin 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1642616691/0003-2021-copenhaga/pin-copenhagen-3days-2_mszdqv.webp"
-            class="img-fluid img-thumbnail" alt="Copenhagen pin 04" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/pin-copenhagen-3days-2_mszdqv.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
 

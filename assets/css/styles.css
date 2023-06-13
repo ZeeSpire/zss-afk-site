@@ -87,6 +87,13 @@ h3 {
     padding: 0;
 }
 
+.img-article-3pelinie9pe16cover {
+    height: 632px;
+    width: 356px;
+    padding: 0;
+    object-fit: cover;
+}
+
 .img-article-2pelinie4pe5 {
     height: 819px;
     width: 546px;
@@ -141,6 +148,13 @@ h3 {
         height: 525.89px;
         width: 296px;
         padding: 0;
+    }
+
+    .img-article-3pelinie9pe16cover {
+        height: 525.89px;
+        width: 296px;
+        padding: 0;
+        object-fit: cover;
     }
 
     .img-article-2pelinie4pe5 {
@@ -200,6 +214,13 @@ h3 {
         padding: 0;
     }
 
+    .img-article-3pelinie9pe16cover {
+        height: 383.75px;
+        width: 216px;
+        padding: 0;
+        object-fit: cover;
+    }
+
     .img-article-2pelinie4pe5 {
         height: 504px;
         width: 336px;
@@ -255,6 +276,13 @@ h3 {
         height: 916.75px;
         width: 516px;
         padding: 0;
+    }
+
+    .img-article-3pelinie9pe16cover {
+        height: 916.75px;
+        width: 516px;
+        padding: 0;
+        object-fit: cover;
     }
 
     .img-article-2pelinie4pe5 {
@@ -317,6 +345,13 @@ h3 {
         height: auto;
         aspect-ratio: 9/16;
         padding: 0;
+    }
+
+    .img-article-3pelinie9pe16cover {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 9/16;
+        object-fit: cover;
     }
 
     .img-article-2pelinie4pe5 {

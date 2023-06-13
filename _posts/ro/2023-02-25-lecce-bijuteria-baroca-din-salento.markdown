@@ -7,7 +7,8 @@ front_page_title: Lecce - bijuteria barocă din Salento
 published: 25 Februarie 2023
 last_modified_at: 25 Februarie 2023
 keywords: Italia, travel, Lecce, Salento, turism
-description: Lecce, supranumită "Florența Sudului", este o bijuterie arhitecturală situată în Salento, Italia. Centrul istoric al orașului este renumit pentru clădirile sale în stil baroc cu ornamente complexe, realizate dintr-un calcar local de culoarea mierii, cunoscut sub numele de "pietra leccese". Dar este cunoscut și pentru atmosfera sa caldă, plină de viaţă și pentru bogăția culturală. Iată experiența noastră "leccese".
+description: Lecce, supranumită Florența Sudului, este o bijuterie arhitecturală situată în Salento, Italia. Centrul istoric al orașului este renumit pentru clădirile sale în stil baroc cu ornamente complexe, realizate dintr-un calcar local de culoarea mierii, cunoscut sub numele de pietra leccese. Dar este cunoscut și pentru atmosfera sa caldă, plină de viaţă și pentru bogăția culturală. Iată experiența noastră leccese.
+description_for_first_page: Lecce, supranumită "Florența Sudului", este o bijuterie arhitecturală situată în Salento, Italia. Centrul istoric al orașului este renumit pentru clădirile sale în stil baroc cu ornamente complexe, realizate dintr-un calcar local de culoarea mierii, cunoscut sub numele de "pietra leccese". Dar este cunoscut și pentru atmosfera sa caldă, plină de viaţă și pentru bogăția culturală. Iată experiența noastră "leccese".
 categories: [RO, Italia-RO]
 tag: RO
 permalink: /ro/lecce-bijuteria-baroca-din-salento/
@@ -107,9 +108,9 @@ A fost o zi de neuitat! Ceea ce ne-a impresionat cel mai mult la Lecce au fost c
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-1.webp alt: "Lecce Pin 01" pin: true ratio:2/3 %}
     </div>
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
-            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" fluid: true ratio:2/3 %}
+            {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

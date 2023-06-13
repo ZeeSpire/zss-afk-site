@@ -1,21 +1,29 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Frederiksborg Castle, Copenhagen
 title: Frederiksborg Castle - 1-day trip from Copenhagen
 front_page_title: Frederiksborg Castle - 1-day trip from Copenhagen
+
 published: 28 February 2022
 last_modified_at: 19 February 2022
+
 keywords: copenhagen, denmark, trip, visit, stay, Frederiksborg, castle
 description: Having a 5 days vacation in Copenhagen, we set out for a one-day trip outside the city to experience more of Denmark's beauties.
+
 categories: [EN, Denmark-EN]
 tag: EN
+
 permalink: /frederiksborg-castle-1-day-trip-from-copenhagen/
 permalink-to-next-language: 
-featured-image: # full size
-featured-image-top: # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg5_b3hre1.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
+
+featured-image:
+featured-image-top:
+featured-image-top-smaller:
+
+featured-image-primary: "/assets/resized/frederiksborg5_b3hre1-800x450.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/frederiksborg5_b3hre1-800x450.webp" # width - 600
 ---
 
  <div class="ratio ratio-16x9 mb-3">
@@ -28,14 +36,7 @@ We had to choose between lots of one-day trips, like visiting Kronborg Castle, t
 
 And we would have visited all of them if we stayed at least two weeks, but we had to choose only one. And the winner was... Frederiksborg Castle.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1646067684/0004-2022-copenhaga/frederiksborg1_woowdi.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg1_woowdi.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg1_woowdi.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Frederiksborg 1" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/frederiksborg1_woowdi.webp alt: "Frederiksborg 1" patrupetrei:true %}
 
 It's very easy to get there. From Copenhagen Central Station you take the S-train (line A) to Hillerød Station. In 45 minutes, you'll arrive. 
 
@@ -44,14 +45,7 @@ The train ticket is covered by Copenhagen Card. In this article, I've written mo
 Hillerød is approximately 35 km to the north of Copenhagen, and it is a charming little town with pedestrian streets full of shops, restaurants, and cafes.
 From Hillerød Station there is a 15 to 20 minutes walk to the castle (1.5 km). 
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1646067684/0004-2022-copenhaga/frederiksborg2_pxlnfh.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg2_pxlnfh.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg2_pxlnfh.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Frederiksborg 2" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/frederiksborg2_pxlnfh.webp alt: "Frederiksborg 2" %}
 
 Frederiksborg Castle is situated on the Slotssøen which means Castle Lake, it was built by King Christian IV in the early decades of the 17th century and is the largest Renaissance complex in the Nordic region.
 
@@ -64,52 +58,23 @@ Since 1878 Frederiksborg Castle has housed The Museum of National History, which
 
 An adult ticket costs 90 DKK which is approximately 12 EUR / 13.5 USD. The entry is free if you have the Copenhagen Card.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1646067685/0004-2022-copenhaga/frederiksborg3_jsuw6z.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg3_jsuw6z.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg3_jsuw6z.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Frederiksborg 3" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/frederiksborg3_jsuw6z.webp alt: "Frederiksborg 3" %}
 
 The visit wouldn't be complete without a walk through the Castle's Gardens. The gardens alone are worth a visit.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1646067684/0004-2022-copenhaga/frederiksborg4_cqpvqq.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg4_cqpvqq.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1646067684/0004-2022-copenhaga/frederiksborg4_cqpvqq.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Frederiksborg 4" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/frederiksborg4_cqpvqq.webp alt: "Frederiksborg 4" patrupetrei:true %}
 
 There is a symmetrically constructed Baroque Garden with perfectly straight hedges. There is also a romantic, English-style garden, where the small Bath House Castle is located. There are many small lakes and each one is unique and has its own beauty. You can also enjoy a delicious brunch at Cafe Havehuset located in the gardens. Here is their [menu]( https://cafehavehuset.dk/en/menu/){:target="_blank" rel="nofollow"}. 
 
 After a full, but very pleasant day, we returned to Copenhagen, and we kindly recommend to anyone who has a spare day to visit Frederiksborg Castle.
 
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1646067685/0004-2022-copenhaga/frederiksborg5_b3hre1.jpg" data-fslightbox="gallery">
-        <picture>
-            <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg5_b3hre1.webp" media="(max-width: 768px)" width="600px" height="100%">
-            <img src="https://res.cloudinary.com/afkology/image/upload/w_2000,c_scale,f_auto/v1646067685/0004-2022-copenhaga/frederiksborg5_b3hre1.webp" loading="lazy" class="img-fluid img-thumbnail" alt="Frederiksborg 5" width="1116px" height="100%"/>
-        </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/copenhaga/frederiksborg5_b3hre1.webp alt: "Frederiksborg 5" %}
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/castel2_u8gjx9.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/castel2_u8gjx9.webp alt: "Copenhagen Pin 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/castel1_ikpkmm.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/copenhaga/castel1_ikpkmm.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
-
-
