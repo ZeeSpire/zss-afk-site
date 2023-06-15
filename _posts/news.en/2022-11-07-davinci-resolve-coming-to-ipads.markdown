@@ -20,7 +20,7 @@ featured-image: "/assets/images/posts/news/DaVinci-Resolve-for-iPad-Color.webp" 
 featured-image-top: "/assets/images/posts/news/DaVinci-Resolve-for-iPad-Color.webp" # width - 1200
 featured-image-style: centered # can be left, centered, full-width
 
-featured-image-home: "/assets/resized/DaVinci-Resolve-for-iPad-Color-800x624.webp" # width - 600
+featured-image-home: "/assets/resized/DaVinci-Resolve-for-iPad-Color-600x600" # width - 600
 ---
 Blackmagic Design recently announced that they will launch Davinci Resolve on iPads. 
 
