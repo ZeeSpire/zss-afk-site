@@ -176,11 +176,11 @@ Biserica Santa Lucia alle Malve, dedicată iniţial Sfintei Agata, este primul a
 
 Treptele de lângă biserică te vor duce pe acoperișul bisericii unde se află o necropolă cu morminte săpate în stâncă. Când am fost noi acolo, nu erau semne sau panouri informative. Am observat mormintele doar pentru că citisem anterior despre ele pe internet. Probabil că dacă optezi pentru un tur ghidat al orașului vei afla mai multe informații.
 
-<div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
+<div class="row">
+    <div class="col-sm-6 text-center">
             {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-exterior.webp alt: "Chiesa di Santa Lucia alle Malve exterior, Matera, Italy" 2pelinie9pe16: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
+    <div class="col-sm-6 text-center">
             {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-necropolis.webp alt: "Chiesa di Santa Lucia alle Malve necropolis, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
@@ -190,11 +190,11 @@ După ce ai vizitat Chiesa di Santa Lucia alle Malve și necropola, mergi la [Ca
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bedroom.webp alt: "Casa Grotta del Casalnuovo bedroom, Matera, Italy" %}
 
-<div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
+<div class="row">
+    <div class="col-sm-6 text-center mt-3">
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-details.webp alt: "Casa Grotta del Casalnuovo details, Matera, Italy" 2pelinie9pe16: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
+    <div class="col-sm-6 text-center mt-3">
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bathroom.webp alt: "Casa Grotta del Casalnuovo bathroom, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
@@ -225,11 +225,11 @@ Prima clădire de pe acest sit datează din secolul al XIII-lea, dar fațada a c
 Aperitivul italienesc are loc de obicei înainte de cină. Este un moment pentru relaxare cu prietenii sau familia alături de o băutură și de o gustare.
 Am petrecut câteva momente incredibile pe terasa hotelului în care am stat (Palazzo degli Abati), numită [Crialoss Café](http://www.palazzodegliabati.it/crialoss/){:target="_blank" rel="nofollow"}, ce are o vedere spectaculoasă asupra Sasso Caveoso. Am sorbit dintr-un Aperol Spritz și am comandat o cină ușoară. Am optat pentru câteva mâncăruri locale, cum ar fi un trio de bruschete și Cialledda, care este o salată de castraveți, roșii, ceapă, pâine și ulei de măsline. Totul a fost proaspăt şi aromat. 
 
-<div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
+<div class="row">
+    <div class="col-sm-6 text-center">
             {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-aperol.webp alt: "Italian aperitivo - Aperol spritz" 2pelinie9pe16: true %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
+    <div class="col-sm-6 text-center">
             {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-bruschetta.webp alt: "Italian aperitivo - bruschetta" 2pelinie9pe16: true %}
     </div>
 </div>
