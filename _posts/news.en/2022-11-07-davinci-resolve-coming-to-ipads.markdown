@@ -3,7 +3,7 @@ layout: post.en
 type: post
 
 title: Davinci Resolve coming to iPads #up in browser, max 60 chars
-h1_title: Davinci Resolve #hidden, just for seo, must be different than title
+h1_title: Davinci Resolve for iPad #hidden, just for seo, must be different than title
 front_page_title: Davinci Resolve coming to iPads  #shows on the front page
 article_title: Davinci Resolve coming to iPads  #shows on article page
 
@@ -22,7 +22,7 @@ featured-image-style: centered # can be left, centered, full-width
 
 featured-image-home: "/assets/resized/DaVinci-Resolve-for-iPad-Color-600x600" # width - 600
 ---
-Blackmagic Design recently announced that they will launch Davinci Resolve on iPads. 
+Blackmagic Design recently announced that they will launch Davinci Resolve on iPad. 
 
 The video editing software we use will come to Apple iPads with M processors later this year (2022). It has the best color grading features in the world and competes with software such as Adobe Premiere Pro and Apple's Final Cut Pro.
 
@@ -30,9 +30,9 @@ From the screenshots they published it seems that it will come with the same fea
 
 What did Apple do? Will Blackmagic Design be the company that will boost iPad sales?
 
-The most important thing is that Davinci Resolve will be optimized for MultiTouch technology and Apple Pencil. DaVinci Resolve for iPad features support for cut and color pages providing access to DaVinci's award-winning image technology, color finishing tools, and the latest HDR workflows. It will also be optimized for performance for Apple Silicon, and will deliver 4x faster Ultra HD ProRes render performance on the new iPad Pro with M2.
+The most important thing is that Davinci Resolve will be optimized for MultiTouch technology and Apple Pencil. DaVinci Resolve features support for cut and color pages providing access to DaVinci's award-winning image technology, color finishing tools, and the latest HDR workflows. It will also be optimized for performance for Apple Silicon, and will deliver 4x faster Ultra HD ProRes render performance on the new iPad Pro with M2.
 
-Davinci Resolve for iPad will allow collaboration and favor mobility and it will have a free version as well as a paid studio version.
+Davinci Resolve will allow collaboration and favor mobility and it will have a free version as well as a paid studio version.
 
 For more information you can check the [press release](https://www.blackmagicdesign.com/media/release/20221020-02){:target="_blank" rel="nofollow"}.
 
