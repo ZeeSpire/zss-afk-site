@@ -1,21 +1,29 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Neversea 2022, Romania
 title: Neversea Festival, 2022 edition 
-front_page_title: Neversea Festival, 2022 edition 
+front_page_title: Neversea Festival, 2022 edition
+
 published: 11 July 2022
 last_modified_at: 16 July 2022
+
 keywords: constanta, romania, neversea, festival, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo, Ummet, Ozcan, W&W, ZHU
 description: Neversea Festival, edition 2022, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /neversea-festival-2022-edition/
 permalink-to-next-language: /ro/festivalul-neversea-editia-2022/
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1657566780/2022-neversea/neversea3_yuclp6.jpg" # full size
-featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_1600,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 1200
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1657566780/2022-neversea/neversea3_yuclp6.webp" # width - 600
-featured-image-style: full-width # can be left, centered, full-width
+
+featured-image: "/assets/images/posts/neversea/neversea3_yuclp6.webp" # full size
+featured-image-top: "/assets/resized/neversea3_yuclp6-1600x900.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/neversea3_yuclp6-800x450.webp" # width - 1200
+
+featured-image-primary: "/assets/resized/neversea3_yuclp6-800x450.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/neversea3_yuclp6-800x450.webp" # width - 600
 ---
 <span id="en">Last</span> weekend we participated in the fourth edition (July 7-10) of the Neversea festival on the Black Sea coast. So, here are my impressions of this year’s festival.
 
@@ -37,15 +45,7 @@ Inside the festival, there were many stalls where you could buy water, juices, b
 
 There were also quite a few food options consisting of food trucks that sold mainly burgers, French fries, pizza, pancakes, tacos, sandwiches, and even sushi (although there weren't many people that wanted sushi at the festival). To give you an idea, at the Cartofisserie stand a large portion of French fries cost 27.5 lei (5.5 euros) while in the mall you can find the same potatoes from the same Cartofisserie at 16.5 lei (3.35 euros). If you also wanted sauce with your potatoes, you had to add another 5.5 lei (1.1 euros) while in the mall the same sauce costs 4.4 lei (0.9 euros). The burger from Circus Pub cost 39 lei (7.9 euros) versus 31 lei (6.3 euros) the price in the restaurant, and the fries 15 lei versus 8 lei. I don't want to sound dissatisfied or discontented, because it seems normal that the prices will be higher at the festival than they normally are, especially since employees worked late into the night going the extra mile, the queues being quite long at most food trucks. Pancakes with various toppings cost around 22-28 lei, a small pizza cost between 30-50 lei, and tacos were about the same price. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1657566779/2022-neversea/neversea1_ygmf96.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1657566779/2022-neversea/neversea1_ygmf96.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1657566779/2022-neversea/neversea1_ygmf96.webp" class="img-fluid img-thumbnail" alt="Neversea 001" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/neversea/neversea1_ygmf96.webp alt: "Neversea"%}
 
 ### Instagram 
 
@@ -55,15 +55,7 @@ Neversea's Instagram page was updated daily with valuable information as the sta
 
 We chose to make the check-in online as well as the top-up of the bracelets with the desired amount of money. You cannot use cash or card at the festival. To buy drinks, food, clothes, and other things you use the bracelet on which you previously added money. It seemed easier and faster for us to do this online, otherwise, we could have stayed in long queues on the spot. You could get the money left on the bracelet back, online, by requesting a refund. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1657566781/2022-neversea/neversea6_idtsfo.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1657566781/2022-neversea/neversea6_idtsfo.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1657566781/2022-neversea/neversea6_idtsfo.webp" class="img-fluid img-thumbnail" alt="Neversea 005" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/neversea/neversea6_idtsfo.webp alt: "Neversea"%}
 
 ### The bracelet 
 
@@ -79,15 +71,7 @@ On their website, they posted information about the size of the bag/backpack you
 
 I saw on the news that some people were caught with drugs at the festival. I smelled weed when I went near the seashore, where it was dark. Inside the festival, we saw police dogs trained for drug detection, as well as police checks on the streets nearby. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1657566783/2022-neversea/neversea4_muspyb.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1657566783/2022-neversea/neversea4_muspyb.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1657566783/2022-neversea/neversea4_muspyb.webp" class="img-fluid img-thumbnail" alt="Neversea 003" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/neversea/neversea4_muspyb.webp alt: "Neversea"%}
 
 ### Overcrowding 
 
@@ -101,15 +85,7 @@ Also, about this subject, I have another mention. On the path between the Main S
 
 At first, I was not attracted by the names in the lineup. In February when I bought the tickets, I didn't know who will perform, and then I was a little disappointed with the final lineup. I knew I wanted to see Parov Stelar and Netsky. Well, I have to say I was pleasantly surprised. I liked the music on the smaller stages as well. On Sunday night I felt very good at Albwho on the Oasis stage, for example. Among the Romanian artists, I went to Carla's Dreams and Delia. I also really loved Parov Stelar. The most pleasant surprise was The Black Eyed Peas who, although they were late, did a super show, and made it worth the wait. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1657566779/2022-neversea/neversea5_fr4l6e.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1657566779/2022-neversea/neversea5_fr4l6e.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1657566779/2022-neversea/neversea5_fr4l6e.webp" class="img-fluid img-thumbnail" alt="Neversea 004" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/neversea/neversea5_fr4l6e.webp alt: "Neversea artists"%}
 
 ### Organization 
 
@@ -121,27 +97,13 @@ I liked the diversity of the stages, the music, and the atmosphere. And I think 
 
 In conclusion, at the Neversea festival, 2022 edition, we felt good, we liked it, we enjoyed it and if we have the opportunity we will definitely participate in the next editions as well. 
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1657566781/2022-neversea/neversea2_crfr9x.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1657566781/2022-neversea/neversea2_crfr9x.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1657566781/2022-neversea/neversea2_crfr9x.webp" class="img-fluid img-thumbnail" alt="Neversea 002" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/neversea/neversea2_crfr9x.webp alt: "Neversea"%}
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/never1_whjiob.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/neversea/never1_whjiob.webp alt: "Neversea pin 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/never2_zm790c.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/neversea/never2_zm790c.webp alt: "Neversea pin 02" pin: true ratio:2/3 %}
     </div>
 </div>

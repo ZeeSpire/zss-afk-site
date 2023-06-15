@@ -1,15 +1,20 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Valea Verde, Romania
 title: Valea Verde - a successful story of reviving a forgotten Transylvanian village
 front_page_title: Valea Verde - a successful story of reviving a forgotten Transylvanian village
+
 published: 30 December 2022
 last_modified_at: 30 December 2022
+
 keywords: truffle hunting, culinary experience, Romania, travel, Transylvania, Valea Verde, saxon village
 description: Valea Verde is located in Cund, a picturesque village in Mureş county, just 30 km from Sighişoara, 145 km from Braşov and 330 km from Bucharest.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village/
 permalink-to-next-language: /ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat/
 

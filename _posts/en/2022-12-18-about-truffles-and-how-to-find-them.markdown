@@ -1,15 +1,20 @@
 ---
 layout: post.en
 type: post
+
 h1_title: Truffle hunt, Romania
 title: About truffles and how to find them
 front_page_title: About truffles and how to find them
+
 published: 18 December 2022
 last_modified_at: 18 December 2022
+
 keywords: truffle hunting, culinary experience, Romania, travel, Transylvania
 description: How was the truffle hunt organized by Terra Carpatica, at the end of October 2022, in Buzau County, Romania.  
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /about-truffles-and-how-to-find-them/
 permalink-to-next-language: /ro/despre-trufe-si-gasirea-lor/
 

@@ -1,15 +1,20 @@
 ---
 layout: post.ro
 type: post
+
 h1_title: Vânătoare de trufe, Romania
 title: Despre trufe și găsirea lor
 front_page_title: Despre trufe și găsirea lor
+
 published: 18 Decembrie 2022
 last_modified_at: 18 Decembrie 2022
+
 keywords: vanatoare de trufe, experienta culinara, Romania, travel, Transilvania, Conacul Grigorescu
 description: Cum a fost vânătoarea de trufe organizată de Terra Carpatica, la sfârșitul lunii octombrie 2022, în județul Buzău, România.
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/despre-trufe-si-gasirea-lor/
 permalink-to-next-language: /about-truffles-and-how-to-find-them/
 

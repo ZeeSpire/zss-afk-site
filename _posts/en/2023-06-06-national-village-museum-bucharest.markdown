@@ -1,16 +1,21 @@
 ---
 layout: post.en
 type: post
+
 title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #up in browser, max 60 chars
 h1_title: Dimitrie Gusti National Village Museum in Bucharest #hidden, just for seo
 front_page_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #shows on the front page
 article_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #shows on article page
+
 published: 06 June 2023
 last_modified_at: 06 June 2023
+
 keywords: Bucharest, travel, park, open-air museum, what to visit, must-see attraction, Romanian villages
 description: The Dimitrie Gusti National Village Museum is undoubtedly a must-see attraction in Bucharest. The open-air museum is located on the banks of the Herăstrău lake, in the middle of the capital and represents an escape from the tumult of the city.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /national-village-museum-bucharest/
 permalink-to-next-language: /ro/muzeul-satului-dimitrie-gusti-bucuresti/
 

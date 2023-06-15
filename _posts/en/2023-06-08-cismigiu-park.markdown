@@ -1,17 +1,22 @@
 ---
 layout: post.en
 type: post
+
 title: Escape to Cişmigiu Garden, the oldest park in Bucharest #up in browser, max 60 chars
 h1_title: Cişmigiu Garden #hidden, just for seo
 front_page_title: Escape to Cişmigiu Garden, the oldest park in Bucharest  #shows on the front page
 article_title: Escape to Cişmigiu Garden, the oldest park in Bucharest  #shows on article page
+
 published: 08 June 2023
 last_modified_at: 08 June 2023
+
 keywords: Bucharest, travel, park, open-air museum, what to visit, must-see attraction
 description: Escape to Cişmigiu Garden, the oldest park in Bucharest. Serene lakes, lush landscapes, and tranquility await. Perfect for a peaceful retreat or romantic stroll #max 160 chars
 description_for_first_page: Serene lakes, lush landscapes, and tranquility await. Perfect for a peaceful retreat or romantic stroll. The Cişmigiu Garden is the oldest public garden in Bucharest, having been established more than 170 years ago by draining the pond in the respective area.
+
 categories: [EN, Romania-EN]
 tag: EN
+
 permalink: /cismigiu-garden/
 permalink-to-next-language: /ro/gradina-cismigiu/
 

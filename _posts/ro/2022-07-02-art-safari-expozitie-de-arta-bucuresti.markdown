@@ -1,35 +1,34 @@
 ---
 layout: post.ro
 type: post
+
 h1_title: Art Safari - ediția 9, România
 title: Art Safari - o expoziție temporară de artă în București - ediția 9
 front_page_title: Art Safari - o expoziție temporară de artă în București - ediția 9
+
 published: 02 Iulie 2022
 last_modified_at: 22 Noiembrie 2022
+
 keywords: art safari, bucuresti, romania, expozitie arta, muzeu
 description: Astăzi am fost pentru prima dată la Art Safari cu toate că evenimentul a ajuns anul acesta la ediția cu numărul 9. După vizita de astăzi probabil vom încerca să mergem la fiecare ediție deoarece ne-a plăcut foarte mult. O vizită la Art Safari este o modalitate bună de a petrece câteva ore de calitate în weekend.
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/
 permalink-to-next-language: /art-safari-a-temporary-art-exhibition-in-bucharest/
 
-featured-image: 
-featured-image-top: 
+featured-image:
+featured-image-top:
+featured-image-top-smaller:
 
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656776555/art-safari/art-safari-1_eaht3h.webp" # width - 600
+featured-image-primary: "/assets/resized/art-safari-1_eaht3h-600x772.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/art-safari-1_eaht3h-600x772.webp" # width - 600
 ---
 Astăzi am fost pentru prima dată la Art Safari cu toate că evenimentul a ajuns anul acesta la ediția cu numărul 9. După vizita de astăzi probabil vom încerca să mergem la fiecare ediție deoarece ne-a plăcut foarte mult.  
 O vizită la Art Safari este o modalitate bună de a petrece câteva ore de calitate în weekend.
 
-<!-- full width in article image -->
-<div class="col-sm-12 text-center mb-3 mt-3">
-    <a href="https://res.cloudinary.com/afkology/image/upload/v1656776680/art-safari/art-safari-2_n4ypzf.jpg" data-fslightbox="gallery">
-    <picture>
-        <source srcset="https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1656776680/art-safari/art-safari-2_n4ypzf.webp" media="(max-width: 768px)" width="600px" height="100%">
-        <img src="https://res.cloudinary.com/afkology/image/upload/w_1116,c_scale,f_auto/v1656776680/art-safari/art-safari-2_n4ypzf.webp" class="img-fluid img-thumbnail" alt="Art Safari 001" loading="lazy" width="1116px" height="100%"/>
-    </picture>
-    </a>
-</div>
+{% responsive_image path: assets/images/posts/art-safari/art-safari-2_n4ypzf.webp alt: "Art Safari" fluid:true ratio:1116/516 %}
 
 Pentru cea de-a noua ediție, există 5 expoziții diferite care pot fi vizitate până pe 7 august 2022.
 
@@ -52,31 +51,16 @@ Pavilionul Invitat
 **Barbara Klemm**  <br />
 **Light and Dark. Photographs from Germany**   <br />
 Pavilionul Aniversar
-<!-- gallery -->
+
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765898834_e7sitf.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765898834_e7sitf.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
-            </picture>
-        </a>
-    </div>
-     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656764973819_e30uha.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656764973819_e30uha.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/art-safari/1656765898834_e7sitf.webp alt: "Art Safari" tall: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656789367/art-safari/1656765409878_ja19oj.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656789367/art-safari/1656765409878_ja19oj.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/art-safari/1656764973819_e30uha.webp alt: "Art Safari" tall: true %}
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
+            {% responsive_image path: assets/images/posts/art-safari/1656765409878_ja19oj.webp alt: "Art Safari" tall: true %}
     </div>
 </div>
 
@@ -90,30 +74,14 @@ Exponatele sunt foarte bine puse în evidență datorită luminii deosebite care
 
 Actualizare: Am vizitat de asemenea ediția numărul 10. Impresiile noastre [aici](/ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10/).
 
-<!-- gallery -->
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776890/art-safari/art-safari-5_itnoc3.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776890/art-safari/art-safari-5_itnoc3.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776890/art-safari/art-safari-5_itnoc3.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 01" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/art-safari/art-safari-5_itnoc3.webp alt: "Art Safari" tall: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776891/art-safari/art-safari-6_n1hl2f.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776891/art-safari/art-safari-6_n1hl2f.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776891/art-safari/art-safari-6_n1hl2f.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 02" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/art-safari/art-safari-6_n1hl2f.webp alt: "Art Safari" tall: true %}
     </div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        <a href="https://res.cloudinary.com/afkology/image/upload/v1656776889/art-safari/art-safari-4_cbkvpt.jpg" data-fslightbox="gallery">
-            <picture>
-                <source srcset="https://res.cloudinary.com/afkology/image/upload/w_350,c_scale,f_auto/v1656776889/art-safari/art-safari-4_cbkvpt.webp" media="(min-width: 768px)" width="350px" height="100%">
-                <img src="https://res.cloudinary.com/afkology/image/upload/w_510,c_scale,f_auto/v1656776889/art-safari/art-safari-4_cbkvpt.webp" loading="lazy" class="post-gallery-image-4-5 img-thumbnail" alt="Nor 03" width="510px" height="100%"/>
-            </picture>
-        </a>
+            {% responsive_image path: assets/images/posts/art-safari/art-safari-4_cbkvpt.webp alt: "Art Safari" tall: true %}
     </div>
 </div>
