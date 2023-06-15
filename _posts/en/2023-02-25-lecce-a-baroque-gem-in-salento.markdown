@@ -10,7 +10,7 @@ published: 25 February 2023
 last_modified_at: 25 February 2023
 
 keywords: Italy, travel, Lecce, Salento, Puglia, tourism
-description: Lecce, also known as the "Florence of the South", is an architectural gem situated in Salento, Italy. The historic center of Lecce is famous for its intricate Baroque buildings made from the local honey-colored limestone known as "pietra leccese", which has a soft, warm color. But it is also known for its atmosphere of warmth, liveliness, and cultural richness. Check out our "leccese" experience.
+description: Lecce, also known as the Florence of the South, is an architectural gem situated in Salento, Italy. The historic center of Lecce is famous for its intricate Baroque buildings made from the local honey-colored limestone known as pietra leccese, which has a soft, warm color. But it is also known for its atmosphere of warmth, liveliness, and cultural richness. Check out our leccese experience.
 
 categories: [EN, Italy-EN]
 tag: EN
