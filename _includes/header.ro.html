@@ -145,6 +145,17 @@
 <main class="flex-shrink-0">
   <body class="d-flex flex-column h-100">
     <div class="container">
+      <div class="row">
+        <div class="col text-end">
+          {% if page.permalink-to-next-language %} 
+          <a class="ps-4 mb-2" href="{{ page.permalink-to-next-language }}">
+          {% else %}
+          <a class="ps-4 mb-2" href="/">
+          {% endif %}
+            <img id="lang-selector" class="img-fluid" src="/assets/images/helper/en_ntuxlj.webp" style="width:25px; height:17px" alt="en flag">
+          </a>
+        </div>
+      </div>
       <div class="row" >
         <div class="col-12 text-center">
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -152,13 +163,13 @@
               style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
                 src="{{ site.logo }}" alt="{{ site.title }}" /></a>
 
-            {% if page.permalink-to-next-language %} 
+            <!-- {% if page.permalink-to-next-language %} 
               <a class="hide-on-collapse" href="{{ page.permalink-to-next-language }}">
             {% else %}
               <a class="hide-on-collapse" href="/">
             {% endif %}
               <img id="lang-selector" class="img-fluid" src="/assets/images/helper/en_ntuxlj.webp" style="width:25px; height:17px" alt="en flag">
-            </a>
+            </a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
               aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
