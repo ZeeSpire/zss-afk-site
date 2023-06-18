@@ -21,7 +21,7 @@ permalink-to-next-language: /ro/muzeul-satului-dimitrie-gusti-bucuresti/
 
 featured-image: "/assets/images/posts/muzeul-satului/muzeul-satului-roman-2.webp" # full size, poate fi empty daca featured-image-top e empty
 featured-image-top: "/assets/resized/muzeul-satului-roman-2-1600x900.webp" # prima poza din articol, poate fi empty
-featured-image-top-smaller: "/assets/resized/muzeul-satului-roman-2-800450.webp" # prima poza din articol, poate fi empty
+featured-image-top-smaller: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # prima poza din articol, poate fi empty
 
 featured-image-primary: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina square
