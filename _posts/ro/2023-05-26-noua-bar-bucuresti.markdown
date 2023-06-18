@@ -37,6 +37,7 @@ Deşi restaurantul a fost deschis la finalul anului 2022, noi i-am făcut o vizi
 Meniul se schimbă constant. Atât preparatele, cât şi preţurile. Pentru a-ţi face o idee, la micul dejun am putut opta între 5 variante (59 RON) sau 7 variante (77 RON) din aproximativ 20 de variante disponibile din diferite categorii: brutărie, lactate, verdeţuri, proteine, dulciuri.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-breakfast.webp alt: "Noua BAR breakfast" %}
+{% include in-article-ad.html %}
 
 Noi am ales:
 1. Coş cu două tipuri de pâine (pâine cu maia şi foccacia) şi unt, dar nu orice fel de unt, ci un unt bătut, cremos şi aerat care se întindea uşor pe pâinea caldă şi se topea în gură.
@@ -66,6 +67,7 @@ Ce ne-a impresionat cel mai mult, în afară de mâncare, despre care am stabili
 Micul acesta dejun ne-a ridicat nivelul de serotonină pentru întreaga zi. 
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-11.webp ratio: 1116/424 alt: "Noua BAR detail" fluid: true  %}
+{% include in-article-ad.html %}
 
 Am fost de cateva ori si la cină la Noua B.A.R. La prânz şi cină, meniul este diferit. Poţi alege chiar şi un singur fel, fiecare fel de mâncare având preţul său. Repet, meniul şi preţurile se schimbă destul de des din ce mi-am putut da seama. Aşadar, la finalul lunii mai 2023 când am trecut noi pragul restaurantului, un preparat din categoria "înainte de toate" costa 37 RON, un preparat din categoria "pentru început" costa 45 RON, un fel principal din categoria "să continue iar și iar" costa 58 RON, iar un desert costa 34 RON.
 
@@ -82,6 +84,7 @@ Am continuat cu o porţie de mici făcuţi din carne de vită-oaie în crustă d
 Deoarece suntem mari fani burrata de când am călătorit prin Puglia (vor veni articole şi de-acolo), am comandat şi burrata de casă cu salată de la Grădina Corbilor. A fost deosebită şi am apreciat-o. Se vedea că este de casă, casă românească. Nu era ca cea din Italia, dar era mai aproape de noi, de ce mâncăm noi, probabil de la laptele folosit.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-10.webp alt: "Noua BAR buratta" %}
+{% include in-article-ad.html %}
 
 Şi am continuat cu un burger reinterpretat, dar şi cu o porţie generoasă de şniţel de pui cu sos de ciuperci şi salată verde.
 Totul a fost bun, sărat, aromat, gustos. Iar şniţelul era crocant, aşa cum trebuie să fie orice şniţel.
@@ -98,6 +101,7 @@ Pudra verde presărată peste prăjitură sunt verdeţuri (mărar, pătrunjel, l
 Iar sosul a fost un sirop făcut doar din căpşune (fără zahăr) şi a fost adăugat după ce am ascultat întreaga poveste a preparatului pentru o notă de spectaculozitate.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-3.webp alt: "Noua BAR icecream" %}
+{% include in-article-ad.html %}
 
 Dacă ar fi să aleg doar un desert din cele trei, nu aş putea. Toate mi-au plăcut. Totul a fost desăvârşit.
 
@@ -115,3 +119,4 @@ Cu siguranţă am reveni pentru că iubim mâncarea, iar mâncarea de la Noua B.
             {% responsive_image path: assets/images/posts/noua-bar/noua-bar-6.webp alt: "Noua BAR 4" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}

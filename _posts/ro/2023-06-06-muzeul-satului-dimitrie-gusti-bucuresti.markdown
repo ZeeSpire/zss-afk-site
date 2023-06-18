@@ -30,6 +30,7 @@ Deschiderea oficială a Muzeului Satului a avut loc la data de 10 mai 1936, în 
 În interiorul muzeului se găsesc, printre exponate, hărţi, panouri informative, toalete, bănci, un restaurant unde îţi poţi reîncărca bateriile şi un magazin cu suveniruri. De asemenea, noi ne-am bucurat de prezenţa unor pisici, unele plictisite, altele jucăuşe, precum şi de cea a unei broaşte ţestoase care se plimba prin iarbă. Am văzut inclusiv casa ilustrată pe bancnota de 10 lei.
 
 {% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 1" %}
+{% include in-article-ad.html %}
 
 O listă a gospodariilor cu informaţii despre fiecare poate fi găsită chiar pe [site-ul muzeului](https://muzeul-satului.ro/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/){:target="_blank" rel="nofollow"}.
 
@@ -41,3 +42,4 @@ Noi am alocat o ora şi 30 de minute pentru această vizită, dar puteam petrece
 Muzeul Naţional al Satului "Dimitrie Gusti" reprezintă fără îndoială o atracţie de neratat în Bucureşti.
 
 {% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 3" %}
+{% include in-article-ad.html %}

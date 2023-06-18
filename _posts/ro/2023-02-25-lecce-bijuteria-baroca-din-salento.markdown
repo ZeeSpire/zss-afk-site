@@ -26,6 +26,7 @@ Lecce este situat în regiunea Salento, la 150 de kilometri de Bari, la 40 de ki
 Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric este restricționat, dar și pentru că ne-am dorit să găsim cât mai ușor un loc de parcare, am optat pentru o cazare în afara centrului vechi al orașului. Am înnoptat în acest apartament drăguț, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, deținut de Maria Luisa, care a fost o gazdă extraordinară și ne-a oferit o mulțime de recomandări despre ce să vedem în oraș sau unde să mâncăm.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
+{% include in-article-ad.html %}
 
 
 Trebuie să recunoaștem totuși că ne-ar fi plăcut să stăm într-unul dintre aceste hoteluri luxoase din inima orașului Lecce:
@@ -37,11 +38,11 @@ Trebuie să recunoaștem totuși că ne-ar fi plăcut să stăm într-unul dintr
 Am petrecut doar o zi în acest loc vibrant, turistic, plin de istorie și regretăm că nu am putut sta mai mult pentru că ne-a plăcut foarte mult timpul petrecut aici. Practic, ne-am plimbat pe străzile din "centro storico", am intrat în biserici (deschise până târziu) și am vizitat muzee. Dar cea mai plăcută activitate pe care o poţi face în Lecce este să stai pe o terasă, să mănânci brânzeturi locale și să admiri piețele pline de turiști și localnici care socializează.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-baroque-building.webp alt: "Lecce, Salento, Italy - Baroque" %}
+{% include in-article-ad.html %}
 
 O plimbare prin centrul istoric este o călătorie prin timp și cultură. Străzile înguste își croiesc drum printr-un labirint de clădiri în stil baroc pline de sculpturi complicate și balcoane ornamentate.
 
 Am început ziua cu o cafea leccese, care este o băutură tradițională făcută cu espresso, lapte de migdale și zahăr sau miere și este adesea servită cu gheață. Laptele de migdale folosit în rețetă este de obicei făcut din migdale proaspăt măcinate, dând cafelei o aromă cremoasă de nucă. Caffe Leccese este o băutură locală populară și poate fi găsită în cafenelele și restaurantele din Lecce și din regiunea înconjurătoare.
-
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
@@ -54,6 +55,7 @@ Am început ziua cu o cafea leccese, care este o băutură tradițională făcut
             {% responsive_image path: assets/images/posts/lecce/lecce-balcony.webp alt: "Lecce, Salento, Italy - Balcony" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 În timp ce te plimbi pe străzi, vei trece pe lângă piețe pline de viață, unde localnicii și turiștii se adună deopotrivă pentru a savura cafea, a mânca gelato și a se bucura de atmosferă. În aer răsună sunetul clopotelor de la biserică și zumzetul oamenilor care își desfășoară viața de zi cu zi. La fiecare colț de stradă dai peste o nouă surpriză, fie că este o curte ascunsă, o biserică veche de secole sau un mic magazin care vinde suveniruri lucrate manual.
 
@@ -78,6 +80,7 @@ Basilica di Santa Croce - o biserică uimitoare din secolul al XVII-lea, cu scul
             {% responsive_image path: assets/images/posts/lecce/lecce-basilica-di-santa-croce-3.webp alt: "Lecce, Salento, Italy - Basilica di Santa Croce Interior 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Amfiteatrul Roman - o arenă bine conservată, folosită pentru jocuri cu gladiatori și alte evenimente publice.
 
@@ -102,7 +105,7 @@ Am încheiat ziua cu un aperitiv tipic din Salento la Bottega del Corso. Am fi p
 </div>
 
 {% responsive_image path: assets/images/posts/lecce/lecce-aperitivo-4.webp alt: "Lecce, Salento, Italy - Aperitivo 4" %}
-
+{% include in-article-ad.html %}
 
 A fost o zi de neuitat! Ceea ce ne-a impresionat cel mai mult la Lecce au fost clădirile în culori calde și atmosfera primitoare din tot orașul. Nu e de mirare că Lecce este considerat unul dintre cele mai frumoase orașe din Italia.
 
@@ -114,3 +117,4 @@ A fost o zi de neuitat! Ceea ce ne-a impresionat cel mai mult la Lecce au fost c
             {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

@@ -31,6 +31,7 @@ We went there by car and because the access to the historic center is restricted
 owned by Maria Luisa who was an amazing host and gave us lots of recommendations on what to see in the city or where to eat.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
+{% include in-article-ad.html %}
 
 We have to admit though that we would have liked to stay in one of these luxurious hotels in the heart of Lecce:
 
@@ -41,6 +42,7 @@ We have to admit though that we would have liked to stay in one of these luxurio
 We only spent one day in this vibrant, touristy, steeped-in history place, and we regret that we couldn't stay longer because we really enjoyed the time here. Basically, we strolled through the streets of the "centro storico", entered churches (open until late), and visited museums. But the most pleasant activity is to sit on a terrace, eat local cheeses, and admire the bustling piazzas full of tourists and locals having a good time. 
 
 {% responsive_image path: assets/images/posts/lecce/lecce-baroque-building.webp alt: "Lecce, Salento, Italy - Baroque" %}
+{% include in-article-ad.html %}
 
 A walk through the historical center of Lecce is a journey through time and culture. The narrow streets wind their way through a maze of Baroque buildings with intricate carvings and ornate balconies.
 
@@ -58,6 +60,7 @@ We started the day with a caffe leccese which is a traditional coffee beverage m
             {% responsive_image path: assets/images/posts/lecce/lecce-balcony.webp alt: "Lecce, Salento, Italy - Balcony" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 As you stroll through the streets, you'll pass by bustling piazzas, where locals and tourists alike gather to sip coffee, eat gelato, and soak up the atmosphere. The air is filled with the sound of church bells ringing and the chatter of people going about their daily lives. Every street corner seems to hold a new surprise, whether it's a hidden courtyard, a centuries-old church, or a quaint shop selling handmade souvenirs.
 
@@ -82,6 +85,7 @@ Basilica di Santa Croce - a stunning 17th-century church with elaborate stone ca
             {% responsive_image path: assets/images/posts/lecce/lecce-basilica-di-santa-croce-3.webp alt: "Lecce, Salento, Italy - Basilica di Santa Croce Interior 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Roman Amphitheatre - a well-preserved ancient arena used for gladiator games and other public events.
 
@@ -106,7 +110,7 @@ We ended the day with a typical aperitif from Salento at La Bottega del Corso. W
 </div>
 
 {% responsive_image path: assets/images/posts/lecce/lecce-aperitivo-4.webp alt: "Lecce, Salento, Italy - Aperitivo 4" %}
-
+{% include in-article-ad.html %}
 
 It was a day to remember! What impressed us the most in Lecce were the buildings with their warm and golden colors and the inviting atmosphere throughout the town. No wonder Lecce is considered one of the most beautiful cities in Italy.
 
@@ -118,3 +122,4 @@ It was a day to remember! What impressed us the most in Lecce were the buildings
             {% responsive_image path: assets/images/posts/lecce/lecce-pin-2.webp alt: "Lecce Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

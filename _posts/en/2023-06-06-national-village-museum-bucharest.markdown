@@ -36,6 +36,7 @@ The official opening of the Village Museum took place on the 10th of May, 1936, 
 Inside the museum, there are, among the actual exhibits, maps, information boards, toilets, benches, a restaurant where you can recharge your batteries, and a souvenir shop. We also enjoyed the presence of some cats, some bored, others playful, as well as that of a turtle walking through the grass. We also saw the house illustrated on the 10 RON banknote.
 
 {% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-3.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 1" %}
+{% include in-article-ad.html %}
 
 A list of households with information about each one can be found right on [the museum website](https://muzeul-satului.ro/en/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/){:target="_blank" rel="nofollow"}.
 
@@ -46,4 +47,4 @@ We allocated an hour and 30 minutes for this visit, but we could have spent much
 The "Dimitrie Gusti" National Village Museum is undoubtedly a must-see attraction in Bucharest.
 
 {% responsive_image path: assets/images/posts/muzeul-satului/muzeul-satului-roman-4.webp alt: "Muzeul National al Satului Dimitrie Gusti din Bucuresti 3" %}
-
+{% include in-article-ad.html %}

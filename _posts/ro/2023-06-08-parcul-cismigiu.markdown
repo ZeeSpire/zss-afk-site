@@ -42,6 +42,7 @@ Parcul se află în centrul Bucureştiului, aproape de Palatul Regal care găzdu
 Pe timpul verii, te poţi plimba cu barca pe lacul Cişmigiu, iar în timpul iernii, poţi merge la patinoar. De asemenea, există locuri de joacă pentru copii, o zonă specială pentru câini și multe altele.
 
 {% responsive_image path: assets/images/posts/cismigiu-park/a-flower-from-cismigiu-park.webp alt: "O floare deosebita din Parcul Cismigiu" %}
+{% include in-article-ad.html %}
 
 Putem aprecia că este un parc cu multe specii de plante, arbori şi arbuşti. Am admirat îndelung glicinele, în mai, când înfloresc, dar şi un Ginkgo Biloba.
 
@@ -58,8 +59,11 @@ Varianta nr. 2:
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Pa3HHX7K61g" title="Cismigiu Park version 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 
 Ce părere ai? Care dintre cele două variante este pe placul tău? Haide pe <a  href="{{ site.instagram }}" target="_blank"><img src = "/assets/images/helper/instagram.svg" alt="instagram"/></a> sau <a href="{{ site.facebook }}" target="_blank"><img src = "/assets/images/helper/facebook.svg"  alt="facebook"/></a> şi interacţionează cu noi. 
 
 Ah, era să uit. Răspunsul corect este C.
+
+{% include in-article-ad.html %}

@@ -46,6 +46,7 @@ The landscaper of German origin Carl Friedrich Wilhelm Meyer, who also worked on
 During the summer, you can go boating on the Cişmigiu Lake, and during the winter, you can go to the ice rink. Also, there are playgrounds for children, a special area for dogs, and many more.
 
 {% responsive_image path: assets/images/posts/cismigiu-park/a-flower-from-cismigiu-park.webp alt: "A nice flower from Cismigiu Park" %}
+{% include in-article-ad.html %}
 
 We can appreciate that it is a park with many species of plants, trees, and shrubs. We admired the wisterias, in May, when they bloom, but also the Ginkgo Biloba tree.
 
@@ -62,7 +63,10 @@ Option 2:
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Pa3HHX7K61g" title="Cismigiu Park version 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 What do you think? Which of the two options do you prefer? Interact with us on <a  href="{{ site.instagram }}" target="_blank"><img src = "/assets/images/helper/instagram.svg" alt="instagram"/></a> or <a href="{{ site.facebook }}" target="_blank"><img src = "/assets/images/helper/facebook.svg" alt="facebook"/></a>.
 
 Ah, it was about to slip my mind. The correct answer is C.
+
+{% include in-article-ad.html %}

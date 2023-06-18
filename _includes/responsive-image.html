@@ -66,16 +66,11 @@
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="/{{ path }}" data-fslightbox="gallery">
     <picture>
-        {% for i in resized %}
-            <source srcset="/{{ i.path }}" media="(max-width: {{ i.width }}px)" >
-        {% endfor %}
-        
-        {% if resized[2].path %}
-        <img src="/{{ resized[2].path }}" loading="lazy" class="img-article-3pelinie16pe9" alt="{{ alt }}" />
+        {% if resized[0].path %}
+        <img src="/{{ resized[0].path }}" loading="lazy" class="img-article-3pelinie16pe9" alt="{{ alt }}" />
         {% else %}
         <img src="/{{ path }}" loading="lazy" class="img-article-3pelinie16pe9" alt="{{ alt }}" />
         {% endif %}
-
     </picture>
     </a>
 </div>
@@ -161,12 +156,11 @@
 <div class="col-sm-12 text-center mb-3 mt-3">
     <a href="/{{ path }}" data-fslightbox="gallery">
     <picture>
-        {% if resized[2].path %}
+        {% if resized[0].path %}
         <img src="/{{ resized[0].path }}" style=" width: 100%; height: auto; aspect-ratio: {{ratio}};" loading="lazy" alt="{{ alt }}"  />
         {% else %}
         <img src="/{{ path }}" loading="lazy" style="width: 100%; height: auto; aspect-ratio: {{ratio}};"  alt="{{ alt }}" />
         {% endif %}
-        
     </picture>
     </a>
 </div>

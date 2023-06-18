@@ -58,7 +58,7 @@ Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.
 
 <div class="row mb-4">
    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
-        {% responsive_image path: assets/images/posts/athens/temple-of-athena-nike-acropolis-athens.webp alt: "Temple of Athena Nike Acropolis Athens"  3pelinie16pe9: true %}
+        {% responsive_image path: assets/images/posts/athens/temple-of-athena-nike-acropolis-athens.webp alt: "Temple of Athena Nike Acropolis Athens" 3pelinie16pe9: true %}
         <div class="text-muted text-center"><small>Templul Atenei Nike</small></div>
     </div>
      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">
