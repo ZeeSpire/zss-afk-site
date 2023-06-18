@@ -58,19 +58,19 @@ Cei de la Valea Verde propun un meniu pentru schimbare. Mai precis, un meniu pen
 - susţinem conceptul de Slow Food, încuranjându-i pe ceilalţi să înveţe despre mâncarea bună, curată şi corectă."
 
 <div class="row mb-4">
-  <div class="col-xs-12 col-sm-12 col-md mt-2">
+  <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Cina Valea Verde 1" cincipelinie: true %}
     </div>
-      <div class="col-xs-12 col-sm-12 col-md mt-2">
+      <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Cina Valea Verde 2" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Cina Valea Verde 3" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Cina Valea Verde 4" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Cina Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>

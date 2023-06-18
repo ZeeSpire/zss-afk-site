@@ -57,6 +57,7 @@ Am stat două nopți în hotelul-boutique [Palazzo degli Abati](https://www.book
 Un alt lucru pe care vreau să-l subliniez este că ori de câte ori vei vedea cuvântul "chiesa" în acest articol, trebuie să ști că "chiesa" înseamnă "biserică" în italiană.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
+{% include in-article-ad.html %}
 
 Dar să revenim la [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, care aparent datează din 1756 și care a fost restaurat cu grijă și transformat într-un hotel de 4 stele. Ne-am dorit să stăm într-o peșteră, aceasta fiind în sine o experiență memorabilă. Așa că am rezervat camera "Suite in Cave – U Firn du Cidd" care ne-a depășit așteptările. Această încăpere a servit anterior drept cuptor, după cum ne spune și numele camerei, "U Firn du Cidd" care se traduce prin "Cuptorul catârului". În pereții grotei, am putut admira fosile marine despre care am aflat că sunt reale și că datează de acum 2 milioane de ani. Dar piesa de rezistență a fost podeaua de sticlă prin care puteam vedea descoperirile arheologice pe care a fost construit anterior cuptorul. De asemenea, priveliștea de pe terasa unde am luat micul dejun este uluitoare.
 
@@ -92,6 +93,7 @@ Este una dintre cele mai mari și mai importante cisterne din zonă și este con
 Astăzi, [Palombaro Lungo](https://www.palombarolungo.it/index.htm){:target="_blank" rel="nofollow"}  este o atracție turistică populară și un simbol al ingeniozității și inventivității oamenilor care au locuit în Sassi. Vizitatorii pot explora cisterna și pot admira caracteristicile sale arhitecturale, inclusiv camerele subterane și rețeaua de tuneluri și canale care au fost folosite pentru colectarea și distribuirea apei.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palombaro-lungo.webp alt: "Palombaro Lungo, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 5. Chiesa di San Giovanni Battista
 Situată în Piazza San Giovani, la doar 170 m de Palombaro Lungo, această biserică a fost prima structură sacră construită în afara zidurilor orașului. A fost construită în secolul al XIII-lea și a suferit mai multe modificări de-a lungul secolelor.
@@ -104,6 +106,7 @@ Am dat din întâmplare peste această [casă](https://www.anticamatera.it/){:ta
 "Casa grotta" se referă la acest tip de case-muzeu care pot fi vizitate în Sassi. Acesta este doar una dintre ele. Continuă să citeşti pentru a afla mai multe.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-c-era-una-volta.webp alt: "Casa grotta C'era una volta, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 7. Chiesa di San Pietro Barisano
 Biserica San Pietro Barisano reprezintă una dintre cele mai mari așezări monahale rupestre din orașul Matera. Fațada centrală este singura parte care poate fi observată din exterior. Biserica are o clopotniță care a fost construită după ultima restaurare din 1755. Spațiile subterane ale bisericii merită văzute și au o istorie interesantă care implică drenarea cadavrelor.
@@ -124,6 +127,7 @@ Poţi lua o pauză de la toate acestea luând ceva local de mâncare, cum ar fi 
             {% responsive_image path: assets/images/posts/matera/matera-italy-street-3.webp alt: "Matera, Italy - Streets 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 În timp ce te plimbi pe străzile întortocheate, unele urcând, altele coborând, ai șansa să descoperi în drumul tău și alte obiective turistice. Ca de exemplu, Fontana dell'Amore.
 
@@ -148,6 +152,7 @@ Biserica Sfânta Maria din Idris cunoscută și sub numele de Madonna de Idris e
 La doar o aruncătură de băț de Madonna de Idris, se află Piazza San Pietro, unde se află Biserica San Pietro Caveoso, cunoscută și sub numele de Chiesa di San Pietro e Paolo. Biserica, construită în 1218 în stil baroc, a suferit mai multe renovări și restaurări de-a lungul secolelor, dar o mare parte din structura sa originală și caracteristicile arhitecturale au fost păstrate, făcând-o un sit istoric și cultural valoros.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-san-pietro-caveoso.webp alt: "Chiesa di San Pietro Caveoso, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 După ce ai admirat priveliștile din Piazza San Pietro, ia-o pe strada Vico Solitario, unde vei găsi în mai puțin de 150 de metri Chiesa rupestre di Sant'Agostino al Casalnuovo și chiar lângă ea, Casa Grotta nei Sassi di Matera.
 
@@ -171,6 +176,7 @@ Casa istorică este acum un muzeu și este deschisă publicului. Vizitatorii pot
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-di-vico-solitario-3.webp alt: "Casa Grotta di Vico Solitario interior 3, Matera, Italy" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 După încă 100 de metri vei ajunge la Chiesa di Santa Lucia alle Malve.
 
@@ -201,6 +207,7 @@ După ce ai vizitat Chiesa di Santa Lucia alle Malve și necropola, mergi la [Ca
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bathroom.webp alt: "Casa Grotta del Casalnuovo bathroom, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ### 16. Chiesa del Purgatorio
 Chiesa del Purgatorio este numită după doctrina catolică a Purgatoriului, despre care se crede că este o stare de purificare după moarte, în care sufletele se supun penitenței pentru a fi curățate de păcate înainte de a putea intra în rai. Construită în secolul al XVIII-lea, biserica este împodobită de cranii și schelete. Scheletele au rolul de a reaminti importanța de a duce o viață bună, precum și a ideii de viață de apoi și a nevoii de purificare. Scheletele servesc și ca exemplu de artă macabră și simbolism religios.
@@ -236,6 +243,7 @@ Am petrecut câteva momente incredibile pe terasa hotelului în care am stat (Pa
             {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-bruschetta.webp alt: "Italian aperitivo - bruschetta" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ### 19. Admiră priveliștea de la Mănăstirea Sfântului Agostino
 Chiar dacă poți vizita interiorul Bisericii Rupestre San Giuliano (sec. XV), dar și mănăstirea Sfântului Agostino, acesta este de fapt unul dintre cele mai bune puncte de belvedere asupra Materei. Este un loc ce nu trebuie ratat pentru fotografii perfecte la apus.
@@ -273,3 +281,4 @@ Ruta 2:
             {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

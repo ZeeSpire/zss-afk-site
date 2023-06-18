@@ -65,19 +65,19 @@ The team from Valea Verde proposes a menu for a change. More precisely, a menu t
 and we raise against climate change!"
 
 <div class="row mb-4">
-  <div class="col-xs-12 col-sm-12 col-md mt-2">
+  <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-1.webp alt: "Dinner at Valea Verde 1" cincipelinie: true %}
     </div>
-      <div class="col-xs-12 col-sm-12 col-md mt-2">
+      <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-3.webp alt: "Dinner at Valea Verde 2" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-5.webp alt: "Dinner at Valea Verde 3" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-2.webp alt: "Dinner at Valea Verde 4" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
@@ -94,19 +94,19 @@ Lunch was a light one consisting of two dishes: a salad with goat cheese and bal
 Saturday dinner had five dishes, as follows: goose liver terrine with hot pepper jam, puff pastry with venison and salad, chestnut cream soup, duck leg with red cabbage and potato croquettes, and as a dessert baked apple filled with walnuts with vanilla cream. The surprise of the evening was the chestnut cream soup, which we had never eaten before, but also the stuffed apple, which was delicious. We  noticed the fact that both the duck and the pork from the previous evening had a more intense flavor than the meat we find in supermarkets.
 
 <div class="row mb-4">
-  <div class="col-xs-12 col-sm-12 col-md mt-2">
+  <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-1.webp alt: "Second dinner at Valea Verde 1" cincipelinie: true %}
     </div>
-      <div class="col-xs-12 col-sm-12 col-md mt-2">
+      <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-2.webp alt: "Second dinner at Valea Verde 2" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-3.webp alt: "Second dinner at Valea Verde 3" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-4.webp alt: "Second dinner at Valea Verde 4" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Second dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>

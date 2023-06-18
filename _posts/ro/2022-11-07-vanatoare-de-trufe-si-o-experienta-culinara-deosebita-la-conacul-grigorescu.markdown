@@ -44,19 +44,19 @@ Așadar am început cu o tartă rustică pe bază de ouă, brânză de capră, p
 Felul principal a fost un muschiuleț fraged de porc în reducție de Fetească Neagră cu mirodenii, plăcintă de cartofi cu brânză de capră și verdețuri și salată de baby spanac, rucola, sfeclă răzuită, semințe și sos de iaurt. Carnea a fost perfectă, iar salata a fost proaspătă și aromată și a mers de minune alături de placinta de cartofi rustică.
 
 <div class="row mb-4">
-   <div class="col-xs-12 col-sm-12 col-md mt-2">
+   <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>

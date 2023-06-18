@@ -45,19 +45,19 @@ We started with a rustic tart with eggs, goat cheese, leeks, and bacon. We conti
 The main course was a tenderloin of pork in Feteasca Neagra wine reduction with spices, a potato pie with goat cheese and greens, and a salad with baby spinach, arugula, grated beetroot, seeds, and yogurt sauce. The meat was so tender, and the salad was fresh and flavorful and went wonderfully with the rustic potato pie. 
 
 <div class="row mb-4">
-   <div class="col-xs-12 col-sm-12 col-md mt-2">
+   <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195458.webp alt: "Conacul Grigorescu. Mancare. 01" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195504.webp alt: "Conacul Grigorescu. Mancare. 02" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_195508.webp alt: "Conacul Grigorescu. Mancare. 03" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_203944.webp alt: "Conacul Grigorescu. Mancare. 04" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>
@@ -105,19 +105,19 @@ I wish I could remember which wine we tasted with each dish, but I only remember
 We started dinner with the three appetizers: a mushroom cappuccino with egg white foam and toasted bread, followed by cauliflower gratin marinated in olive oil and spices with sweet gorgonzola with truffles and a white wine reduction at the base, sprinkled on top with breadcrumbs made from toasted bread with garlic, thyme, and parsley, ending with beef carpaccio with truffle cream and arugula salad with goat cheese. 
 
 <div class="row mb-4">
-   <div class="col-xs-12 col-sm-12 col-md mt-2">
+   <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_194106.webp alt: "Conacul Grigorescu. Mancare. 06" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_195816.webp alt: "Conacul Grigorescu. Mancare. 07" cincipelinie: true %}
     </div>
-    <div class="col-xs-12 col-sm-12 col-md mt-2">
+    <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_202723.webp alt: "Conacul Grigorescu. Mancare. 08" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_210502.webp alt: "Conacul Grigorescu. Mancare. 09" cincipelinie: true %}
     </div>
-     <div class="col-xs-12 col-sm-12 col-md mt-2">
+     <div class="col mt-2">
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" cincipelinie: true %}
     </div>
 </div>

@@ -237,8 +237,6 @@ Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, 
 Locul se numeşte, ce să vezi, [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}.
 Erau disponibile multe toppinguri, dar noi am ales varianta clasică: miere + scorţişoară. Le-am mâncat calde şi au fost delicioase.
 
-{% include in-article-ad.html %}
-
 Aceasta a fost experienţa noastră ateniană. Am petrecut două zile şi jumătate în Atena, timp în care am reuşit să luăm pulsul oraşului, să vizităm cele mai importante situri arheologice, să ne plimbam prin cartierele fermecătoare ale Atenei şi să gustăm din mâncarea de care ne era dor.
 
 Dacă vrei să vezi filmări de la faţa locului, pe unde ne-am plimbat şi ce am văzut, găseşti pe canalul nostru de <a href="{{ site.youtube }}" target="_blank" rel="nofollow"><img src = "/assets/images/helper/youtube.svg" style="padding-bottom: 3px; width:18px; height: 18px;" alt="youtube"/></a> un playlist dedicat Greciei.

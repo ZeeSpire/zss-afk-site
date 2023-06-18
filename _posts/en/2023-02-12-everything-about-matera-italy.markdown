@@ -62,6 +62,7 @@ We stayed two nights in the beautiful boutique hotel of [Palazzo degli Abati](ht
 Another thing I want to point out is that whenever you'll see the word "chiesa" in this article, just know that "chiesa" means "church" in Italian.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
+{% include in-article-ad.html %}
 
 But let's return to the [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, which apparently dates back to 1756 and was carefully restored and transformed into a 4-stars hotel. We wanted to stay in a cave, this being in itself a memorable experience. So we booked the room "Suite in Cave – U Firn du Cidd" which exceeded our expectations. This room previously served as an oven as the name of the room tells us, "U Firn du Cidd" translating into "The oven of the mule". In the walls of the cave, we could admire marine fossils that we found out that they were real and date back to 2 million years ago. But the piece de resistance was the glass floor through which we could see the archaeological finds on which the oven was built. Also, the view from the terrace where we served breakfast and an afternoon aperitif is breathtaking.
 
@@ -82,6 +83,7 @@ Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_bl
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana-view.webp alt: "Parco Regionale della Murgia Materana View, Matera, Italy" %}
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana.webp alt: "Parco Regionale della Murgia Materana, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 2. Piazza Vittorio Veneto
 Vittorio Veneto Square is a good starting point to explore the streets of Sasso Barisano district. The area is full of gelato shops, patisseries, souvenir boutiques, restaurants with terraces, and clothing and jewelry stores. And it becomes very lively and packed with tourists, especially in the evening.
@@ -109,6 +111,7 @@ We stumbled upon [this house](https://www.anticamatera.it/){:target="_blank" rel
 "Casa grotta" refers to these types of house museums that can be visited all over the Sassi. This is just one of them. Keep reading to discover more.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-c-era-una-volta.webp alt: "Casa grotta C'era una volta, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 7. Chiesa di San Pietro Barisano
 The Church of San Pietro Barisano represents one of the largest rupestrian monastic settlements in the city of Matera. The central facade is the only part that can be observed from the outside. The church has a bell tower which was built after the last restoration in 1755. The underground spaces of the church are worth seeing and have an interesting history that involves draining of corpses.
@@ -129,6 +132,7 @@ You can take a break from all this by grabbing something local to eat, like a pa
             {% responsive_image path: assets/images/posts/matera/matera-italy-street-3.webp alt: "Matera, Italy - Streets 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 While walking along the winding streets, some going up, others going down, you have the chance to discover other tourist attractions on your way. Like Fontana dell'Amore.
 
@@ -148,6 +152,7 @@ The cathedral is notable for its impressive facade, which features ornate carvin
 The Church of Saint Mary of Idris also known as Madonna de Idris is a historic church built on a hill overlooking the city, offering panoramic views of the surrounding landscape and is one of the oldest religious sites in the city, with parts of the church dating back to the 9th century. Whether you are interested in history, art, or religion, the Church of Saint Mary of Idris is a must-see destination in Matera.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-rupestre-di-santa-maria-di-idris.webp alt: "Chiesa Rupestre di Santa Maria di Idris, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 12. Chiesa di San Pietro Caveoso
 Just a stone's throw from Madonna de Idris, there's Piazza San Pietro where Chiesa di San Pietro Caveoso also known as Chiesa di San Pietro e Paolo is located. The church, built in 1218 in the Baroque style, has undergone several renovations and restorations over the centuries, but much of its original structure and architectural features have been preserved, making it a valuable historical and cultural site.
@@ -176,6 +181,7 @@ The entrance fee includes also the Chiesa Rupestre S. Agostino al Casalnuovo and
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-di-vico-solitario-3.webp alt: "Casa Grotta di Vico Solitario interior 3, Matera, Italy" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 After 100 meters more you'll arrive at Chiesa di Santa Lucia alle Malve.
 
@@ -206,6 +212,7 @@ After visiting Chiesa di Santa Lucia alle Malve and the necropolis, head to [Cas
             {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-del-casalnuovo-bathroom.webp alt: "Casa Grotta del Casalnuovo bathroom, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ### 16. Chiesa del Purgatorio
 Chiesa del Purgatorio is named after the Catholic doctrine of Purgatory, which is believed to be a state of purification after death where souls undergo penance to cleanse themselves of their sins before they can enter heaven. Skulls and skeletons ornate the church built in the 18th century. The display of skeletons in the church is thought to serve as a reminder of the importance of leading a good life, as well as of the idea of an afterlife and the need for purification. The skeletons also serve as an example of macabre art and religious symbolism.
@@ -240,6 +247,7 @@ We spent some incredible moments on the terrace of our hotel (Palazzo degli Abat
             {% responsive_image path: assets/images/posts/matera/aperitivo-italiano-matera-bruschetta.webp alt: "Italian aperitivo - bruschetta" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ### 19. Admire the view from the Convent of Saint Agostino
 Even though you can visit the interior of the Chiesa Rupestre San Giuliano (sec. XV) and the convent of Saint Agostino, this is actually one of the best belvedere points over Matera. Don't miss this spot for perfect photos at sunset.
@@ -278,3 +286,4 @@ In conclusion, Matera is a unique and fascinating city that offers a glimpse int
             {% responsive_image path: assets/images/posts/matera/matera-pin-2.webp alt: "Matera Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

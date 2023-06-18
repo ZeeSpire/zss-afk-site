@@ -240,8 +240,6 @@ Near Agia Irini Square, we found a wonderful place, which is always crowded, tha
 The place is called [Lukumades](https://www.lukumades.com/){:target="_blank" rel="nofollow"}. 
 You could choose from several toppings, but we chose the classic version: honey + cinnamon. We ate them hot, and they were delicious.
 
-{% include in-article-ad.html %}
-
 This was our Athenian experience. We spent two and a half days in Athens, during which we managed to take the pulse of the city, visit the most important archaeological sites, walk through the charming neighborhoods of Athens, and taste the food we were longing for.
 
 If you want to see footage from the spot, where we walked, and what we saw, you can find a playlist dedicated to Greece on our <a href="{{ site.youtube }}" target="_blank" rel="nofollow"><img src = "/assets/images/helper/youtube.svg" style="padding-bottom: 3px; width:18px; height: 18px;" alt="youtube"/></a> channel.
