@@ -25,48 +25,31 @@ description: Who are we? The most precious moments in life happen offline.
     Contact:
     <h3>office@afkology.com</h3>
 </div>
-
   <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662296858/2022-crama-de-piatra/crama2_aiavmt.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/crama-de-piatra/crama2_aiavmt.webp alt: "Santorini pin 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662296858/2022-crama-de-piatra/crama1_i0wazr.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/crama-de-piatra/crama1_i0wazr.webp alt: "Santorini pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
 
-  <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539794/2022-pinterest-2/nor1_tmoqkq.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+
+ <div class="row mb-4">
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/isolated-chalet/nor1_tmoqkq.webp alt: "Isolated Chalet 01" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662539793/2022-pinterest-2/nor2_p1pzu7.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/isolated-chalet/nor2_p1pzu7.webp alt: "Isolated Chalet 02" pin: true ratio:2/3 %}
     </div>
 </div>
+ 
 
 <div class="row mb-4">
-    <div class="col-sm-6 text-center mb-3 mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum2_rzo1uv.webp" 
-            class="img-fluid img-thumbnail" alt="01" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/apogeum2_rzo1uv.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
-    <div class="col-sm-6 text-center mt-3">
-        <img 
-            src="https://res.cloudinary.com/afkology/image/upload/w_540,c_scale,f_auto/v1662467666/2022-pinterest/apogeum1_kecbim.webp"
-            class="img-fluid img-thumbnail" alt="02" loading="lazy" width="540px" height="100%"
-        />
+    <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
+            {% responsive_image path: assets/images/posts/apogeum/apogeum1_kecbim.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
 </div>

@@ -1,19 +1,26 @@
 ---
 layout: post.en
 type: post
+
 h1_title: iPhone 14
 title: Order your iPhone 14 today
 front_page_title: Order your iPhone 14 today
+
 published: 09 September 2022
 last_modified_at: 09 September 2022
+
 keywords: iphone 14, preorder, news
 description: Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max.
-categories: News-EN
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1662710947/news/iphone14_kvpdor.jpg" # full size
-featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_600,c_scale,f_auto/v1662710947/news/iphone14_kvpdor.webp" # width - 1200
-featured-image-style: centered # can be left, centered, full-width
 
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1662710947/news/iphone14_kvpdor.webp" # width - 600
+categories: News-EN
+
+featured-image: "/assets/images/posts/news/iphone14_kvpdor.webp" # full size
+featured-image-top: "/assets/resized/iphone14_kvpdor-600x531.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/iphone14_kvpdor-600x531.webp" # width - 1200
+
+featured-image-primary: "/assets/resized/iphone14_kvpdor-600x531.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/iphone14_kvpdor-600x531.webp" # width - 600
+featured-image-style: centered # can be left, centered, full-width
 ---
 Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max start today in Romania. Get your gadget today and never miss an opportunity to record great videos and take awesome photos while traveling.
 

@@ -10,11 +10,13 @@ keywords: iPhone 15, periscope, camera, rumors
 description: iPhone 15 with periscope camera and USB-C port
 categories: News-EN
 
-featured-image: "https://res.cloudinary.com/afkology/image/upload/v1656440706/news/1/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.jpg" # full size
-featured-image-top: "https://res.cloudinary.com/afkology/image/upload/w_400,c_scale,f_auto/v1656440706/news/1/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.webp" # width - 1200
-featured-image-style: centered # can be left, centered, full-width
+featured-image: "/assets/images/posts/news/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.webp" # full size
+featured-image-top: "/assets/resized/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck-600x573.webp" # width - 1200
+featured-image-top-smaller: "/assets/resized/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck-600x573.webp" # width - 1200
 
-featured-image-home: "https://res.cloudinary.com/afkology/image/upload/w_800,c_scale,f_auto/v1656440706/news/1/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.webp" # width - 600
+featured-image-primary: "/assets/resized/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck-600x573.webp" # poza care apare pe prima pagina landscape
+featured-image-home: "/assets/resized/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck-600x573.webp" # width - 600
+featured-image-style: centered # can be left, centered, full-width
 
 ---
 According to [BGR.com](https://bgr.com/tech/iphone-15-pro-models-may-get-apples-first-periscope-camera/){:target="_blank" rel="nofollow"}, iPhone 15 Pro might have a periscope camera.
