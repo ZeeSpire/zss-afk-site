@@ -21,6 +21,8 @@ featured-image-top-smaller: "/assets/resized/lecce-a-baroque-gem-in-salento-800x
 featured-image-primary: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Lecce este situat în regiunea Salento, la 150 de kilometri de Bari, la 40 de kilometri de Gallipoli și la 45 de kilometri de Otranto. Gallipoli și Otranto sunt două orașe turistice de la malul mării care merită să fie vizitate. De asemenea, se află la 25 de kilometri de coasta Mării Adriatice și la 35 de kilometri de coasta Mării Ionice. Deci poate reprezenta un bun punct de plecare în explorarea "tocului" Italiei.
 
 Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric este restricționat, dar și pentru că ne-am dorit să găsim cât mai ușor un loc de parcare, am optat pentru o cazare în afara centrului vechi al orașului. Am înnoptat în acest apartament drăguț, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, deținut de Maria Luisa, care a fost o gazdă extraordinară și ne-a oferit o mulțime de recomandări despre ce să vedem în oraș sau unde să mâncăm.

@@ -19,12 +19,15 @@ featured-image-top:
 featured-image-primary: "/assets/resized/primavara-800x450.webp"
 featured-image-home: "/assets/resized/primavara-square-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Anul acesta, Paştele ortodox pică în data de 16 aprilie, iar ofertele dedicate acestei sărbători au început să apară deja.
 Majoritatea ofertelor includ 3 nopţi de cazare, mic dejun, cine deosebite, preparate tradiţionale de Paşte, dar şi alte opţionale pentru a atrage oaspeţii, cum ar fi excursii, foc de tabără sau vânătoare de ouă pentru cei mici. Preţurile încep cam de pe la 3000 lei pentru doi adulţi.
 
 Mai jos găseşti cele mai atrăgătoare oferte.
 
 {% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
+{% include in-article-ad.html %}
 
 <br />
 
@@ -133,3 +136,4 @@ Ce este inclus
 - muzică live, foc de tabără
 
 Preţ: de la 4350 lei/2 adulţi. [Detalii](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank" rel="nofollow"}
+{% include in-article-ad.html %}

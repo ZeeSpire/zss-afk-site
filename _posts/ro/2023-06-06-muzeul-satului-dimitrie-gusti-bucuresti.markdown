@@ -21,6 +21,8 @@ featured-image-top-smaller: "/assets/resized/muzeul-satului-roman-2-800x450.webp
 featured-image-primary: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
+
 Pe 6 iunie 2023, noi am avut o zi liberă în timpul săptămânii, când restul era la lucru. Iniţial am plecat să dăm o tură de parc, dar apoi, ne-a venit ideea să mergem în vizită la Muzeul Naţional al Satului "Dimitrie Gusti".
 
 Muzeul în aer liber se află pe malul lacului Herăstrău, în mijlocul capitalei şi reprezintă o evadare din tumultul oraşului. Are mai multe intrări şi, pentru că cea de lângă Arcul de Triumf era închisă, am intrat pe cea de pe Şoseaua Kiseleff, nr. 28. Am plătit pe un bilet suma de 30 de lei. Toate detaliile sunt disponibile [aici](https://muzeul-satului.ro/acces-muzeu/){:target="_blank" rel="nofollow"}.

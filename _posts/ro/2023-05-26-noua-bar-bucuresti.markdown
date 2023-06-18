@@ -20,6 +20,8 @@ featured-image-top-smaller: "/assets/resized/noua-bar-outside-800x450.webp" # pr
 featured-image-primary: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
+
 Noua B.A.R este fratele mai mic al restaurantului [Noua Bucătărie Românească](/ro/noua-bucatarie-romaneasca/) deschis de chef Alex Petricean, finalist MasterChef România şi desemnat de către Ghidul Gault & Millau Bucătarul Anului în 2018, 2020 şi 2022.
 
 B.A.R. este acronimul pentru Bucătărie Aproape Românească şi prin urmare ne aşteptăm să găsim în meniu preparate care conţin atât ingrediente locale cum ar fi slăninuţa, trufele negre, puiul de ţară, florile de soc sau mugurii de brad, cât şi ingrediente internaţionale precum calamar, caracatiţă sau jamon iberico.

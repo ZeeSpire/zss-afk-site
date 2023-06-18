@@ -27,6 +27,7 @@ featured-image-top-smaller: "/assets/resized/parthenon-from-the-drone-athens-2-8
 featured-image-primary: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
 
 Athens wasn't on our bucket list for the near future, but we are glad that things have settled in such a way that we traveled to this steeped-in-history city.
 

@@ -24,12 +24,15 @@ featured-image-top:
 featured-image-primary: "/assets/resized/primavara-800x450.webp"
 featured-image-home: "/assets/resized/primavara-square-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 This year, Orthodox Easter falls on the 16th of April, and the offers dedicated to this holiday have already started to appear.
 Most of the offers include 3 or 4 nights of accommodation, with the possibility of extending the stay, breakfast, special dinners, and traditional Easter dishes, but also other options to attract guests, such as trips, campfires, or egg-hunting for the children. Prices start from around 3000 RON (600 EUR) for two adults. To make it easier to convert from RON to EUR, I considered that 1 EUR = 5 RON.
 
 Below you can find the offers that I found attractive.
 
 {% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
+{% include in-article-ad.html %}
 
 <br />
 
@@ -138,3 +141,4 @@ What is included:
 - live music, campfire
 
 Price: from 4350 RON (870 EUR)/2 adults. [Details](https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/){:target="_blank" rel="nofollow"}
+{% include in-article-ad.html %}

@@ -27,6 +27,7 @@ featured-image-top-smaller: "/assets/resized/parthenon-from-the-drone-athens-2-8
 featured-image-primary: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
 
 În drumul nostru spre Halkidiki, ne-am oprit în Salonic, un oraş plin de farmec şi culoare. Iată ce am reuşit să facem în doar trei ore în Salonic.
 

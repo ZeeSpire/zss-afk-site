@@ -25,6 +25,7 @@ featured-image-top-smaller: "/assets/resized/noua-bar-outside-800x450.webp" # pr
 featured-image-primary: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/noua-bar-outside-800x450.webp" # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
 
 Noua B.A.R is the younger sibling of the [Noua Bucătărie Românească Restaurant](/noua-bucatarie-romaneasca/) opened by chef Alex Petricean, finalist of MasterChef Romania and designated Chef of the Year in 2018, 2020, and 2022 by the Gault & Millau Guide.
 

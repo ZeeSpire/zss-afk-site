@@ -22,7 +22,10 @@ featured-image-primary: "/assets/resized/iphone14_kvpdor-600x531.webp" # poza ca
 featured-image-home: "/assets/resized/iphone14_kvpdor-600x531.webp" # width - 600
 featured-image-style: centered # can be left, centered, full-width
 ---
+{% include in-article-ad.html %}
+
 Preorders on the new, fabulous iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max start today in Romania. Get your gadget today and never miss an opportunity to record great videos and take awesome photos while traveling.
+{% include in-article-ad.html %}
 
 Get your iPhone 14 Pro Max 256GB or above to have all the capabilities an iPhone can have. For the 128GB version, the Cinematic video mode only works in 1080p instead of 4K.
 
@@ -35,4 +38,6 @@ Take a look at some of what iPhone 14 Pro Max can do.
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/T67bMlj252Q " title="iPhone 14 Pro Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+{% include in-article-ad.html %}
 

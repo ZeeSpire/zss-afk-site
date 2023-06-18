@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/matera-italy-1-800x450.webp"
 featured-image-primary: "/assets/resized/matera-italy-1-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/matera-italy-1-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 ## Why Matera should be on your travel list
 
 The Italian city of Matera was the [European capital of culture](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank" rel="nofollow"} in 2019, along with the city of Plovdiv in Bulgaria. That's when I saw for the first time photos of the cave dwellings carved in rock in the Gravina river canyon. And that's when I realized that I want to see with my own eyes this city that seemed to be from a very distant world.
@@ -37,6 +39,7 @@ The depopulation of Matera in the 1950s was a significant event in the history o
 In the mid-20th century, Matera was one of the poorest and most overcrowded cities in Italy, and its residents faced a range of social and economic challenges. The living conditions in the Sassi neighborhood were particularly difficult, with poor sanitation, limited access to water, and limited space.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-3.webp alt: "Matera, Italy" %}
+{% include in-article-ad.html %}
 
 To address these issues, the Italian government initiated a program in the 1950s to relocate residents of the Sassi to new housing developments on the outskirts of the city. This relocation was carried out rapidly and involved the forced eviction of many residents, who were given little notice and few options. As a result, many families were forced to leave behind their homes, businesses, and communities, and start new lives in unfamiliar surroundings.
 

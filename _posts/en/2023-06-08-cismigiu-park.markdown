@@ -27,6 +27,7 @@ featured-image-top-smaller: "/assets/resized/cismigiu-park-800x450.webp" # prima
 featured-image-primary: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
 
 I was thinking recently, why not promote more the city where we spend most of our time, namely - Bucharest?
 
@@ -63,7 +64,6 @@ Option 2:
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Pa3HHX7K61g" title="Cismigiu Park version 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-{% include in-article-ad.html %}
 
 What do you think? Which of the two options do you prefer? Interact with us on <a  href="{{ site.instagram }}" target="_blank"><img src = "/assets/images/helper/instagram.svg" alt="instagram"/></a> or <a href="{{ site.facebook }}" target="_blank"><img src = "/assets/images/helper/facebook.svg" alt="facebook"/></a>.
 

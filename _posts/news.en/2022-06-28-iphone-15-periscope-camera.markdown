@@ -19,7 +19,10 @@ featured-image-home: "/assets/resized/kisspng-apple-image-iphone-4-logo-photogra
 featured-image-style: centered # can be left, centered, full-width
 
 ---
+{% include in-article-ad.html %}
+
 According to [BGR.com](https://bgr.com/tech/iphone-15-pro-models-may-get-apples-first-periscope-camera/){:target="_blank" rel="nofollow"}, iPhone 15 Pro might have a periscope camera.
+{% include in-article-ad.html %}
 
 Some Android phones already have this improved zoom camera that might be added to iPhones in 2023. Even if we still don't have the iPhone 14 on the market, we already have rumors that the iPhone 15 Pro will also have USB-C charging besides the improved zoom camera.
 
@@ -30,3 +33,5 @@ Which of the following will be your next travel companion:
 - Google Pixel 6
 - Google Pixel 7
 We might also get a Pixel 8 until iPhone 15 is out.
+
+{% include in-article-ad.html %}

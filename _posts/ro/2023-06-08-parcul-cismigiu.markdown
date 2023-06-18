@@ -22,6 +22,8 @@ featured-image-top-smaller: "/assets/resized/cismigiu-park-800x450.webp" # prima
 featured-image-primary: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/cismigiu-park-800x450.webp " # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
+
 Mă gândeam recent, de ce să nu promovăm mai mult oraşul în care ne petrecem cea mai mare parte a timpului şi anume - Bucureşti?
 
 Vom încerca să facem asta mai des, deoarece ne place să ieşim la plimbare prin oraş. Şi dacă tot este vorba despre plimbare, de ce să nu povestim despre Cişmigiu?
@@ -59,8 +61,6 @@ Varianta nr. 2:
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Pa3HHX7K61g" title="Cismigiu Park version 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-{% include in-article-ad.html %}
-
 
 Ce părere ai? Care dintre cele două variante este pe placul tău? Haide pe <a  href="{{ site.instagram }}" target="_blank"><img src = "/assets/images/helper/instagram.svg" alt="instagram"/></a> sau <a href="{{ site.facebook }}" target="_blank"><img src = "/assets/images/helper/facebook.svg"  alt="facebook"/></a> şi interacţionează cu noi. 
 

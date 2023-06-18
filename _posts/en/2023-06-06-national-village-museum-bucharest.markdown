@@ -26,6 +26,7 @@ featured-image-top-smaller: "/assets/resized/muzeul-satului-roman-2-800450.webp"
 featured-image-primary: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/muzeul-satului-roman-2-800x450.webp" # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
 
 On the sixth of June, 2023, we had a day off during the week when the rest were at work. Initially, we went to take a tour of the Herăstrău Park, but then we had the idea to visit the "Dimitrie Gusti" National Village Museum.
 

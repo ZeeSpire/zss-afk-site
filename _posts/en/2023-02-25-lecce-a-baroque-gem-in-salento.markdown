@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/lecce-a-baroque-gem-in-salento-800x
 featured-image-primary: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/lecce-a-baroque-gem-in-salento-800x450.webp" # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
+
 Lecce is located in the Salento region, 150 kilometers from Bari, 40 kilometers from Gallipoli, and 45 kilometers from Otranto. Gallipoli and Otranto are two seaside towns worth visiting. It is also 25 kilometers from the coast of the Adriatic Sea and 35 kilometers from the coast of the Ionian Sea. So it can represent a good starting point for exploring the "heel" of Italy. 
 
 We went there by car and because the access to the historic center is restricted and because we wanted to find a parking space as easily as possible, we opted to stay outside the old city center. We stayed the night in this cute apartment, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, 

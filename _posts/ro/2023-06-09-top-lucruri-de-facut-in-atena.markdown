@@ -27,6 +27,8 @@ featured-image-top-smaller: "/assets/resized/parthenon-from-the-drone-athens-2-8
 featured-image-primary: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/parthenon-from-the-drone-athens-2-800x450.webp " # poza care apare pe prima pagina square
 ---
+{% include in-article-ad.html %}
+
 Atena nu se afla pe lista noastră de călătorii din viitorul apropiat, dar ne bucurăm că lucrurile s-au aşezat în aşa fel încât am călătorit în acest oraş scăldat în istorie.
 
 Ştiam despre Atena că este capitala Greciei şi aveam în minte imaginea bine-cunoscută a Acropolei. De asemenea, ştiam că este unul dintre cele mai vechi oraşe locuite continuu din lume, cu o istorie de peste 3.400 de ani. Atena este, de asemenea, cea mai veche capitală din Europa, dar în ciuda faptului că are rădăcini în timpuri străvechi, rămâne un oraş vibrant şi cosmopolit, care atrage anual milioane de vizitatori din întreaga lume.

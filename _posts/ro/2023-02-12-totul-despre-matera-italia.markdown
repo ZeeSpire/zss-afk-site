@@ -20,6 +20,8 @@ featured-image-top-smaller: "/assets/resized/matera-italy-1-800x450.webp"
 featured-image-primary: "/assets/resized/matera-italy-1-800x450.webp" # width - 1200
 featured-image-home: "/assets/resized/matera-italy-1-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 ## De ce să adaugi Matera pe lista cu locuri de văzut într-o viaţă
 
 Orașul Matera din Italia a fost [capitala culturală europeană](https://www.europarl.europa.eu/news/en/headlines/society/20181205STO20960/plovdiv-and-matera-european-capitals-of-culture-in-2019){:target="_blank" rel="nofollow"} în 2019, împreună cu orașul Plovdiv din Bulgaria. Atunci am văzut pentru prima dată fotografii cu locuințele rupestre sculptate în stâncă în canionul râului Gravina. Și atunci mi-am dat seama că vreau să văd cu ochii mei acest oraș care părea a fi dintr-o lume foarte îndepărtată.
@@ -32,6 +34,7 @@ Depopularea Materei în anii 1950 a fost un eveniment semnificativ în istoria o
 La mijlocul secolului XX, Matera era unul dintre cele mai sărace și supraaglomerate orașe din Italia, iar locuitorii săi s-au confruntat cu o serie de provocări sociale și economice. Condițiile de viață din Sassi erau deosebit de dificile, cu o salubritate precară, acces limitat la apă și spațiu limitat.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-3.webp alt: "Matera, Italy" %}
+{% include in-article-ad.html %}
 
 Pentru a rezolva aceste probleme, guvernul italian a inițiat în anii 1950 un program de relocare a locuitorilor din Sassi în noi locuințe construite la periferia orașului. Această mutare a fost efectuată rapid și a presupus evacuarea forțată a multor locuitori, cărora li s-au dat puține preavize și opțiuni. Drept urmare, multe familii au fost forțate să-și părăsească locuinţele și să înceapă o viață nouă.
 
