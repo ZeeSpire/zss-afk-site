@@ -26,11 +26,11 @@
   <meta property="og:title" content="{% if page.type != 'homepage' %}{{ page.title }} | {% endif %}{{ site.title-ro }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:description" content="{% if page.description %}{{page.description }}{% else %}{{ site.description-ro }}{% endif %}" />
-  <meta property="og:locale" content="ro_RO" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="{{ site.url }}{{ site.logo }}" />
   <meta property="og:image:width" content="{{ site.logo-width }}" />
   <meta property="og:image:height" content="{{ site.logo-height }}" />
+  <meta property="og:locale" content="ro_RO" />
 
   <meta itemprop="name" content="{{ site.title-ro }}" />
   <meta itemprop="url" content="{{ site.url }}{{ page.url }}" />
@@ -160,19 +160,8 @@
       <div class="row" >
         <div class="col-12 text-center">
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand img-fluid" href="/ro/"><img data-pin-no-hover="true"
-              style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;"
-                src="{{ site.logo }}" alt="{{ site.title }}" /></a>
-
-            <!-- {% if page.permalink-to-next-language %} 
-              <a class="hide-on-collapse" href="{{ page.permalink-to-next-language }}">
-            {% else %}
-              <a class="hide-on-collapse" href="/">
-            {% endif %}
-              <img id="lang-selector" class="img-fluid" src="/assets/images/helper/en_ntuxlj.webp" style="width:25px; height:17px" alt="en flag">
-            </a> -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
-              aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <a class="navbar-brand img-fluid" href="/ro/"><img data-pin-no-hover="true" style="margin-top: 20px; margin-bottom: 20px; width:{{ site.logo-width }}px; height:{{ site.logo-height }}px;" src="{{ site.logo }}" alt="{{ site.title }}" /></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-light navbar-toggler-icon"></span>
             </button>
 
