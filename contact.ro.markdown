@@ -13,7 +13,7 @@ description: Contact AFKology
     <h3>office@afkology.com</h3>
   </div>
 
-    <div class="row mb-4">
+<div class="row mb-4">
     <div class="col-xs-12 col-sm-6 text-center mb-3 mt-3">
             {% responsive_image path: assets/images/posts/crama-de-piatra/crama2_aiavmt.webp alt: "Santorini pin 01" pin: true ratio:2/3 %}
     </div>
