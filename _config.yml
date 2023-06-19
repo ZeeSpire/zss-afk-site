@@ -41,14 +41,13 @@ pagination:
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-minifier
+  # - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-responsive-image
 
 jekyll-minifier:
   uglifier_args:
     harmony: true
-  exclude: ["assets/bootstrap/js/bootstrap.bundle.min.js", "assets/bootstrap/js/bootstrap.bundle.min.js"]
 
 exclude:
   - .sass-cache/
