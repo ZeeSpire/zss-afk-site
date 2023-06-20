@@ -18,7 +18,7 @@ categories: [RO, Romania-RO]
 tag: RO
 
 permalink: /ro/top-lucruri-de-facut-in-atena/
-permalink-to-next-language: /top-things-to-do-in-athena/
+permalink-to-next-language: /top-things-to-do-in-athens/
 
 featured-image: "/assets/images/posts/athens/parthenon-from-the-drone-athens-2.webp" # full size, poate fi empty daca featured-image-top e empty
 featured-image-top: "/assets/resized/parthenon-from-the-drone-athens-2-1600x900.webp" # prima poza din articol, poate fi empty

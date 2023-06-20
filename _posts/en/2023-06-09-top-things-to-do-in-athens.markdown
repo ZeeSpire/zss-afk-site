@@ -17,7 +17,7 @@ description_for_first_page: This is our top 15 things to do and try while in Ath
 categories: [EN, Romania-EN]
 tag: EN
 
-permalink: /top-things-to-do-in-athena/
+permalink: /top-things-to-do-in-athens/
 permalink-to-next-language: /ro/top-lucruri-de-facut-in-atena/
 
 featured-image: "/assets/images/posts/athens/parthenon-from-the-drone-athens-2.webp" # full size, poate fi empty daca featured-image-top e empty
