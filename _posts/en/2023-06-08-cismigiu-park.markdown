@@ -47,7 +47,6 @@ The landscaper of German origin Carl Friedrich Wilhelm Meyer, who also worked on
 During the summer, you can go boating on the Cişmigiu Lake, and during the winter, you can go to the ice rink. Also, there are playgrounds for children, a special area for dogs, and many more.
 
 {% responsive_image path: assets/images/posts/cismigiu-park/a-flower-from-cismigiu-park.webp alt: "A nice flower from Cismigiu Park" %}
-{% include in-article-ad.html %}
 
 We can appreciate that it is a park with many species of plants, trees, and shrubs. We admired the wisterias, in May, when they bloom, but also the Ginkgo Biloba tree.
 

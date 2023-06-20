@@ -27,7 +27,6 @@ Majoritatea ofertelor includ 3 nopţi de cazare, mic dejun, cine deosebite, prep
 Mai jos găseşti cele mai atrăgătoare oferte.
 
 {% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
-{% include in-article-ad.html %}
 
 <br />
 

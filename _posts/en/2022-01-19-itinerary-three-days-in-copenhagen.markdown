@@ -24,6 +24,7 @@ featured-image-top-smaller: "/assets/resized/IMG_20210910_094245_acxxaa-800x450.
 featured-image-primary: "/assets/resized/DSCF1163_hvfg2z-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/DSCF1163_hvfg2z-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
 <hr />
 
 <div class="row mb-4">
@@ -83,6 +84,7 @@ Last, but not least, check out the videos we've put together to make an impressi
         </div>
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## Day 1
 
@@ -103,6 +105,7 @@ After 100 meters you will reach <a id="Christiansborg_Palace">Christiansborg Pal
     {% responsive_image path: assets/images/posts/copenhaga/DSCF0700_dioxdk.webp alt: "Copenhagen 3" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 After you finished your royal visit, cross the street to take a <a id="boat_tour">boat tour</a> from the Ved Stranden station, also included in the Copenhagen Card. The tour is guided, and you will see some major attractions such as the Black Diamond library, the Opera, Nyhavn, and the Little Mermaid statue. This tour takes about an hour.
 
@@ -117,6 +120,7 @@ Head over to the  <a id="City_Hall_Square">City Hall Square</a>, one of the main
 <div class="ratio ratio-16x9 mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d8998.858616707283!2d12.5779371!3d55.676562!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x46525322aa676daf%3A0x99c2a00928e5eaeb!2sNyhavn%2C%20K%C3%B8benhavn%20K%2C%20Denmark!3m2!1d55.679776!2d12.591304099999999!4m5!1s0x4652531666d78e63%3A0xcb924fd6aad3ae55!2sB%C3%B8rsen%2C%20Copenhagen%2C%20Denmark!3m2!1d55.6755013!2d12.5840128!4m5!1s0x4652538d12a41301%3A0xb44cfa4245bd8df4!2sChristiansborg%20Copenhagen%2C%20Christiansborg%20Palace%2C%20Copenhagen%2C%20Denmark!3m2!1d55.676289!2d12.5804019!4m5!1s0x4652531132405b13%3A0xd5b59a4549d09a53!2sThe%20Grand%20Tour%20of%20Copenhagen%2C%20Ved%20Stranden%2C%20Copenhagen%2C%20Denmark!3m2!1d55.6775847!2d12.5804913!4m5!1s0x46525316dcbff121%3A0xffc50f2c11ae9ed5!2sAgnete%20og%20Havmanden%2C%20H%C3%B8jbro%2C%20Copenhagen%2C%20Denmark!3m2!1d55.677639299999996!2d12.5802315!4m5!1s0x46525316cc48f263%3A0x3cf3d1e36592af02!2sGammel%20Strand%2C%20K%C3%B8benhavn%2C%20Denmark!3m2!1d55.677633799999995!2d12.5783206!4m5!1s0x46525321d36e3015%3A0x117d3c48892c496f!2zU3Ryw7hnZXQsIFN0csO4Z2V0LCBDb3BlbmhhZ2VuLCBEZW5tYXJr!3m2!1d55.6773016!2d12.5713223!4m5!1s0x465253182013b227%3A0x36248075ccf0be0!2sKing&#39;s%20New%20Square%2C%20Kongens%20Nytorv%2C%20Copenhagen%2C%20Denmark!3m2!1d55.680521999999996!2d12.585956999999999!4m5!1s0x46525322aa676daf%3A0x99c2a00928e5eaeb!2sNyhavn%2C%20K%C3%B8benhavn%20K%2C%20Denmark!3m2!1d55.679776!2d12.591304099999999!5e0!3m2!1sen!2sro!4v1642610179190!5m2!1sen!2sro" width="1116" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+{% include in-article-ad.html %}
 <br/>
 
 ## Day 2
@@ -145,6 +149,7 @@ The Copenhagen Card covers your entry, but if you wish to try the rides, you mus
 <div class="ratio ratio-16x9 mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d10856.239616869032!2d12.568397289156245!3d55.679891694521366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e2!4m5!1s0x465253051285311b%3A0x7374ede35ce9623b!2sTorvehallerne!3m2!1d55.6836899!2d12.569765499999999!4m5!1s0x4652531ad1631ced%3A0x1336d3d2f30fb334!2sBotanical%20Garden!3m2!1d55.6874295!2d12.5729916!4m5!1s0x4652531c98c88a69%3A0xe671ef5e7dd8fd4e!2sStatens%20Naturhistoriske%20Museum!3m2!1d55.6874652!2d12.5767806!4m5!1s0x4652531b429e531d%3A0x52359c3345281b3c!2sRosenborg%20Castle!3m2!1d55.685857!2d12.577218!4m5!1s0x46525318a59afc11%3A0xb1f38e76a7e7960b!2sMarmorkirken%20Station!3m2!1d55.6849827!2d12.5895742!4m5!1s0x46525322363e0673%3A0x5cf17fab9d15553f!2sAmalienborg!3m2!1d55.684058799999995!2d12.593020099999999!4m5!1s0x46525319c09c8cb3%3A0xbbe45b15a6fc4c20!2sAtelier%20September!3m2!1d55.6821553!2d12.5829869!4m5!1s0x4652531a7dbeff47%3A0x6c74bdf274c54d8!2sRundet%C3%A5rn!3m2!1d55.681335499999996!2d12.5757152!4m5!1s0x4652531280f6eaf3%3A0xd9b50b0db50b27b0!2sTivoli%20Gardens%2C%20Vesterbrogade%2C%20K%C3%B8benhavn%20V%2C%20Denmark!3m2!1d55.673684099999996!2d12.5681471!5e0!3m2!1sen!2sro!4v1642617728755!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+{% include in-article-ad.html %}
 <br/>
 
 ## Day 3
@@ -168,6 +173,7 @@ End your day in a calm and relaxing way, the same way it has begun, but this tim
 <div class="ratio ratio-16x9 mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d36006.421435968135!2d12.568043736849539!3d55.66462080324002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e2!4m5!1s0x4652536a5bd9c8a7%3A0xf9685ff987876942!2sAmager%20Strandpark%2C%20Amager%20Strand%20Promenaden%201%2C%202300%20K%C3%B8benhavn%2C%20Denmark!3m2!1d55.654532499999995!2d12.6496067!4m5!1s0x4653ab7d0c9194f5%3A0x631374f9159e11dc!2sDen%20Bl%C3%A5%20Planet%2C%20Jacob%20Fortlingsvej%2C%20Kastrup%2C%20Denmark!3m2!1d55.6381446!2d12.6561446!4m5!1s0x46525339463aedc9%3A0xc11801eab74fb42b!2sChurch%20of%20Our%20Saviour%2C%20Sankt%20Ann%C3%A6%20Gade%2C%20Copenhagen%2C%20Denmark!3m2!1d55.6727591!2d12.5939553!4m5!1s0x4652533907ed3da7%3A0xae183de2099528b9!2sChristiania%2C%20Copenhagen%20Municipality%2C%20Denmark!3m2!1d55.673412!2d12.5964061!4m5!1s0x465253130411747d%3A0x599f2e4fe338e7a1!2sNy%20Carlsberg%20Glyptotek%2C%20Dantes%20Plads%2C%20Copenhagen%2C%20Denmark!3m2!1d55.672979999999995!2d12.572543!4m5!1s0x465253ac149dd23b%3A0x68e7d52ac48fdeb!2sAssistens%20Kirkeg%C3%A5rd%2C%20Kapelvej%2C%20K%C3%B8benhavn%20N%2C%20Denmark!3m2!1d55.6910102!2d12.550153199999999!5e0!3m2!1sen!2sro!4v1642617754807!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+{% include in-article-ad.html %}
 
 ## Conclusion
 
@@ -194,4 +200,5 @@ You can choose Copenhagen for a 3-day city break to visit the major attractions,
             {% responsive_image path: assets/images/posts/copenhaga/pin-copenhagen-3days-2_mszdqv.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
 

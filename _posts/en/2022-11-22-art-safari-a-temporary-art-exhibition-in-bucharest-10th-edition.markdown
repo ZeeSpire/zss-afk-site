@@ -23,6 +23,8 @@ featured-image-top:
 
 featured-image-home: "/assets/resized/IMG_20221120_121702-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.
 
 After visiting the ninth edition, about which you can find out more information [here](/art-safari-a-temporary-art-exhibition-in-bucharest/) we set out to reach in the next editions or at least to try.
@@ -53,6 +55,7 @@ International pavilion
 
 {% responsive_image path: assets/images/posts/art-safari-2/art-safari-2.webp alt: "Art Safari 10th Edition 1" %}
 {% responsive_image path: assets/images/posts/art-safari-2/art-safari-light.webp alt: "Art Safari 10th Edition 2" %}
+{% include in-article-ad.html %}
 
 We are no experts or connoisseurs, but we liked the ninth edition more. I think that from the tenth edition, our favorite exhibition was Ștefan Popescu - Travel stories.
 
@@ -72,3 +75,4 @@ We look forward to the 11th edition.
             {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

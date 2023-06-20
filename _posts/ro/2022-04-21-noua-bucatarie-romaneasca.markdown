@@ -24,6 +24,7 @@ featured-image-top: # width - 1200
 featured-image-primary: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # width - 600
 ---
+{% include in-article-ad.html %}
 
 Despre Restaurantul Noua am aflat printr-un simplu story pe Instagram. Doar o fotografie, postată fără prea multe cuvinte, m-a făcut să vreau să aflu mai multe despre acest restaurant. Însă, în cele din urmă, o recenzie Google mai cuprinzătoare m-a convins să vizitez [restaurantul](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}.
 
@@ -48,6 +49,7 @@ Interiorul este confortabil, cu accente naturale, cum ar fi lemnul sau lâna. No
             {% responsive_image path: assets/images/posts/noua/noua-interior-2.webp alt: "Noua Restaurant" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Meniul este un meniu de degustare format din douăsprezece feluri de mâncare: patru amuse bouche, trei aperitive, două feluri principale, un pre-desert și două deserturi. Nu te vei ridica sătul de la masă, dar este suficientă mâncare. Fiecare fel de mâncare este prezentat de chelner astfel încât cina devine o experiență în sine, una incredibil de specială.
 
@@ -95,6 +97,7 @@ Mi-aș fi dorit să pot reține ce conțineau felurile de mâncare, dar voi înc
     {% responsive_image path: assets/images/posts/noua/IMG_20220403_202530_h6itov_zsdvsl.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Ca amuse bouche am avut o stea umplută cu urzici și gălbenuș de ou ras, o crochetă de cartofi cu muguri de usturoi sălbatic (leurdă), un mititel românesc din limbă de vită cu cartof fondant și muștar, și mămăligă cu smântână afumată și „zăpadă” din brânză.
 
@@ -120,6 +123,7 @@ Vreau să subliniez că am apreciat foarte mult ospătarii. Au făcut o treabă 
             {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
  
 
 

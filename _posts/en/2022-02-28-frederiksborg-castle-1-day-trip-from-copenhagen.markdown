@@ -29,6 +29,7 @@ featured-image-home: "/assets/resized/frederiksborg5_b3hre1-800x450.webp" # widt
  <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Tj6d47OGhjY" title="Frederiksborg Castle 4K, Denmark | Aerial | Drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 Having a 5 days vacation in Copenhagen, we set out for a one-day trip outside the city to experience more of Denmark's beauties.
 
@@ -52,6 +53,7 @@ Frederiksborg Castle is situated on the Slotssøen which means Castle Lake, it w
 <div class="ratio ratio-16x9 mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4469.78731777407!2d12.2989364!3d55.9338814!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46524097762941e1%3A0x12c6a634246b6152!2sFrederiksborg%20Castle!5e0!3m2!1sen!2sro!4v1646067896516!5m2!1sen!2sro" width="1116" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+{% include in-article-ad.html %}
 <br/>
 
 Since 1878 Frederiksborg Castle has housed The Museum of National History, which presents 500 years of Danish history with a collection of portraits, history paintings, furniture, and applied art.
@@ -78,3 +80,4 @@ After a full, but very pleasant day, we returned to Copenhagen, and we kindly re
             {% responsive_image path: assets/images/posts/copenhaga/castel1_ikpkmm.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

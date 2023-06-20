@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/neversea3_yuclp6-800x450.webp" # wi
 featured-image-primary: "/assets/resized/neversea3_yuclp6-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/neversea3_yuclp6-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 <span id="en">Last</span> weekend we participated in the fourth edition (July 7-10) of the Neversea festival on the Black Sea coast. So, here are my impressions of this year’s festival.
 
 ### Transport and parking 
@@ -72,6 +74,7 @@ On their website, they posted information about the size of the bag/backpack you
 I saw on the news that some people were caught with drugs at the festival. I smelled weed when I went near the seashore, where it was dark. Inside the festival, we saw police dogs trained for drug detection, as well as police checks on the streets nearby. 
 
 {% responsive_image path: assets/images/posts/neversea/neversea4_muspyb.webp alt: "Neversea"%}
+{% include in-article-ad.html %}
 
 ### Overcrowding 
 
@@ -107,3 +110,4 @@ In conclusion, at the Neversea festival, 2022 edition, we felt good, we liked it
             {% responsive_image path: assets/images/posts/neversea/never2_zm790c.webp alt: "Neversea pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

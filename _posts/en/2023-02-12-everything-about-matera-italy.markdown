@@ -39,7 +39,6 @@ The depopulation of Matera in the 1950s was a significant event in the history o
 In the mid-20th century, Matera was one of the poorest and most overcrowded cities in Italy, and its residents faced a range of social and economic challenges. The living conditions in the Sassi neighborhood were particularly difficult, with poor sanitation, limited access to water, and limited space.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-3.webp alt: "Matera, Italy" %}
-{% include in-article-ad.html %}
 
 To address these issues, the Italian government initiated a program in the 1950s to relocate residents of the Sassi to new housing developments on the outskirts of the city. This relocation was carried out rapidly and involved the forced eviction of many residents, who were given little notice and few options. As a result, many families were forced to leave behind their homes, businesses, and communities, and start new lives in unfamiliar surroundings.
 
@@ -62,7 +61,6 @@ We stayed two nights in the beautiful boutique hotel of [Palazzo degli Abati](ht
 Another thing I want to point out is that whenever you'll see the word "chiesa" in this article, just know that "chiesa" means "church" in Italian.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
-{% include in-article-ad.html %}
 
 But let's return to the [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, which apparently dates back to 1756 and was carefully restored and transformed into a 4-stars hotel. We wanted to stay in a cave, this being in itself a memorable experience. So we booked the room "Suite in Cave – U Firn du Cidd" which exceeded our expectations. This room previously served as an oven as the name of the room tells us, "U Firn du Cidd" translating into "The oven of the mule". In the walls of the cave, we could admire marine fossils that we found out that they were real and date back to 2 million years ago. But the piece de resistance was the glass floor through which we could see the archaeological finds on which the oven was built. Also, the view from the terrace where we served breakfast and an afternoon aperitif is breathtaking.
 
@@ -111,7 +109,6 @@ We stumbled upon [this house](https://www.anticamatera.it/){:target="_blank" rel
 "Casa grotta" refers to these types of house museums that can be visited all over the Sassi. This is just one of them. Keep reading to discover more.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-casa-grotta-c-era-una-volta.webp alt: "Casa grotta C'era una volta, Matera, Italy" %}
-{% include in-article-ad.html %}
 
 ### 7. Chiesa di San Pietro Barisano
 The Church of San Pietro Barisano represents one of the largest rupestrian monastic settlements in the city of Matera. The central facade is the only part that can be observed from the outside. The church has a bell tower which was built after the last restoration in 1755. The underground spaces of the church are worth seeing and have an interesting history that involves draining of corpses.
@@ -147,6 +144,7 @@ The cathedral is notable for its impressive facade, which features ornate carvin
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-cattedrale-exterior.webp alt: "Cattedrale di Matera, Duomo di Matera exterior" %}
 {% responsive_image path: assets/images/posts/matera/matera-italy-cattedrale-interior.webp alt: "Cattedrale di Matera, Duomo di Matera interior" %}
+{% include in-article-ad.html %}
 
 ### 11. Chiesa Rupestre di Santa Maria di Idris 
 The Church of Saint Mary of Idris also known as Madonna de Idris is a historic church built on a hill overlooking the city, offering panoramic views of the surrounding landscape and is one of the oldest religious sites in the city, with parts of the church dating back to the 9th century. Whether you are interested in history, art, or religion, the Church of Saint Mary of Idris is a must-see destination in Matera.
@@ -198,6 +196,7 @@ The steps next to the church will lead you to the roof where there's a necropoli
             {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-santa-lucia-alle-malve-necropolis.webp alt: "Chiesa di Santa Lucia alle Malve necropolis, Matera, Italy" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ### 15. Casa Grotta del Casalnuovo
 After visiting Chiesa di Santa Lucia alle Malve and the necropolis, head to [Casa Grotta del Casalnuovo](https://www.casagrottamatera.com/){:target="_blank" rel="nofollow"}. Don't worry, you'll have to walk only 150 meters. The Casa Grotta del Casalnuovo is another typical house of the Sassi, partially sculpted in the cave and partially built. You will see inside the original furnishings and tools that the family who lived there used in their everyday life before the depopulation that took place at the end of the 1950s. 
@@ -228,7 +227,7 @@ Chiesa del Purgatorio is named after the Catholic doctrine of Purgatory, which i
             {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-del-purgatorio-3.webp alt: "Chiesa del Purgatorio 3, Matera, Italy" tall: true %}
     </div>
 </div>
-
+{% include in-article-ad.html %}
 
 ### 17. Chiesa di San Francesco d'Assisi
 Just one stone's throw from Chiesa del Purgatorio, there's Chiesa di San Francesco d'Assisi that overlooks a large square named (maybe you guessed) San Francesco. The first building on this site dates back to the 13th century, but the facade took on its current shape in the 18th century. 

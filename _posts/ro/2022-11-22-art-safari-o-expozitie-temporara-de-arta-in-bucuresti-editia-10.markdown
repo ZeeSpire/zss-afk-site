@@ -23,6 +23,8 @@ featured-image-top:
 
 featured-image-home: "/assets/resized/IMG_20221120_121702-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Art Safari, celebra expoziție de artă din capitala României, a ajuns la cea de-a zecea ediție.
 
 După vizitarea ediției cu numărul 9, despre care poți afla mai multe informații [aici](/ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti/) ne-am propus să ajungem și la următoarele ediții sau cel puțin să încercăm. 
@@ -72,3 +74,4 @@ Așteptăm cu interes ediția 11.
             {% responsive_image path: assets/images/posts/art-safari-2/art-safari-5.webp alt: "Art Safari 10th Edition 5" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

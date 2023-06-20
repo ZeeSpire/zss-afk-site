@@ -26,9 +26,10 @@ featured-image-primary: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # poza ca
 featured-image-home: "/assets/resized/DJI_0046_gjd2fi-800x600.webp" # width - 600
 ---
 
- <div class="ratio ratio-16x9 mb-3">
+<div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/YXcX60DSbUs" title="The Muddy Volcanoes, Buzau County, Romania [4K, Drone, Aerial Film]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 When you say "volcano" you automatically think of a magmatic volcano, they are more popular and more common. While there are more than 1500 magmatic volcanoes on land and probably more than 1 million of them underwater, there are only 700 mud volcanoes worldwide. 
 
@@ -45,6 +46,7 @@ The best-known muddy volcanoes in Buzău county are: The Large Mud Volcanoes (P�
 <div class="ratio ratio-16x9 mb-3">
     <iframe src="https://www.google.com/maps/embed?pb=!1m36!1m8!1m3!1d89729.91251157537!2d26.6539393!3d45.3476058!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x40b3e59dcbfa6a81%3A0x134fc65bd402885d!2sFierbatorile%20De%20La%20Berca%2C%20Berca!3m2!1d45.296574899999996!2d26.694639!4m5!1s0x40b3f00168630157%3A0xc97143c6ce00a966!2sVulcanii%20Noroio%C8%99i%20P%C3%A2clele%20Mici%2C%20Scor%C8%9Boasa!3m2!1d45.3394093!2d26.7061852!4m5!1s0x40b3f06c6baa3049%3A0xe3fd287f24779b2e!2sVulcanii%20Noroio%C8%99i%20P%C3%A2clele%20Mari%2C%20P%C3%A2clele!3m2!1d45.3594064!2d26.7134713!4m5!1s0x40b3f124c06b4fc1%3A0x7cf127da9796d048!2sFierbatorile%20de%20la%20Beciu%2C%20Beciu!3m2!1d45.377323999999994!2d26.7058468!5e0!3m2!1sen!2sro!4v1649599266995!5m2!1sen!2sro" width="1116" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+{% include in-article-ad.html %}
 
 On our one-day trip from Bucharest, we only visited Pâclele Mari and Pâclele Mici and it seemed to us that the most spectacular landscape is probably at Pâclele Mici, but both places are worth a visit. And we plan to visit the other two as well.
 
@@ -72,3 +74,4 @@ Enjoy the lunar landscapes!
             {% responsive_image path: assets/images/posts/muddy-volcanoes/muddy2_we4ma0.webp alt: "Muddy Volcanoes 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/X_9_frederik_jqlhmi-800x450.webp" #
 featured-image-primary: "/assets/resized/X_9_frederik_jqlhmi-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/X_9_frederik_jqlhmi-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 ## 1. The Little Mermaid (Den Lille Havfrue)
 
 The Little Mermaid is a small bronze statue based on the fairy tale of the same name by Danish author Hans Christian Andersen and it became the symbol of Copenhagen city. Some say it's not worth the hype. Indeed, is small and almost always packed with tourists trying to snap a selfie with the mermaid, but as my mother said to me: "it would be a pity to visit Copenhagen and not see the little mermaid!". Also, there are other beautiful things to visit in the area like the Gefion Fountain, the St. Alban's Church, and the Kastellet Park which I wrote about below. Read on.
@@ -56,6 +58,7 @@ An even more beautiful church (in my opinion of course) is Grundtvig's Church. I
     {% responsive_image path: assets/images/posts/copenhaga/X_10_gruntvigs_3_bcqu1o.webp alt: "Grundtvig 03" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 4. Old Stock Exchange (Børsen)
 
@@ -147,6 +150,7 @@ The figure depicts a pregnant woman with her children, a symbol of love or chari
             {% responsive_image path: assets/images/posts/copenhaga/X_3_caritas_eo5cym.webp alt: "Caritas Fountain" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 15. Strøget Street
 
@@ -164,3 +168,4 @@ It runs from City Hall Square (Rådhuspladsen) to King's New Square (Kongens Nyt
             {% responsive_image path: assets/images/posts/copenhaga/pin4_rplc39.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

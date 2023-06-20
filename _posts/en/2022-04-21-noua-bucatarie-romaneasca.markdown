@@ -25,6 +25,7 @@ featured-image-top-smaller:
 featured-image-primary: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20220403_172829_tkjo1d-600x1067.webp" # width - 600
 ---
+{% include in-article-ad.html %}
 
 I found out about Noua Restaurant through a simple story on Instagram. Just a photo, posted without too many words, made me want to know more about this restaurant. Eventually, a more comprehensive Google review sold me on visiting the [restaurant](https://nouarestaurant.ro){:target="_blank" rel="nofollow"}. 
 
@@ -49,6 +50,7 @@ The interior is cozy with natural accents such as wood or wool. We stayed in a r
             {% responsive_image path: assets/images/posts/noua/noua-interior-2.webp alt: "Noua Restaurant" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 The menu is a tasting menu consisting of twelve dishes: four amuse bouches, three appetizers, two main courses, a pre-dessert, and two desserts. You will not get up fully satiated, but there is just enough food. Each dish is presented by the waiter so that the dinner becomes an experience itself, an incredibly special one.  
 
@@ -96,6 +98,7 @@ I wish I could remember what the dishes contained, but I'll try to say a few wor
     {% responsive_image path: assets/images/posts/noua/IMG_20220403_202530_h6itov_zsdvsl.webp alt: "Noua Restaurant" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 As amuse bouches we had a star stuffed with nettles and grated egg yolk, a very fragrant potato croquette with wild garlic buds, a Romanian "mic" made from beef tongue with fondant potato and mustard, and polenta with smoked cream and cheese "snow".  
 
@@ -121,4 +124,5 @@ In conclusion, I would just like to point out that we had a wonderful and memora
             {% responsive_image path: assets/images/posts/noua/noua2_lxpcz6.webp alt: "Noua Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
  

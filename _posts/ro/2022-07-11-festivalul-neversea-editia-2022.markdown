@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/neversea3_yuclp6-800x450.webp" # wi
 featured-image-primary: "/assets/resized/neversea3_yuclp6-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/neversea3_yuclp6-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Weekendul ce tocmai a trecut am participat la ce-a de-a patra editie (7-10 iulie) a festivalului Neversea de pe tarmul Marii Negre. Voi scrie asadar cateva impresii la cald despre cum mi s-a parut. 
 
 ### Transport si parcare
@@ -71,6 +73,7 @@ Pe site-ul lor au afisat informatii referitoare la dimensiunea gentii/rucsacului
 Am vazut la stiri ca au fost prinsi cativa oameni cu droguri la festival. Am simtit miros de iarba cand m-am retras aproape de malul marii, unde era intuneric. Dar am vazut in incinta festivalului caini politisti antrenati pentru detectia drogurilor, precum si verificari ale politiei pe strada. 
 
 {% responsive_image path: assets/images/posts/neversea/neversea4_muspyb.webp alt: "Neversea"%}
+{% include in-article-ad.html %}
 
 ### Aglomeratie
 
@@ -105,3 +108,4 @@ Daca tragem linie la finalul festivalului Neversea, editia 2022, ne-am simtit bi
             {% responsive_image path: assets/images/posts/neversea/never2_zm790c.webp alt: "Neversea pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

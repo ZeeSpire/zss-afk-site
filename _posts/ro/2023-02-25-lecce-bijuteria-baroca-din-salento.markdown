@@ -28,8 +28,6 @@ Lecce este situat în regiunea Salento, la 150 de kilometri de Bari, la 40 de ki
 Am mers acolo cu mașina închiriată și pentru că accesul în centrul istoric este restricționat, dar și pentru că ne-am dorit să găsim cât mai ușor un loc de parcare, am optat pentru o cazare în afara centrului vechi al orașului. Am înnoptat în acest apartament drăguț, [LuxAttico B&B](https://www.booking.com/hotel/it/luxattico-b-amp-b.en-gb.html?aid=7913345&no_rooms=1&group_adults=2){:target="_blank" rel="nofollow"}, deținut de Maria Luisa, care a fost o gazdă extraordinară și ne-a oferit o mulțime de recomandări despre ce să vedem în oraș sau unde să mâncăm.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
-{% include in-article-ad.html %}
-
 
 Trebuie să recunoaștem totuși că ne-ar fi plăcut să stăm într-unul dintre aceste hoteluri luxoase din inima orașului Lecce:
 

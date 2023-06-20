@@ -25,11 +25,14 @@ featured-image-top-smaller:  # width - 1200
 featured-image-primary: # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20220828_080307-e1_tio8fx-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Crama de Piatra is a boutique winery, with a small production of wine, which has all the assets to become a special destination for one's soul. Here you can participate in winery tours and wine tastings, relax with friends on the terrace or take a walk through the vineyards. You will also find here a very tastefully decorated restaurant, with an open kitchen and a terrace surrounded by greenery, as well as accommodation spaces in case you want to spend the night. In other words, it is a worthy destination to consider for a well-spent weekend. 
 
  <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/cjNcnZGuS2o" title="Crama de Piatra - a boutique winery with a huge potential" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 Crama de Piatra is located in the renowned vine area - Dealul Mare, in Vadu Sapat commune in Prahova County on an area of at least six hectares. It is approximately 80 kilometers (about 49.71 mi) from Bucharest, which can be easily covered in an hour and a half by car. In the same area, you can also visit other wineries such as Licorna, Budureasca, Viile Metamorfosis, Mierla Alba, or Apogeum to which I have dedicated a separate article. 
 
@@ -58,6 +61,7 @@ In the end, we expected the journey to continue with the wine tasting, but inste
     {% responsive_image path: assets/images/posts/crama-de-piatra/IMG_20220827_202428-e3_jlv1pm.webp alt: "Crama de Piatra 3" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Just before sunset, we went for a long walk in the vineyard. As recommended, we tasted the grapes and noticed that as the altitude increased, the grapes became sweeter and more aromatic. We saw the ruins of the Buna Vestire Church, as well as a small almond orchard, but what is most important is that it was a relaxing and disconnecting walk. 
 
@@ -77,3 +81,4 @@ The potential of this location is huge and except for the small minuses that can
             {% responsive_image path: assets/images/posts/crama-de-piatra/crama1_i0wazr.webp alt: "Crama de Piatra pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

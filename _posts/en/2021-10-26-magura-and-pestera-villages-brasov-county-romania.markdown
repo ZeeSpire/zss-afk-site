@@ -27,6 +27,8 @@ featured-image-top-smaller: "/assets/resized/IMG_20211010_113741_yufvam-800x450.
 featured-image-primary: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Măgura and Peștera are two picturesque villages in a spectacular setting where the magic of time passing slowly takes place. The first time we got here we thought we arrived in heaven, this was the first raw impression of the place.
 
 Măgura means large, round, and isolated hill, usually forested, while Peștera means cave.
@@ -52,6 +54,7 @@ Every season has its charm. If you make sure that you can reach the accommodatio
     {% responsive_image path: assets/images/posts/magura/DJI_0142_rfm1qt.webp alt: "Viscri 2" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## Accommodation and restaurant options
  
@@ -70,6 +73,7 @@ Here time seems to stand still, the silence is interrupted only by cowbells or c
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/PpNKnzD_3vo" title="Magura & Pestera villages, Brasov county, Romania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 In the area, there are mountain trails that can be traveled both on foot and by bike. The Peștera-Măgura-Şirnea route is appreciated by mountain biking enthusiasts and can be covered even by beginners.
  
@@ -95,3 +99,4 @@ In these isolated villages the locals are hospitable and friendly. It was a plea
             {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

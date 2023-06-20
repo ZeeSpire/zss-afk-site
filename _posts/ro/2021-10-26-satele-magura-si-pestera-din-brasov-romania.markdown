@@ -27,6 +27,8 @@ featured-image-top-smaller: "/assets/resized/IMG_20211010_113741_yufvam-800x450.
 featured-image-primary: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/IMG_20211010_113741_yufvam-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Măgura și Peștera sunt două sate pitorești într-un cadru spectaculos în care timpul pare că trece mai încet. Prima dată când am ajuns aici am crezut că am ajuns în Rai, aceasta a fost prima impresie asupra locului.
 
 Măgura înseamnă deal mare, rotund și izolat, de obicei împădurit.
@@ -51,6 +53,7 @@ Am vizitat zona atât vara când vremea este potrivită pentru drumeții mai lun
     {% responsive_image path: assets/images/posts/magura/DJI_0142_rfm1qt.webp alt: "Viscri 2" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## Opțiuni de cazare și restaurante
 
@@ -69,6 +72,7 @@ Aici timpul pare să stea pe loc, liniștea este întreruptă doar de clopoțeii
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/PpNKnzD_3vo" title="Magura & Pestera villages, Brasov county, Romania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 În zonă există trasee montane care pot fi parcurse atât pe jos, cât și cu bicicleta. Traseul Peștera-Măgura-Șirnea este apreciat de pasionații de mountain bike și poate fi parcurs chiar și de începători.
  
@@ -94,3 +98,4 @@ Daca vreti să vedeți mai multe fotografii din calătoriile noastre, dați foll
             {% responsive_image path: assets/images/posts/magura/pin2_ivbksh.webp alt: "Magura Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/e-PANO_20210714_203525_copy_yjfd0q-
 featured-image-primary: "/assets/resized/e-PANO_20210714_203525_copy_yjfd0q-800x433.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/e-PANO_20210714_203525_copy_yjfd0q-800x433.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Santorini looks like it’s straight off a postcard, but this place is much more than a pretty picture. It’s about amazing sunsets, jaw-dropping views, luxurious hotels, friendly people, romance floating in the air, and delicious food. 
 
 First, let's start with some generic information about this Greek island because before traveling there, we tried to read as much as possible about it and we found some super interesting facts. 
@@ -49,9 +51,10 @@ Although it’s a super small island, I feel that it has a lot to offer, it has 
   
 We stayed in Santorini 7 nights/8 days, and we switched 3 different hotels. We stayed in Oia, Akrotiri, and Imerovigli, and explored almost the entire island from these points. It's perfectly fine if you stay in one place because the island is small enough and can be traveled easily especially if you rent a car. We rented a car to travel along and across the island and it was the best decision. All three of our hotels offered private parking, but it was a bit difficult to find parking spaces in the popular places. 
 
- <div class="ratio ratio-16x9 mb-3">
+<div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/IeswQFH_G-w" title="Top 15 things to do in Santorini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 I’ve put together a list of 15 things that can be done in Santorini. You can do all of these in a week spent on the island or maybe even less. Pick what suits you best.  
   
@@ -71,6 +74,7 @@ You can also visit the ruins of the Castle of Oia where you can watch the sunset
             {% responsive_image path: assets/images/posts/santorini/e-IMG_20210715_064726_lmfke3.webp alt: "Santorini" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 2. Eat freshly caught fish in Ammoudi Bay 
 You can reach this wonderful small port packed with restaurants that promise fresh caught fish and seafood by going down the stairs from Oia, or by car (just add the destination Ammoudi Bay on Google Maps). Please refrain from using the donkeys to go back up to Oia.
@@ -145,5 +149,6 @@ This was my list of things to do in Santorini. What do you think? Are there thin
             {% responsive_image path: assets/images/posts/santorini/santo-things2_hkswqu.webp alt: "Santorini pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
  
  

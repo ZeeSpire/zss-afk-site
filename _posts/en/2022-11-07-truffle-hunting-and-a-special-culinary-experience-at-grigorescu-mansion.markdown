@@ -24,6 +24,8 @@ featured-image-top-smaller: "/assets/resized/IMG_1546-1600x900.webp" # width - 1
 
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Ever since we saw the Flavors of Romania documentary presented by Charlie Ottley, we planned to go to Grigorescu Mansion, excited by the idea of Slow Food, of good food made from fresh organically grown ingredients, and also with the desire to meet involved and passionate people, for whom hospitality is a way of life, not a business. So, when Terra Carpatica - Grigorescu Mansion announced on its Facebook page that it was organizing a culinary weekend dedicated to truffle hunting, we didn't think twice and booked a room. 
 
 Let me start by saying that we are very pleased with the experience we had during the last weekend of this warm and dry October, and I could hardly find anything negative to say about it. At the same time, I would like to point out that all the reviews or articles I write are subjective, based on our experiences at a certain time and we are not paid or rewarded in any way for what I write, about the videos I publish on Youtube or about the pictures I post on Instagram. That's precisely why, when it was the case, I also specified what I didn't like about the accommodation, the restaurant, or the tourist attraction that I visited. 
@@ -61,6 +63,7 @@ The main course was a tenderloin of pork in Feteasca Neagra wine reduction with 
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 For dessert, we received an espresso cheesecake with a base made of homemade biscuits with butter and maple syrup, a chocolate ganache with 85% cocoa, and raspberry syrup made with raspberries from the garden. Oh my God! It was the best cheesecake we've ever tasted, and it didn't even resemble other cheesecakes we've tried because of the buttery biscuits, which were something else, not the usually used biscuits mixed with a lot of sugar and oils. 
 
@@ -87,6 +90,7 @@ Truffles are fungi that live in symbiosis with a tree. Therefore, you can only f
     {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" 3pelinie1pe1: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 All five participating families received truffles as they were found, but some families received only one truffle, while others received four. I think it would have been better if there had been an attendant designated to collect truffles in a basket, and at the end of the hunting, each family would receive a truffle from the ones found. 
 
@@ -121,6 +125,7 @@ We started dinner with the three appetizers: a mushroom cappuccino with egg whit
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" cincipelinie: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 As the main course, we had beef ribeye cooked as everyone preferred (we asked for medium-well) with polenta with truffles, truffle cheese sauce, pear poached in Feteasca Neagra wine, and salad. The dessert consisted of a sweet and syrupy known by Romanians as savarina with a Romanian type of cheese similar to the Italian ricotta with truffles instead of whipped cream which is normally used for savarina. After such delicacies, I would have applauded with my ears if anatomy would allow it. 
 
@@ -142,3 +147,4 @@ It was a very beautiful experience that we enjoyed with all our hearts, and we r
             {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

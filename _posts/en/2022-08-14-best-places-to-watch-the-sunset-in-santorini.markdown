@@ -25,6 +25,7 @@ featured-image-top-smaller: # width - 1200
 featured-image-primary: "/assets/resized/e2-IMG_20210714_203245_stzjz0-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/e2-IMG_20210714_203245_stzjz0-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
 
 I start by saying that Santorini is a world-renowned place for beautiful sunsets and that many tourists go to Santorini, especially for this. 
 
@@ -100,3 +101,4 @@ Regardless of the place, the sunsets on the island of Santorini are romantic and
             {% responsive_image path: assets/images/posts/santorini/santorini2_qmsaoe.webp alt: "Santorini pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

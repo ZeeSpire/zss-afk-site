@@ -19,6 +19,8 @@ featured-image-primary: "/assets/resized/valea-verde-cover-800x450.webp" # width
 featured-image-top: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/valea-verde-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 După experiența gastronomică și vânătoarea de trufe ghidată de care am avut parte la Terra Carpatica - Conacul Grigorescu, despre care am povestit în [acest articol](/ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu/), am achiziționat un pachet similar, de data aceasta la Valea Verde, cu ocazia reducerilor de Black Friday.
 
 Astfel pachetul pentru două persoane a costat 350 euro, redus de la 498 euro, și a inclus două nopți de cazare cu mic dejun, un pahar de Prosecco de bun venit, două cine cu 4, respectiv 5 feluri de mâncare, un prânz cu două feluri de mâncare și vânătoarea de trufe ghidată. Aș zice că am făcut o afacere bună.
@@ -74,6 +76,7 @@ Cei de la Valea Verde propun un meniu pentru schimbare. Mai precis, un meniu pen
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Cina Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
+{% include in-article-ad.html %}
 
 În fiecare zi meniul este unul fix cu până la 7 feluri de mâncare. După cum ziceam, vineri seara am avut incluse patru feluri de mâncare, la alegere din cele 7 disponibile.
 Noi am ales câte două aperitive diferite şi anume carpaccio de cerb, terină de pui cu salată, supă cremă de cartofi dulci şi serviciul de unt şi pâine al casei. Ca fel principal am avut ceafă de porc, cartofi ţărăneşti şi ratatui de legume, iar desertul a constat în panna cotta cu zmeură marinată. Ne-au impresionat în special felul principal şi desertul, iar în ceea ce priveşte carnea de vânat, ne-am dat seama că nu e ceva ce putem gusta cu plăcere.
@@ -103,6 +106,7 @@ Cina de sâmbătă a avut cinci feluri de mâncare, după cum urmează: terină 
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Cina 2 Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
+{% include in-article-ad.html %}
 
 ## Weekenduri tematice şi activităţi la Valea Verde
 
@@ -148,3 +152,4 @@ Aflat la 50 de kilometri de Cund, Saschiz este un sat săsesc în care principal
 La 70 de kilometri de Cund se află Viscri, despre care noi credem că este cel mai popular sat transilvănean, căruia i-am dedicat [un articol separat](/ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania/).
 
 În concluzie, Valea Verde este cu siguranţă un loc ce merită vizitat cu sufletul deschis, în care mergi pentru a-ţi reîncărca bateriile şi a te reconecta cu natura. Ne bucurăm să auzim astfel de poveşti precum cea care stă la baza a ceea ce este Valea Verde acum.
+{% include in-article-ad.html %}

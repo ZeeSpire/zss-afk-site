@@ -24,6 +24,7 @@ featured-image-top-smaller: "/assets/resized/viscri-top-16x9-800x450.webp" # wid
 
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
 
 Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase.
  
@@ -66,6 +67,7 @@ Una dintre atracțiile principale este, fără îndoială, Biserica Fortificată
     {% responsive_image path: assets/images/posts/viscri/from-viscri-2.webp alt: "Viscri 2" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 În afară de explorarea satului și împrejurimile acestuia, așteptarea văcuțelor să se întoarcă de la pășunat, fotografierea gâștelor lăsate libere pe stradă sau admirarea cerului înstelat noaptea, poți merge la vânătoare de trufe prin pădure sau la alte tururi ghidate organizate de gazde sau la cererea oaspeților.
 
@@ -88,6 +90,7 @@ Există câteva locuri unde te poți bucura de o masă tradițională, gătită 
             {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" 3pelinie1pe1: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
  
 Am vrut să încercăm și punctul gastronomic local de la Meșendorf 65, pentru că am citit despre proprietari și știam că organizează degustări de brânzeturi,  brânzeturi făcute chiar de ei cu lapte de la vacile din sat. De asemenea, servesc prânzul și cina cu mâncăruri delicioase gătite în casă. Dar, din păcate, nu mai aveau disponibilitate.
  
@@ -140,6 +143,7 @@ Acest preț include vizita la [castelul Sükösd-Bethlen](https://www.castelulsu
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
 {% responsive_image path: assets/images/posts/viscri/the-emerald-lake.webp alt: "The Emerald Lake." %}
+{% include in-article-ad.html %}
 
 ### Cetatea Rupea
  
@@ -151,6 +155,7 @@ Această cetate medievală se întinde pe o suprafață de 11 hectare cu ziduri,
 
 {% responsive_image path: assets/images/posts/viscri/rupea-citadel.webp alt: "Rupea Citadel." %}
 {% responsive_image path: assets/images/posts/viscri/view-from-rupea-citadel.webp alt: "View Rupea Citadel." %}
+{% include in-article-ad.html %}
 
 ### Cetatea Feldioara - Marienburg
  
@@ -173,3 +178,4 @@ Sunt atâtea alte locuri frumoase pe care le poți vizita, de la biserici fortif
             {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

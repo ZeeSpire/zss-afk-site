@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/e2-IMG_20210708_161422_uf6pbd-800x4
 featured-image-primary: "/assets/resized/e2-IMG_20210708_161422_uf6pbd-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/e2-IMG_20210708_161422_uf6pbd-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 I love Greek food and I have to admit that it is one of my favorite cuisines with its Mediterranean influences. I really love the flavorings and the fresh herbs they use like oregano, mint, and dill. So it goes without saying that every time I am in Greece I enjoy delicious dishes regardless of quantities or calories.
 
 There is nothing more pleasant than spending quality time with your loved ones and sharing several simple and tasty dishes such as Greek salad, Kalamata olives, pita with tzatziki, eggplant salad, vegetable frittes, and fried squid or french fries with feta cheese.
@@ -46,6 +48,7 @@ Fava is made from split peas (fava beans) and it is a creamy dish that goes very
     {% responsive_image path: assets/images/posts/santorini/g3_i0lfkz.webp alt: "Santorini 3" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Another absolutely delicious dish that I fell in love with is the tomato fritters. The more ripe, sweeter, and more flavorful the tomatoes, the tastier the fritters will be. Add a finely chopped onion, herbs and flour, then fry in oil until browned and serve with yogurt and mint sauce. An explosion of flavors! I ate these fritters every day during my vacation in Santorini, and I cooked them at home as well.
 
@@ -70,6 +73,7 @@ Our dearest discovery was [Artemis Karamolegos Winery](https://www.artemiskaramo
     {% responsive_image path: assets/images/posts/santorini/m3_jl083a.webp alt: "Santorini 3" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 We also made the most velvety fava, the traditional tomato fritters, and as a main dish, we cooked a pork fillet in Vinsanto wine sauce. We also received a glass of wine during the cooking class, and after the cooking class we sat down in the restaurant where we ate what we cooked. On top of all that we received a bottle of wine, a dessert, and of course, a glass of Vinsanto wine. It was perfect and I highly recommend it. On their [website](https://www.artemiskaramolegos-winery.com/en/winery-santorini/8/){:target="_blank" rel="nofollow"}, you can find more information about what they offer. 
 
@@ -86,6 +90,7 @@ Another excellent restaurant, situated in Akrotiri, was [Misteli](https://mistel
     {% responsive_image path: assets/images/posts/santorini/p3_xsd3ym.webp alt: "Santorini 3" 3pelinie1pe1cover: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 In Oia, you can find delicious food at [Melitini](https://melitinioia.com/){:target="_blank" rel="nofollow"}. This unpretentious restaurant in Oia serves a variety of spreads, salads, cheeses, grilled meats, and seafood that can be shared. My favorite dish from them was the vegetable fritters. You can also order the food as a takeaway and eat it in some other place if they don't have free tables.
 
@@ -107,3 +112,4 @@ These are our recommendations for phenomenally good food in Santorini. If you go
             {% responsive_image path: assets/images/posts/santorini/santo-eat_gvsnrq.webp alt: "Santorini pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

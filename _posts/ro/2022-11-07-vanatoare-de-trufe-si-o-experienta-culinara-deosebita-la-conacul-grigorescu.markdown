@@ -23,6 +23,8 @@ featured-image-top: "/assets/resized/IMG_1546-1600x900.webp" # width - 1200
 
 featured-image-home: "/assets/resized/IMG_1546-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Încă de când am văzut documentarul Flavours of Romania prezentat de Charlie Ottley, ne-am pus în plan să ajungem la Conacul Grigorescu, entuziasmați fiind de ideea de Slow Food, de mâncare bună facută din ingrediente proaspete crescute organic, dar și din dorința de a cunoaște oameni implicați și pasionați, pentru care ospitalitatea reprezintă un mod de viață, nu o afacere. Așadar în momentul în care Terra Carpatica - Conacul Grigorescu a anunțat pe pagina de Facebook că organizează un weekend culinar dedicat vânătorii de trufe, nu am stat pe gânduri și am rezervat o cameră.
 
 Încep prin a spune că suntem deosebit de încântați de experiența de care am avut parte în ultimul weekend din acest călduros și secetos octombrie și cu greu aș putea să găsesc ceva negativ de spus despre aceasta. Totodată țin să precizez că toate recenziile sau articolele pe care le scriu sunt subiective, bazate pe experiențele noastre dintr-un anumit moment temporal și nu suntem plătiți sau răsplătiți în vreo formă pentru ceea ce scriem, pentru filmările pe care le publicăm pe Youtube sau pentru pozele pe care le postăm pe Instagram. Tocmai de aceea atunci când a fost cazul am specificat și ce anume nu mi-a plăcut la cazarea, restaurantul sau obiectivul turistic pe care le-am vizitat.
@@ -60,6 +62,7 @@ Felul principal a fost un muschiuleț fraged de porc în reducție de Fetească 
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221028_210754.webp alt: "Conacul Grigorescu. Mancare. 05" cincipelinie: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 La desert am primit un cheesecake cu espresso pe blat de biscuite de casă cu unt și sirop de arțar, cu ganache de ciocolată cu 85% cacao și un sirop de zmeură făcut cu zmeură din grădină. Doamne Dumnezeule! A fost cel mai bun cheesecake gustat vreodată și nici măcar nu semăna cu alte cheesecake-uri încercate de noi datorită blatului de biscuiți care a fost efectiv altceva, nu acel blat folosit de obicei din biscuiți amestecați cu mult zahăr și uleiuri vegetale.
 
@@ -86,6 +89,7 @@ Trufele sunt ciuperci care trăiesc în simbioză cu un arbore. Prin urmare nu �
     {% responsive_image path: assets/images/posts/grigorescu/IMG_1512-2.webp alt: "Truffle hunting 03" 3pelinie1pe1: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Toate cele cinci familii participante au primit trufe pe măsură ce acestea erau găsite, doar că unele familii au primit doar o trufă, în timp ce altele au primit patru. Cred că era mai bine să fi existat un însotițor desemnat cu strângerea de trufe într-un coș, iar la final fiecare familie să primească o trufă din cele găsite. 
 
@@ -120,6 +124,7 @@ Am început așadar cina cu cele trei aperitive: cappuccino de ciuperci cu spum�
     {% responsive_image path: assets/images/posts/grigorescu/IMG_20221029_213709.webp alt: "Conacul Grigorescu. Mancare. 10" cincipelinie: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Ca fel principal am avut ribeye de vită gătit fiecare cum a dorit (noi am cerut medium-well) cu mămăligă cu trufe, sos pe bază de brânză cu trufe, pară poșată în Fetească Neagră și salată. Desertul a constat într-o savarină dulce și însiropată cu urdă frecată cu trufe în loc de frișcă. După asemenea delicatese aș fi aplaudat și din urechi dacă mi-ar fi permis anatomia.
 
@@ -141,3 +146,4 @@ Am vizitat și mânăstirea Rătești și dealurile din zonă. Însă ca activit
             {% responsive_image path: assets/images/posts/grigorescu/pin-grigorescu-2.webp alt: "Conacul Grigorescu Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

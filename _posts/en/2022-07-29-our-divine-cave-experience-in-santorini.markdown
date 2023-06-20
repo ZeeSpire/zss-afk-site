@@ -24,8 +24,9 @@ featured-image-top-smaller: "/assets/resized/0_jp5koh-800x450.webp" # width - 12
 
 featured-image-primary: "/assets/resized/0_jp5koh-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/0_jp5koh-800x450.webp" # width - 600
-
 ---
+{% include in-article-ad.html %}
+
 I felt I had to dedicate an entirely separate article to one of the accommodations we had in Santorini because it was the most beautiful accommodation we have ever stayed in, and it was an experience in itself. We booked through [booking.com](https://www.booking.com/hotel/gr/divine-cave-experience.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"} and we were so happy that we found this place in the peak season at a reasonable price.
 
 {% responsive_image path: assets/images/posts/divine-cave/1_zkmujs.webp alt: "Divine Cave Experience"%}
@@ -51,6 +52,7 @@ Even though we didn't use the TV, we appreciated the fact that it had Netflix. W
             {% responsive_image path: assets/images/posts/divine-cave/s_2_t39mbc.webp alt: "Divine Cave Experience" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 The bed and especially the pillows were so comfortable that we looked at the label to see where we could buy them. They were from [Matt-Royal](https://matt-royal.gr/products-pillows.html){:target="_blank" rel="nofollow"} and were made in Greece which is to be appreciated.
 
@@ -73,3 +75,4 @@ In fact, the Divine Cave Experience is not just a hotel, but it truly is an expe
             {% responsive_image path: assets/images/posts/divine-cave/cave2_lqx5cb.webp alt: "Divine Cave Experience pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

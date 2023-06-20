@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/viscri-top-16x9-800x450.webp" # wid
 featured-image-home: "/assets/resized/viscri-top-600x600.webp" # width - 600
 featured-image-style: full-width # can be left, centered, full-width
 ---
+{% include in-article-ad.html %}
+
 If you want to see the Transylvanian beauties with your own eyes because photos like always just don't do justice, you must visit this area and I promise that you will fall in love, like King Charles III did, with the vast forests, the hospitality of the people, and the delicious local dishes.
  
 ## Where is Viscri
@@ -47,6 +49,7 @@ The House of Prince of Wales can be visited as well for a couple of euros (12 RO
 
 {% responsive_image path: assets/images/posts/viscri/viscri-2.webp alt: "Viscri, King Charles III" %}
 {% responsive_image path: assets/images/posts/viscri/viscri-inside-kings-house.webp alt: "Viscri. Inside king's house" %}
+{% include in-article-ad.html %}
 
  
 One of the top attractions in Viscri is undoubtedly the Fortified Church. The entrance costs 15 RON (3 EUR). Besides the church and the church tower, we were able to visit a small museum with traditional objects and an exhibition of Medias ceramics housed in the walls surrounding the church.
@@ -65,6 +68,7 @@ One of the top attractions in Viscri is undoubtedly the Fortified Church. The en
     {% responsive_image path: assets/images/posts/viscri/from-viscri-2.webp alt: "Viscri 2" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 
 Besides exploring the village and its surrounding, watching the cows returning from grazing, photographing the geese let loose on the street, or just stargazing in the night, you can go truffle hunting in the forest or to other guided tours organized from time to time or upon request.
@@ -88,6 +92,7 @@ There are a few places where you can enjoy a traditional, slow-cooked meal, with
             {% responsive_image path: assets/images/posts/viscri/viscri-32-meal-3.webp alt: "Viscri 32, meal 3" 3pelinie1pe1: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
  
 We also wanted to try the local gastronomic point at Mesendorf 65, because we read about them, and we knew they organize cheese tastings with cheeses made by them with milk from the cows in the village. Also, they serve lunch and dinner with homecooked delicious dishes. But unfortunately, they were fully booked.
  
@@ -140,6 +145,7 @@ This price also includes a visit to the [Sükösd-Bethlen castle](https://www.ca
 {% responsive_image path: assets/images/posts/viscri/racos-vulcano.webp alt: "Racos Vulcano." %}
 {% responsive_image path: assets/images/posts/viscri/basalt-columns.webp alt: "The basalt columns." %}
 {% responsive_image path: assets/images/posts/viscri/the-emerald-lake.webp alt: "The Emerald Lake." %}
+{% include in-article-ad.html %}
 
 ### Rupea Citadel
  
@@ -151,6 +157,7 @@ In the town of Rupea there is also a small ethnographic museum next to the park.
 
 {% responsive_image path: assets/images/posts/viscri/rupea-citadel.webp alt: "Rupea Citadel." %}
 {% responsive_image path: assets/images/posts/viscri/view-from-rupea-citadel.webp alt: "View Rupea Citadel." %}
+{% include in-article-ad.html %}
 
 ### Feldioara-Marienburg Citadel
  
@@ -162,6 +169,7 @@ After the restoration, the popularity of the Feldioara fortress grew exponential
 
 {% responsive_image path: assets/images/posts/viscri/feldioara-citadel-inside-view.webp alt: "Feldioara fortress. Inside view." %}
 {% responsive_image path: assets/images/posts/viscri/feldioara-citadel-view-from-above.webp alt: "Feldioara fortress. View from above." %}
+{% include in-article-ad.html %}
 
 There are so many other things you can see, from fortified churches to medieval citadels, from charming cities and villages to wonderful nature, some we already know, others we can't wait to get to, but we will discover all of them on another occasion.
 
@@ -173,4 +181,5 @@ There are so many other things you can see, from fortified churches to medieval 
             {% responsive_image path: assets/images/posts/viscri/pin-viscri-4.webp alt: "Viscri Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
 

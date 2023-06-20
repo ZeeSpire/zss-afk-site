@@ -23,6 +23,8 @@ featured-image-top:
 
 featured-image-home: "/assets/resized/IMG_20221029_123239-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 In Romania, there are more and more offers that include, in addition to accommodation, various types of experiences, from gastronomic incursions, wine tastings, courses where you can learn something new, to outdoor activities. This is also the case with truffle hunting.
 
 We participated in the truffle hunt organized by Terra Carpatica, at the end of October 2022. Although we were told that it was mostly dry weather in the past months and it is possible that the truffles did not grow, we were lucky to find quite a lot of truffles. Besides the hunting itself, we also participated in a gastronomic experience based on truffles and we highly recommend this type of experience to anyone. Read about it in [this article](/truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/).
@@ -30,6 +32,7 @@ We participated in the truffle hunt organized by Terra Carpatica, at the end of 
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/zGxKL-WEkdA" title="About truffles and how to find them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 In the forests of Romania, there is a variety of truffles, which can be harvested between June and February. Their aroma and color differ depending on the season. Summer truffles have a more subtle smell and aroma than winter ones.
 
@@ -62,3 +65,4 @@ Besides all these, truffles have various health benefits because they are rich i
             {% responsive_image path: assets/images/posts/grigorescu-2/PINGRIGORESCU7.webp alt: "Truffle Hunting Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

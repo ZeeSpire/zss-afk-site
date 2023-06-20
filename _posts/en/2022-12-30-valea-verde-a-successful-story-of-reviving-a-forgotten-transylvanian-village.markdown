@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/valea-verde-cover-800x450.webp" # w
 featured-image-primary: "/assets/resized/valea-verde-cover-1600x900.webp" # width - 1200
 featured-image-home: "/assets/resized/valea-verde-600x600.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 After the gastronomic experience and the guided truffle hunting that we had at Terra Carpatica - Grigorescu Mansion, which I wrote about in [this article](/truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion/), we purchased a similar package, this time at Valea Verde, with a Black Friday discount.
 
 Thus, the package for two people cost 350 euros, reduced from 498 euros, and included two nights of accommodation with breakfast, a welcome drink, two dinners with 4 or 5 courses, respectively, a lunch with two courses and a guided truffle hunting. I would say it was a very good deal.
@@ -81,6 +83,7 @@ and we raise against climate change!"
     {% responsive_image path: assets/images/posts/valea-verde/dinner-1-valea-verde-4.webp alt: "Dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
+{% include in-article-ad.html %}
 
 Every day the menu is a fixed one with up to 7 dishes. As I said, on Friday evening we had four dishes included, to choose from the 7 available.
 We each chose two different appetizers, namely venison carpaccio, chicken terrine with salad, sweet potato cream soup and the house butter and bread service. As a main course we had pork neck steak with country-style potatoes and ratatouille. The dessert was panna cotta with marinated raspberries. We were particularly impressed by the main course and the dessert, and as for the venison, we realized that it is not something we can taste with pleasure.
@@ -110,6 +113,7 @@ Saturday dinner had five dishes, as follows: goose liver terrine with hot pepper
     {% responsive_image path: assets/images/posts/valea-verde/dinner-2-valea-verde-5.webp alt: "Second dinner at Valea Verde 5" cincipelinie: true %}
     </div> 
 </div>
+{% include in-article-ad.html %}
 
 ## Thematic weekends and activities at Valea Verde
 
@@ -155,3 +159,5 @@ Located 50 kilometers from Cund, Saschiz is a Saxon village where the main touri
 Seventy kilometers from Cund is Viscri, which we believe is the most popular Transylvanian village, to which we have dedicated [a separate article](/viscri-the-most-popular-saxon-village-in-transylvania/).
 
 In conclusion, Valea Verde is definitely a place worth visiting with an open mind, where you go to recharge your batteries and reconnect with nature. We are always delighted to hear such stories as the one from Valea Verde Retreat.
+
+{% include in-article-ad.html %}

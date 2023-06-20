@@ -33,7 +33,6 @@ We went there by car and because the access to the historic center is restricted
 owned by Maria Luisa who was an amazing host and gave us lots of recommendations on what to see in the city or where to eat.
 
 {% responsive_image path: assets/images/posts/lecce/lecce-luxattico.webp alt: "Lecce LuxAttico B&B" %}
-{% include in-article-ad.html %}
 
 We have to admit though that we would have liked to stay in one of these luxurious hotels in the heart of Lecce:
 
@@ -44,12 +43,10 @@ We have to admit though that we would have liked to stay in one of these luxurio
 We only spent one day in this vibrant, touristy, steeped-in history place, and we regret that we couldn't stay longer because we really enjoyed the time here. Basically, we strolled through the streets of the "centro storico", entered churches (open until late), and visited museums. But the most pleasant activity is to sit on a terrace, eat local cheeses, and admire the bustling piazzas full of tourists and locals having a good time. 
 
 {% responsive_image path: assets/images/posts/lecce/lecce-baroque-building.webp alt: "Lecce, Salento, Italy - Baroque" %}
-{% include in-article-ad.html %}
 
 A walk through the historical center of Lecce is a journey through time and culture. The narrow streets wind their way through a maze of Baroque buildings with intricate carvings and ornate balconies.
 
 We started the day with a caffe leccese which is a traditional coffee beverage made with espresso, almond milk, and sugar or honey and is often served over ice. The almond milk used in the recipe is typically made from freshly ground almonds, giving the coffee a creamy and nutty flavor. Caffe Leccese is a popular local drink and can be found in cafes and restaurants throughout Lecce and the surrounding region.
-
 
 <div class="row mb-4">
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 mt-3">

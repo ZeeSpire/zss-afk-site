@@ -32,7 +32,6 @@ Most of the offers include 3 or 4 nights of accommodation, with the possibility 
 Below you can find the offers that I found attractive.
 
 {% responsive_image path: assets/images/posts/oferte-paste/primavara.webp alt: "Easter offers 2023" %}
-{% include in-article-ad.html %}
 
 <br />
 

@@ -42,7 +42,6 @@ Here are five more spectacular hotel options in Athens:
 - [Coco-mat Athens BC](https://www.booking.com/hotel/gr/coco-mat-athens-bc.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 - [Athens Capital Center Hotel - MGallery Collection](https://www.booking.com/hotel/gr/mgallery-athens-capital.en-gb.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}
 
-
 But let's jump into our top 15 things to do in Athens after a lot of research and after we tried them all and more!
 
 # Top 15 things to do in Athens
@@ -72,6 +71,7 @@ If there is just one thing you have to tick off while in Athens, this is it. The
      <div class="text-muted text-center"><small>Erechtheion</small></div>
     </div>
 </div>
+{% include in-article-ad.html %}
 
 ## 2. Check out Hadrian's Library
 Hadrian's Library was built by the Roman Emperor Hadrian in the 2nd century AD and was the largest library in Athens. The western wall and the columns are very impressive, and although they can be seen from outside the archaeological site, we didn't regret entering, especially since we bought the ticket package.
@@ -95,7 +95,6 @@ The Roman Agora was built during the Roman period and includes several important
 Inside the site, you can see the details carved into the marble up close, as well as a beautiful mosaic, or what remains of it.
 
 {% responsive_image path: assets/images/posts/athens/roman-agora-athens.webp alt: "Roman Agora Athens" %}
-{% include in-article-ad.html %}
 
 ## 6. Visit Aristotle's Lyceum
 This was the place where the philosopher Aristotle taught and conducted his philosophical and scientific research. The school was established in the 4th century BC and was one of the most prominent educational institutions in ancient Greece. Because it closes at 3 PM and we were 5 minutes late, we've seen it from outside, unfortunately.
@@ -150,7 +149,6 @@ It's known for its lively atmosphere and is a great place to experience the loca
 We bought Greek mountain tea from here as a souvenir. The tea is made from dried Sideritis plants and tastes similar to other herbs for tea, like mint or chamomile.
 
 {% responsive_image path: assets/images/posts/athens/athens-central-market-varvakios.webp alt: "Athens Central Market Varvakios" %}
-{% include in-article-ad.html %}
 
 ## 13. Climb Philopappos Hill
 Before going to Athens, we read about Lycabettus Hill, which represents the highest point in Athens, with stunning views of the city and a small chapel at the top. We also read about Areopagus Hill, which is located northwest of the Acropolis and has panoramic views of the city.

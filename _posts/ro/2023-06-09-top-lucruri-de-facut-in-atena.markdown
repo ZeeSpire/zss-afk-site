@@ -72,7 +72,7 @@ Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.
      <div class="text-muted text-center"><small>Erechtheion</small></div>
     </div>
 </div>
-
+{% include in-article-ad.html %}
 
 ## 2. Vezi biblioteca lui Hadrian
 Biblioteca lui Hadrian a fost construită de împăratul roman Hadrian în secolul al II-lea d.Hr. şi a fost cea mai mare bibliotecă din Atena. Peretele vestic şi coloanele sunt foarte impresionante şi, deşi se văd din exteriorul sitului arheologic, nu am regretat că am intrat, mai ales că am cumpărat biletul care cuprindea şi acest sit.
@@ -96,7 +96,6 @@ Agora romană a fost construită în perioada romană şi include mai multe stru
 În interiorul sitului, poţi vedea detaliile sculptate în marmură de aproape, precum şi un mozaic frumos sau ce a mai rămas din el.
 
 {% responsive_image path: assets/images/posts/athens/roman-agora-athens.webp alt: "Roman Agora Athens" %}
-{% include in-article-ad.html %}
 
 ## 6. Mergi la Liceul lui Artistotel
 Acesta a fost locul unde filosoful Aristotel a predat şi a condus cercetările sale filozofice şi ştiinţifice. Şcoala a fost înfiinţată în secolul al IV-lea î.Hr. şi a fost una dintre cele mai proeminente instituţii de învăţământ din Grecia antică. Pentru că programul de vizitare este până la ora 15:00, iar noi am întârziat vreo 5 minute, l-am văzut de la distanţă din păcate.
@@ -149,7 +148,6 @@ Este cunoscută pentru atmosfera plină de viaţă şi este un loc numai bun pen
 Am cumpărat de aici ceai grecesc de munte ca suvenir. Ceaiul este făcut din plante de Sideritis uscate şi are un gust similar cu alte ierburi pentru ceai, cum ar fi menta sau muşeţelul.
 
 {% responsive_image path: assets/images/posts/athens/athens-central-market-varvakios.webp alt: "Athens Central Market Varvakios" %}
-{% include in-article-ad.html %}
 
 ## 13. Urcă pe dealul Philopappos
 Înainte de a merge la Atena, am citit despre Dealul Lycabettus care reprezintă cel mai înalt punct din Atena, cu vederi uluitoare ale oraşului şi o capelă în vârf. Am citit şi despre Dealul Areopagus care se află la nord-vest de Acropolă, cu vederi panoramice ale oraşului.

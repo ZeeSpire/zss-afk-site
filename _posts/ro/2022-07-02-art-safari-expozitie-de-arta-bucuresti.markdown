@@ -25,6 +25,8 @@ featured-image-top-smaller:
 featured-image-primary: "/assets/resized/art-safari-1_eaht3h-600x772.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/art-safari-1_eaht3h-600x772.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Astăzi am fost pentru prima dată la Art Safari cu toate că evenimentul a ajuns anul acesta la ediția cu numărul 9. După vizita de astăzi probabil vom încerca să mergem la fiecare ediție deoarece ne-a plăcut foarte mult.  
 O vizită la Art Safari este o modalitate bună de a petrece câteva ore de calitate în weekend.
 
@@ -63,6 +65,7 @@ Pavilionul Aniversar
             {% responsive_image path: assets/images/posts/art-safari/1656765409878_ja19oj.webp alt: "Art Safari" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Biletele pot fi achiziționate și online de [aici](https://tickets.artsafari.ro/e?lang=en){:target="_blank" rel="nofollow"}. Un bilet cu acces de o zi la toate cele cinci expoziții costa la data scrierii acestui articol 80 de lei (16 euro), iar un tur de noapte costa 130 de lei (26 de euro).
 
@@ -85,3 +88,4 @@ Actualizare: Am vizitat de asemenea ediția numărul 10. Impresiile noastre [aic
             {% responsive_image path: assets/images/posts/art-safari/art-safari-4_cbkvpt.webp alt: "Art Safari" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}

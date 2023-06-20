@@ -25,8 +25,8 @@ featured-image-top-smaller:
 featured-image-primary: "/assets/resized/DSCF3072_r_znfawp-800x800.webp " # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/DSCF3072_r_znfawp-600x600.webp " # width - 600
 ---
-
 {% responsive_image path: assets/images/posts/apogeum/DSCF3072_r2_kdzmaw.webp alt: "Apogeum Winery" patrupetrei:true  %}
+{% include in-article-ad.html %}
 
 În februarie am fost într-o excursie de o zi în județul Buzău pentru a vizita Vulcanii Noroioși și am ajuns relativ repede la destinație, iar drumul a fost destul de bun astfel că ne-am hotărât să ne întoarcem în zonă, de data aceasta ca să vizităm o cramă. Dacă ești curios să vezi imagini spectaculoase cu Vulcanii Noroioși, mergi la acest [articol](/the-muddy-volcanoes-buzau-county-romania){:target="_blank" rel="nofollow"}.
 
@@ -52,7 +52,8 @@ Am rezervat o cameră dublă prin [booking.com](https://www.booking.com/hotel/ro
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220401_180113_haftqf.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
-  
+{% include in-article-ad.html %}
+
 În primul rând trebuie să subliniez că atât camera cât și baia au fost extrem de curate. Serios, impecabil de curate. Nu știu dacă așa este întotdeauna sau doar am fost norocoși, dar am apreciat foarte mult acest aspect. Deși camera și baia erau foarte mici, erau frumos decorate, iar în baie, am găsit tot ce am fi putut avea nevoie: săpun lichid, gel de duș, șampon, dischete demachiante, periuțe și pastă de dinți, papuci, prosoape.
   
 ## Restaurantul
@@ -71,6 +72,7 @@ Micul dejun a fost tip bufet suedez, dar ouăle ochi și omleta au fost preparat
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220402_200514_r_x92noy.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
   
 Acum să trecem la partea cea mai interesantă, motivul călătoriei noastre: degustarea de vinuri.
   
@@ -90,6 +92,7 @@ Când am făcut rezervarea, am optat pentru un anume pachet de degustare, dar fi
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220402_171649_f0huz1.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
  
 Mai întâi am vizitat pivnița unde ni s-a spus cum se face Fetească Neagră a cramei Apogeum, am continuat cu vizita conacului unde se află restaurantul, apoi am încheiat cu degustarea de vinuri în cramă. Ne-am așezat la o masă lungă, în fața fiecăruia erau trei tipuri de pahare, iar pentru fiecare cuplu era o farfurie cu brânză, nuci, biscuiți și salam. Oenologul ne-a povestit despre fiecare vin și ne-a ghidat în degustare, ne-a împărtășit tips & tricks despre vinuri și ne-a spus cu ce să combinăm vinul din farfurie pentru a extrage maximul de gust.
 
@@ -113,3 +116,4 @@ După primul pahar de vin, am fost cu toții relaxați și degustarea a devenit 
             {% responsive_image path: assets/images/posts/apogeum/apogeum1_kecbim.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

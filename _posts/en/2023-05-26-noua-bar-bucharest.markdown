@@ -38,13 +38,13 @@ Although the restaurant was opened at the end of 2022, we only visited it in May
 <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/bDxHi3RKaEA" title="Noua BAR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 On Saturdays and Sundays, the restaurant is also open for breakfast. Only by chance, we were in the area that morning and not have had breakfast at home. We went in, sat down at the table on the terrace, and ticked off with a pencil five dishes each.
 
 The menu is constantly changing. Both the dishes and the prices. To give you an idea, for breakfast, we could choose between 5 options (59 RON / 12 EUR) or 7 options (77 RON / 15.5 EUR) from about 20 options available in different categories: bakery, dairy, greens, proteins, and sweets.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-breakfast.webp alt: "Noua BAR breakfast" %}
-{% include in-article-ad.html %}
 
 We chose:
 1. Basket with two types of homemade bread and butter, but not just any kind of butter, but a whipped, creamy, and airy butter that spread easily on the warm bread and melted in the mouth.
@@ -84,7 +84,6 @@ The dinner with a dish that turned our world upside down: pike roe in smoked cre
 We also ordered homemade sourdough bread with smoked cheese, butter, lardon, and black truffles. I didn't really taste the truffle, but I saw it grated on top. This warm and crispy bread with an interior full of melted cheese was incredible.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-4.webp alt: "Noua BAR dinner 1" %}
-{% include in-article-ad.html %}
 
 We continued with an original twist on the Romanian "mici" made of beef-mutton meat in a fried potato crust, along with pickled cucumbers and homemade mustard.
 
@@ -107,7 +106,6 @@ The green powder sprinkled on top of the cake is dehydrated, finely chopped gree
 And the red sauce was a syrup made only from strawberries (without any sugar) and it was added after listening to the whole story of the dish for a note of spectacularity.
 
 {% responsive_image path: assets/images/posts/noua-bar/noua-bar-3.webp alt: "Noua BAR icecream" %}
-{% include in-article-ad.html %}
 
 If I had to choose only one dessert from the three, I couldn't. I liked them all. Everything was faultless.
 

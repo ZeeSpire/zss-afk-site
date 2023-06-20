@@ -34,7 +34,6 @@ Depopularea Materei în anii 1950 a fost un eveniment semnificativ în istoria o
 La mijlocul secolului XX, Matera era unul dintre cele mai sărace și supraaglomerate orașe din Italia, iar locuitorii săi s-au confruntat cu o serie de provocări sociale și economice. Condițiile de viață din Sassi erau deosebit de dificile, cu o salubritate precară, acces limitat la apă și spațiu limitat.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-3.webp alt: "Matera, Italy" %}
-{% include in-article-ad.html %}
 
 Pentru a rezolva aceste probleme, guvernul italian a inițiat în anii 1950 un program de relocare a locuitorilor din Sassi în noi locuințe construite la periferia orașului. Această mutare a fost efectuată rapid și a presupus evacuarea forțată a multor locuitori, cărora li s-au dat puține preavize și opțiuni. Drept urmare, multe familii au fost forțate să-și părăsească locuinţele și să înceapă o viață nouă.
 
@@ -57,7 +56,6 @@ Am stat două nopți în hotelul-boutique [Palazzo degli Abati](https://www.book
 Un alt lucru pe care vreau să-l subliniez este că ori de câte ori vei vedea cuvântul "chiesa" în acest articol, trebuie să ști că "chiesa" înseamnă "biserică" în italiană.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-palazzo-degli-abati-room.webp alt: "Matera Palazzo degli Abati hotel room" %}
-{% include in-article-ad.html %}
 
 Dar să revenim la [Palazzo degli Abati](https://www.booking.com/hotel/it/palazzo-degli-abati.en-gb.html?group_adults=2&no_rooms=1&aid=7913345){:target="_blank" rel="nofollow"}, care aparent datează din 1756 și care a fost restaurat cu grijă și transformat într-un hotel de 4 stele. Ne-am dorit să stăm într-o peșteră, aceasta fiind în sine o experiență memorabilă. Așa că am rezervat camera "Suite in Cave – U Firn du Cidd" care ne-a depășit așteptările. Această încăpere a servit anterior drept cuptor, după cum ne spune și numele camerei, "U Firn du Cidd" care se traduce prin "Cuptorul catârului". În pereții grotei, am putut admira fosile marine despre care am aflat că sunt reale și că datează de acum 2 milioane de ani. Dar piesa de rezistență a fost podeaua de sticlă prin care puteam vedea descoperirile arheologice pe care a fost construit anterior cuptorul. De asemenea, priveliștea de pe terasa unde am luat micul dejun este uluitoare.
 
@@ -78,6 +76,7 @@ Parco Regionale della [Murgia Materana](http://www.parcomurgia.it/){:target="_bl
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana-view.webp alt: "Parco Regionale della Murgia Materana View, Matera, Italy" %}
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-parco-regionale-della-murgia-materana.webp alt: "Parco Regionale della Murgia Materana, Matera, Italy" %}
+{% include in-article-ad.html %}
 
 ### 2. Piazza Vittorio Veneto
 Piața Vittorio Veneto este un bun punct de plecare în explorarea străzilor din Sasso Barisano. Zona este plină de gelaterii, patiserii, buticuri de suveniruri, restaurante cu terase și magazine de îmbrăcăminte și bijuterii. Devine foarte animat și plin de turiști mai ales seara.
@@ -110,7 +109,6 @@ Am dat din întâmplare peste această [casă](https://www.anticamatera.it/){:ta
 
 ### 7. Chiesa di San Pietro Barisano
 Biserica San Pietro Barisano reprezintă una dintre cele mai mari așezări monahale rupestre din orașul Matera. Fațada centrală este singura parte care poate fi observată din exterior. Biserica are o clopotniță care a fost construită după ultima restaurare din 1755. Spațiile subterane ale bisericii merită văzute și au o istorie interesantă care implică drenarea cadavrelor.
-
 
 ### 8. Explorează străzile din Matera
 Când te afli în Sassi di Matera, oriunde priveşti, găseşti ceva de fotografiat. Ești înconjurat de atât de multă frumusețe și istorie încât nu știi la ce să te uiți mai întâi. Poate fi copleșitor.
@@ -152,7 +150,6 @@ Biserica Sfânta Maria din Idris cunoscută și sub numele de Madonna de Idris e
 La doar o aruncătură de băț de Madonna de Idris, se află Piazza San Pietro, unde se află Biserica San Pietro Caveoso, cunoscută și sub numele de Chiesa di San Pietro e Paolo. Biserica, construită în 1218 în stil baroc, a suferit mai multe renovări și restaurări de-a lungul secolelor, dar o mare parte din structura sa originală și caracteristicile arhitecturale au fost păstrate, făcând-o un sit istoric și cultural valoros.
 
 {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-di-san-pietro-caveoso.webp alt: "Chiesa di San Pietro Caveoso, Matera, Italy" %}
-{% include in-article-ad.html %}
 
 După ce ai admirat priveliștile din Piazza San Pietro, ia-o pe strada Vico Solitario, unde vei găsi în mai puțin de 150 de metri Chiesa rupestre di Sant'Agostino al Casalnuovo și chiar lângă ea, Casa Grotta nei Sassi di Matera.
 
@@ -223,7 +220,6 @@ Chiesa del Purgatorio este numită după doctrina catolică a Purgatoriului, des
             {% responsive_image path: assets/images/posts/matera/matera-italy-chiesa-del-purgatorio-3.webp alt: "Chiesa del Purgatorio 3, Matera, Italy" tall: true %}
     </div>
 </div>
-
 
 ### 17. Chiesa di San Francesco d'Assisi
 La doar o aruncătură de băț de Chiesa del Purgatorio, se află Chiesa di San Francesco d'Assisi, cu vedere spre o piață mare numită (poate ai ghicit) San Francesco. 

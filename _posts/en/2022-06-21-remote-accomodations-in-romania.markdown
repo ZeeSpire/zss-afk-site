@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/nor-11_xrj7cx-800x450.webp" # 800
 featured-image-primary: "/assets/resized/nor-11_xrj7cx-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/nor-11_xrj7cx-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 During the pandemic, with the restrictions caused by the covid and the beginning of the work-from-home era, most of us spent the majority of our time inside our own homes. 
 Life goes on, and time continues to pass so we had to adapt, but we can hardly stand the cities suffocated by concrete, dusty streets, and hellish traffic. So, we began to appreciate the time spent outdoors, in natural settings, surrounded by greenery and tranquility. 
   
@@ -107,6 +109,8 @@ What do they say?<br />
 Designed to accommodate a comfortable stay for couples, solo adventurers and people who love nature!" 
 
 *All the descriptions were taken from Airbnb.* 
+
+{% include in-article-ad.html %}
   
 ## What did we choose? 
 ##### NorAtlas Heritage, Varlaam, Gura Teghii, Buzau 
@@ -128,6 +132,7 @@ As they said in the description, "NorAtlas is located in the middle of nature, w
             {% responsive_image path: assets/images/posts/isolated-chalet/IMG_20220508_095110_modif_q7steh.webp alt: "Nor Atlas Heritage" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 We appreciated that there were nets on all windows, that there was a hairdryer in the bathroom, that the kitchen was equipped with what was needed to prepare and serve the meal, that they left a small disinfectant and cleaning products, and that they left two bottles of water and two colas in the fridge, that they left some leaflets about what to visit in the area, that we found cleanliness, that we had a barbecue in the yard and a place to dine outdoors. 
   
@@ -144,6 +149,7 @@ The hosts were very welcoming, but like everywhere some aspects can be improved.
             {% responsive_image path: assets/images/posts/isolated-chalet/IMG_20220507_092901_modif_r3pkem.webp alt: "Nor Atlas" tall: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 We set out to leave the car for the weekend and to walk around the accommodation on foot. We went to Piatra lui Visan, which we filmed and photographed from all angles, and then we climbed the hill behind the tiny house where a sheepfold is, but we quickly returned because we were afraid of the dogs. 
 
@@ -163,4 +169,5 @@ Here's to discovering new destinations and unique accommodations!
             {% responsive_image path: assets/images/posts/isolated-chalet/nor2_p1pzu7.webp alt: "Isolated Chalet 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
  

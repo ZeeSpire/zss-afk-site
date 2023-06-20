@@ -25,6 +25,8 @@ featured-image-top-smaller: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" #
 featured-image-primary: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/poza1_nyhavn_nfwm3x-800x450.webp" # width - 600
 ---
+{% include in-article-ad.html %}
+
 Originally a Viking fishing village established in the 10th century known at the time as a merchants harbor it is now an exciting environmentally friendly city with vibrant-colored townhouses, top-notch infrastructure, exquisite restaurants, and the reputation of being one of the happiest cities in the world. Copenhagen, the city of fairy tales, with more bikes than cars, has this enticing cool and laid-back vibe that makes you want to move there and start fresh. After just a couple of days spent there, you will start to feel this mood of coziness and contentment also known as hygge that will remain in your heart after returning home.  
 
 Copenhagen is a must-see destination so let's start with some tips for a perfect trip to this wonderful city.  
@@ -42,6 +44,7 @@ Here's the website where you can buy the card and where you can find all the inf
  <div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/tms-6Y5OYFc" title="Copenhagen, Denmark 4K | What to visit | Nyhavn, The Little Mermaid, Tivoli Gardens, and many more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+{% include in-article-ad.html %}
 
 ## Best time to visit Copenhagen  
 
@@ -113,6 +116,7 @@ Noma and Geranium, with 3 Michelin stars each, are at the top of the list of the
     {% responsive_image path: assets/images/posts/copenhaga/food02_sbeqsn.webp alt: "Copenhagen food 03" 3pelinie1pe1: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 We tried some of the dishes for which Denmark is best known. Here's our selection:  
 
@@ -157,3 +161,4 @@ Everyone speaks English very well so it's the only language you need to know. Bu
             {% responsive_image path: assets/images/posts/copenhaga/pin2_puskrs.webp alt: "Copenhagen Pin 02" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}

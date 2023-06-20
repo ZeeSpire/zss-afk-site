@@ -27,6 +27,7 @@ featured-image-home: "/assets/resized/DSCF3072_r_znfawp-600x600.webp " # width -
 ---
 
 {% responsive_image path: assets/images/posts/apogeum/DSCF3072_r2_kdzmaw.webp alt: "Apogeum Winery" patrupetrei:true  %}
+{% include in-article-ad.html %}
 
 In February we were on a one-day trip in Buzău County to visit the Muddy Volcanoes and we really liked it, we arrived relatively quickly at the destination and the road was rather good. So, we decided to return in the area, this time to visit a winery. 
 If you are curious to see spectacular views from the Muddy Volcanoes check out this [article](/the-muddy-volcanoes-buzau-county-romania/).
@@ -53,6 +54,7 @@ We booked a double room through [booking.com](https://www.booking.com/hotel/ro/c
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220401_180113_haftqf.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 First of all, I must point out that both the room and the bathroom were extremely clean. Seriously, impeccably clean. I don't know if that's always the case or we were just extremely lucky, but I really appreciated this aspect. Although the room and the bathroom were very small, they were beautifully decorated, and in the bathroom, we found everything we could have needed: liquid soap, shower gel, shampoo, cleansing disks, toothbrushes and toothpaste, slippers, towels. 
   
@@ -72,6 +74,7 @@ In the same restaurant you can have lunch and dinner at certain times. We had di
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220402_200514_r_x92noy.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 Now let's move on to the most interesting part, the reason for our trip: the wine tasting. 
   
@@ -92,6 +95,7 @@ When we made the reservation, we opted for a certain tasting package, but being 
             {% responsive_image path: assets/images/posts/apogeum/IMG_20220402_171649_f0huz1.webp alt: "Apogeum Winery" 2pelinie9pe16: true %}
     </div>
 </div>
+{% include in-article-ad.html %}
 
 First, we visited the cellar where we were told about how the Apogeum's Fetească Neagră is made, we continued with the visit of the manor where the restaurant is, then we ended with the wine tasting in the winery. We sat at a long table, in front of each sit were three types of glasses, and for each couple there was a plate of cheese, nuts, crackers and salami. The oenologist told us about each wine and guided us in tasting them, shared tips & tricks about wines and told us what to combine the wine with from the plate to extract the maximum of taste. 
 
@@ -115,3 +119,4 @@ After the first glass of wine, we were all relaxed and the tasting became more i
             {% responsive_image path: assets/images/posts/apogeum/apogeum1_kecbim.webp alt: "Apogeum Winery" pin: true ratio:2/3 %}
     </div>
 </div>
+{% include in-article-ad.html %}
