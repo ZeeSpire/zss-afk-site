@@ -1,16 +1,21 @@
 ---
 layout: post.ro
 type: post
-h1_title: Lecce, Italy
-title: Lecce - bijuteria barocă din Salento
-front_page_title: Lecce - bijuteria barocă din Salento
+
+title: Lecce - bijuteria barocă din Salento, Italia #up in browser, max 60 chars
+front_page_title: Lecce - bijuteria barocă din Salento  #shows on the front page
+article_title: Lecce - bijuteria barocă din Salento  #shows on article page
+
 published: 25 Februarie 2023
 last_modified_at: 25 Februarie 2023
+
 keywords: Italia, travel, Lecce, Salento, turism
 description: Lecce, supranumită Florența Sudului, este o bijuterie arhitecturală situată în Salento, Italia. Centrul istoric al orașului este renumit pentru clădirile sale în stil baroc cu ornamente complexe, realizate dintr-un calcar local de culoarea mierii, cunoscut sub numele de pietra leccese. Dar este cunoscut și pentru atmosfera sa caldă, plină de viaţă și pentru bogăția culturală. Iată experiența noastră leccese.
 description_for_first_page: Lecce, supranumită "Florența Sudului", este o bijuterie arhitecturală situată în Salento, Italia. Centrul istoric al orașului este renumit pentru clădirile sale în stil baroc cu ornamente complexe, realizate dintr-un calcar local de culoarea mierii, cunoscut sub numele de "pietra leccese". Dar este cunoscut și pentru atmosfera sa caldă, plină de viaţă și pentru bogăția culturală. Iată experiența noastră "leccese".
+
 categories: [RO, Italia-RO]
 tag: RO
+
 permalink: /ro/lecce-bijuteria-baroca-din-salento/
 permalink-to-next-language: /lecce-a-baroque-gem-in-salento/
 

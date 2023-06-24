@@ -2,8 +2,7 @@
 layout: post.en
 type: post
 
-title: Escape to Cişmigiu Garden, the oldest park in Bucharest #up in browser, max 60 chars
-h1_title: Cişmigiu Garden #hidden, just for seo
+title: Escape to Cişmigiu Garden, Bucharest #up in browser, max 60 chars
 front_page_title: Escape to Cişmigiu Garden, the oldest park in Bucharest  #shows on the front page
 article_title: Escape to Cişmigiu Garden, the oldest park in Bucharest  #shows on article page
 

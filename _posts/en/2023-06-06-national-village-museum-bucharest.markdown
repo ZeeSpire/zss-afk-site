@@ -2,8 +2,7 @@
 layout: post.en
 type: post
 
-title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #up in browser, max 60 chars
-h1_title: Dimitrie Gusti National Village Museum in Bucharest #hidden, just for seo
+title: A walk through the Dimitrie Gusti National Village Museum #up in browser, max 60 chars
 front_page_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #shows on the front page
 article_title: A walk through the Dimitrie Gusti National Village Museum in Bucharest #shows on article page
 

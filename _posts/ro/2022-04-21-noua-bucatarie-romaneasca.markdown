@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Noua restaurant, România
-title: Noua - Un restaurant la alt nivel în București
+title: Noua - Un restaurant la alt nivel în București, Romania
 front_page_title: Noua - Un restaurant la alt nivel în București
+article_title: Noua - Un restaurant la alt nivel în București
 
 published: 21 Aprilie 2022
 last_modified_at: 26 Mai 2023

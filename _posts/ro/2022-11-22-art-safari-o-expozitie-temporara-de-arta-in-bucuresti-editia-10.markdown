@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Art Safari - ediția 10, România
-title: Art Safari - o expoziție temporară de artă în București - ediția 10
+title: Art Safari - ediția 10, România
 front_page_title: Art Safari - o expoziție temporară de artă în București - ediția 10
+article_title: Art Safari - o expoziție temporară de artă în București - ediția 10
 
 published: 22 Noiembrie 2022
 last_modified_at: 22 Noiembrie 2022

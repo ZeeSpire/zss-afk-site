@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-title: Noua B.A.R. - one of our favorite restaurants in Bucharest and why it impressed us
-h1_title: Noua B.A.R., Bucharest
-front_page_title: Noua B.A.R. - one of our favorite restaurants in Bucharest
+title: Noua B.A.R. - one of our favorite restaurants in Bucharest  #up in browser, max 60 chars
+front_page_title: Noua B.A.R. - one of our favorite restaurants in Bucharest #shows on the front page
+article_title: Noua B.A.R. - one of our favorite restaurants in Bucharest and why it impressed us #shows on article page
 
 published: 26 May 2023
 last_modified_at: 26 May 2023

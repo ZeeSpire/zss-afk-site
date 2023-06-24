@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Crama de Piatra, Romania 
-title: Crama de Piatra - a boutique winery with a huge potential 
-front_page_title: Crama de Piatra - a boutique winery with a huge potential 
+title: Crama de Piatra - a boutique winery from Romania
+front_page_title: Crama de Piatra - a boutique winery with a huge potential
+article_title: Crama de Piatra - a boutique winery with a huge potential
 
 published: 04 September 2022
 last_modified_at: 04 September 2022

@@ -2,8 +2,7 @@
 layout: post.en
 type: post
 
-title: Top 15 things to do in Athens plus other recommendations #up in browser, max 60 chars
-h1_title: Top 15 activities to do in Athens #hidden, just for seo, must be different than title
+title: Top 15 things to do and see in Athens #up in browser, max 60 chars
 front_page_title: Top 15 things to do in Athens plus other recommendations  #shows on the front page
 article_title: Top 15 things to do in Athens plus other recommendations  #shows on article page
 

@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Art Safari - ediția 9, România
-title: Art Safari - o expoziție temporară de artă în București - ediția 9
+title: Art Safari, expoziție temporară de artă - ediția 9, România
 front_page_title: Art Safari - o expoziție temporară de artă în București - ediția 9
+article_title: Art Safari - o expoziție temporară de artă în București - ediția 9
 
 published: 02 Iulie 2022
 last_modified_at: 22 Noiembrie 2022

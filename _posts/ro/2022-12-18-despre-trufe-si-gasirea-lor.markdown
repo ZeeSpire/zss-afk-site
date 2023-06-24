@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Vânătoare de trufe, Romania
-title: Despre trufe și găsirea lor
+title: Totul despre trufe si vanatoarea de trufe
 front_page_title: Despre trufe și găsirea lor
+article_title: Despre trufe și găsirea lor
 
 published: 18 Decembrie 2022
 last_modified_at: 18 Decembrie 2022

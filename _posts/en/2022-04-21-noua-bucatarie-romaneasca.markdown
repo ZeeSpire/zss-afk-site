@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Noua restaurant, Romania
-title: Noua - A restaurant at another level in Bucharest
+title: Noua - A restaurant at another level in Bucharest, Romania
 front_page_title: Noua - A restaurant at another level in Bucharest
+article_title: Noua - A restaurant at another level in Bucharest
 
 published: 21 April 2022
 last_modified_at: 26 May 2023

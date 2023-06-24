@@ -1,15 +1,20 @@
 ---
 layout: post.ro
 type: post
-h1_title: Valea Verde, România
-title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat
+
+title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat din Romania
 front_page_title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat
+article_title: Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat
+
 published: 30 Decembrie 2022
 last_modified_at: 30 Decembrie 2022
+
 keywords: vanatoare de trufe, experienta culinara, Romania, travel, Transilvania, Valea Verde, sat transilvanean, sat sasesc
 description: Valea Verde se află în Cund, un sat pitoresc din județul Mureș, la doar 30 km de Sighișoara, 145 km de Brașov si 330 km de București. 
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat/
 permalink-to-next-language: /valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village/
 

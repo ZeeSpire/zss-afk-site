@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-title: Everything about Matera, Italy
-h1_title: Matera, Italy
-front_page_title: Everything about Matera, Italy
+title: Everything about Matera, European capital of culture, Italy #up in browser, max 60 chars
+front_page_title: Everything about Matera, Italy  #shows on the front page
+article_title: Everything about Matera, Italy #shows on article page
 
 published: 12 February 2023
 last_modified_at: 12 February 2023

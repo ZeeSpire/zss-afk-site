@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Divine Cave Experience, the best hotel in Santorini, Greece
-title: Our Divine Cave Experience in Santorini
+title: Our Divine Cave Experience in Santorini, Greece
 front_page_title: Our Divine Cave Experience in Santorini
+article_title: Our Divine Cave Experience in Santorini
 
 published: 29 July 2022
 last_modified_at: 29 July 2022

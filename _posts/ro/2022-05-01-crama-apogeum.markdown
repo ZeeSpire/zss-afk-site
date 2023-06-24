@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Crama Apogeum, România
-title: Crama Apogeum și cea mai bună Fetească Neagră din România
+title: Crama Apogeum și Feteasca Neagră din România
 front_page_title: Crama Apogeum și cea mai bună Fetească Neagră din România
+article_title: Crama Apogeum și cea mai bună Fetească Neagră din România
 
 published: 01 Mai 2022
 last_modified_at: 01 Mai 2022

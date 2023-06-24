@@ -2,8 +2,7 @@
 layout: post.ro
 type: post
 
-title: Ce poţi face în Salonic #up in browser, max 60 chars
-h1_title: Ce poţi face în Salonic în doar trei ore #hidden, just for seo, must be different than title
+title: Ce poţi face si vedea în Salonic #up in browser, max 60 chars
 front_page_title: Ce poţi face în Salonic în doar trei ore #shows on the front page
 article_title: Ce poţi face în Salonic în doar trei ore #shows on article page
 

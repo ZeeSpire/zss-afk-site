@@ -1,15 +1,20 @@
 ---
 layout: post.ro
 type: post
-title: Oferte de Paşte în România (2023)
-h1_title: Cele mai bune oferte de Paşte în România (2023)
+
+title: Cele mai bune oferte de Paşte în România (2023)
 front_page_title: Oferte de Paşte în România (2023)
+article_title: Oferte de Paşte în România (2023)
+
 published: 11 Februarie 2023
 last_modified_at: 11 Februarie 2023
+
 keywords: Romania, travel, paste, sarbatori, pascale, aprilie, oferte, turistice, turism
 description: Cele mai bune oferte de Paşte în România pentru anul 2023.
+
 categories: [RO, Romania-RO]
 tag: RO
+
 permalink: /ro/oferte-de-paste-in-romania-2023/
 permalink-to-next-language: /easter-offers-in-romania-2023/
 

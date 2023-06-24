@@ -2,9 +2,9 @@
 layout: post.ro
 type: post
 
-h1_title: Vulcanii noroioși, România
-title: Vulcanii noroioși, județul Buzău, România
+title: Vulcanii noroioși, Buzău, România
 front_page_title: Vulcanii noroioși, județul Buzău, România
+article_title: Vulcanii noroioși, județul Buzău, România
 
 published: 10 Aprilie 2022
 last_modified_at: 10 Aprilie 2022

@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Frederiksborg Castle, Copenhagen
-title: Frederiksborg Castle - 1-day trip from Copenhagen
+title: Frederiksborg Castle, Copenhagen
 front_page_title: Frederiksborg Castle - 1-day trip from Copenhagen
+article_title: Frederiksborg Castle - 1-day trip from Copenhagen  #shows on article page
 
 published: 28 February 2022
 last_modified_at: 19 February 2022

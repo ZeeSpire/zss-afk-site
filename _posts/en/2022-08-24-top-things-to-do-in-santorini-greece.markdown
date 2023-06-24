@@ -2,15 +2,15 @@
 layout: post.en
 type: post
 
-h1_title: Top activities in Santorini, Greece
-title: Top 15 things to do in Santorini
+title: What are the best things you can do in Santorini?
 front_page_title: Top 15 things to do in Santorini
+article_title: Top 15 things to do in Santorini
 
 published: 24 August 2022
 last_modified_at: 24 August 2022
 
-keywords: sunset, santorini, greece, oia, best places, food, visit, greek
-description: Top 15 things to do in Santorini, Greece
+keywords: sunset, santorini, greece, oia, best places, food, visit, greek, suntset watching
+description: What can you do in Santorini? What can you visit in santorini? What can you see in santorini?
 
 categories: [EN, Greece-EN]
 tag: EN

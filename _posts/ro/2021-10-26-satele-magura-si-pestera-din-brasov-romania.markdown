@@ -2,8 +2,7 @@
 layout: post.ro
 type: post
 
-h1_title: Satele Măgura și Peștera, România
-title: Satele Măgura și Peștera din judetul Brașov
+title: Satele Măgura și Peștera, Brașov, Romania
 front_page_title: Satele Măgura și Peștera din judetul Brașov
 article_title: Satele Măgura și Peștera din judetul Brașov #shows on article page
 

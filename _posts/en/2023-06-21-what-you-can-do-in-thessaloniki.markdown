@@ -2,8 +2,7 @@
 layout: post.en
 type: post
 
-title: What you can do in Thessaloniki #up in browser, max 60 chars
-h1_title: What you can do in Thessaloniki in just three hours #hidden, just for seo, must be different than title
+title: What you can do and see in Thessaloniki #up in browser, max 60 chars
 front_page_title: What you can do in Thessaloniki in just three hours  #shows on the front page
 article_title: What you can do in Thessaloniki in just three hours  #shows on article page
 
@@ -14,7 +13,7 @@ keywords: Greece, travel, Thessaloniki parking, must-see attractions in Thessalo
 description: What you can do in Thessaloniki in just three hours; On our way to Halkidiki, we stopped in Thessaloniki, a city full of charm and color. Here is what we managed to do in just three hours in Thessaloniki. #max 160 chars
 description_for_first_page: On our way to Halkidiki, we stopped in Thessaloniki, a city full of charm and color. Here is what we managed to do in just three hours in Thessaloniki.
 
-categories: [EN, Romania-EN]
+categories: [EN, Greece-EN]
 tag: EN
 
 permalink: /what-to-see-in-thessaloniki/

@@ -2,15 +2,15 @@
 layout: post.en
 type: post
 
-h1_title: Best food in Santorini, Greece
-title: What and where to eat in Santorini
+title: The best places to eat in Santorini
 front_page_title: What and where to eat in Santorini
+article_title: What and where to eat in Santorini
 
 published: 07 August 2022
 last_modified_at: 07 August 2022
 
-keywords: greek food, santorinian salad, fava, souflaki
-description: There is nothing more pleasant than spending quality time with your loved ones and sharing several simple and tasty dishes such as Greek salad, Kalamata olives, pita with tzatziki, eggplant salad, vegetable frittes, and fried squid or french fries with feta cheese.
+keywords: greek food, santorinian salad, fava, souflaki, local food
+description: The best places to eat in Santorini. Where to find quality local food? Where to find the best cooking class in Santorini?
 
 categories: [EN, Greece-EN]
 tag: EN

@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Art Safari - 10th edition, Romania
-title: Art Safari - a temporary art exhibition in Bucharest - 10th edition
+title: Art Safari - 10th edition, România
 front_page_title: Art Safari - a temporary art exhibition in Bucharest - 10th edition
+article_title: Art Safari - a temporary art exhibition in Bucharest - 10th edition
 
 published: 22 November 2022
 last_modified_at: 22 November 2022

@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Truffle hunt, Romania
-title: About truffles and how to find them
+title: All about truffles and truffle hunting
 front_page_title: About truffles and how to find them
+article_title: About truffles and how to find them
 
 published: 18 December 2022
 last_modified_at: 18 December 2022

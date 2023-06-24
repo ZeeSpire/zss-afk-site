@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Valea Verde, Romania
-title: Valea Verde - a successful story of reviving a forgotten Transylvanian village
+title: Valea Verde - a successful story of reviving a forgotten Transylvanian village from Romania
 front_page_title: Valea Verde - a successful story of reviving a forgotten Transylvanian village
+article_title: Valea Verde - a successful story of reviving a forgotten Transylvanian village
 
 published: 30 December 2022
 last_modified_at: 30 December 2022

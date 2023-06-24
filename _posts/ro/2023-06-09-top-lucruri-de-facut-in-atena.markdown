@@ -2,8 +2,7 @@
 layout: post.ro
 type: post
 
-title: Top 15 lucruri de făcut în Atena plus alte recomandări #up in browser, max 60 chars
-h1_title: Top activitati de făcut în Atena #hidden, just for seo, must be different than title
+title: Top lucruri de făcut si vazut în Atena plus alte recomandări #up in browser, max 60 chars
 front_page_title: Top 15 lucruri de făcut în Atena plus alte recomandări #shows on the front page
 article_title: Top 15 lucruri de făcut în Atena plus alte recomandări #shows on article page
 
@@ -14,7 +13,7 @@ keywords: Atena, calatorii, unde iesim, ce vizitam, muzeu, aer liber, top, activ
 description: Acesta este topul nostru cu 15 lucruri de făcut şi încercat în Atena din perspectiva noastră, plus alte recomandări interesante şi locuri unde se mănâncă bine. #max 160 chars
 description_for_first_page: Acesta este topul nostru cu 15 lucruri de făcut şi încercat în Atena din perspectiva noastră, plus alte recomandări interesante şi locuri unde se mănâncă bine.
 
-categories: [RO, Romania-RO]
+categories: [RO, Grecia-RO]
 tag: RO
 
 permalink: /ro/top-lucruri-de-facut-in-atena/

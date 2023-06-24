@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Neversea 2022, Romania
-title: Neversea Festival, 2022 edition 
+title: Neversea Festival din Constanta, Romania, 2022 edition 
 front_page_title: Neversea Festival, 2022 edition
+article_title: Neversea Festival, 2022 edition
 
 published: 11 July 2022
 last_modified_at: 16 July 2022

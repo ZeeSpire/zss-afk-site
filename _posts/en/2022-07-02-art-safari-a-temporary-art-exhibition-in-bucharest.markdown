@@ -2,9 +2,9 @@
 layout: post.en
 type: post
 
-h1_title: Art Safari - 9th edition, Romania
-title: Art Safari - a temporary art exhibition in Bucharest - 9th edition
+title: Art Safari - a temporary art exhibition - 9th edition
 front_page_title: Art Safari - a temporary art exhibition in Bucharest - 9th edition
+article_title: Art Safari - a temporary art exhibition in Bucharest - 9th edition
 
 published: 02 July 2022
 last_modified_at: 02 July 2022

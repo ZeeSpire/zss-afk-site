@@ -1,9 +1,10 @@
 ---
 layout: post.en
 type: post
-h1_title: The best things you can do while visiting Copenhagen
-title: Three days in Copenhagen
+
+title: The best things you can do while visiting Copenhagen
 front_page_title: Three days in Copenhagen
+article_title:  Three days in Copenhagen  #shows on article page
 
 published: 19 January 2022
 last_modified_at: 19 January 2022
