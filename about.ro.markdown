@@ -6,6 +6,7 @@ permalink: /ro/despre-noi/
 permalink-to-next-language: /about/
 sitemap: true
 description: Despre noi
+noindex: true
 ---
 Hello World! Suntem doi ingineri de software pasionați de ceea ce facem, care apreciază fiecare mică plăcere oferită de viață, de la citirea unei cărți interesante sau vizionarea unui film relaxant până la o ceașcă de cafea proaspăt râșnită dimineața, vorbind despre următorul loc pe care ne dorim să-l vizităm. De fapt, ca să fim corecți, vorbim mai degrabă despre ce ar trebui să mâncăm la cină, dar de dragul prezentării noastre, să lăsăm așa, pentru că ne plac într-adevar și călătoriile.
 

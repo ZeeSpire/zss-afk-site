@@ -5,6 +5,7 @@ simple-title: Politica de confidentialitate
 permalink: /ro/politica-de-confidentialitate/
 permalink-to-next-language: /privacy-policy/
 description: politica de confidentialitate
+noindex: true
 ---
 AFKology, found at https://www.afkology.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 

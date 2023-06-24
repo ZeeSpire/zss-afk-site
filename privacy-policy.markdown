@@ -5,6 +5,7 @@ simple-title: Privacy Policy
 permalink: /privacy-policy/
 permalink-to-next-language: /ro/politica-de-confidentialitate/
 description: Privacy Policy
+noindex: true
 ---
 AFKology, found at https://www.afkology.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 

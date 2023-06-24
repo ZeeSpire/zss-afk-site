@@ -22,6 +22,9 @@
   {% endif %}
 
   {% if page.type != "post" %}
+  {% if page.noindex  %}
+    <meta name="robots" content="noindex">
+  {% endif %} 
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.type != 'homepage' %}{{ page.title }} | {% endif %}{{ site.title }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />

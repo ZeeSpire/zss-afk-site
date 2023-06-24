@@ -6,6 +6,7 @@ permalink: /ro/contact/
 permalink-to-next-language: /contact/
 sitemap: true
 description: Contact AFKology
+noindex: true
 ---
 
   <div class="text-center pb-2">
