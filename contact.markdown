@@ -3,7 +3,6 @@ layout: default.en
 title: Contact us | AFKology
 simple-title: Contact us
 permalink: /contact/
-sitemap: true
 permalink-to-next-language: /ro/contact/
 description: Contact AFKology, send us an email
 noindex: true

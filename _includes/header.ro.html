@@ -22,6 +22,10 @@
   {% endif %}
 
   {% if page.type != "post" %}
+
+  {% if paginator.previous_page %}<link rel="prev" href="{{ site.url }}{{ paginator.previous_page_path }}" />{% endif %}
+  {% if paginator.next_page %}<link rel="next" href="{{ site.url }}{{ paginator.next_page_path }}" />{% endif %}
+
   {% if page.noindex  %}
   <meta name="robots" content="noindex">
   {% endif %} 
