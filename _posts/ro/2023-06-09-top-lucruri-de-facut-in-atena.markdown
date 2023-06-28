@@ -119,7 +119,7 @@ Recomand o vizită după-amiaza pentru că muzeul se închide mai târziu decât
 ## 9. Aleargă pe pistă la stadionul Panatenaic
 Stadionul Panatenaic este singurul stadion din lume realizat în întregime din marmură şi a fost construit iniţial în secolul al IV-lea î.Hr. ca loc de desfăşurare a Jocurilor Panatenaice, un festival care se desfăşura la fiecare patru ani în onoarea zeiţei Atena. Stadionul a fost renovat şi reconstruit de mai multe ori de-a lungul secolelor, cea mai importantă renovare având loc în secolul al II-lea d.Hr. de către împăratul roman Hadrian.
 
-Forma actuală a fost dată atunci când Atena a fost aleasă ca loc de desfășurare a primelor Jocuri Olimpice în 1896. Pentru reconstrucția sa s-a folosit marmură de Pentelic, o marmură albă folosită pentru sculptură și clădiri care a fost extrasă la Muntele Pentelicus, la nord de Atena. În plus, este singurul stadion din lume construit în întregime din marmură.
+Forma actuală a fost dată atunci când Atena a fost aleasă ca loc de desfășurare a primelor Jocuri Olimpice în 1896. Pentru reconstrucția sa s-a folosit marmură de Pentelic, o marmură albă folosită pentru sculptură și clădiri care a fost extrasă la Muntele Pentelicus, la nord de Atena.
 
 Am plătit 10 euro pe un bilet care a inclus şi un ghid audio.
 Pentru că audioghidul trebuia returnat în 30 de minute, ne-am grăbit să vizităm stadionul, dar am fi putut să stăm şi mai mult. A fost foarte distractiv, ne-am aşezat pe treptele de marmură şi am alergat pe pistă şi a fost una dintre atracţiile noastre preferate din Atena.

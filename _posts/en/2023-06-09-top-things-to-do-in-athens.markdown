@@ -119,7 +119,7 @@ In some parts of the museum, you can take photos, while in others, it is prohibi
 ## 9. Run on the track at Panathenaic Stadium
 The Panathenaic Stadium is the only stadium in the world made entirely of marble and was originally built in the 4th century BC as a venue for the Panathenaic Games, a festival held every four years in honor of the goddess Athena. The stadium was renovated and rebuilt several times over the centuries, with the most significant renovation taking place in the 2nd century AD by the Roman Emperor Hadrian.
 
-The current form was given when Athens was chosen as the venue for the first Olympic Games in 1896. For its reconstruction, Pentelic marble was used, a white marble used for sculpture and buildings that has been quarried at Mt. Pentelicus, north of Athens. Furthermore, it is the only stadium in the world built entirely of marble.
+The current form was given when Athens was chosen as the venue for the first Olympic Games in 1896. For its reconstruction, Pentelic marble was used, a white marble used for sculpture and buildings that has been quarried at Mt. Pentelicus, north of Athens.
 
 We paid 10 euros per ticket, including an audio guide.
 Because the audio guide had to be returned in 30 minutes, we hurried to visit the stadium, but we could have stayed even longer. It was really fun, we sat on the marble seats and ran on the track, and it was one of our favorite attractions in Athens.
