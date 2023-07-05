@@ -34,7 +34,7 @@ Vom încerca să facem asta mai des, deoarece ne place să ieşim la plimbare pr
 
 Grădina Cişmigiu este cea mai veche grădină publică din Bucureşti fiind înfiinţată acum mai bine de 170 de ani prin secarea bălţii aflate pe domeniul respectiv. 
 
-În care cuvânt crezi că-şi are originea numele de Cişmigiu?
+În care cuvânt crezi că-şi are originea numele de Cişmigiu?  
 A. Cizmă  
 B. Ciumagiu  
 C. Cişmea  
