@@ -6,8 +6,8 @@ title: Ce poţi face si vedea în Salonic #up in browser, max 60 chars
 front_page_title: Ce poţi face în Salonic în doar trei ore #shows on the front page
 article_title: Ce poţi face în Salonic în doar trei ore #shows on article page
 
-published: 04 July 2023
-last_modified_at: 04 July 2023
+published: 04 Iulie 2023
+last_modified_at: 04 Iulie 2023
 
 keywords: Grecia, calatorii, parcare Salonic, ce sa vizitezi in Salonic, ce sa vezi in Salonic
 description: Ce poţi face în Salonic în doar trei ore; În drumul nostru spre Halkidiki, ne-am oprit în Salonic, un oraş plin de farmec şi culoare. Iată ce am reuşit să facem în doar trei ore în Salonic. #max 160 chars
