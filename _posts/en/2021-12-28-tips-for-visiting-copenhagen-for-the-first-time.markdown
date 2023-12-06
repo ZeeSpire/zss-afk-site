@@ -16,7 +16,7 @@ categories: [EN, Denmark-EN]
 tag: EN
 
 permalink: /tips-for-visiting-copenhagen-for-the-first-time/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/sfaturi-pentru-prima-vizita-in-copenhaga/
 
 featured-image: "/assets/images/posts/copenhaga/poza1_nyhavn_nfwm3x.webp" # full size
 featured-image-top: "/assets/resized/poza1_nyhavn_nfwm3x-1600x900.webp" # width - 1200
@@ -147,7 +147,7 @@ Or you can buy some beers and rent an electric boat for a ride on the canals as 
 4. Amager Strandpark. We enjoyed taking a break from visiting museums and palaces on this serene beach with fine sand and friendly seagulls. 
 5. We rediscovered our inner child in Tivoli Gardens amusement park, one of the oldest operating amusement parks in the world. 
 
-For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](/free-attractions-to-visit-in-copenhagen/){:target="_blank" rel="nofollow"}. 
+For a more comprehensive list of places to visit and things to do in Copenhagen, check out our next [post](/free-attractions-to-visit-in-copenhagen/){:target="_blank"}. 
 
 The official currency of Denmark is the Danish Krone (DKK) so all prices are in DKK. You can easily pay by debit or with a credit card everywhere in Copenhagen. You don't necessarily need to exchange cash in DKK as the tips are optional because the Danes are paid fair wages.   
 
