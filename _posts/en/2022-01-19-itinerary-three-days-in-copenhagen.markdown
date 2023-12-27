@@ -16,7 +16,7 @@ categories: [EN, Denmark-EN]
 tag: EN
 
 permalink: /itinerary-three-days-in-copenhagen/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/trei-zile-in-copenhaga/
 
 featured-image: "/assets/images/posts/copenhaga/IMG_20210910_094245_acxxaa.webp" # full size
 featured-image-top: "/assets/resized/IMG_20210910_094245_acxxaa-1600x900.webp" # width - 1200

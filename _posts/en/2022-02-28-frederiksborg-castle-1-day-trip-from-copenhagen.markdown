@@ -16,7 +16,7 @@ categories: [EN, Denmark-EN]
 tag: EN
 
 permalink: /frederiksborg-castle-1-day-trip-from-copenhagen/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/castelul-frederiksborg-excursie-de-o-zi-din-copenhaga/
 
 featured-image:
 featured-image-top:
@@ -26,7 +26,7 @@ featured-image-primary: "/assets/resized/frederiksborg5_b3hre1-800x450.webp" # p
 featured-image-home: "/assets/resized/frederiksborg5_b3hre1-800x450.webp" # width - 600
 ---
 
- <div class="ratio ratio-16x9 mb-3">
+<div class="ratio ratio-16x9 mb-3">
     <iframe width="1116px" height="100%" src="https://www.youtube.com/embed/Tj6d47OGhjY" title="Frederiksborg Castle 4K, Denmark | Aerial | Drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% include in-article-ad.html %}

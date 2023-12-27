@@ -47,9 +47,7 @@ Our culinary journey began with an amuse-bouche: two types of bread with flavore
     </div>
 </div>
 
-<div class="row mb-4">
-    {% responsive_image path: assets/images/posts/the-artist/the-artist-bucharest-12.webp alt: "The Artist restaurant Bucharest" %}
-</div>
+{% responsive_image path: assets/images/posts/the-artist/the-artist-bucharest-12.webp alt: "The Artist restaurant Bucharest" %}
 
 For our cold appetizers, we enjoyed baked beetroot and celery with Romanian brie cheese, figs, walnuts, and avocado, along with a confit duck leg in a brioche with red cabbage, cranberries, and sweet potato. Both dishes were well-executed, with one of us favoring the beetroot for its nuanced flavors, while the other relished the duck brioche.
 

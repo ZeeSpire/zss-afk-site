@@ -49,9 +49,7 @@ Călătoria noastră culinară a început cu un amuse-bouche: două tipuri de p�
     </div>
 </div>
 
-<div class="row mb-4">
-    {% responsive_image path: assets/images/posts/the-artist/the-artist-bucharest-12.webp alt: "The Artist restaurant Bucharest" %}
-</div>
+{% responsive_image path: assets/images/posts/the-artist/the-artist-bucharest-12.webp alt: "The Artist restaurant Bucharest" %}
 
 Ca feluri de mâncare reci (să le zicem aperitive), ne-am bucurat de o porţie de sfeclă roșie și țelină coapte cu brânză brie românească, smochine, nucă și avocado, dar şi de o pulpă de rață confit în brioșă cu varză roșie, merișoare și cartofi dulci. Ambele feluri de mâncare au fost bine executate, unul dintre noi favorizând sfecla roșie pentru aromele sale deosebite, iar celălalt a savurat brioșa cu rață.
 

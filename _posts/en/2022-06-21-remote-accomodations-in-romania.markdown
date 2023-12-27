@@ -16,7 +16,7 @@ categories: [EN, Romania-EN]
 tag: EN
 
 permalink: /remote-accomodations-in-romania/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/cazari-izolate-in-romania/
 
 featured-image: "/assets/images/posts/isolated-chalet/nor-11_xrj7cx.webp" # full size
 featured-image-top: "/assets/resized/nor-11_xrj7cx-1600x900.webp" # 800

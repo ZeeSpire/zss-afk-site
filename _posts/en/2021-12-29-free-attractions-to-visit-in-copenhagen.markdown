@@ -16,7 +16,7 @@ categories: [EN, Denmark-EN]
 tag: EN
 
 permalink: /free-attractions-to-visit-in-copenhagen/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/atractii-gratuite-de-vizitat-in-copenhaga/
 
 featured-image: "/assets/images/posts/copenhaga/X_9_frederik_jqlhmi.webp" # full size
 featured-image-top: "/assets/resized/X_9_frederik_jqlhmi-1600x901.webp" # width - 1200
@@ -117,7 +117,7 @@ Here you can join a free walking tour with very good reviews from Thursday to Mo
 
 {% responsive_image path: assets/images/posts/copenhaga/Copenhagen-City-Hall-Square_gjiwnx.webp alt: "Copenhagen City Hall" %}
 
-## 15. Kastellet Park
+## 11. Kastellet Park
 
 The Kastellet is not just a park with canals, popular for locals to run and bike through. It is actually a 17th-century star fortress, one of the best-maintained fortresses of its type remaining in Europe. The interior is still an active military post. You can find here old military barracks, bastions, a church, and a lovely windmill.
 

@@ -16,7 +16,7 @@ categories: [EN, Greece-EN]
 tag: EN
 
 permalink: /our-divine-cave-experience-in-santorini/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/despre-divine-cave-experience-din-santorini/
 
 featured-image: "/assets/images/posts/divine-cave/0_jp5koh.webp" # full size
 featured-image-top: "/assets/resized/0_jp5koh-1600x900.webp" # width - 1200
