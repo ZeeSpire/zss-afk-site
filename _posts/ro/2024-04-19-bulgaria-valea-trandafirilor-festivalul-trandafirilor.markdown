@@ -53,7 +53,7 @@ Noi am condus din România cu mașina noastră personală, am trecut granița la
 
 ## Unde am stat?
 
-Am fost cazați la hotelul Kings' Valley Medical & Spa, o unitate de 5 stele. Atât micul dejun, cât și cina au fost incluse, servite tip bufet suedez, cu o varietate de opțiuni delicioase, similare celor găsite în alte hoteluri din Europa Occidentală.
+Am fost cazați la hotelul [Kings' Valley Medical & Spa](https://www.booking.com/hotel/bg/kings-39-valley-medical-amp-spa.ro.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}, o unitate de 5 stele. Atât micul dejun, cât și cina au fost incluse, servite tip bufet suedez, cu o varietate de opțiuni delicioase, similare celor găsite în alte hoteluri din Europa Occidentală.
 
 Camera a fost deosebit de spațioasă și curată, oferind o priveliște frumoasă spre piscine și spre munții din depărtare.
 

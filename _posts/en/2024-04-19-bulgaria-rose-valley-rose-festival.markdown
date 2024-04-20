@@ -51,7 +51,7 @@ We drove from Romania in our own car, crossed the border at Giurgiu-Ruse, passed
 
 ## Where did we stay?
 
-We stayed at the Kings' Valley Medical & Spa Hotel, a 5-star establishment. Both breakfast and dinner were included, served buffet-style with a variety of delicious options, similar to those found in other Western European hotels.
+We stayed at the [Kings' Valley Medical & Spa Hotel](https://www.booking.com/hotel/bg/kings-39-valley-medical-amp-spa.ro.html?aid=7913345&amp;no_rooms=1&amp;group_adults=2){:target="_blank" rel="nofollow"}, a 5-star establishment. Both breakfast and dinner were included, served buffet-style with a variety of delicious options, similar to those found in other Western European hotels.
 
 The room was exceptionally spacious and clean, offering a beautiful view of the pools and the distant mountains.
 
