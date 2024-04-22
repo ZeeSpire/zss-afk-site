@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.3.3"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
@@ -16,7 +16,6 @@ end
 gem 'wdm'
 gem "webrick"
 
-# gem 'jekyll-sitemap'
 gem 'jekyll-minifier'
 
 

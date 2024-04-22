@@ -7,7 +7,7 @@ front_page_title: Embark on an Enchanting Journey Through Bulgaria's Rose Valley
 article_title: Embark on an Enchanting Journey Through Bulgaria's Rose Valley #shows on article page
 
 published: 19 April 2024
-last_modified_at: 19 April 2024
+last_modified_at: 22 April 2024
 
 keywords: travel, bulgaria, rose valley, rose, roses, rose festival, bulgarian rose, damascena, kazanluk, rose museum, thracian tombs, kulata ethnographic museum, ethno village etar, open-air museum, tradition, king's valley medical & spa hotel, Kazanlak
 description: Immerse yourself in the ethereal essence of roses by embarking on a journey to the Kazanlak region, famously known as the Rose Valley. Join us as we recount our captivating experience at the Rose Festival in Kazanlak, Bulgaria, in 2023. Discover the allure of this floral extravaganza and explore the myriad activities and attractions that await in this enchanting destination. #max 160 chars
@@ -108,14 +108,14 @@ The Rose Museum exhibits a variety of historical artifacts, traditional tools, a
 
 Within both the museum courtyard and the park in front of the museum, visitors can admire, photograph, and smell dozens of rose varieties.
 
-Their fragrance is intoxicating in the most delightful way possible.
+Their fragrance is intoxicating in the most delightful way possible. I have detailed about roses and their beauty in [this article](/exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses/).
 
 {% responsive_image path: assets/images/posts/bulgaria-rose-festival/bulgaria-rose-festival-rose-museum-kazanlak-kazanluk.webp alt: "Bulgaria Rose Festival - Rose Museum Kazanluk Kazanlak" %}
 
 
 ### The Damascena Ethnographic Complex
 
-Situated approximately 25 kilometers from Kazanluk, in the heart of the Rose Valley, lies the Damascena ethnographic complex. This complex offers visitors a unique opportunity to explore and experience various aspects of Bulgarian heritage, with a particular focus on traditional methods of rose cultivation and rose oil production.
+Situated approximately 25 kilometers from Kazanluk, in the heart of the Rose Valley, lies the [Damascena Ethnographic Complex](https://www.damascena.net/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/?lang=en){:target="_blank" rel="nofollow"}. This complex offers visitors a unique opportunity to explore and experience various aspects of Bulgarian heritage, with a particular focus on traditional methods of rose cultivation and rose oil production.
 
 Within the complex, there is a restaurant where visitors can sample authentic Bulgarian cuisine and beverages. Since we didn't dine here, we cannot provide a recommendation in this regard.
 

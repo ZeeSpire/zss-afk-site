@@ -2,12 +2,12 @@
 layout: post.ro
 type: post
 
-title: Haideți într-o călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #up in browser, max 60 chars
-front_page_title: Haideți într-o călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #shows on the front page
-article_title: Haideți într-o călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #shows on article page
+title: O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #up in browser, max 60 chars
+front_page_title: O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #shows on the front page
+article_title: O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #shows on article page
 
 published: 19 Aprilie 2024
-last_modified_at: 19 Aprilie 2024
+last_modified_at: 22 Aprilie 2024
 
 keywords: calatorii, bulgaria, valea trandafirilor, trandafir, trandafiri, festivalul trandafirilor, trandafir bulgaresc, damascena, kazanluk, muzeul trandafirilor, morminte tracice, muzeul etnografic kulata, muzeul satului etar, muzeu in aer liber, traditie, king's valley medical & spa hotel, Kazanlak
 description: Descoperă esența delicată a trandafirilor prin pornirea într-o călătorie în regiunea Kazanlak, cunoscută sub numele de Valea Trandafirilor. Alătură-te nouă în timp ce povestim experiența noastră captivantă de la Festivalul Trandafirilor din Kazanlak, Bulgaria, în 2023. Descoperă farmecul acestor flori și explorează activitățile și atracțiile nenumărate care te așteaptă în această destinație fermecătoare. #max 160 chars
@@ -112,14 +112,14 @@ Muzeul Trandafirilor din Kazanluk expune o varietate de artefacte istorice, unel
 
 Atât în curtea muzeului, cât și în parcul din fața muzeului, vizitatorii pot admira, fotografia și mirosi zeci de soiuri de trandafiri.
 
-Parfumul lor este intoxicant în cel mai plăcut mod posibil.
+Parfumul lor este intoxicant în cel mai plăcut mod posibil. Am detaliat despre trandafiri și frumusețea lor în [acest articol](/ro/explorand-frumusetea-parfumata-a-vaii-trandafirilor-din-bulgaria/).
 
 {% responsive_image path: assets/images/posts/bulgaria-rose-festival/bulgaria-rose-festival-rose-museum-kazanlak-kazanluk.webp alt: "Festivalul Trandafirilor Bulgaria - Muzeul Trandafirilor Kazanluk Kazanlak" %}
 
 
 ### Complexul Etnografic Damascena
 
-La aproximativ 25 de kilometri de Kazanluk, în inima Văii Trandafirilor, se află complexul etnografic Damascena. Acest complex oferă vizitatorilor o oportunitate unică de a explora și experimenta diverse aspecte ale patrimoniului bulgar, cu accent pe metodele tradiționale de cultivare a trandafirilor și producția de ulei de trandafir.
+La aproximativ 25 de kilometri de Kazanluk, în inima Văii Trandafirilor, se află [Complexul Etnografic Damascena](https://www.damascena.net/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/?lang=en){:target="_blank" rel="nofollow"}. Acest complex oferă vizitatorilor o oportunitate unică de a explora și experimenta diverse aspecte ale patrimoniului bulgar, cu accent pe metodele tradiționale de cultivare a trandafirilor și producția de ulei de trandafir.
 
 În cadrul complexului, există un restaurant unde vizitatorii pot degusta bucătăria autentică bulgară și băuturile. Deoarece noi nu am luat masa aici, nu putem oferi o recomandare în acest sens.
 
