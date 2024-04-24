@@ -7,13 +7,13 @@ front_page_title: Exploring the Fragrant Beauty of Bulgaria's Valley of Roses #s
 article_title: Exploring the Fragrant Beauty of Bulgaria's Valley of Roses #shows on article page
 
 published: 22 April 2024
-last_modified_at: 22 April 2024
+last_modified_at: 23 April 2024
 
 keywords: travel, bulgaria, rose valley, rose, roses, rose festival, bulgarian rose, damascena, kazanluk, rose museum, kazanlak
 description: Last year, at the end of May, we had the pleasure of attending the Rose Festival in Bulgaria, located in the Kazanlak region, famously known as the Valley of Roses. Since we captured so many stunning roses during that trip, we felt compelled to dedicate an entire article solely to them — this is that article.  #max 160 chars
 description_for_first_page: Last year, at the end of May, we had the pleasure of attending the Rose Festival in Bulgaria, located in the Kazanlak region, famously known as the Valley of Roses. Since we captured so many stunning roses during that trip, we felt compelled to dedicate an entire article solely to them — this is that article.
 
-categories: [EN, Romania-EN]
+categories: [EN, Bulgary-EN]
 tag: EN
 
 permalink: /exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses/

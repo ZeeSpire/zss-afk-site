@@ -7,7 +7,7 @@ front_page_title: Crama de Piatra - a boutique winery with a huge potential
 article_title: Crama de Piatra - a boutique winery with a huge potential
 
 published: 04 September 2022
-last_modified_at: 04 September 2022
+last_modified_at: 24 April 2024
 
 keywords: winery, wine tasting, romania, experience, travel, nature, 
 description: Crama de Piatra is a boutique winery, with a small production of wine, which has all the assets to become a special destination for one's soul.
@@ -16,7 +16,7 @@ categories: [EN, Romania-EN]
 tag: EN
 
 permalink: /crama-de-piatra-a-boutique-winery-with-a-huge-potential/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/crama-de-piatra-o-crama-boutique-cu-un-potential-imens/
 
 featured-image: # full size
 featured-image-top: # width - 1200
@@ -34,7 +34,7 @@ Crama de Piatra is a boutique winery, with a small production of wine, which has
 </div>
 {% include in-article-ad.html %}
 
-Crama de Piatra is located in the renowned vine area - Dealul Mare, in Vadu Sapat commune in Prahova County on an area of at least six hectares. It is approximately 80 kilometers (about 49.71 mi) from Bucharest, which can be easily covered in an hour and a half by car. In the same area, you can also visit other wineries such as Licorna, Budureasca, Viile Metamorfosis, Mierla Alba, or Apogeum to which I have dedicated a separate article. 
+Crama de Piatra is located in the renowned vine area - Dealul Mare, in Vadu Sapat commune in Prahova County on an area of at least six hectares. It is approximately 80 kilometers (about 49.71 mi) from Bucharest, which can be easily covered in an hour and a half by car. In the same area, you can also visit other wineries such as Licorna, Budureasca, Viile Metamorfosis, Mierla Alba, or Apogeum to which I have dedicated a [separate article](/apogeum-winery/). 
 
 We visited on a beautiful Saturday, at the end of August, just before the grape harvest. We arrived quite a while before the check-in time, but we took advantage of this and had lunch on the terrace. We ordered goulash, two types of pasta, a tomato salad with cheese, and baked potatoes with rosemary and garlic. The service was good, although not very fast, the food instead wasn't really that great. It wasn't bad, but let's say that can be improved. However, I wouldn't write off the whole experience for this, maybe it was just a thing that doesn't happen often. 
 

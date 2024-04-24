@@ -7,13 +7,13 @@ front_page_title: O călătorie fermecătoare prin Valea Trandafirilor din Bulga
 article_title: O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria #shows on article page
 
 published: 19 Aprilie 2024
-last_modified_at: 22 Aprilie 2024
+last_modified_at: 23 Aprilie 2024
 
 keywords: calatorii, bulgaria, valea trandafirilor, trandafir, trandafiri, festivalul trandafirilor, trandafir bulgaresc, damascena, kazanluk, muzeul trandafirilor, morminte tracice, muzeul etnografic kulata, muzeul satului etar, muzeu in aer liber, traditie, king's valley medical & spa hotel, Kazanlak
 description: Descoperă esența delicată a trandafirilor prin pornirea într-o călătorie în regiunea Kazanlak, cunoscută sub numele de Valea Trandafirilor. Alătură-te nouă în timp ce povestim experiența noastră captivantă de la Festivalul Trandafirilor din Kazanlak, Bulgaria, în 2023. Descoperă farmecul acestor flori și explorează activitățile și atracțiile nenumărate care te așteaptă în această destinație fermecătoare. #max 160 chars
 description_for_first_page: Descoperă esența delicată a trandafirilor prin pornirea într-o călătorie în regiunea Kazanlak, cunoscută sub numele de Valea Trandafirilor. Alătură-te nouă în timp ce povestim experiența noastră captivantă de la Festivalul Trandafirilor din Kazanlak, Bulgaria, în 2023. Descoperă farmecul acestor flori și explorează activitățile și atracțiile nenumărate care te așteaptă în această destinație fermecătoare.
 
-categories: [RO, Romania-RO]
+categories: [RO, Bulgaria-RO]
 tag: RO
 
 permalink: /ro/bulgaria-valea-trandafirilor-festivalul-trandafirilor/

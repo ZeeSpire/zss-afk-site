@@ -7,13 +7,13 @@ front_page_title: Embark on an Enchanting Journey Through Bulgaria's Rose Valley
 article_title: Embark on an Enchanting Journey Through Bulgaria's Rose Valley #shows on article page
 
 published: 19 April 2024
-last_modified_at: 22 April 2024
+last_modified_at: 23 April 2024
 
 keywords: travel, bulgaria, rose valley, rose, roses, rose festival, bulgarian rose, damascena, kazanluk, rose museum, thracian tombs, kulata ethnographic museum, ethno village etar, open-air museum, tradition, king's valley medical & spa hotel, Kazanlak
 description: Immerse yourself in the ethereal essence of roses by embarking on a journey to the Kazanlak region, famously known as the Rose Valley. Join us as we recount our captivating experience at the Rose Festival in Kazanlak, Bulgaria, in 2023. Discover the allure of this floral extravaganza and explore the myriad activities and attractions that await in this enchanting destination. #max 160 chars
 description_for_first_page: Immerse yourself in the ethereal essence of roses by embarking on a journey to the Kazanlak region, famously known as the Rose Valley. Join us as we recount our captivating experience at the Rose Festival in Kazanlak, Bulgaria, in 2023. Discover the allure of this floral extravaganza and explore the myriad activities and attractions that await in this enchanting destination.
 
-categories: [EN, Romania-EN]
+categories: [EN, Bulgary-EN]
 tag: EN
 
 permalink: /bulgaria-rose-valley-rose-festival/

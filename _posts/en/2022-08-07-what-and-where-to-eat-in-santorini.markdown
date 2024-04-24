@@ -7,7 +7,7 @@ front_page_title: What and where to eat in Santorini
 article_title: What and where to eat in Santorini
 
 published: 07 August 2022
-last_modified_at: 07 August 2022
+last_modified_at: 24 April 2024
 
 keywords: greek food, santorinian salad, fava, souflaki, local food
 description: The best places to eat in Santorini. Where to find quality local food? Where to find the best cooking class in Santorini?
@@ -16,7 +16,7 @@ categories: [EN, Greece-EN]
 tag: EN
 
 permalink: /what-and-where-to-eat-in-santorini/
-permalink-to-next-language: 
+permalink-to-next-language: /ro/ce-si-unde-sa-mananci-in-santorini/
 
 featured-image: "/assets/images/posts/santorini/e2-IMG_20210708_161422_uf6pbd.webp" # full size
 featured-image-top: "/assets/resized/e2-IMG_20210708_161422_uf6pbd-1600x900.webp" # width - 1200

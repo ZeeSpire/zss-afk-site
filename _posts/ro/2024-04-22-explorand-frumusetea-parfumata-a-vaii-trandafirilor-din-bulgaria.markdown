@@ -7,13 +7,13 @@ front_page_title: Explorând frumusețea parfumată a Văii Trandafirilor din Bu
 article_title: Explorând frumusețea parfumată a Văii Trandafirilor din Bulgaria #shows on article page
 
 published: 22 Aprilie 2024
-last_modified_at: 22 Aprilie 2024
+last_modified_at: 23 Aprilie 2024
 
 keywords: calatorii, bulgaria, valea trandafirilor, trandafir, trandafiri, festivalul trandafirilor, trandafir bulgaresc, damascena, kazanluk, muzeul trandafirilor, Kazanlak
 description: Anul trecut, la sfârșitul lunii mai, am avut plăcerea de a participa la Festivalul Trandafirilor din Bulgaria, situat în regiunea Kazanlak, cunoscută sub numele de Valea Trandafirilor. Deoarece am fotografiat atât de mulți trandafiri impresionanți în timpul acelei călătorii, ne-am simțit obligați să dedicăm un întreg articol exclusiv lor — acesta este acel articol. #max 160 chars
 description_for_first_page: Anul trecut, la sfârșitul lunii mai, am avut plăcerea de a participa la Festivalul Trandafirilor din Bulgaria, situat în regiunea Kazanlak, cunoscută sub numele de Valea Trandafirilor. Deoarece am fotografiat atât de mulți trandafiri impresionanți în timpul acelei călătorii, ne-am simțit obligați să dedicăm un întreg articol exclusiv lor — acesta este acel articol.
 
-categories: [RO, Romania-RO]
+categories: [RO, Bulgaria-RO]
 tag: RO
 
 permalink: /ro/explorand-frumusetea-parfumata-a-vaii-trandafirilor-din-bulgaria/
