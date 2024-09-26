@@ -22,6 +22,6 @@ export default function EnLayout({
           <Footer />
         </div>
       </body>
-    </html>
+    </html> 
   )
 }
