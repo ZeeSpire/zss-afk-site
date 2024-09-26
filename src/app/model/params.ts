@@ -1,0 +1,3 @@
+interface Params {
+    page?: string; 
+  }
