@@ -1,3 +1,3 @@
-interface Params {
+export interface Params {
     page?: string; 
   }

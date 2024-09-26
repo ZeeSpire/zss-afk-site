@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Article } from "@/app/model/article";
 import { Pagination } from "@/app/components/ro/pagination/Pagination";
 import Navbar from "@/app/components/en/navbar/Navbar";
-import { Metadata } from "next";
+import { Params } from "@/app/model/params";
 
 const articlesPerPage = 9;
 

@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
 
@@ -96,6 +96,9 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar enUrl="/bulgaria" />
       <main className="flex-grow">
         bulgaria

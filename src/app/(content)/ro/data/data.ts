@@ -96,17 +96,7 @@ import tipsForVisitingCopenhagen from "../../../../../public/copenhaga/poza1_nyh
 import maguraSquare from "../../../../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
 import magura from "../../../../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
 
-//news
-import finalCutPro from "../../../../../public/final-cut-pro-on-ipad/finalcutx-vl.jpg"
-import davinciResolveComingToIpads from "../../../../../public/davinci-resolve-coming-to-ipads/DaVinci-Resolve-for-iPad-Color.jpg"
-import orderYourIphone14Today from "../../../../../public/order-your-iphone-14-today/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.jpg"
-import iphone15PeriscopeCamera from "../../../../../public/iphone-15-periscope-camera/iphone14_kvpdor.jpg"
-import instagramSelfieSecurityCheck from "../../../../../public/instagram-selfie-security-check/Instagram-logo-with-brush-PNG_znhshm.jpg"
-
-
 import { Article } from "@/app/model/article"
-import { News } from "@/app/model/news"
-
 
 export function getPaginatedArticles({ page, limit }: { page: number; limit: number; }): { articles: Article[]; total: number } {
   const articles = getArticles();

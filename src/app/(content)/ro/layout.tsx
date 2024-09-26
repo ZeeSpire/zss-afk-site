@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Footer from "../../components/ro/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";

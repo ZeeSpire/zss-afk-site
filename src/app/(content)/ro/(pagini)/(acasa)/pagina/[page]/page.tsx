@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Article } from "@/app/model/article";
 import { Pagination } from "@/app/components/ro/pagination/Pagination";
 import Navbar from "@/app/components/ro/navbar/Navbar";
+import { Params } from "@/app/model/params";
 
 export function generateMetadata({ params }: { params: Params }) {
   const currentPage = params.page
