@@ -121,7 +121,7 @@ export default function Page() {
                   <Image src={article.featured} alt={article.title}
                     width={592}  // Define the maximum width (used as the largest size)
                     height={592} // Define the maximum height
-                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 33vw, 20vw"
+                    sizes="(max-width: 768px) 100vw, 20vw"
                   />
                 </Link>
               </figure>
