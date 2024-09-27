@@ -13,10 +13,7 @@ const config: Config = {
         center: true, // Centers the container
         padding: '1rem', // Add padding if needed
         screens: {
-          sm: '100%',  // Full width for small screens
-          md: '640px', // Smaller width for medium screens
-          lg: '980px', // Custom smaller width for large screens 458px
-          xl: '1100px', // Custom smaller width for extra-large screens
+          '2xl': '1280px', // Custom smaller width for extra-large screens
         },
       },
     },
@@ -29,7 +26,6 @@ const config: Config = {
           ...require("daisyui/src/theming/themes")["pastel"],
           "background-color": "#ffffff",
           "base-100": "#ffffff",
-         
         }
       }
     ]

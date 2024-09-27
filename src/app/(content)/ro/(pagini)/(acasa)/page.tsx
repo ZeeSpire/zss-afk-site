@@ -119,9 +119,9 @@ export default function Page() {
               <figure>
                 <Link href={`/${article.slug}`}>
                   <Image src={article.featured} alt={article.title}
-                    width={592}  // Define the maximum width (used as the largest size)
-                    height={592} // Define the maximum height
-                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 33vw, 20vw"
+                    width={705}  // Define the maximum width (used as the largest size)
+                    height={705} // Define the maximum height
+                    sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
                   />
                 </Link>
               </figure>
