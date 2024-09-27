@@ -25,10 +25,11 @@ const config: Config = {
   daisyui: {
     themes: [
       {
-        autumn: {
-          ...require("daisyui/src/theming/themes")["autumn"],
+        pastel: {
+          ...require("daisyui/src/theming/themes")["pastel"],
           "background-color": "#ffffff",
           "base-100": "#ffffff",
+         
         }
       }
     ]

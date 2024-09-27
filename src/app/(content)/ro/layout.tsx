@@ -16,7 +16,7 @@ export default function RoLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="ro" data-theme="cupcake">
+    <html lang="ro" data-theme="pastel">
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
           {children}

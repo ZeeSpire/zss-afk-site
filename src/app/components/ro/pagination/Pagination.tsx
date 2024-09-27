@@ -5,8 +5,8 @@ export function Pagination({baseUrl, page, perPage, total}: { baseUrl: string; p
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8 px-2">
             <div>
                 {page !== 1 ? (
-                    <Link href={`${baseUrl}/${page - 1}`} rel="prev" className="btn btn-outline btn-accent w-full">
-                        Previous page
+                    <Link href={`${baseUrl}/${page - 1}`} rel="prev" className="btn w-full">
+                        Pagina anterioara
                     </Link>
                 ) : (
                     <span></span>
@@ -17,8 +17,8 @@ export function Pagination({baseUrl, page, perPage, total}: { baseUrl: string; p
             <div className="hidden lg:block"></div>
             <div>
                 {perPage * page < total ? (
-                    <Link href={`${baseUrl}/${page + 1}`} rel="next" className="btn btn-outline btn-accent w-full">
-                        Next
+                    <Link href={`${baseUrl}/${page + 1}`} rel="next" className="btn w-full">
+                        Urmatoarea pagina
                     </Link>
                 ) : (
                     <span></span>

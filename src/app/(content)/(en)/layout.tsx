@@ -16,7 +16,7 @@ export default function EnLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" data-theme="cupcake">
+    <html lang="en" data-theme="pastel">
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
           {children}
