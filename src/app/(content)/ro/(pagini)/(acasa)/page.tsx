@@ -117,7 +117,13 @@ export default function Page() {
           {articles.map((article: Article) => (
             <div className="card bg-base-100 shadow-xl" key={article.slug}>
               <figure>
-                <Link href={`/${article.slug}`}><Image src={article.featured} alt={article.title} /></Link>
+                <Link href={`/${article.slug}`}>
+                  <Image src={article.featured} alt={article.title}
+                    width={592}  // Define the maximum width (used as the largest size)
+                    height={592} // Define the maximum height
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  />
+                </Link>
               </figure>
               <div className="card-body">
                 <Link href={`/${article.slug}`}><h2 className="card-title">{article.title}</h2></Link>

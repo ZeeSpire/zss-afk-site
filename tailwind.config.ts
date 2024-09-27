@@ -15,7 +15,7 @@ const config: Config = {
         screens: {
           sm: '100%',  // Full width for small screens
           md: '640px', // Smaller width for medium screens
-          lg: '980px', // Custom smaller width for large screens
+          lg: '980px', // Custom smaller width for large screens 458px
           xl: '1100px', // Custom smaller width for extra-large screens
         },
       },
