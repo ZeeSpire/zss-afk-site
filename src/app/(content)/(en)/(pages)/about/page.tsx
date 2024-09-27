@@ -66,13 +66,38 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | About Us - The most precious moments in life happen offline.",
+  "description": "Learn more about AFKology, our mission, and the journey we take to explore the world and its hidden gems.",
+  "url": "https://www.afkology.com/about",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/about"
+}
 
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl="/ro/despre-noi" />
       <main className="flex-grow">
         about

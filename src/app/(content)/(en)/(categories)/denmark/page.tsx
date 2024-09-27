@@ -66,13 +66,38 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | Denmark - Unveil the Charm of Danish Culture and Travel.",
+  "description": "Explore Denmark with AFKology. Discover vibrant cities, stunning landscapes, and the rich cultural heritage of Denmark.",
+  "url": "https://www.afkology.com/denmark",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/denmark"
+}
 
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl="/ro/danemarca" />
       <main className="flex-grow">
         denmark

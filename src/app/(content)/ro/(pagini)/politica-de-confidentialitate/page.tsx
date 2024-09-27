@@ -73,8 +73,8 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Politica de Confidențialitate",
-  "description": "Citește despre cum AFKology colectează, folosește și protejează informațiile tale personale.",
+  "name": "AFKology | Politica de Confidențialitate - Cele mai prețioase momente din viață se petrec offline.",
+  "description": "Citește despre cum AFKology colectează, folosește și protejează informațiile tale personale. Confidențialitatea ta este importantă pentru noi.",
   "url": "https://www.afkology.com/ro/politica-de-confidentialitate",
   "author": {
     "@type": "Organization",

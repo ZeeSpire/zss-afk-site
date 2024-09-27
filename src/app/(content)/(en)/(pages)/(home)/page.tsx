@@ -72,9 +72,31 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | The most precious moments in life happen offline.",
+  "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
+  "url": "https://www.afkology.com/",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/"
+}
 
 export default function Page() {
   const articlesPerPage = 9;
@@ -86,6 +108,9 @@ export default function Page() {
 
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl="/ro" />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

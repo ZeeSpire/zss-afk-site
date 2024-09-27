@@ -73,7 +73,7 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Despre Noi",
+  "name": "AFKology | Despre Noi - Cele mai prețioase momente din viață se petrec offline.",
   "description": "Descoperă povestea AFKology, pasiunea noastră pentru călătorii și angajamentul nostru de a oferi informații utile pentru aventurile tale.",
   "url": "https://www.afkology.com/ro/despre-noi",
   "author": {

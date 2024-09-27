@@ -66,13 +66,38 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | Romania - Discover the Best of Romania Travel, Lifestyle and Food.",
+  "description": "Explore Romania with AFKology. Find out the best travel destinations, local cuisine, and hidden gems across the country.",
+  "url": "https://www.afkology.com/romania",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/romania"
+}
 
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl="/ro/romania" />
       <main className="flex-grow">
         romania

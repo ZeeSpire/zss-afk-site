@@ -73,7 +73,7 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Contact",
+  "name": "AFKology | Contact - Cele mai prețioase momente din viață se petrec offline.",
   "description": "Contactează-ne pentru informații despre călătorie, întrebări sau colaborări. Suntem aici să te ajutăm să-ți planifici aventura perfectă.",
   "url": "https://www.afkology.com/ro/contact",
   "author": {
@@ -95,7 +95,7 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-       <section>
+      <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
       <Navbar enUrl="/contact" />

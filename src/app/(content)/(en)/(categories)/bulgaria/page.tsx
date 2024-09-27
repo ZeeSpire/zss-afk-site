@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
-  description: "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
+    description: "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
     url: 'https://www.afkology.com/bulgaria',
     siteName: 'AFKology',
     locale: 'en_US',
@@ -66,13 +66,38 @@ export const metadata: Metadata = {
     ],
   },
   verification: {
-    google: 'ADDD CODEE', 
+    google: 'ADDD CODEE',
   },
 };
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
+  "description": "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
+  "url": "https://www.afkology.com/bulgaria",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/bulgaria"
+}
 
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl="/ro/bulgaria" />
       <main className="flex-grow">
         bulgaria
