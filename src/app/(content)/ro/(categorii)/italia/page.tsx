@@ -65,9 +65,9 @@ export const metadata: Metadata = {
       },
     ],
   },
-  verification: {
-    google: 'ADDD CODEE',
-  },
+  // verification: {
+  //   google: 'ADDD CODEE',
+  // },
 };
 
 const jsonLd = {

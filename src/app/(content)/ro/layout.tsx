@@ -1,6 +1,8 @@
 import Footer from "../../components/ro/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
+import { GoogleTagManager } from '@next/third-parties/google'
+
 
 const roboto = Roboto({
   weight: ['400', '700'],
@@ -18,6 +20,7 @@ export default function RoLayout({
     <html lang="ro" data-theme="pastel">
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
+          <GoogleTagManager gtmId="G-2E08R5263Y" />
           {children}
           <Footer />
         </div>

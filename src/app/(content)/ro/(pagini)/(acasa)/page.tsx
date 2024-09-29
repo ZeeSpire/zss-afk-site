@@ -71,9 +71,9 @@ export const metadata: Metadata = {
       },
     ],
   },
-  verification: {
-    google: 'ADDD CODEE',
-  },
+  // verification: {
+  //   google: 'ADDD CODEE',
+  // },
 };
 
 const jsonLd = {
@@ -119,8 +119,8 @@ export default function Page() {
               <figure>
                 <Link href={`/${article.slug}`}>
                   <Image src={article.featured} alt={article.title}
-                    width={705}  // Define the maximum width (used as the largest size)
-                    height={705} // Define the maximum height
+                    width={705}
+                    height={705}
                     sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
                   />
                 </Link>

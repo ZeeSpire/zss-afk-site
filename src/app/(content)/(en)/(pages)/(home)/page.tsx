@@ -71,9 +71,9 @@ export const metadata: Metadata = {
       },
     ],
   },
-  verification: {
-    google: 'ADDD CODEE',
-  },
+  // verification: {
+  //   google: 'ADDD CODEE',
+  // },
 };
 
 const jsonLd = {
@@ -117,7 +117,13 @@ export default function Page() {
           {articles.map((article: Article) => (
             <div className="card bg-base-100 shadow-xl" key={article.slug}>
               <figure>
-                <Link href={`/${article.slug}`}><Image src={article.featured} alt={article.title} /></Link>
+                <Link href={`/${article.slug}`}>
+                  <Image src={article.featured} alt={article.title}
+                    width={705}
+                    height={705}
+                    sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
+                  />
+                </Link>
               </figure>
               <div className="card-body">
                 <Link href={`/${article.slug}`}><h2 className="card-title">{article.title}</h2></Link>
