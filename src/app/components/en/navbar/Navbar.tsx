@@ -13,7 +13,6 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
                 <ul className="menu menu-horizontal px-1">
                     <li><Link href="/">Home</Link></li>
                     <li><Link href="/about">About</Link></li>
-                    <li><Link href="/news">News</Link></li>
                 </ul>
 
                 <Image className="mx-2" src={logo} alt="AFKology logo" priority />
