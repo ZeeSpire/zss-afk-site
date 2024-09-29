@@ -19,7 +19,7 @@ export default function EnLayout({
     <html lang="en" data-theme="pastel">
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
-          <GoogleTagManager gtmId="G-2E08R5263Y" />
+          <GoogleTagManager gtmId="GTM-PF6ZFZZ" />
           {children}
           <Footer />
         </div>
