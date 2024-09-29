@@ -22,6 +22,7 @@ export default function EnLayout({
           <GoogleTagManager gtmId="GTM-PF6ZFZZ" />
           {children}
           <Footer />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6143747859842915" crossOrigin="anonymous"></script>
         </div>
       </body>
     </html>
