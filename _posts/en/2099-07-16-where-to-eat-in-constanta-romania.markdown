@@ -91,4 +91,4 @@ This place is a good option for brunch as well as for a consistent lunch. They s
 ### Pui cu bacon
 If you're in the mood for some quick fix, this is the place to come. Don't spend your money on anything else then the "pui cu bacon" sandwich. The place is called like that for a reason, there was a time this was the best sandwich in town. It is delicious, but as a recommendation request for less mayonaise in the sandwich. Their website is: [http://puicubacon.ro/](http://puicubacon.ro/){:target="_blank" rel="nofollow"}.
 
-We will update this list as we try other restaurants and places to go out in Constanta.
+We will update this list as we try other restaurants and places to go out in Constanta. 
