@@ -48,7 +48,7 @@ h3 {
 }
 
 .card-text-container {
-    height: 60px
+    /* height: 60px */
 }
 
 @media (min-width:1400px) {
