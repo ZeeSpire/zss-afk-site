@@ -1,4 +1,4 @@
-import { Dancing_Script, Edu_QLD_Beginner } from "next/font/google";
+import { Edu_QLD_Beginner } from "next/font/google";
 import Link from "next/link";
 
 const dancingScript = Edu_QLD_Beginner({
