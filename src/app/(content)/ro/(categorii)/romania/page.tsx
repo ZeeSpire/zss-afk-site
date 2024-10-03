@@ -1,4 +1,4 @@
-import Navbar from "@/app/components/ro/navbar/Navbar";
+import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -65,9 +65,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  // verification: {
-  //   google: 'ADDD CODEE', 
-  // },
 };
 
 const jsonLd = {

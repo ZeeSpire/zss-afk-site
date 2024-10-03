@@ -1,4 +1,4 @@
-import Navbar from "@/app/components/ro/navbar/Navbar";
+import Navbar from "../../../../../../components/ro/navbar/Navbar";
 
 export default function Page() {
   return (

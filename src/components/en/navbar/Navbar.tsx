@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from 'next/image';
-import logo from '../../../../../public/logo.jpg'
-import roFlag from '../../../../../public/helper/ro.png'
+import logo from '../../../../public/logo.jpg'
+import roFlag from '../../../../public/helper/ro.png'
 
 export default function Navbar({ roUrl }: { roUrl: string }) {
     return (
@@ -15,7 +15,7 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
                     <li><Link href="/about">About</Link></li>
                 </ul>
 
-                <Image className="mx-2" src={logo} alt="AFKology logo" priority />
+                <Link href="/"><Image className="mx-2" src={logo} alt="AFKology logo" priority /></Link>
 
                 <ul className="menu menu-horizontal px-1">
                     <li className="z-[1]">

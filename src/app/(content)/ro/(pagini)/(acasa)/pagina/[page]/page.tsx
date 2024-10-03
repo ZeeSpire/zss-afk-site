@@ -1,11 +1,11 @@
 import Image from "next/image";
 import { notFound, redirect } from "next/navigation";
-import { getArticles, getPaginatedArticles } from "../../../../data/data";
+import { getArticles, getPaginatedArticles } from "../../../../../../../data/data";
 import Link from "next/link";
-import { Article } from "@/app/model/article";
-import { Pagination } from "@/app/components/ro/pagination/Pagination";
-import Navbar from "@/app/components/ro/navbar/Navbar";
-import { Params } from "@/app/model/params";
+import { Article } from "../../../../../../../model/article";
+import { Pagination } from "@/components/ro/pagination/Pagination";
+import Navbar from "../../../../../../../components/ro/navbar/Navbar";
+import { Params } from "@/model/params";
 
 export function generateMetadata({ params }: { params: Params }) {
   const currentPage = params.page
@@ -73,9 +73,6 @@ export function generateMetadata({ params }: { params: Params }) {
         },
       ],
     },
-    // verification: {
-    //   google: 'ADDD CODEE',
-    // },
   }
 }
 
@@ -127,10 +124,10 @@ export default function Page({ params }: { params: { page: number } }) {
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {articles.map((article: Article) => (
-            <div className="card bg-base-100 shadow-xl" key={article.slug}>
+            <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
-                <Link href={`/${article.slug}`}>
-                  <Image src={article.featured} alt={article.title}
+                <Link href={`/${article.roSlug}`}>
+                  <Image src={article.featured} alt={article.roTitle}
                     width={705}
                     height={705}
                     sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
@@ -138,7 +135,7 @@ export default function Page({ params }: { params: { page: number } }) {
                 </Link>
               </figure>
               <div className="card-body">
-                <Link href={`/${article.slug}`}><h2 className="card-title">{article.title}</h2></Link>
+                <Link href={`/${article.roSlug}`}><h2 className="card-title">{article.roTitle}</h2></Link>
               </div>
             </div>
           ))}

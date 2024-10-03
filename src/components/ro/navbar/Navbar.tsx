@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from 'next/image';
-import logo from '../../../../../public/logo.jpg'
-import enFlag from '../../../../../public/helper/en.jpg'
+import logo from '../../../../public/logo.jpg'
+import enFlag from '../../../../public/helper/en.jpg'
 
 export default function Navbar({ enUrl }: { enUrl: string }) {
     return (
@@ -15,7 +15,7 @@ export default function Navbar({ enUrl }: { enUrl: string }) {
                     <li><Link href="/ro/despre-noi">Despre Noi</Link></li>
                 </ul>
 
-                <Image className="mx-2" src={logo} alt="AFKology logo" priority />
+                <Link href="/ro"><Image className="mx-2" src={logo} alt="AFKology logo" priority /></Link>
 
                 <ul className="menu menu-horizontal px-1">
                     <li className="z-[1]">

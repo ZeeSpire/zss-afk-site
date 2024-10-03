@@ -1,4 +1,4 @@
-import Footer from "../../components/en/footer/Footer";
+import Footer from "../../../components/en/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
 import { GoogleTagManager } from '@next/third-parties/google'

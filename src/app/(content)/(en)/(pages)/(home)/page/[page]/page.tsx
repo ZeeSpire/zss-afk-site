@@ -1,11 +1,12 @@
 import Image from "next/image";
 import { notFound, redirect } from "next/navigation";
-import { getArticles, getPaginatedArticles } from "../../../../data/data";
+import { getArticles, getPaginatedArticles } from "../../../../../../../data/data";
 import Link from "next/link";
-import { Article } from "@/app/model/article";
-import { Pagination } from "@/app/components/ro/pagination/Pagination";
-import Navbar from "@/app/components/en/navbar/Navbar";
-import { Params } from "@/app/model/params";
+import { Article } from "../../../../../../../model/article";
+import { Pagination } from "@/components/en/pagination/Pagination";
+import Navbar from "../../../../../../../components/en/navbar/Navbar";
+
+import { Params } from "@/model/params";
 
 const articlesPerPage = 9;
 
@@ -75,9 +76,6 @@ export function generateMetadata({ params }: { params: Params }) {
         },
       ],
     },
-    // verification: {
-    //   google: 'ADDD CODEE',
-    // },
   }
 }
 
@@ -127,7 +125,7 @@ export default function Page({ params }: { params: { page: number } }) {
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {articles.map((article: Article) => (
-            <div className="card bg-base-100 shadow-xl" key={article.slug}>
+            <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
                 <Link href={`/${article.slug}`}>
                   <Image src={article.featured} alt={article.title}

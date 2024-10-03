@@ -1,8 +1,7 @@
-import Footer from "../../components/ro/footer/Footer";
+import Footer from "../../../components/ro/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
 import { GoogleTagManager } from '@next/third-parties/google'
-
 
 const roboto = Roboto({
   weight: ['400', '700'],

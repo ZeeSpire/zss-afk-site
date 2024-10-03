@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-import { News } from "@/app/model/news";
+import { News } from "@/model/news";
 import Link from "next/link";
-import { getNews } from "../../data/data";
-import Navbar from "@/app/components/en/navbar/Navbar";
+import { getNews } from "../../../../../data/data";
+import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

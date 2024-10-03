@@ -1,10 +1,10 @@
 import Image from "next/image";
 
 import Link from "next/link";
-import { Article } from "@/app/model/article";
-import { getPaginatedArticles } from "../../data/data";
-import { Pagination } from "@/app/components/ro/pagination/Pagination";
-import Navbar from "@/app/components/en/navbar/Navbar";
+import { Article } from "../../../../../model/article";
+import { getPaginatedArticles } from "../../../../../data/data";
+import { Pagination } from "@/components/en/pagination/Pagination";
+import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -71,9 +71,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  // verification: {
-  //   google: 'ADDD CODEE',
-  // },
 };
 
 const jsonLd = {
@@ -115,7 +112,7 @@ export default function Page() {
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {articles.map((article: Article) => (
-            <div className="card bg-base-100 shadow-xl" key={article.slug}>
+            <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
                 <Link href={`/${article.slug}`}>
                   <Image src={article.featured} alt={article.title}
