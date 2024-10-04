@@ -30,8 +30,8 @@ export default function Page() {
         <p>Truffles are used as a condiment. They have a very strong aroma, and a small amount is enough to flavor your food. The truffles can be used in risotto, pasta dishes, purees, and steaks, but they are also used to flavor butter, oil, or salt.</p>
         <p>Besides all these, truffles have various health benefits because they are rich in antioxidants, vitamins, and minerals.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={truffles2} alt="Truffle Hunting Pin 01" sizes="(max-width: 768px) 100vw, 35vw"/></div>
-          <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" sizes="(max-width: 768px) 100vw, 35vw"/></div>
+          <div><Image className="mb-4" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw"/></div>
+          <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw"/></div>
         </div>
       </main>
     </div>
