@@ -6,6 +6,10 @@ export interface Article {
     roSlug: string;
     title: string;
     roTitle: string;
+    descriptionEn: string;
+    descriptionRo: string;
+    keywordsEn: string;
+    keywordsRo: string;
     featured: StaticImageData;
     featuredLandscape: StaticImageData;
     category: string;

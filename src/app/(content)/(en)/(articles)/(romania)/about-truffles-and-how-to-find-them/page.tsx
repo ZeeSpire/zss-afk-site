@@ -6,13 +6,103 @@ import truffles1 from "../../../../../../../public/grigorescu-2/IMG_1505.jpeg"
 import truffles2 from "../../../../../../../public/grigorescu-2/PINGRIGORESCU6.jpeg"
 import truffles3 from "../../../../../../../public/grigorescu-2/PINGRIGORESCU7.jpeg"
 import Image from "next/image";
+import { Metadata } from "next";
 
 const article = getArticle(20);
+
+export const metadata: Metadata = {
+  title: `AFKology | ${article.title}`,
+  description: `${article.descriptionEn}`,
+  keywords: `${article.keywordsEn}`,
+  metadataBase: new URL('https://www.afkology.com'),
+  alternates: {
+    canonical: `${article.slug}`,
+    languages: {
+      'en-US': `${article.slug}`,
+      'ro-RO': `${article.roSlug}`,
+    },
+  },
+  // openGraph: {
+  //   title: `AFKology | ${article.title}`,
+  //   description: `${article.descriptionEn}`,
+  //   url: 'https://www.afkology.com',
+  //   siteName: 'AFKology',
+  //   locale: 'en_US',
+  //   type: 'website',
+  //   images: [
+  //     {
+  //       url: 'https://www.afkology.com/logo.png',
+  //       width: 190,
+  //       height: 107,
+  //     }
+  //   ],
+  // },
+  robots: {
+    index: true,
+    follow: true,
+    nocache: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      noimageindex: false,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  icons: {
+    icon: [
+      { rel: 'icon', url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { rel: 'icon', url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { rel: 'icon', url: '/favicon.ico', sizes: 'any', type: 'image/x-icon' },
+    ],
+    apple: [
+      { rel: 'apple-touch-icon', url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+    other: [
+      {
+        rel: 'icon',
+        url: '/android-chrome-192x192.png',
+        sizes: '192x192',
+        type: 'image/png',
+      },
+      {
+        rel: 'icon',
+        url: '/android-chrome-512x512.png',
+        sizes: '512x512',
+        type: 'image/png',
+      },
+    ],
+  },
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "AFKology | The most precious moments in life happen offline.",
+  "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
+  "url": "https://www.afkology.com/",
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png"
+    }
+  },
+  "mainEntityOfPage": "https://www.afkology.com/"
+}
+
 
 export default function Page() {
   return (
     <div>
-      <Navbar roUrl="/ro/despre-trufe-si-gasirea-lor" />
+      <Navbar roUrl={`${article.roSlug}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         <p>In Romania, there are more and more offers that include, in addition to accommodation, various types of experiences, from gastronomic incursions, wine tastings, courses where you can learn something new, to outdoor activities. This is also the case with truffle hunting.</p>
