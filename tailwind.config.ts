@@ -18,7 +18,7 @@ const config: Config = {
       },
     },
   },
-  plugins: [daisyui],
+  plugins: [daisyui, require('@tailwindcss/aspect-ratio'),],
   daisyui: {
     themes: [
       {

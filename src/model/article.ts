@@ -1,7 +1,7 @@
 import { StaticImageData } from "next/image";
 
 export interface Article {
-    id: string;
+    id: number;
     slug: string;
     roSlug: string;
     title: string;
@@ -11,4 +11,6 @@ export interface Article {
     category: string;
     createdDate: Date;
     lastModified: Date;
+    contentEn: string;
+    contentRo: string;
   }
