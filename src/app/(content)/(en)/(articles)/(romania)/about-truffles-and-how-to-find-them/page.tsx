@@ -76,27 +76,27 @@ export const metadata: Metadata = {
   },
 };
 
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "AFKology | The most precious moments in life happen offline.",
-  "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
-  "url": "https://www.afkology.com/",
-  "author": {
-    "@type": "Organization",
-    "name": "AFKology",
-    "url": "https://www.afkology.com"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "AFKology",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.afkology.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": "https://www.afkology.com/"
-}
+// const jsonLd = {
+//   "@context": "https://schema.org",
+//   "@type": "WebPage",
+//   "name": "AFKology | The most precious moments in life happen offline.",
+//   "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
+//   "url": "https://www.afkology.com/",
+//   "author": {
+//     "@type": "Organization",
+//     "name": "AFKology",
+//     "url": "https://www.afkology.com"
+//   },
+//   "publisher": {
+//     "@type": "Organization",
+//     "name": "AFKology",
+//     "logo": {
+//       "@type": "ImageObject",
+//       "url": "https://www.afkology.com/logo.png"
+//     }
+//   },
+//   "mainEntityOfPage": "https://www.afkology.com/"
+// }
 
 
 export default function Page() {

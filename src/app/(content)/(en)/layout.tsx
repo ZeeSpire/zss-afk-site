@@ -1,7 +1,6 @@
 import Footer from "../../../components/en/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
-import { GoogleTagManager } from '@next/third-parties/google'
 
 const roboto = Roboto({
   weight: ['400', '700'],
@@ -19,7 +18,6 @@ export default function EnLayout({
     <html lang="en" data-theme="pastel">
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
-          <GoogleTagManager gtmId="GTM-PF6ZFZZ" />
           {children}
           <Footer />
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6143747859842915" crossOrigin="anonymous"></script>

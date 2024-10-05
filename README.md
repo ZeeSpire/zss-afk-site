@@ -12,4 +12,4 @@
 
 
 ## Used
-Used Google Tag manager for analytics, consent: GTM-PF6ZFZZ
+Didn't use Used Google Tag manager for analytics, consent: <GoogleTagManager gtmId="GTM-PF6ZFZZ" />
