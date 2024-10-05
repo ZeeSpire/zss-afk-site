@@ -122,10 +122,13 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
+      
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
+
       <Navbar roUrl={`${article.roSlug}`} />
+
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         <p>In Romania, there are more and more offers that include, in addition to accommodation, various types of experiences, from gastronomic incursions, wine tastings, courses where you can learn something new, to outdoor activities. This is also the case with truffle hunting.</p>
@@ -147,6 +150,7 @@ export default function Page() {
           <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw" /></div>
         </div>
       </main>
+
     </div>
   );
 }
