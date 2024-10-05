@@ -41,6 +41,7 @@ import valeaVerdeAStorySquare from "../../public/valea-verde/valea-verde-cover-s
 import valeaVerdeAStory from "../../public/valea-verde/valea-verde-cover.jpg"
 
 import aboutTrufflesSquare from "../../public/grigorescu-2/IMG_20221029_123239.jpg"
+import aboutTruffles from "../../public/grigorescu-2/IMG_1505.jpeg"
 
 import artSafariATemporaryArtSquare from "../../public/art-safari-2/IMG_20221120_121702.jpg"
 
@@ -400,7 +401,7 @@ const data: Article[] = [
     keywordsEn: "truffle hunting, culinary experience, Romania, travel, Transylvania",
     keywordsRo: "vanatoare de trufe, experienta culinara, Romania, travel, Transilvania, Conacul Grigorescu",
     featured: aboutTrufflesSquare,
-    featuredLandscape: aboutTrufflesSquare,
+    featuredLandscape: aboutTruffles,
     category: "Romania",
     createdDate: new Date("2022-12-18T12:00:00.000Z"),
     lastModified: new Date("2024-10-02T12:00:00.000Z"),

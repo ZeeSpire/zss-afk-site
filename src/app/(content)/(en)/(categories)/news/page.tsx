@@ -87,10 +87,15 @@ const jsonLd = {
     "name": "AFKology",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.afkology.com/logo.png"
+      "url": "https://www.afkology.com/logo.png",
+      "width": 190,
+      "height": 107,
     }
   },
-  "mainEntityOfPage": "https://www.afkology.com/news"
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": `https://www.afkology.com/news`
+  }
 }
 
 export default function Page() {

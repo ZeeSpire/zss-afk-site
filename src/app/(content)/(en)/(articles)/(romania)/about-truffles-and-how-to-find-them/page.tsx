@@ -22,21 +22,29 @@ export const metadata: Metadata = {
       'ro-RO': `${article.roSlug}`,
     },
   },
-  // openGraph: {
-  //   title: `AFKology | ${article.title}`,
-  //   description: `${article.descriptionEn}`,
-  //   url: 'https://www.afkology.com',
-  //   siteName: 'AFKology',
-  //   locale: 'en_US',
-  //   type: 'website',
-  //   images: [
-  //     {
-  //       url: 'https://www.afkology.com/logo.png',
-  //       width: 190,
-  //       height: 107,
-  //     }
-  //   ],
-  // },
+  openGraph: {
+    title: `AFKology | ${article.title}`,
+    description: `${article.descriptionEn}`,
+    url: `https://www.afkology.com/${article.slug}`,
+    siteName: 'AFKology',
+    locale: 'en_US',
+    type: 'article',
+    publishedTime: `${article.createdDate}`,
+    modifiedTime: `${article.lastModified}`,
+    tags: `${article.keywordsEn}`,
+    images: [
+      {
+        url: `https://www.afkology.com${article.featured.src}`,
+        width: `${article.featured.width}`,
+        height: `${article.featured.height}`,
+      },
+      {
+        url: `https://www.afkology.com${article.featuredLandscape.src}`,
+        width: `${article.featuredLandscape.width}`,
+        height: `${article.featuredLandscape.height}`,
+      }
+    ],
+  },
   robots: {
     index: true,
     follow: true,
@@ -76,32 +84,47 @@ export const metadata: Metadata = {
   },
 };
 
-// const jsonLd = {
-//   "@context": "https://schema.org",
-//   "@type": "WebPage",
-//   "name": "AFKology | The most precious moments in life happen offline.",
-//   "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
-//   "url": "https://www.afkology.com/",
-//   "author": {
-//     "@type": "Organization",
-//     "name": "AFKology",
-//     "url": "https://www.afkology.com"
-//   },
-//   "publisher": {
-//     "@type": "Organization",
-//     "name": "AFKology",
-//     "logo": {
-//       "@type": "ImageObject",
-//       "url": "https://www.afkology.com/logo.png"
-//     }
-//   },
-//   "mainEntityOfPage": "https://www.afkology.com/"
-// }
-
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": `${article.title}`,
+  "description": `${article.descriptionEn}`,
+  "url": `https://www.afkology.com/${article.slug}`,
+  "datePublished": `${article.createdDate}`,
+  "dateModified": `${article.lastModified}`,
+  "author": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "url": "https://www.afkology.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AFKology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.afkology.com/logo.png",
+      "width": 190,
+      "height": 107
+    }
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": `https://www.afkology.com${article.featured.src}`,
+    "width": `${article.featured.width}`,
+    "height": `${article.featured.height}`
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": `https://www.afkology.com/${article.slug}`
+  }
+}
 
 export default function Page() {
   return (
     <div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
       <Navbar roUrl={`${article.roSlug}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
@@ -120,8 +143,8 @@ export default function Page() {
         <p>Truffles are used as a condiment. They have a very strong aroma, and a small amount is enough to flavor your food. The truffles can be used in risotto, pasta dishes, purees, and steaks, but they are also used to flavor butter, oil, or salt.</p>
         <p>Besides all these, truffles have various health benefits because they are rich in antioxidants, vitamins, and minerals.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw"/></div>
-          <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw"/></div>
+          <div><Image className="mb-4" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw" /></div>
+          <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw" /></div>
         </div>
       </main>
     </div>

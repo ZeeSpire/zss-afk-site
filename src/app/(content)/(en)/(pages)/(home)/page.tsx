@@ -78,7 +78,7 @@ const jsonLd = {
   "@type": "WebPage",
   "name": "AFKology | The most precious moments in life happen offline.",
   "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
-  "url": "https://www.afkology.com/",
+  "url": "https://www.afkology.com",
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -89,10 +89,20 @@ const jsonLd = {
     "name": "AFKology",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://www.afkology.com/logo.png"
+      "url": "https://www.afkology.com/logo.png",
+      "width": 190,
+      "height": 107,
     }
   },
-  "mainEntityOfPage": "https://www.afkology.com/"
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": `https://www.afkology.com`
+  }
+  // "potentialAction": {  // Optional: specifies actions a user might take
+  //   "@type": "SearchAction",
+  //   "target": "https://www.afkology.com/search?q={search_term_string}",  // Example of a site search action
+  //   "query-input": "required name=search_term_string"
+  // }
 }
 
 export default function Page() {
