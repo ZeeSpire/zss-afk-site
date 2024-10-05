@@ -1,3 +1,4 @@
+import GoogleAnalytics from "@/components/googleanalytics/GoogleAnalytics";
 import Footer from "../../../components/ro/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
@@ -16,9 +17,9 @@ export default function RoLayout({
 }) {
   return (
     <html lang="ro" data-theme="pastel">
+      <GoogleAnalytics GA_MEASUREMENT_ID='G-2E08R5263Y'/>
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
-          
           {children}
           <Footer />
         </div>
