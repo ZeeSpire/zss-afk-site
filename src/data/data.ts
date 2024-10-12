@@ -138,14 +138,6 @@ export function getCategory(id: number): Category {
   return category;
 }
 
-export function getPage(id: number): Page {
-  const page = pages.find(p => p.id === id);
-  if (!page) {
-    return defaultPage;
-  }
-  return page;
-}
-
 export function getArticleForCategory(position: number, categoryId: number): Article {
   const articlesFromCategory = articlesWithCategories.filter(a => a.categoryId === categoryId);
   return articlesFromCategory[position];
