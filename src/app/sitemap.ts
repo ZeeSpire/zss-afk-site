@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 1,
     alternates: {
       languages: {
-        ro: 'https://afkology.com/' + a.roSlug,
+        ro: 'https://afkology.com/' + a.slugRo,
       },
     },
   }));

@@ -22,7 +22,6 @@ export default function EnLayout({
         <div className="flex flex-col flex-grow container mx-auto px-4">
           {children}
           <Footer />
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6143747859842915" crossOrigin="anonymous"></script>
         </div>
       </body>
     </html>

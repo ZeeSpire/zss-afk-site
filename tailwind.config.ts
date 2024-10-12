@@ -7,6 +7,13 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  safelist: [
+    'text-indigo-400',
+    'text-pink-400',
+    'text-sky-400',
+    'text-green-400',
+    'text-orange-400',
+  ],
   theme: {
     extend: {
       container: {
@@ -28,7 +35,7 @@ const config: Config = {
           "base-100": "#ffffff",
         }
       }
-    ]
+    ],
   }
 };
 export default config;

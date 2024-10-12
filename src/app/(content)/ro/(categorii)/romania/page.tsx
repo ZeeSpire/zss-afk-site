@@ -1,22 +1,28 @@
+import {  getArticleForCategory, getArticlesForCategory, getCategory } from "@/data/data";
 import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { Article } from "@/model/article";
+
+const category = getCategory(2);
 
 export const metadata: Metadata = {
-  title: "AFKology | România - Descoperă frumusețile naturii și cultura diversă.",
-  description: "Explorează România cu AFKology. Află despre peisajele spectaculoase, tradițiile locale și cele mai bune locuri de vizitat.",
-  keywords: ['afkology', 'romania', 'călătorie românia', 'ghid de călătorie românia', 'locuri de vizitat în românia', 'cultura română', 'turism românia'],
+  title: `${category.titleRo}`,
+  description: `${category.descriptionRo}`,
+  keywords: `${category.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/ro/romania',
+    canonical: `${category.slugRo}`,
     languages: {
-      'ro-RO': '/ro/romania',
-      'en-US': '/romania',
+      'ro-RO': `${category.slugRo}`,
+      'en-US': `${category.slug}`,
     },
   },
   openGraph: {
-    title: "AFKology | România - Descoperă frumusețile naturii și cultura diversă.",
-    description: "Explorează România cu AFKology. Află despre peisajele spectaculoase, tradițiile locale și cele mai bune locuri de vizitat.",
-    url: 'https://www.afkology.com/ro/romania',
+    title: `${category.titleRo}`,
+    description: `${category.descriptionRo}`,
+    url: `https://www.afkology.com/${category.slugRo}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -70,9 +76,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | România - Descoperă frumusețile naturii și cultura diversă.",
-  "description": "Explorează România cu AFKology. Află despre peisajele spectaculoase, tradițiile locale și cele mai bune locuri de vizitat.",
-  "url": "https://www.afkology.com/ro/romania",
+  "name": `${category.titleRo}`,
+  "description": `${category.descriptionRo}`,
+  "url": `https://www.afkology.com/${category.slugRo}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,19 +96,121 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/ro/romania`
+    "@id": `https://www.afkology.com/${category.slugRo}`
   }
 }
 
 export default function Page() {
+  const articles: Article[] = getArticlesForCategory(2);
+
+  const latestArticle: Article = getArticleForCategory(0, 2);
+  const oneBeforeLatestArticle: Article = getArticleForCategory(1, 2);
+  const twoBeforeLatestArticle: Article = getArticleForCategory(2, 2);
+  const threeBeforeLatestArticle: Article = getArticleForCategory(3, 2);
+  const fourBeforeLatestArticle: Article = getArticleForCategory(4, 2);
+
   return (
     <div>
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl="/romania" />
+      <Navbar enUrl={`${category.slug}`} />
       <main className="flex-grow">
-        romania
+        <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
+          <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
+            <figure>
+              <Link href={`/${latestArticle.slugRo}`}>
+                <Image src={latestArticle.featured} alt={latestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-5">
+              <span className={`uppercase text-xs ${latestArticle.category?.color}`}> {latestArticle.category?.nameRo}</span>
+              <Link href={`/${latestArticle.slugRo}`}><span className="card-title">{latestArticle.titleRo}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${oneBeforeLatestArticle.slugRo}`}>
+                <Image className="hidden lg:block" src={oneBeforeLatestArticle.featuredLandscape} alt={oneBeforeLatestArticle.titleRo} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={oneBeforeLatestArticle.featured} alt={oneBeforeLatestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${oneBeforeLatestArticle.category?.color}`}> {oneBeforeLatestArticle.category?.nameRo} </span>
+              <Link href={`/${oneBeforeLatestArticle.slugRo}`}><span className="card-title text-lg leading-6">{oneBeforeLatestArticle.titleRo}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${twoBeforeLatestArticle.slugRo}`}>
+                <Image className="hidden lg:block" src={twoBeforeLatestArticle.featuredLandscape} alt={twoBeforeLatestArticle.titleRo} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={twoBeforeLatestArticle.featured} alt={twoBeforeLatestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${twoBeforeLatestArticle.category?.color}`}> {twoBeforeLatestArticle.category?.nameRo} </span>
+              <Link href={`/${twoBeforeLatestArticle.slugRo}`}><span className="card-title text-lg leading-6">{twoBeforeLatestArticle.titleRo}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${threeBeforeLatestArticle.slugRo}`}>
+                <Image className="hidden lg:block" src={threeBeforeLatestArticle.featuredLandscape} alt={threeBeforeLatestArticle.titleRo} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={threeBeforeLatestArticle.featured} alt={threeBeforeLatestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${threeBeforeLatestArticle.category?.color}`}> {threeBeforeLatestArticle.category?.nameRo} </span>
+              <Link href={`/${threeBeforeLatestArticle.slugRo}`}><span className="card-title text-lg leading-6">{threeBeforeLatestArticle.titleRo}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${fourBeforeLatestArticle.slugRo}`}>
+                <Image className="hidden lg:block" src={fourBeforeLatestArticle.featuredLandscape} alt={fourBeforeLatestArticle.titleRo} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={fourBeforeLatestArticle.featured} alt={fourBeforeLatestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${fourBeforeLatestArticle.category?.color}`}> {fourBeforeLatestArticle.category?.nameRo} </span>
+              <Link href={`/${fourBeforeLatestArticle.slugRo}`}><span className="card-title text-lg leading-6">{fourBeforeLatestArticle.titleRo}</span></Link>
+            </div> 
+          </div>
+
+          {articles.map((article: Article) => (
+            <div className="card bg-base-100 shadow-xl col-span-1 block lg:hidden" key={article.id}>
+              <figure>
+                <Link href={`/${article.slugRo}`}>
+                  <Image src={article.featured} alt={article.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                </Link>
+              </figure>
+              <div className="card-body pt-4 pb-4">
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.nameRo} </span>
+                <Link href={`/${article.slugRo}`}><span className="card-title text-lg leading-6">{article.titleRo}</span></Link>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {articles.map((article: Article) => (
+            <div className="card bg-base-100 shadow-xl col-span-1 hidden lg:block" key={article.id}>
+              <figure>
+                <Link href={`/${article.slugRo}`}>
+                  <Image src={article.featured} alt={article.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                </Link>
+              </figure>
+              <div className="card-body pt-4 pb-4">
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.nameRo} </span>
+                <Link href={`/${article.slugRo}`}><span className="card-title text-lg leading-6">{article.titleRo}</span></Link>
+              </div>
+            </div>
+          ))} 
+        </div>
       </main>
     </div>
   );

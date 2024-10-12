@@ -23,7 +23,6 @@ export default function RoLayout({
           {children}
           <Footer />
         </div>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6143747859842915" crossOrigin="anonymous"></script>
       </body>
     </html>
   )

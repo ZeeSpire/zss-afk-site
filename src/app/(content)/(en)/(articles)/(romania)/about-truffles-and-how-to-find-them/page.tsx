@@ -12,26 +12,26 @@ const article = getArticle(20);
 
 export const metadata: Metadata = {
   title: `AFKology | ${article.title}`,
-  description: `${article.descriptionEn}`,
-  keywords: `${article.keywordsEn}`,
+  description: `${article.description}`,
+  keywords: `${article.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
     canonical: `${article.slug}`,
     languages: {
       'en-US': `${article.slug}`,
-      'ro-RO': `${article.roSlug}`,
+      'ro-RO': `${article.slugRo}`,
     },
   },
   openGraph: {
     title: `AFKology | ${article.title}`,
-    description: `${article.descriptionEn}`,
+    description: `${article.description}`,
     url: `https://www.afkology.com/${article.slug}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'article',
     publishedTime: `${article.createdDate}`,
     modifiedTime: `${article.lastModified}`,
-    tags: `${article.keywordsEn}`,
+    tags: `${article.keywords}`,
     images: [
       {
         url: `https://www.afkology.com${article.featured.src}`,
@@ -88,7 +88,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": `${article.title}`,
-  "description": `${article.descriptionEn}`,
+  "description": `${article.description}`,
   "url": `https://www.afkology.com/${article.slug}`,
   "datePublished": `${article.createdDate}`,
   "dateModified": `${article.lastModified}`,
@@ -116,18 +116,20 @@ const jsonLd = {
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": `https://www.afkology.com/${article.slug}`
-  }
+  },
+  "articleBody": `${article.text}`,
+  "keywords": `${article.keywords}`
 }
 
 export default function Page() {
   return (
     <div>
-      
+
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
 
-      <Navbar roUrl={`${article.roSlug}`} />
+      <Navbar roUrl={`${article.slugRo}`} />
 
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>

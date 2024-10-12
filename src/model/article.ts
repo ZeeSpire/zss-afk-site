@@ -1,20 +1,48 @@
 import { StaticImageData } from "next/image";
+import { Category } from "./category";
+
+import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
+import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
 
 export interface Article {
     id: number;
     slug: string;
-    roSlug: string;
+    slugRo: string;
     title: string;
-    roTitle: string;
-    descriptionEn: string;
+    titleRo: string;
+    description: string;
     descriptionRo: string;
-    keywordsEn: string;
+    keywords: string;
     keywordsRo: string;
     featured: StaticImageData;
     featuredLandscape: StaticImageData;
-    category: string;
+    categoryId: number;
+    category?: Category; 
     createdDate: Date;
     lastModified: Date;
-    contentEn: string;
+    content: string;
     contentRo: string;
+    text: string;
+    textRo: string;
+  }
+
+  export const defaultArticle: Article = {
+    id: 0,
+    slug: "",
+    slugRo: "",
+    title: "",
+    titleRo: "",
+    description: "",
+    descriptionRo: "",
+    keywords: "",
+    keywordsRo: "",
+    featured: maguraSquare,
+    featuredLandscape: magura,
+    categoryId: 1,
+    createdDate: new Date("2021-10-26T12:00:00.000Z"),
+    lastModified: new Date("2024-10-02T12:00:00.000Z"),
+    content: "",
+    contentRo: "",
+    text: "",
+    textRo: ""
   }

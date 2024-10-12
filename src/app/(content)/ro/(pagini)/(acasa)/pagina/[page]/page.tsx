@@ -131,16 +131,13 @@ export default function Page({ params }: { params: { page: number } }) {
           {articles.map((article: Article) => (
             <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
-                <Link href={`/${article.roSlug}`}>
-                  <Image src={article.featured} alt={article.roTitle}
-                    width={705}
-                    height={705}
-                    sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
-                  />
+                <Link href={`/${article.slugRo}`}>
+                  <Image src={article.featured} alt={article.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
                 </Link>
               </figure>
               <div className="card-body">
-                <Link href={`/${article.roSlug}`}><h2 className="card-title">{article.roTitle}</h2></Link>
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.nameRo} </span>
+                <Link href={`/${article.slugRo}`}><span className="card-title text-lg leading-6">{article.titleRo}</span></Link>
               </div>
             </div>
           ))}

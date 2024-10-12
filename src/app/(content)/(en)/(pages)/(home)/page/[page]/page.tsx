@@ -133,15 +133,12 @@ export default function Page({ params }: { params: { page: number } }) {
             <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
                 <Link href={`/${article.slug}`}>
-                  <Image src={article.featured} alt={article.title}
-                    width={705}
-                    height={705}
-                    sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw"
-                  />
+                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
                 </Link>
               </figure>
               <div className="card-body">
-                <Link href={`/${article.slug}`}><h2 className="card-title">{article.title}</h2></Link>
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.name} </span>
+                <Link href={`/${article.slug}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
               </div>
             </div>
           ))}
@@ -150,8 +147,6 @@ export default function Page({ params }: { params: { page: number } }) {
         <Pagination baseUrl="/page" page={page} perPage={articlesPerPage} total={total} />
       </main>
     </div>
-
-
   );
 }
 

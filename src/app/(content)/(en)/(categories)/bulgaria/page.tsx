@@ -1,22 +1,28 @@
+import { getArticle, getArticleForCategory, getArticles, getArticlesForCategory, getCategory } from "@/data/data";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
+import Link from "next/link";
+import Image from "next/image";
+import { Article } from "@/model/article";
+
+const category = getCategory(1);
 
 export const metadata: Metadata = {
-  title: "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
-  description: "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
-  keywords: ['afkology', 'bulgaria', 'travel bulgaria', 'bulgaria travel guide', 'places to visit in bulgaria', 'bulgarian food', 'bulgaria tourism'],
+  title: `${category.title}`,
+  description: `${category.description}`,
+  keywords: `${category.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/bulgaria',
+    canonical: `${category.slug}`,
     languages: {
-      'en-US': '/bulgaria',
-      'ro-RO': '/ro/bulgaria',
+      'en-US': `${category.slug}`,
+      'ro-RO': `${category.slugRo}`,
     },
   },
   openGraph: {
-    title: "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
-    description: "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
-    url: 'https://www.afkology.com/bulgaria',
+    title: `${category.title}`,
+    description: `${category.description}`,
+    url: `https://www.afkology.com/${category.slug}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'website',
@@ -70,9 +76,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
-  "description": "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
-  "url": "https://www.afkology.com/bulgaria",
+  "name": `${category.title}`,
+  "description": `${category.description}`,
+  "url": `https://www.afkology.com/${category.slug}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,19 +96,121 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/bulgaria`
+    "@id": `https://www.afkology.com/${category.slug}`
   }
 }
 
 export default function Page() {
+  const articles: Article[] = getArticlesForCategory(1);
+
+  const latestArticle: Article = getArticleForCategory(0, 1);
+  const oneBeforeLatestArticle: Article = getArticleForCategory(1, 1);
+  const twoBeforeLatestArticle: Article = getArticleForCategory(2, 1);
+  const threeBeforeLatestArticle: Article = getArticleForCategory(3, 1);
+  const fourBeforeLatestArticle: Article = getArticleForCategory(4, 1);
+
   return (
     <div>
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar roUrl="/ro/bulgaria" />
+      <Navbar roUrl={`${category.slugRo}`} />
       <main className="flex-grow">
-        bulgaria
+        <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
+          <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
+            <figure>
+              <Link href={`/${latestArticle.slug}`}>
+                <Image src={latestArticle.featured} alt={latestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-5">
+              <span className={`uppercase text-xs ${latestArticle.category?.color}`}> {latestArticle.category?.name}</span>
+              <Link href={`/${latestArticle.slug}`}><span className="card-title">{latestArticle.title}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${oneBeforeLatestArticle.slug}`}>
+                <Image className="hidden lg:block" src={oneBeforeLatestArticle.featuredLandscape} alt={oneBeforeLatestArticle.title} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={oneBeforeLatestArticle.featured} alt={oneBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${oneBeforeLatestArticle.category?.color}`}> {oneBeforeLatestArticle.category?.name} </span>
+              <Link href={`/${oneBeforeLatestArticle.slug}`}><span className="card-title text-lg leading-6">{oneBeforeLatestArticle.title}</span></Link>
+            </div>
+          </div>
+
+          {/* <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${twoBeforeLatestArticle.slug}`}>
+                <Image className="hidden lg:block" src={twoBeforeLatestArticle.featuredLandscape} alt={twoBeforeLatestArticle.title} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={twoBeforeLatestArticle.featured} alt={twoBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${twoBeforeLatestArticle.category?.color}`}> {twoBeforeLatestArticle.category?.name} </span>
+              <Link href={`/${twoBeforeLatestArticle.slug}`}><span className="card-title text-lg leading-6">{twoBeforeLatestArticle.title}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${threeBeforeLatestArticle.slug}`}>
+                <Image className="hidden lg:block" src={threeBeforeLatestArticle.featuredLandscape} alt={threeBeforeLatestArticle.title} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={threeBeforeLatestArticle.featured} alt={threeBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${threeBeforeLatestArticle.category?.color}`}> {threeBeforeLatestArticle.category?.name} </span>
+              <Link href={`/${threeBeforeLatestArticle.slug}`}><span className="card-title text-lg leading-6">{threeBeforeLatestArticle.title}</span></Link>
+            </div>
+          </div>
+
+          <div className="card bg-base-100 shadow-xl">
+            <figure>
+              <Link href={`/${fourBeforeLatestArticle.slug}`}>
+                <Image className="hidden lg:block" src={fourBeforeLatestArticle.featuredLandscape} alt={fourBeforeLatestArticle.title} width={296} height={167} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
+                <Image className="block lg:hidden" src={fourBeforeLatestArticle.featured} alt={fourBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
+              </Link>
+            </figure>
+            <div className="card-body pt-4 pb-4">
+              <span className={`uppercase text-xs ${fourBeforeLatestArticle.category?.color}`}> {fourBeforeLatestArticle.category?.name} </span>
+              <Link href={`/${fourBeforeLatestArticle.slug}`}><span className="card-title text-lg leading-6">{fourBeforeLatestArticle.title}</span></Link>
+            </div> 
+          </div>
+
+          {articles.map((article: Article) => (
+            <div className="card bg-base-100 shadow-xl col-span-1 block lg:hidden" key={article.id}>
+              <figure>
+                <Link href={`/${article.slug}`}>
+                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                </Link>
+              </figure>
+              <div className="card-body pt-4 pb-4">
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.name} </span>
+                <Link href={`/${article.slug}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
+              </div>
+            </div>
+          ))}*/}
+        </div>
+
+        {/* <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {articles.map((article: Article) => (
+            <div className="card bg-base-100 shadow-xl col-span-1 hidden lg:block" key={article.id}>
+              <figure>
+                <Link href={`/${article.slug}`}>
+                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                </Link>
+              </figure>
+              <div className="card-body pt-4 pb-4">
+                <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.name} </span>
+                <Link href={`/${article.slug}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
+              </div>
+            </div>
+          ))} 
+        </div> */}
       </main>
     </div>
   );
