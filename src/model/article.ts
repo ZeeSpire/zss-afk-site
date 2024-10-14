@@ -3,17 +3,14 @@ import { Category } from "./category";
 
 import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
 import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
+import { Slug } from "./slug";
 
-export interface ArticleSlug {
-  id: number;
-  en: string;
-  ro: string;
-}
+
 
 export interface Article {
     id: number;
     slugId: number;
-    slug?: ArticleSlug;
+    slug?: Slug;
     title: string;
     titleRo: string;
     description: string;

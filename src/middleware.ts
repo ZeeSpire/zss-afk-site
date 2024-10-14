@@ -36,7 +36,7 @@ export async function middleware(req: NextRequest) {
         );
       }
 
-      //articles
+      //articles, categories
       for (const slug of slugs) {
         if (req.nextUrl.pathname === `/${slug.en}`) {
           return NextResponse.redirect(new URL(`/${slug.ro}`, req.url));
@@ -57,7 +57,7 @@ export async function middleware(req: NextRequest) {
         return NextResponse.redirect(new URL(`/page/${number}`, req.url));
       }
 
-      //articles
+      //articles, categories
       for (const slug of slugs) {
         if (req.nextUrl.pathname === `/${slug.ro}`) {
           return NextResponse.redirect(new URL(`/${slug.en}`, req.url));

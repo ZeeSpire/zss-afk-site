@@ -105,19 +105,19 @@ import { categories } from "./categories"
 import { slugs } from "./slugs"
 
 export function getPaginatedArticles({ page, limit }: { page: number; limit: number; }): { articles: Article[]; total: number } {
-  return { articles: articlesWithCategories.slice(5).slice((page - 1) * limit, page * limit), total: articlesWithCategories.length };
+  return { articles: articlesWithAllData.slice(5).slice((page - 1) * limit, page * limit), total: articlesWithAllData.length };
 }
 
 export function getArticles(): Article[] {
-  return articlesWithCategories;
+  return articlesWithAllData;
 }
 
 export function getArticlesForCategory(id: number): Article[] {
-  return articlesWithCategories.filter(a => a.categoryId === id).slice(5);
+  return articlesWithAllData.filter(a => a.categoryId === id).slice(5);
 }
 
 export function getArticle(id: number): Article {
-  const article = articlesWithCategories.find(a => a.id === id);
+  const article = articlesWithAllData.find(a => a.id === id);
   if (!article) {
     return defaultArticle;
   }
@@ -125,7 +125,7 @@ export function getArticle(id: number): Article {
 }
 
 export function getArticleForCategory(position: number, categoryId: number): Article {
-  const articlesFromCategory = articlesWithCategories.filter(a => a.categoryId === categoryId);
+  const articlesFromCategory = articlesWithAllData.filter(a => a.categoryId === categoryId);
   return articlesFromCategory[position];
 }
 
@@ -805,7 +805,7 @@ const articles: Article[] = [
   },
 ];
 
-const joinArticlesWithCategories = (articles: Article[], categories: Category[]): Article[] => {
+const joinArticles = (articles: Article[], categories: Category[]): Article[] => {
   return articles.map(article => {
     article.category = categories.find(cat => cat.id === article.categoryId);
     article.slug = slugs.find(as => as.id === article.slugId);
@@ -813,6 +813,6 @@ const joinArticlesWithCategories = (articles: Article[], categories: Category[])
   });
 };
 
-const articlesWithCategories = joinArticlesWithCategories(articles, categories);
+const articlesWithAllData = joinArticles(articles, categories);
 
 // write me seo description (for head>descrtiption) tag (150 chars maxiumim) and also give me the best keywords (comma separated) (also give me keywords in romanian) (right size) (head>keywords) for this article)

@@ -1,7 +1,9 @@
 import { Category, defaultCategory } from "@/model/category";
+import { slugs } from "./slugs";
+import { Slug } from "@/model/slug";
 
 export function getCategory(id: number): Category {
-    const category = categories.find(c => c.id === id);
+    const category = categoriesWithAllData.find(c => c.id === id);
     if (!category) {
       return defaultCategory;
     }
@@ -17,8 +19,7 @@ export const categories: Category[] = [
       descriptionRo: "Explorează Bulgaria cu AFKology. De la munți impunători la plajele Mării Negre, descoperă cele mai bune experiențe de călătorie în Bulgaria.",
       keywords: "afkology, bulgaria, travel bulgaria, bulgaria travel guide, places to visit in bulgaria, bulgarian food, bulgaria tourism",
       keywordsRo: "afkology, bulgaria, călătorie bulgaria, ghid de călătorie bulgaria, locuri de vizitat în bulgaria, bucătăria bulgară, turism bulgaria",
-      slug: "/bulgaria",
-      slugRo: "/ro/bulgaria",
+      slugId: 39,
       name: "Bulgaria",
       nameRo: "Bulgaria",
       color: "text-pink-400"
@@ -31,8 +32,7 @@ export const categories: Category[] = [
       descriptionRo: "Explorează România cu AFKology. Află despre peisajele spectaculoase, tradițiile locale și cele mai bune locuri de vizitat.",
       keywords: "afkology, romania, travel romania, romania travel guide, places to visit in romania, romanian food, romania tourism",
       keywordsRo: "afkology, romania, călătorie românia, ghid de călătorie românia, locuri de vizitat în românia, cultura română, turism românia",
-      slug: "/romania",
-      slugRo: "/ro/romania",
+      slugId: 38,
       name: "Romania",
       nameRo: "Romania",
       color: "text-indigo-400"
@@ -45,8 +45,7 @@ export const categories: Category[] = [
       descriptionRo: "Explorează Italia cu AFKology. De la orașele istorice la deliciile culinare, află cele mai bune locuri de vizitat și experiențe de neuitat.",
       keywords: "afkology, italy, travel italy, italy travel guide, places to visit in italy, italian food, italy tourism",
       keywordsRo: "afkology, italia, călătorie italia, ghid de călătorie italia, locuri de vizitat în italia, mâncare italiană, turism italia",
-      slug: "/italy",
-      slugRo: "/ro/italia",
+      slugId: 37,
       name: "Italy",
       nameRo: "Italia",
       color: "text-green-400"
@@ -59,8 +58,7 @@ export const categories: Category[] = [
       descriptionRo: "Explorează Grecia cu AFKology. De la plajele idilice la siturile istorice, descoperă cele mai bune destinații și experiențe în Grecia.",
       keywords: "afkology, greece, travel greece, greece travel guide, places to visit in greece, greek food, greece tourism",
       keywordsRo: "afkology, grecia, călătorie grecia, ghid de călătorie grecia, locuri de vizitat în grecia, mâncare grecească, turism grecia",
-      slug: "/greece",
-      slugRo: "/ro/grecia",
+      slugId: 36,
       name: "Greece",
       nameRo: "Grecia",
       color: "text-sky-400"
@@ -73,11 +71,18 @@ export const categories: Category[] = [
       descriptionRo: "Explorează Danemarca cu AFKology. De la orașele vibrante la satele pitorești, descoperă cele mai bune locuri de vizitat și experiențe în Danemarca.",
       keywords: "afkology, denmark, travel denmark, denmark travel guide, places to visit in denmark, danish food, denmark tourism",
       keywordsRo: "afkology, danemarca, călătorie danemarca, ghid de călătorie danemarca, locuri de vizitat în danemarca, mâncare daneză, turism danemarca",
-      slug: "/denmark",
-      slugRo: "/ro/danemarca",
+      slugId: 35,
       name: "Denmark",
       nameRo: "Danemarca",
       color: "text-orange-400"
     }
   ]
   
+  const joinCategories = (categories: Category[], slugs: Slug[]): Category[] => {
+    return categories.map(category => {
+      category.slug = slugs.find(s => s.id === category.slugId);
+      return category;
+    });
+  };
+  
+  const categoriesWithAllData = joinCategories(categories, slugs);

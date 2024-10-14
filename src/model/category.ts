@@ -1,3 +1,5 @@
+import { Slug } from "./slug";
+
 export interface Category {
     id: number;
     title: string;
@@ -6,8 +8,8 @@ export interface Category {
     descriptionRo: string;
     keywords: string;
     keywordsRo: string;
-    slug: string;
-    slugRo: string;
+    slug?: Slug;
+    slugId: number;
     name: string;
     nameRo: string;
     color: string;
@@ -21,8 +23,7 @@ export interface Category {
     descriptionRo: "",
     keywords: "",
     keywordsRo: "",
-    slug: "",
-    slugRo: "",
+    slugId: 0,
     name: "",
     nameRo: "",
     color: ""

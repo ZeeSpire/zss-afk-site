@@ -14,16 +14,16 @@ export const metadata: Metadata = {
   keywords: `${category.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: `${category.slugRo}`,
+    canonical: `${category.slug?.ro}`,
     languages: {
-      'ro-RO': `${category.slugRo}`,
-      'en-US': `${category.slug}`,
+      'ro-RO': `${category.slug?.ro}`,
+      'en-US': `${category.slug?.en}`,
     },
   },
   openGraph: {
     title: `${category.titleRo}`,
     description: `${category.descriptionRo}`,
-    url: `https://www.afkology.com/${category.slugRo}`,
+    url: `https://www.afkology.com/${category.slug?.ro}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -79,7 +79,7 @@ const jsonLd = {
   "@type": "WebPage",
   "name": `${category.titleRo}`,
   "description": `${category.descriptionRo}`,
-  "url": `https://www.afkology.com/${category.slugRo}`,
+  "url": `https://www.afkology.com/${category.slug?.ro}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -97,7 +97,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/${category.slugRo}`
+    "@id": `https://www.afkology.com/${category.slug?.ro}`
   }
 }
 
@@ -116,7 +116,7 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl={`${category.slug}`} />
+      <Navbar enUrl={`${category.slug?.en}`} />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
           <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
