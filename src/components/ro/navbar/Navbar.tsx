@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from 'next/image';
 import logo from '../../../../public/logo.jpg'
-import enFlag from '../../../../public/helper/en.jpg'
+import LanguageSwitcher from "../../languageswitcher/LanguageSwitcher";
 
 export default function Navbar({ enUrl }: { enUrl: string }) {
     return (
@@ -31,12 +31,12 @@ export default function Navbar({ enUrl }: { enUrl: string }) {
                         </details>
                     </li>
                     <li><Link href="/ro/contact">Contact</Link></li>
-                    <li className="md:hidden"><Link href={enUrl}><Image src={enFlag} alt="English language" width={30} height={20} /></Link></li>
+                    <li className="md:hidden"><LanguageSwitcher language="English" url={enUrl} /></li>
                 </ul>
             </div>
             <div className="navbar-end">
                 <div tabIndex={0} className="btn btn-ghost btn-circle">
-                    <Link href={enUrl}><Image src={enFlag} alt="English language" width={30} height={20} /></Link>
+                    <LanguageSwitcher language="English" url={enUrl} />
                 </div>
 
                 <div className="dropdown dropdown-end">

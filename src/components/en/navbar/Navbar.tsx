@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from 'next/image';
 import logo from '../../../../public/logo.jpg'
-import roFlag from '../../../../public/helper/ro.png'
+import LanguageSwitcher from "@/components/languageswitcher/LanguageSwitcher";
 
 export default function Navbar({ roUrl }: { roUrl: string }) {
     return (
@@ -31,12 +31,12 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
                         </details>
                     </li>
                     <li><Link href="/contact">Contact</Link></li>
-                    <li className="md:hidden"><Link href={roUrl}><Image src={roFlag} alt="Romanian language" width={30} height={20} /></Link></li>
+                    <li className="md:hidden"><LanguageSwitcher language="Romanian" url={roUrl} /></li>
                 </ul>
             </div>
             <div className="navbar-end">
                 <div tabIndex={0} className="btn btn-ghost btn-circle">
-                    <Link href={roUrl}><Image src={roFlag} alt="Romanian language" width={30} height={20} /></Link>
+                    <LanguageSwitcher language="Romanian" url={roUrl} />
                 </div>
 
                 <div className="dropdown dropdown-end">

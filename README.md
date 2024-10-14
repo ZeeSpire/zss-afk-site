@@ -7,7 +7,7 @@
 - In (content)/(en)/(articles)/ add a new folder with the same slug as in data.ts and add a Page with the article's content
 - In (content)/ro/(articole)/ add a new folder with the same slug as in data.ts and add a Page with the article's content
 
-- In sitemap.ts add a new entry
+## WHen adding a new page
 
 
 

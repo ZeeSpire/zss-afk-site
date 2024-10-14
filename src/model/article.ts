@@ -4,10 +4,16 @@ import { Category } from "./category";
 import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
 import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
 
+export interface ArticleSlug {
+  id: number;
+  en: string;
+  ro: string;
+}
+
 export interface Article {
     id: number;
-    slug: string;
-    slugRo: string;
+    slugId: number;
+    slug?: ArticleSlug;
     title: string;
     titleRo: string;
     description: string;
@@ -28,8 +34,7 @@ export interface Article {
 
   export const defaultArticle: Article = {
     id: 0,
-    slug: "",
-    slugRo: "",
+    slugId: 1,
     title: "",
     titleRo: "",
     description: "",

@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import { News } from "@/model/news";
 import Link from "next/link";
-import { getNews } from "../../../../../data/data";
+import { getNews } from "../../../../../data/news";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 

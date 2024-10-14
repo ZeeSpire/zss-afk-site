@@ -1,4 +1,4 @@
-import { getArticles } from '@/data/data';
+import { getArticles } from '@/data/articles';
 import type { MetadataRoute } from 'next'
  
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -6,13 +6,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getArticles();
 
   const sitemapArticles = articles.map(a => ({
-    url: 'https://afkology.com/' + a.slug,
+    url: 'https://afkology.com/' + a.slug?.en,
     lastModified: a.lastModified,
     changeFrequency: 'weekly' as const,
     priority: 1,
     alternates: {
       languages: {
-        ro: 'https://afkology.com/' + a.slugRo,
+        ro: 'https://afkology.com/' + a.slug?.ro,
       },
     },
   }));

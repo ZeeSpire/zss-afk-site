@@ -97,18 +97,12 @@ import tipsForVisitingCopenhagen from "../../public/copenhaga/poza1_nyhavn_nfwm3
 import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
 import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
 
-//news
-import finalCutPro from "../../public/final-cut-pro-on-ipad/finalcutx-vl.jpg"
-import davinciResolveComingToIpads from "../../public/davinci-resolve-coming-to-ipads/DaVinci-Resolve-for-iPad-Color.jpg"
-import orderYourIphone14Today from "../../public/order-your-iphone-14-today/kisspng-apple-image-iphone-4-logo-photograph-remdt-by-5d2c81520ec384.9415367415631977780605_p7vrck.jpg"
-import iphone15PeriscopeCamera from "../../public/iphone-15-periscope-camera/iphone14_kvpdor.jpg"
-import instagramSelfieSecurityCheck from "../../public/instagram-selfie-security-check/Instagram-logo-with-brush-PNG_znhshm.jpg"
-
 import { Article, defaultArticle } from "../model/article"
-import { News } from "@/model/news"
 import { readFileSync } from "fs"
 import path from "path"
-import { Category, defaultCategory } from "@/model/category"
+import { Category } from "@/model/category"
+import { categories } from "./categories"
+import { slugs } from "./slugs"
 
 export function getPaginatedArticles({ page, limit }: { page: number; limit: number; }): { articles: Article[]; total: number } {
   return { articles: articlesWithCategories.slice(5).slice((page - 1) * limit, page * limit), total: articlesWithCategories.length };
@@ -130,21 +124,9 @@ export function getArticle(id: number): Article {
   return article;
 }
 
-export function getCategory(id: number): Category {
-  const category = categories.find(c => c.id === id);
-  if (!category) {
-    return defaultCategory;
-  }
-  return category;
-}
-
 export function getArticleForCategory(position: number, categoryId: number): Article {
   const articlesFromCategory = articlesWithCategories.filter(a => a.categoryId === categoryId);
   return articlesFromCategory[position];
-}
-
-export function getNews(): News[] {
-  return news;
 }
 
 function readHtmlFileSync(dirname: string, fileName: string): string {
@@ -156,8 +138,7 @@ function readHtmlFileSync(dirname: string, fileName: string): string {
 const articles: Article[] = [
   {
     id: 34,
-    slug: "exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses",
-    slugRo: "ro/explorand-frumusetea-parfumata-a-vaii-trandafirilor-din-bulgaria",
+    slugId: 34,
     title: "Exploring the Fragrant Beauty of Bulgaria's Valley of Roses",
     titleRo: "Explorând frumusețea parfumată a Văii Trandafirilor din Bulgaria",
     description: "Last year, at the end of May, we had the pleasure of attending the Rose Festival in Bulgaria, located in the Kazanlak region, famously known as the Valley of Roses. Since we captured so many stunning roses during that trip, we felt compelled to dedicate an entire article solely to them — this is that article.",
@@ -177,8 +158,7 @@ const articles: Article[] = [
   },
   {
     id: 33,
-    slug: "bulgaria-rose-valley-rose-festival",
-    slugRo: "ro/bulgaria-valea-trandafirilor-festivalul-trandafirilor",
+    slugId: 33,
     title: "Embark on an Enchanting Journey Through Bulgaria's Rose Valley",
     titleRo: "O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria",
     description: "Immerse yourself in the ethereal essence of roses by embarking on a journey to the Kazanlak region, famously known as the Rose Valley. Join us as we recount our captivating experience at the Rose Festival in Kazanlak, Bulgaria, in 2023. Discover the allure of this floral extravaganza and explore the myriad activities and attractions that await in this enchanting destination.",
@@ -198,8 +178,7 @@ const articles: Article[] = [
   },
   {
     id: 32,
-    slug: "valea-verde",
-    slugRo: "ro/valea-verde",
+    slugId: 32,
     title: "The full New Year's Eve Experience at Valea Verde Retreat: from timeless Transylvania to the reality check",
     titleRo: "Experiența completă de Revelion la Valea Verde Retreat: de la Transilvania veșnică la realitatea crudă",
     description: "Here is a detailed account of a New Year's Eve getaway to Valea Verde Retreat in Transylvania. I covered various aspects of the experience, including accommodations, dining, activities, and the New Year's Eve celebration, reflecting both the positive highlights, as well as the disappointments encountered.",
@@ -219,8 +198,7 @@ const articles: Article[] = [
   },
   {
     id: 31,
-    slug: "exquisite-culinary-symphony-a-gastronomic-journey-at-noua-bucatarie-romaneasca",
-    slugRo: "ro/simfonie-culinara-exceptionala-o-calatorie-gastronomica-la-noua-bucatarie-romaneasca",
+    slugId: 31,
     title: "Exquisite Culinary Symphony: A Gastronomic Journey at Noua Bucatarie Romaneasca Restaurant",
     titleRo: "Simfonie Culinară Excepțională: O Călătorie Gastronomică la Noua Bucătărie Românească",
     description: "Noua Bucatarie Romaneasca (New Romanian Cuisine) Restaurant is the place in Bucharest that you must visit if you want to discover Romanian food in a modern, fine dining interpretation. With respect for the ingredients used and service worthy of Michelin stars, all at a fair price.",
@@ -240,8 +218,7 @@ const articles: Article[] = [
   },
   {
     id: 30,
-    slug: "dinner-at-the-artist-a-visual-feast-with-room-for-improvement",
-    slugRo: "ro/cina-la-the-artist-un-festin-vizual-cu-loc-de-mai-bine",
+    slugId: 30,
     title: "Dinner at The Artist: a visual feast with room for improvement",
     titleRo: "Cina la The Artist: un ospăț vizual cu loc de mai bine",
     description: "The Artist is a distinguished fine dining restaurant in Bucharest, holding a notable position in culinary rankings. Here, you can indulge in a selection of creative and visually stunning dishes. However, it's worth noting that there is room for improvement, particularly in the areas of taste and service. You can find out why in this article.",
@@ -261,8 +238,7 @@ const articles: Article[] = [
   },
   {
     id: 29,
-    slug: "what-to-see-in-thessaloniki",
-    slugRo: "ro/ce-sa-vizitezi-in-salonic",
+    slugId: 29,
     title: "What you can do in Thessaloniki in just three hours",
     titleRo: "Ce poţi face în Salonic în doar trei ore",
     description: "What you can do in Thessaloniki in just three hours; On our way to Halkidiki, we stopped in Thessaloniki, a city full of charm and color. Here is what we managed to do in just three hours in Thessaloniki.",
@@ -282,8 +258,7 @@ const articles: Article[] = [
   },
   {
     id: 28,
-    slug: "top-things-to-do-in-athens",
-    slugRo: "ro/top-lucruri-de-facut-in-atena",
+    slugId: 28,
     title: "Top 15 things to do in Athens plus other recommendations",
     titleRo: "Top 15 lucruri de făcut în Atena plus alte recomandări",
     description: "This is our top 15 things to do and try while in Athens from our perspective, plus other cool recommendations and places to eat.",
@@ -303,8 +278,7 @@ const articles: Article[] = [
   },
   {
     id: 27,
-    slug: "cismigiu-garden",
-    slugRo: "ro/gradina-cismigiu",
+    slugId: 27,
     title: "Escape to Cişmigiu Garden, the oldest park in Bucharest",
     titleRo: "Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti",
     description: "Escape to Cişmigiu Garden, the oldest park in Bucharest. Serene lakes, lush landscapes, and tranquility await. Perfect for a peaceful retreat or romantic stroll",
@@ -324,8 +298,7 @@ const articles: Article[] = [
   },
   {
     id: 26,
-    slug: "national-village-museum-bucharest",
-    slugRo: "ro/muzeul-satului-dimitrie-gusti-bucuresti",
+    slugId: 26,
     title: "A walk through the Dimitrie Gusti National Village Museum in Bucharest",
     titleRo: "O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti",
     description: "The Dimitrie Gusti National Village Museum is undoubtedly a must-see attraction in Bucharest. The open-air museum is located on the banks of the Herăstrău lake, in the middle of the capital and represents an escape from the tumult of the city.",
@@ -345,8 +318,7 @@ const articles: Article[] = [
   },
   {
     id: 25,
-    slug: "noua-bar-bucharest",
-    slugRo: "ro/noua-bar-bucuresti",
+    slugId: 25,
     title: "Noua B.A.R. - one of our favorite restaurants in Bucharest and why it impressed us",
     titleRo: "Noua B.A.R. - unul din restaurantele noastre preferate din Bucureşti şi de ce ne-a impresionat",
     description: "Noua B.A.R is the younger sibling of the Noua Bucătărie Românească Restaurant opened by chef Alex Petricean, finalist of MasterChef Romania and designated Chef of the Year in 2018, 2020, and 2022 by the Gault & Millau Guide.",
@@ -366,8 +338,7 @@ const articles: Article[] = [
   },
   {
     id: 24,
-    slug: "lecce-a-baroque-gem-in-salento",
-    slugRo: "ro/lecce-bijuteria-baroca-din-salento",
+    slugId: 24,
     title: "Lecce - the Baroque gem of Salento",
     titleRo: "Lecce - bijuteria barocă din Salento",
     description: "Lecce, also known as the Florence of the South, is an architectural gem situated in Salento, Italy. The historic center of Lecce is famous for its intricate Baroque buildings made from the local honey-colored limestone known as pietra leccese, which has a soft, warm color. But it is also known for its atmosphere of warmth, liveliness, and cultural richness. Check out our leccese experience.",
@@ -387,8 +358,7 @@ const articles: Article[] = [
   },
   {
     id: 23,
-    slug: "everything-about-matera-italy",
-    slugRo: "ro/totul-despre-matera-italia",
+    slugId: 23,
     title: "Everything about Matera, Italy",
     titleRo: "Totul despre Matera, Italia",
     description: "Matera is a unique and fascinating city that offers a glimpse into the rich history of Italy and the Mediterranean region. With its ancient cave dwellings, beautiful churches, and vibrant cultural scene, it is an appealing destination.",
@@ -407,8 +377,7 @@ const articles: Article[] = [
   },
   {
     id: 22,
-    slug: "easter-offers-in-romania-2023",
-    slugRo: "ro/oferte-de-paste-in-romania-2023",
+    slugId: 22,
     title: "Easter offers in Romania (2023)",
     titleRo: "Oferte de Paşte în România (2023)",
     description: "Discover top Easter offers in Romania for 2023, featuring accommodation, festive meals, egg hunts, and traditional experiences at stunning locations across the country.",
@@ -427,8 +396,7 @@ const articles: Article[] = [
   },
   {
     id: 21,
-    slug: "valea-verde-a-successful-story-of-reviving-a-forgotten-transylvanian-village",
-    slugRo: "ro/valea-verde-o-poveste-de-succes-a-reinvierii-unui-sat-transilvanean-uitat",
+    slugId: 21,
     title: "Valea Verde - a successful story of reviving a forgotten Transylvanian village",
     titleRo: "Valea Verde - o poveste de succes a reînvierii unui sat transilvănean uitat",
     description: "Valea Verde is located in Cund, a picturesque village in Mureş county, just 30 km from Sighişoara, 145 km from Braşov and 330 km from Bucharest.",
@@ -448,8 +416,7 @@ const articles: Article[] = [
   },
   {
     id: 20,
-    slug: "about-truffles-and-how-to-find-them",
-    slugRo: "ro/despre-trufe-si-gasirea-lor",
+    slugId: 20,
     title: "About truffles and how to find them",
     titleRo: "Despre trufe și găsirea lor",
     description: "How was the truffle hunt organized by Terra Carpatica, at the end of October 2022, in Buzau County, Romania.",
@@ -469,8 +436,7 @@ const articles: Article[] = [
   },
   {
     id: 19,
-    slug: "art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition",
-    slugRo: "ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti-editia-10",
+    slugId: 19,
     title: "Art Safari - a temporary art exhibition in Bucharest - 10th edition",
     titleRo: "Art Safari - o expoziție temporară de artă în București - ediția 10",
     description: "Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.",
@@ -490,8 +456,7 @@ const articles: Article[] = [
   },
   {
     id: 18,
-    slug: "truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion",
-    slugRo: "ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu",
+    slugId: 18,
     title: "Truffle hunting and a special culinary experience at Grigorescu Mansion",
     titleRo: "Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu",
     description: "Ever since we saw the Flavors of Romania documentary presented by Charlie Ottley, we planned to go to Grigorescu Mansion, excited by the idea of Slow Food, of good food made from fresh organically grown ingredients, and also with the desire to meet involved and passionate people, for whom hospitality is a way of life, not a business. So, when Terra Carpatica - Grigorescu Mansion announced on its Facebook page that it was organizing a culinary weekend dedicated to truffle hunting, we didn't think twice and booked a room.",
@@ -511,8 +476,7 @@ const articles: Article[] = [
   },
   {
     id: 17,
-    slug: "viscri-the-most-popular-saxon-village-in-transylvania",
-    slugRo: "ro/viscri-cel-mai-popular-sat-sasesc-din-transilvania",
+    slugId: 17,
     title: "Viscri, the most popular Saxon village in Transylvania",
     titleRo: "Viscri, cel mai popular sat săsesc din Transilvania",
     description: "This picturesque Saxon village became known all over the world in the past 20 years thanks to King Charles III, who fell in love with the unspoiled rural life he found here. Back in 2006, the former Prince of Wales bought a property in Viscri that now serves as a traditional crafts centre. This was the beginning of the revival of the village, allowing the villagers to show the thousands of tourists who visit every year, the real country life as well as their crafts. Charles was enormously involved in preserving the architectural authenticity, as well as in protecting the natural treasures of this area, for which the Romanians are eternally grateful.",
@@ -532,8 +496,7 @@ const articles: Article[] = [
   },
   {
     id: 16,
-    slug: "crama-de-piatra-a-boutique-winery-with-a-huge-potential",
-    slugRo: "ro/crama-de-piatra-o-crama-boutique-cu-un-potential-imens",
+    slugId: 16,
     title: "Crama de Piatra - a boutique winery with a huge potential",
     titleRo: "Crama de Piatră - o cramă boutique cu un potențial imens",
     description: "Crama de Piatra is a boutique winery, with a small production of wine, which has all the assets to become a special destination for one's soul.",
@@ -553,8 +516,7 @@ const articles: Article[] = [
   },
   {
     id: 15,
-    slug: "top-things-to-do-in-santorini-greece",
-    slugRo: "ro/top-lucruri-de-facut-in-santorini-grecia",
+    slugId: 15,
     title: "Top 15 things to do in Santorini",
     titleRo: "Top 15 lucruri de făcut în Santorini",
     description: "What can you do in Santorini? What can you visit in santorini? What can you see in santorini?",
@@ -574,8 +536,7 @@ const articles: Article[] = [
   },
   {
     id: 14,
-    slug: "best-places-to-watch-the-sunset-in-santorini",
-    slugRo: "ro/cele-mai-bune-locuri-de-privit-apusul-in-santorini",
+    slugId: 14,
     title: "Best places to watch the sunset in Santorini",
     titleRo: "Cele mai bune locuri pentru a privi apusul în Santorini",
     description: "Where are the best places to watch the sunset in Santorini? Katharos Beach, Oia, Imerovigli, Akrotiri Lighthouse",
@@ -595,8 +556,7 @@ const articles: Article[] = [
   },
   {
     id: 13,
-    slug: "what-and-where-to-eat-in-santorini",
-    slugRo: "ro/ce-si-unde-sa-mananci-in-santorini",
+    slugId: 13,
     title: "What and where to eat in Santorini",
     titleRo: "Ce și unde să mănânci în Santorini",
     description: "The best places to eat in Santorini. Where to find quality local food? Where to find the best cooking class in Santorini?",
@@ -616,8 +576,7 @@ const articles: Article[] = [
   },
   {
     id: 12,
-    slug: "our-divine-cave-experience-in-santorini",
-    slugRo: "ro/despre-divine-cave-experience-din-santorini",
+    slugId: 12,
     title: "Our Divine Cave Experience in Santorini",
     titleRo: "Despre Divine Cave Experience din Santorini",
     description: "Divine Cave Experience is a hotel located in Imerovigli right next to the trailing path that leads to Oia and was inaugurated in 2021 which makes it a rather new hotel, with only nine rooms.",
@@ -637,8 +596,7 @@ const articles: Article[] = [
   },
   {
     id: 11,
-    slug: "neversea-festival-2022-edition",
-    slugRo: "ro/festivalul-neversea-editia-2022",
+    slugId: 11,
     title: "Neversea Festival, 2022 edition",
     titleRo: "Festivalul Neversea, editia 2022",
     description: "Neversea Festival, edition 2022, Alan Walker, B Jones, Black Eyed Peas, Dimitri Vegas & Like Mike, Don Diablo, NERVO, Steve Aoki, Tchami, Timmy Trumpet, Tujamo.",
@@ -657,8 +615,7 @@ const articles: Article[] = [
   },
   {
     id: 10,
-    slug: "art-safari-a-temporary-art-exhibition-in-bucharest",
-    slugRo: "ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti",
+    slugId: 10,
     title: "Art Safari - a temporary art exhibition in Bucharest - 9th edition",
     titleRo: "Art Safari - o expoziție temporară de artă în București - ediția 9",
     description: "Discover Art Safari's 9th edition in Bucharest, featuring iconic exhibitions by Theodor Aman, Picasso, Irina Dragomir, and more until August 7, 2022.",
@@ -677,8 +634,7 @@ const articles: Article[] = [
   },
   {
     id: 9,
-    slug: "remote-accomodations-in-romania",
-    slugRo: "ro/cazari-izolate-in-romania",
+    slugId: 9,
     title: "Remote accommodations in Romania",
     titleRo: "Cazări izolate în România",
     description: "Explore the charm of isolated stays in Romania, where nature and tranquility offer the perfect escape from city life.",
@@ -697,8 +653,7 @@ const articles: Article[] = [
   },
   {
     id: 8,
-    slug: "apogeum-winery",
-    slugRo: "ro/crama-apogeum",
+    slugId: 8,
     title: "Apogeum Winery & the best Feteasca Neagra in Romania",
     titleRo: "Crama Apogeum și cea mai bună Fetească Neagră din România",
     description: "Discover Apogeum Winery, home to the finest Fetească Neagră in Romania, offering stunning views, wine tastings, and delightful dining.",
@@ -717,8 +672,7 @@ const articles: Article[] = [
   },
   {
     id: 7,
-    slug: "noua-bucatarie-romaneasca",
-    slugRo: "ro/noua-bucatarie-romaneasca",
+    slugId: 7,
     title: "Noua - A restaurant at another level in Bucharest",
     titleRo: "Noua - Un restaurant la alt nivel în București",
     description: "Discover Noua, a remarkable restaurant in Bucharest offering a seasonal tasting menu crafted by renowned chef Alex Petricean. A unique dining experience awaits!",
@@ -737,8 +691,7 @@ const articles: Article[] = [
   },
   {
     id: 6,
-    slug: "the-muddy-volcanoes-buzau-county-romania",
-    slugRo: "ro/vulcanii-noroiosi-judetul-buzau-romania",
+    slugId: 6,
     title: "The Muddy Volcanoes, Buzău County, Romania",
     titleRo: "Vulcanii noroioși, județul Buzău, România",
     description: "Discover the stunning Muddy Volcanoes in Buzău County, Romania—Europe's largest, with unique landscapes and fascinating eruptions. A must-visit!",
@@ -757,8 +710,7 @@ const articles: Article[] = [
   },
   {
     id: 5,
-    slug: "frederiksborg-castle-1-day-trip-from-copenhagen",
-    slugRo: "ro/castelul-frederiksborg-excursie-de-o-zi-din-copenhaga",
+    slugId: 5,
     title: "Frederiksborg Castle - 1-day trip from Copenhagen",
     titleRo: "Castelul Frederiksborg - Excursie de o zi din Copenhaga",
     description: "Explore Castelul Frederiksborg, a stunning Renaissance castle just outside Copenhagen, perfect for a day trip filled with history and beauty.",
@@ -777,8 +729,7 @@ const articles: Article[] = [
   },
   {
     id: 4,
-    slug: "itinerary-three-days-in-copenhagen",
-    slugRo: "ro/trei-zile-in-copenhaga",
+    slugId: 4,
     title: "Three days in Copenhagen",
     titleRo: "Trei zile în Copenhaga",
     description: "Explore Copenhagen in three days, visiting iconic sites like Nyhavn, Rosenborg Castle, and Tivoli Gardens while enjoying local cuisine.",
@@ -797,8 +748,7 @@ const articles: Article[] = [
   },
   {
     id: 3,
-    slug: "free-attractions-to-visit-in-copenhagen",
-    slugRo: "ro/atractii-gratuite-de-vizitat-in-copenhaga",
+    slugId: 3,
     title: "15 free attractions to visit in Copenhagen",
     titleRo: "15 atracții gratuite de vizitat în Copenhaga",
     description: "Discover 15 free attractions in Copenhagen, from The Little Mermaid to stunning parks and vibrant streets, perfect for budget-friendly exploration.",
@@ -817,8 +767,7 @@ const articles: Article[] = [
   },
   {
     id: 2,
-    slug: "tips-for-visiting-copenhagen-for-the-first-time",
-    slugRo: "ro/sfaturi-pentru-prima-vizita-in-copenhaga",
+    slugId: 2,
     title: "Tips for visiting Copenhagen for the first time",
     titleRo: "Sfaturi pentru prima vizită în Copenhaga",
     description: "Discover top tips for your first visit to charming Copenhagen, an eco-friendly city filled with culture and top-notch gastronomy.",
@@ -837,8 +786,7 @@ const articles: Article[] = [
   },
   {
     id: 1,
-    slug: "magura-and-pestera-villages-brasov-county-romania",
-    slugRo: "ro/satele-magura-si-pestera-din-brasov-romania",
+    slugId: 1,
     title: "Măgura & Peștera villages, Brașov county, Romania",
     titleRo: "Satele Măgura și Peștera din judetul Brașov",
     description: "Discover the enchanting villages of Măgura and Peștera in Brașov County, Romania, where nature's beauty and tranquility reign supreme.",
@@ -857,110 +805,10 @@ const articles: Article[] = [
   },
 ];
 
-const news = [
-  {
-    slug: "final-cut-pro-on-ipad",
-    title: "Final Cut Pro available on iPads",
-    featured: finalCutPro
-  },
-  {
-    slug: "davinci-resolve-coming-to-ipads",
-    title: "Davinci Resolve coming to iPads",
-    featured: davinciResolveComingToIpads
-  },
-  {
-    slug: "order-your-iphone-14-today",
-    title: "Order your iPhone 14 today",
-    featured: orderYourIphone14Today
-  },
-  {
-    slug: "iphone-15-periscope-camera",
-    title: "iPhone 15 with periscope camera",
-    featured: iphone15PeriscopeCamera
-  },
-  {
-    slug: "instagram-selfie-security-check",
-    title: "Instagram may soon check your real age using video selfies",
-    featured: instagramSelfieSecurityCheck
-  }
-];
-
-const categories: Category[] = [
-  {
-    id: 1,
-    title: "AFKology | Bulgaria - Discover Bulgaria’s Hidden Gems and Natural Beauty.",
-    titleRo: "AFKology | Bulgaria - Descoperă comorile ascunse și frumusețea naturală a Bulgariei.",
-    description: "Explore Bulgaria with AFKology. From majestic mountains to Black Sea beaches, discover the best travel experiences in Bulgaria.",
-    descriptionRo: "Explorează Bulgaria cu AFKology. De la munți impunători la plajele Mării Negre, descoperă cele mai bune experiențe de călătorie în Bulgaria.",
-    keywords: "afkology, bulgaria, travel bulgaria, bulgaria travel guide, places to visit in bulgaria, bulgarian food, bulgaria tourism",
-    keywordsRo: "afkology, bulgaria, călătorie bulgaria, ghid de călătorie bulgaria, locuri de vizitat în bulgaria, bucătăria bulgară, turism bulgaria",
-    slug: "/bulgaria",
-    slugRo: "/ro/bulgaria",
-    name: "Bulgaria",
-    nameRo: "Bulgaria",
-    color: "text-pink-400"
-  },
-  {
-    id: 2,
-    title: "AFKology | Romania - Discover the Best of Romania Travel, Lifestyle and Food.",
-    titleRo: "AFKology | România - Descoperă frumusețile naturii și cultura diversă.",
-    description: "Explore Romania with AFKology. Find out the best travel destinations, local cuisine, and hidden gems across the country.",
-    descriptionRo: "Explorează România cu AFKology. Află despre peisajele spectaculoase, tradițiile locale și cele mai bune locuri de vizitat.",
-    keywords: "afkology, romania, travel romania, romania travel guide, places to visit in romania, romanian food, romania tourism",
-    keywordsRo: "afkology, romania, călătorie românia, ghid de călătorie românia, locuri de vizitat în românia, cultura română, turism românia",
-    slug: "/romania",
-    slugRo: "/ro/romania",
-    name: "Romania",
-    nameRo: "Romania",
-    color: "text-indigo-400"
-  },
-  {
-    id: 3,
-    title: "AFKology | Italy - Discover the Best of Italy Travel and Culture.",
-    titleRo: "AFKology | Italia - Descoperă cultura, gastronomie și peisaje spectaculoase.",
-    description: "Explore Italy with AFKology. Discover the best destinations, Italian cuisine, and cultural treasures across the country.",
-    descriptionRo: "Explorează Italia cu AFKology. De la orașele istorice la deliciile culinare, află cele mai bune locuri de vizitat și experiențe de neuitat.",
-    keywords: "afkology, italy, travel italy, italy travel guide, places to visit in italy, italian food, italy tourism",
-    keywordsRo: "afkology, italia, călătorie italia, ghid de călătorie italia, locuri de vizitat în italia, mâncare italiană, turism italia",
-    slug: "/italy",
-    slugRo: "/ro/italia",
-    name: "Italy",
-    nameRo: "Italia",
-    color: "text-green-400"
-  },
-  {
-    id: 4,
-    title: "AFKology | Greece - Explore Greece's Rich History, Culture, and Beaches.",
-    titleRo: "AFKology | Grecia - Descoperă frumusețea insulelor și cultura greacă.",
-    description: "Discover Greece with AFKology. From ancient ruins to crystal-clear beaches, explore the best that Greece has to offer.",
-    descriptionRo: "Explorează Grecia cu AFKology. De la plajele idilice la siturile istorice, descoperă cele mai bune destinații și experiențe în Grecia.",
-    keywords: "afkology, greece, travel greece, greece travel guide, places to visit in greece, greek food, greece tourism",
-    keywordsRo: "afkology, grecia, călătorie grecia, ghid de călătorie grecia, locuri de vizitat în grecia, mâncare grecească, turism grecia",
-    slug: "/greece",
-    slugRo: "/ro/grecia",
-    name: "Greece",
-    nameRo: "Grecia",
-    color: "text-sky-400"
-  },
-  {
-    id: 5,
-    title: "AFKology | Denmark - Unveil the Charm of Danish Culture and Travel.",
-    titleRo: "AFKology | Danemarca - Descoperă cultura scandinavă și peisajele uimitoare din Danemarca.",
-    description: "Explore Denmark with AFKology. Discover vibrant cities, stunning landscapes, and the rich cultural heritage of Denmark.",
-    descriptionRo: "Explorează Danemarca cu AFKology. De la orașele vibrante la satele pitorești, descoperă cele mai bune locuri de vizitat și experiențe în Danemarca.",
-    keywords: "afkology, denmark, travel denmark, denmark travel guide, places to visit in denmark, danish food, denmark tourism",
-    keywordsRo: "afkology, danemarca, călătorie danemarca, ghid de călătorie danemarca, locuri de vizitat în danemarca, mâncare daneză, turism danemarca",
-    slug: "/denmark",
-    slugRo: "/ro/danemarca",
-    name: "Denmark",
-    nameRo: "Danemarca",
-    color: "text-orange-400"
-  }
-]
-
 const joinArticlesWithCategories = (articles: Article[], categories: Category[]): Article[] => {
   return articles.map(article => {
-    article.category = categories.find(cat => cat.id === article.categoryId);;
+    article.category = categories.find(cat => cat.id === article.categoryId);
+    article.slug = slugs.find(as => as.id === article.slugId);
     return article;
   });
 };

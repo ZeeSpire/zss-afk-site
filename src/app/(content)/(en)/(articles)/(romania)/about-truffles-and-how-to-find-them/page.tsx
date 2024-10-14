@@ -1,4 +1,4 @@
-import { getArticle } from "@/data/data";
+import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import Link from "next/link";
 import Youtube from "@/components/youtube/Youtube";
@@ -16,16 +16,16 @@ export const metadata: Metadata = {
   keywords: `${article.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: `${article.slug}`,
+    canonical: `${article.slug?.en}`,
     languages: {
-      'en-US': `${article.slug}`,
-      'ro-RO': `${article.slugRo}`,
+      'en-US': `${article.slug?.en}`,
+      'ro-RO': `${article.slug?.ro}`,
     },
   },
   openGraph: {
     title: `AFKology | ${article.title}`,
     description: `${article.description}`,
-    url: `https://www.afkology.com/${article.slug}`,
+    url: `https://www.afkology.com/${article.slug?.en}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'article',
@@ -89,7 +89,7 @@ const jsonLd = {
   "@type": "Article",
   "headline": `${article.title}`,
   "description": `${article.description}`,
-  "url": `https://www.afkology.com/${article.slug}`,
+  "url": `https://www.afkology.com/${article.slug?.en}`,
   "datePublished": `${article.createdDate}`,
   "dateModified": `${article.lastModified}`,
   "author": {
@@ -115,7 +115,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/${article.slug}`
+    "@id": `https://www.afkology.com/${article.slug?.en}`
   },
   "articleBody": `${article.text}`,
   "keywords": `${article.keywords}`
@@ -129,7 +129,7 @@ export default function Page() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
 
-      <Navbar roUrl={`${article.slugRo}`} />
+      <Navbar roUrl={`${article.slug?.ro}`} />
 
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
