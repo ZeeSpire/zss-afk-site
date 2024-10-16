@@ -12,39 +12,39 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const sitemapArticles: Array<{ url: string; lastModified?: string | Date; changeFrequency?: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never'; priority?: number; alternates?: { languages?: Languages<string>; }; }> =
     articles.map(a => ({
-      url: 'https://afkology.com/' + a.slug?.en,
+      url: 'https://afkology.com' + a.slug?.en,
       lastModified: a.lastModified,
       changeFrequency: 'weekly' as const,
       priority: 1,
       alternates: {
         languages: {
-          ro: 'https://afkology.com/' + a.slug?.ro,
+          ro: 'https://afkology.com' + a.slug?.ro,
         },
       },
     }));
 
   const sitemapCategories: Array<{ url: string; lastModified?: string | Date; changeFrequency?: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never'; priority?: number; alternates?: { languages?: Languages<string>; }; }> =
     categories.map(c => ({
-      url: 'https://afkology.com/' + c.slug?.en,
+      url: 'https://afkology.com' + c.slug?.en,
       lastModified: new Date(),
       changeFrequency: 'weekly',
       priority: 0.9,
       alternates: {
         languages: {
-          ro: 'https://afkology.com/' + c.slug?.ro,
+          ro: 'https://afkology.com' + c.slug?.ro,
         },
       },
     }))
 
   const sitemapPages: Array<{ url: string; lastModified?: string | Date; changeFrequency?: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never'; priority?: number; alternates?: { languages?: Languages<string>; }; }> =
     pages.map(p => ({
-      url: 'https://afkology.com/' + p.slug?.en,
+      url: 'https://afkology.com' + p.slug?.en,
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
       alternates: {
         languages: {
-          ro: 'https://afkology.com/' + p.slug?.ro,
+          ro: 'https://afkology.com' + p.slug?.ro,
         },
       },
     }))
