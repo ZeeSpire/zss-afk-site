@@ -13,13 +13,28 @@ export default function LanguageSwitcher({ language, url, type }: { language: st
         flag = roFlag;
         code = 'ro';
     }
+
+    const handleLanguageChange = () => {
+        addAfkLanguageCookie(code);
+    };
+
     let html;
     if (type === 'simple') {
-        html = <Link href={url}><Image src={flag} alt={`${language} language`} width={30} height={20} onClick={() => addAfkLanguageCookie(code)} /></Link>
+        html = (
+            <Link href={url} onClick={handleLanguageChange}>
+                <Image src={flag} alt={`${language} language`} width={30} height={20} />
+            </Link>
+        );
     }
     if (type === 'button') {
-        html = <div tabIndex={0} className="btn btn-ghost btn-circle"> <Link href={url}><Image src={flag} alt={`${language} language`} width={30} height={20} onClick={() => addAfkLanguageCookie(code)} /></Link> </div>
+        html = (
+            <div tabIndex={0} className="btn btn-ghost btn-circle">
+                <Link href={url} onClick={handleLanguageChange}>
+                    <Image src={flag} alt={`${language} language`} width={30} height={20} />
+                </Link>
+            </div>
+        );
     }
-    return html;
+    return <>{html}</>;
 }
 
