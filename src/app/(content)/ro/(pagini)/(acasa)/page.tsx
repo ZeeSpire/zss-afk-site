@@ -5,23 +5,26 @@ import { getArticle, getPaginatedArticles } from "../../../../../data/articles";
 import { Pagination } from "@/components/ro/pagination/Pagination";
 import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
+import { getPage } from "@/data/pages";
+
+const page = getPage(1);
 
 export const metadata: Metadata = {
-  title: "AFKology | Cele mai prețioase momente din viață se petrec offline.",
-  description: "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-  keywords: ['afkology', 'călătorie', 'idei de călătorie', 'ghid de călătorie', 'ghid de restaurante', 'călătorii în europa', 'restaurante', 'locuri de vizitat'],
+  title: `${page.titleRo}`,
+  description: `${page.descriptionRo}`,
+  keywords: `${page.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/ro',
+    canonical: `${page.slug?.ro}`,
     languages: {
-      'ro-RO': '/ro',
-      'en-US': '/',
+      'ro-RO': `${page.slug?.ro}`,
+      'en-US': `${page.slug?.en}`,
     },
   },
   openGraph: {
-    title: "AFKology | Cele mai prețioase momente din viață se petrec offline.",
-    description: "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-    url: "https://www.afkology.com/ro",
+    title: `${page.titleRo}`,
+    description: `${page.descriptionRo}`,
+    url: `https://www.afkology.com/${page.slug?.ro}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -75,9 +78,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Cele mai prețioase momente din viață se petrec offline.",
-  "description": "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-  "url": "https://www.afkology.com/ro",
+  "name": `${page.titleRo}`,
+  "description": `${page.descriptionRo}`,
+  "url": `https://www.afkology.com/${page.slug?.ro}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -95,30 +98,29 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/ro`
+    "@id": `https://www.afkology.com/${page.slug?.ro}`,
   }
 }
 
 export default function Page() {
-  const articlesPerPage = 9;
-
-  const { articles, total } = getPaginatedArticles({
+  const { articles } = getPaginatedArticles({
     page: 1,
-    limit: articlesPerPage,
+    limit: page.itemsPerPage,
+    offset: page.offset
   });
 
-  const latestArticle = getArticle(total);
-  const oneBeforeLatestArticle = getArticle(total - 1);
-  const twoBeforeLatestArticle = getArticle(total - 2);
-  const threeBeforeLatestArticle = getArticle(total - 3);
-  const fourBeforeLatestArticle = getArticle(total - 4);
+  const latestArticle = getArticle(page.totalItems);
+  const oneBeforeLatestArticle = getArticle(page.totalItems - 1);
+  const twoBeforeLatestArticle = getArticle(page.totalItems - 2);
+  const threeBeforeLatestArticle = getArticle(page.totalItems - 3);
+  const fourBeforeLatestArticle = getArticle(page.totalItems - 4);
 
   return (
     <div>
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl="/" />
+      <Navbar enUrl={`${page.slug?.en}`} />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
           <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
@@ -216,7 +218,7 @@ export default function Page() {
           ))}
         </div>
 
-        <Pagination baseUrl="/ro/pagina" page={1} perPage={articlesPerPage} total={total} />
+        <Pagination baseUrl="/ro/pagina" page={1} perPage={page.itemsPerPage} total={page.totalItems} />
       </main>
     </div>
   );

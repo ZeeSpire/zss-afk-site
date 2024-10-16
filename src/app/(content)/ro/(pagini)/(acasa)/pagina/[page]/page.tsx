@@ -6,25 +6,28 @@ import { Article } from "../../../../../../../model/article";
 import { Pagination } from "@/components/ro/pagination/Pagination";
 import Navbar from "../../../../../../../components/ro/navbar/Navbar";
 import { Params } from "@/model/params";
+import { getPage, getPageTitle } from "@/data/pages";
+
+const pageConfig = getPage(1);
 
 export function generateMetadata({ params }: { params: Params }) {
   const currentPage = params.page
   return {
-    title: `AFKology | Pagina ${currentPage} - Cele mai prețioase momente din viață se petrec offline.`,
-    description: "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-    keywords: ['afkology', 'călătorie', 'idei de călătorie', 'ghid de călătorie', 'ghid de restaurante', 'călătorii în europa', 'restaurante', 'locuri de vizitat'],
+    title: getPageTitle(1, 'ro', currentPage),
+    description: `${pageConfig.descriptionRo}`,
+    keywords: `${pageConfig.keywordsRo}`,
     metadataBase: new URL('https://www.afkology.com'),
     alternates: {
-      canonical: `/ro/pagina/${currentPage}`,
+      canonical: `${pageConfig.slug?.paginationRo}/${currentPage}`,
       languages: {
-        'ro-RO': `/ro/pagina/${currentPage}`,
-        'en-US': `/page/${currentPage}`,
+        'ro-RO': `${pageConfig.slug?.paginationRo}/${currentPage}`,
+        'en-US': `${pageConfig.slug?.paginationEn}/${currentPage}`,
       },
     },
     openGraph: {
-      title: `AFKology | Pagina ${currentPage} - Cele mai prețioase momente din viață se petrec offline.`,
-      description: "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-      url: `https://www.afkology.com/pagina/${currentPage}`,
+      title: getPageTitle(1, 'ro', currentPage),
+      description: `${pageConfig.descriptionRo}`,
+      url: `https://www.afkology.com${pageConfig.slug?.paginationRo}/${currentPage}`,
       siteName: 'AFKology',
       locale: 'ro_RO',
       type: 'website',
@@ -80,9 +83,9 @@ function getJsonLd(page: number) {
   return {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": `AFKology | Pagina ${page} - Cele mai prețioase momente din viață se petrec offline.`,
-    "description": "Informații de călătorie. Ce să vizitezi, unde să mănânci, cum să-ți petreci timpul liber și sărbătorile.",
-    "url": `https://www.afkology.com/ro/pagina/${page}`,
+    "name": getPageTitle(1, 'ro', page.toString()),
+    "description": `${pageConfig.descriptionRo}`,
+    "url": `https://www.afkology.com${pageConfig.slug?.paginationRo}/${page}`,
     "author": {
       "@type": "Organization",
       "name": "AFKology",
@@ -100,12 +103,10 @@ function getJsonLd(page: number) {
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.afkology.com/ro/pagina/${page}`
+      "@id": `https://www.afkology.com${pageConfig.slug?.paginationRo}/${page}`
     }
   }
 }
-
-const articlesPerPage = 9;
 
 export default function Page({ params }: { params: { page: number } }) {
   let { page } = params;
@@ -116,7 +117,7 @@ export default function Page({ params }: { params: { page: number } }) {
 
   if (page == 1) redirect('/');
 
-  const { articles, total } = getPaginatedArticles({ page: page, limit: articlesPerPage, });
+  const { articles } = getPaginatedArticles({ page: page, limit: pageConfig.itemsPerPage, offset: pageConfig.offset });
 
   if (!articles.length) notFound();
 
@@ -125,7 +126,7 @@ export default function Page({ params }: { params: { page: number } }) {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(getJsonLd(page)) }} />
       </section>
-      <Navbar enUrl={`/page/${page}`} />
+      <Navbar enUrl={`${pageConfig.slug?.paginationEn}/${page}`} />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {articles.map((article: Article) => (
@@ -143,7 +144,7 @@ export default function Page({ params }: { params: { page: number } }) {
           ))}
         </div>
 
-        <Pagination baseUrl="/ro/pagina" page={page} perPage={articlesPerPage} total={total} />
+        <Pagination baseUrl="/ro/pagina" page={page} perPage={pageConfig.itemsPerPage} total={pageConfig.totalItems} />
       </main>
     </div>
   );
@@ -151,7 +152,7 @@ export default function Page({ params }: { params: { page: number } }) {
 
 export function generateStaticParams() {
   const articles = getArticles();
-  const pages = Math.ceil(articles.length / articlesPerPage);
+  const pages = Math.ceil(articles.length / pageConfig.itemsPerPage);
 
   return [...Array(pages)].map((_, i) => ({
     page: `${i + 1}`,

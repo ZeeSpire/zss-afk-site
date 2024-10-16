@@ -6,6 +6,28 @@ export function getSlugs() {
 
 export const slugs: Slug[] = [
   {
+    id: 43,
+    en: "/privacy-policy",
+    ro: "/ro/politica-de-confidentialitate"
+  },
+  {
+    id: 42,
+    en: "/contact",
+    ro: "/ro/contact"
+  },
+  {
+    id: 41,
+    en: "/about",
+    ro: "/ro/despre-noi"
+  },
+  {
+    id: 40,
+    en: "/",
+    ro: "/ro",
+    paginationEn: "/page",
+    paginationRo: "/ro/pagina"
+  },
+  {
     id: 39,
     en: "/bulgaria",
     ro: "/ro/bulgaria",

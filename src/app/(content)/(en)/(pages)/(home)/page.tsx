@@ -6,22 +6,25 @@ import { getArticle, getPaginatedArticles } from "../../../../../data/articles";
 import { Pagination } from "@/components/en/pagination/Pagination";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
+import { getPage } from "@/data/pages";
+
+const page = getPage(1);
 
 export const metadata: Metadata = {
-  title: "AFKology | The most precious moments in life happen offline.",
-  description: "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
-  keywords: ['afkology', 'travel', 'cinematic travel', 'travel ideas', 'travel guide', 'food guide', 'travel europe', 'restaurants', 'places to visit'],
+  title: `${page.title}`,
+  description: `${page.description}`,
+  keywords: `${page.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/',
+    canonical: `${page.slug?.en}`,
     languages: {
-      'en-US': '/',
-      'ro-RO': '/ro',
+      'en-US': `${page.slug?.en}`,
+      'ro-RO': `${page.slug?.ro}`,
     },
   },
   openGraph: {
-    title: 'AFKology | The most precious moments in life happen offline.',
-    description: 'Travel information. What to visit, where to eat, how to spend your free time and holidays.',
+    title: `${page.title}`,
+    description: `${page.description}`,
     url: 'https://www.afkology.com',
     siteName: 'AFKology',
     locale: 'en_US',
@@ -76,8 +79,8 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | The most precious moments in life happen offline.",
-  "description": "Travel information. What to visit, where to eat, how to spend your free time and holidays.",
+  "name": `${page.title}`,
+  "description": `${page.description}`,
   "url": "https://www.afkology.com",
   "author": {
     "@type": "Organization",
@@ -106,25 +109,24 @@ const jsonLd = {
 }
 
 export default function Page() {
-  const articlesPerPage = 9;
-
-  const { articles, total } = getPaginatedArticles({
+  const { articles } = getPaginatedArticles({
     page: 1,
-    limit: articlesPerPage,
+    limit: page.itemsPerPage,
+    offset: page.offset
   });
 
-  const latestArticle = getArticle(total);
-  const oneBeforeLatestArticle = getArticle(total - 1);
-  const twoBeforeLatestArticle = getArticle(total - 2);
-  const threeBeforeLatestArticle = getArticle(total - 3);
-  const fourBeforeLatestArticle = getArticle(total - 4);
+  const latestArticle = getArticle(page.totalItems);
+  const oneBeforeLatestArticle = getArticle(page.totalItems - 1);
+  const twoBeforeLatestArticle = getArticle(page.totalItems - 2);
+  const threeBeforeLatestArticle = getArticle(page.totalItems - 3);
+  const fourBeforeLatestArticle = getArticle(page.totalItems - 4);
 
   return (
     <div>
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar roUrl="/ro" />
+      <Navbar roUrl={`${page.slug?.ro}`}  />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
           <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
@@ -222,7 +224,7 @@ export default function Page() {
           ))}
         </div>
 
-        <Pagination baseUrl="/page" page={1} perPage={articlesPerPage} total={total} />
+        <Pagination baseUrl="/page" page={1} perPage={page.itemsPerPage} total={page.totalItems} />
       </main>
     </div>
   );

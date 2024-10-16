@@ -104,8 +104,8 @@ import { Category } from "@/model/category"
 import { categories } from "./categories"
 import { slugs } from "./slugs"
 
-export function getPaginatedArticles({ page, limit }: { page: number; limit: number; }): { articles: Article[]; total: number } {
-  return { articles: articlesWithAllData.slice(5).slice((page - 1) * limit, page * limit), total: articlesWithAllData.length };
+export function getPaginatedArticles({ page, limit, offset }: { page: number; limit: number; offset: number}): { articles: Article[] } {
+    return { articles: articlesWithAllData.slice(offset).slice((page - 1) * limit, page * limit) };
 }
 
 export function getArticles(): Article[] {
