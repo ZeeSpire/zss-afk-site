@@ -38,7 +38,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const sitemapPages: Array<{ url: string; lastModified?: string | Date; changeFrequency?: 'always' | 'hourly' | 'daily' | 'weekly' | 'monthly' | 'yearly' | 'never'; priority?: number; alternates?: { languages?: Languages<string>; }; }> =
     pages.map(p => ({
-      url: 'https://afkology.com' + p.slug?.en,
+      url: 'https://afkology.com' + (p.slug?.en !== "/" ? p.slug?.en : ""),
       lastModified: new Date(),
       changeFrequency: 'yearly',
       priority: 0.3,
