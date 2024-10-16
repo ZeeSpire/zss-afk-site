@@ -31,13 +31,11 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
                         </details>
                     </li>
                     <li><Link href="/contact">Contact</Link></li>
-                    <li className="md:hidden"><LanguageSwitcher language="Romanian" url={roUrl} /></li>
+                    <li className="md:hidden"><LanguageSwitcher language="Romanian" url={roUrl} type="simple"/></li>
                 </ul>
             </div>
             <div className="navbar-end">
-                <div tabIndex={0} className="btn btn-ghost btn-circle">
-                    <LanguageSwitcher language="Romanian" url={roUrl} />
-                </div>
+                <LanguageSwitcher language="Romanian" url={roUrl} type="button"/>
 
                 <div className="dropdown dropdown-end">
                     <div tabIndex={0} role="button" className="btn btn-ghost md:hidden" aria-label="Mobile dropdown menu">
