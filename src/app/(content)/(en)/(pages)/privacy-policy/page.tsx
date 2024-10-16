@@ -1,22 +1,25 @@
+import { getPage } from "@/data/pages";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 
+const page = getPage(4);
+
 export const metadata: Metadata = {
-  title: "AFKology | Privacy Policy - The most precious moments in life happen offline.",
-  description: "Read about how AFKology collects, uses, and protects your personal information. Your privacy is important to us.",
-  keywords: ['afkology', 'privacy policy', 'data protection', 'user privacy', 'personal information', 'data collection'],
+  title: `${page.title}`,
+  description: `${page.description}`,
+  keywords: `${page.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/privacy-policy',
+    canonical: `${page.slug?.en}`,
     languages: {
-      'en-US': '/privacy-policy',
-      'ro-RO': '/ro/politica-de-confidentialitate',
+      'en-US': `${page.slug?.en}`,
+      'ro-RO': `${page.slug?.ro}`,
     },
   },
   openGraph: {
-    title: 'AFKology | Privacy Policy - The most precious moments in life happen offline.',
-    description: 'Discover how AFKology handles your personal information and ensures your privacy is protected.',
-    url: 'https://www.afkology.com/privacy-policy',
+    title: `${page.title}`,
+    description: `${page.description}`,
+    url: `https://www.afkology.com${page.slug?.en}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'website',
@@ -70,9 +73,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Privacy Policy - The most precious moments in life happen offline.",
-  "description": "Read about how AFKology collects, uses, and protects your personal information. Your privacy is important to us.",
-  "url": "https://www.afkology.com/privacy-policy",
+  "name": `${page.title}`,
+  "description": `${page.description}`,
+  "url": `https://www.afkology.com${page.slug?.en}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,7 +93,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/privacy-policy`
+    "@id": `https://www.afkology.com${page.slug?.en}`,
   }
 }
 

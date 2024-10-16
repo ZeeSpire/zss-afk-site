@@ -1,22 +1,25 @@
+import { getPage } from "@/data/pages";
 import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
 
+const page = getPage(3);
+
 export const metadata: Metadata = {
-  title: "AFKology | Contact - Cele mai prețioase momente din viață se petrec offline.",
-  description: "Contactează-ne pentru informații despre călătorie, întrebări sau colaborări. Suntem aici să te ajutăm să-ți planifici aventura perfectă.",
-  keywords: ['afkology', 'contact', 'întrebări', 'informații de călătorie', 'colaborări', 'ajutor călătorie'],
+  title: `${page.titleRo}`,
+  description: `${page.descriptionRo}`,
+  keywords: `${page.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/ro/contact',
+    canonical: `${page.slug?.ro}`,
     languages: {
-      'ro-RO': '/ro/contact',
-      'en-US': '/contact',
+      'ro-RO': `${page.slug?.ro}`,
+      'en-US': `${page.slug?.en}`,
     },
   },
   openGraph: {
-    title: "AFKology | Contact - Cele mai prețioase momente din viață se petrec offline.",
-    description: "Contactează-ne pentru informații despre călătorie, întrebări sau colaborări. Suntem aici să te ajutăm să-ți planifici aventura perfectă.",
-    url: 'https://www.afkology.com/ro/contact',
+    title: `${page.titleRo}`,
+    description: `${page.descriptionRo}`,
+    url: `https://www.afkology.com${page.slug?.ro}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -70,9 +73,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Contact - Cele mai prețioase momente din viață se petrec offline.",
-  "description": "Contactează-ne pentru informații despre călătorie, întrebări sau colaborări. Suntem aici să te ajutăm să-ți planifici aventura perfectă.",
-  "url": "https://www.afkology.com/ro/contact",
+  "name": `${page.titleRo}`,
+  "description": `${page.descriptionRo}`,
+  "url": `https://www.afkology.com${page.slug?.ro}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,7 +93,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/ro/contact`
+    "@id": `https://www.afkology.com${page.slug?.ro}`,
   }
 }
 
@@ -100,7 +103,7 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl="/contact" />
+      <Navbar enUrl={`${page.slug?.en}`} />
       <main className="flex-grow">
         contact
       </main>

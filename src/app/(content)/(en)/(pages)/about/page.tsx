@@ -1,22 +1,25 @@
+import { getPage } from "@/data/pages";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 
+const page = getPage(2);
+
 export const metadata: Metadata = {
-  title: "AFKology | About Us - The most precious moments in life happen offline.",
-  description: "Learn more about AFKology, our mission, and the journey we take to explore the world and its hidden gems.",
-  keywords: ['afkology', 'about us', 'our mission', 'travel community', 'travel stories', 'cinematic travel', 'exploration'],
+  title: `${page.title}`,
+  description: `${page.description}`,
+  keywords: `${page.keywords}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/about',
+    canonical: `${page.slug?.en}`,
     languages: {
-      'en-US': '/about',
-      'ro-RO': '/ro/despre-noi',
+      'en-US': `${page.slug?.en}`,
+      'ro-RO': `${page.slug?.ro}`,
     },
   },
   openGraph: {
-    title: 'AFKology | About Us - The most precious moments in life happen offline.',
-    description: 'Discover AFKology’s mission and how we explore the world to bring you the best travel insights and experiences.',
-    url: 'https://www.afkology.com/about',
+    title: `${page.title}`,
+    description: `${page.description}`,
+    url: `https://www.afkology.com${page.slug?.en}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'website',
@@ -65,17 +68,14 @@ export const metadata: Metadata = {
       },
     ],
   },
-  // verification: {
-  //   google: 'ADDD CODEE',
-  // },
 };
 
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | About Us - The most precious moments in life happen offline.",
-  "description": "Learn more about AFKology, our mission, and the journey we take to explore the world and its hidden gems.",
-  "url": "https://www.afkology.com/about",
+  "name": `${page.title}`,
+  "description": `${page.description}`,
+  "url": `https://www.afkology.com${page.slug?.en}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -93,7 +93,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/about`
+    "@id": `https://www.afkology.com${page.slug?.en}`,
   }
 }
 

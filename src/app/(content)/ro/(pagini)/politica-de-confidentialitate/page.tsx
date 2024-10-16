@@ -1,22 +1,25 @@
+import { getPage } from "@/data/pages";
 import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
 
+const page = getPage(4);
+
 export const metadata: Metadata = {
-  title: "AFKology | Politica de Confidențialitate - Cele mai prețioase momente din viață se petrec offline.",
-  description: "Citește despre cum AFKology colectează, folosește și protejează informațiile tale personale. Confidențialitatea ta este importantă pentru noi.",
-  keywords: ['afkology', 'politica de confidențialitate', 'protecția datelor', 'confidențialitate utilizator', 'informații personale', 'colectarea datelor'],
+  title: `${page.titleRo}`,
+  description: `${page.descriptionRo}`,
+  keywords: `${page.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/ro/politica-de-confidentialitate',
+    canonical: `${page.slug?.ro}`,
     languages: {
-      'ro-RO': '/ro/politica-de-confidentialitate',
-      'en-US': '/privacy-policy',
+      'ro-RO': `${page.slug?.ro}`,
+      'en-US': `${page.slug?.en}`,
     },
   },
   openGraph: {
-    title: "AFKology | Politica de Confidențialitate - Cele mai prețioase momente din viață se petrec offline.",
-    description: "Citește despre cum AFKology colectează, folosește și protejează informațiile tale personale. Confidențialitatea ta este importantă pentru noi.",
-    url: 'https://www.afkology.com/ro/politica-de-confidentialitate',
+    title: `${page.titleRo}`,
+    description: `${page.descriptionRo}`,
+    url: `https://www.afkology.com${page.slug?.ro}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -70,9 +73,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Politica de Confidențialitate - Cele mai prețioase momente din viață se petrec offline.",
-  "description": "Citește despre cum AFKology colectează, folosește și protejează informațiile tale personale. Confidențialitatea ta este importantă pentru noi.",
-  "url": "https://www.afkology.com/ro/politica-de-confidentialitate",
+  "name": `${page.titleRo}`,
+  "description": `${page.descriptionRo}`,
+  "url": `https://www.afkology.com${page.slug?.ro}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,7 +93,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/ro/politica-de-confidentialitate`
+    "@id": `https://www.afkology.com${page.slug?.ro}`,
   }
 }
 
@@ -100,7 +103,7 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl="/privacy-policy" />
+      <Navbar enUrl={`${page.slug?.en}`} />
       <main className="flex-grow">
         polictica
       </main>

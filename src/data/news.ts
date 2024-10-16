@@ -11,27 +11,27 @@ export function getNews(): News[] {
 
 export const news = [
     {
-      slug: "final-cut-pro-on-ipad",
+      slug: "/final-cut-pro-on-ipad",
       title: "Final Cut Pro available on iPads",
       featured: finalCutPro
     },
     {
-      slug: "davinci-resolve-coming-to-ipads",
+      slug: "/davinci-resolve-coming-to-ipads",
       title: "Davinci Resolve coming to iPads",
       featured: davinciResolveComingToIpads
     },
     {
-      slug: "order-your-iphone-14-today",
+      slug: "/order-your-iphone-14-today",
       title: "Order your iPhone 14 today",
       featured: orderYourIphone14Today
     },
     {
-      slug: "iphone-15-periscope-camera",
+      slug: "/iphone-15-periscope-camera",
       title: "iPhone 15 with periscope camera",
       featured: iphone15PeriscopeCamera
     },
     {
-      slug: "instagram-selfie-security-check",
+      slug: "/instagram-selfie-security-check",
       title: "Instagram may soon check your real age using video selfies",
       featured: instagramSelfieSecurityCheck
     }

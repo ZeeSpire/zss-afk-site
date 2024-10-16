@@ -38,8 +38,8 @@ export async function middleware(req: NextRequest) {
 
       //articles, categories
       for (const slug of slugs) {
-        if (req.nextUrl.pathname === `/${slug.en}`) {
-          return NextResponse.redirect(new URL(`/${slug.ro}`, req.url));
+        if (req.nextUrl.pathname === `${slug.en}`) {
+          return NextResponse.redirect(new URL(`${slug.ro}`, req.url));
         }
       }
     } else {
@@ -59,8 +59,8 @@ export async function middleware(req: NextRequest) {
 
       //articles, categories
       for (const slug of slugs) {
-        if (req.nextUrl.pathname === `/${slug.ro}`) {
-          return NextResponse.redirect(new URL(`/${slug.en}`, req.url));
+        if (req.nextUrl.pathname === `${slug.ro}`) {
+          return NextResponse.redirect(new URL(`${slug.en}`, req.url));
         }
       }
 

@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: `AFKology | ${article.title}`,
     description: `${article.description}`,
-    url: `https://www.afkology.com/${article.slug?.en}`,
+    url: `https://www.afkology.com${article.slug?.en}`,
     siteName: 'AFKology',
     locale: 'en_US',
     type: 'article',
@@ -89,7 +89,7 @@ const jsonLd = {
   "@type": "Article",
   "headline": `${article.title}`,
   "description": `${article.description}`,
-  "url": `https://www.afkology.com/${article.slug?.en}`,
+  "url": `https://www.afkology.com${article.slug?.en}`,
   "datePublished": `${article.createdDate}`,
   "dateModified": `${article.lastModified}`,
   "author": {
@@ -115,7 +115,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/${article.slug?.en}`
+    "@id": `https://www.afkology.com${article.slug?.en}`
   },
   "articleBody": `${article.text}`,
   "keywords": `${article.keywords}`

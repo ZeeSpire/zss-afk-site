@@ -1,22 +1,25 @@
+import { getPage } from "@/data/pages";
 import Navbar from "../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
 
+const page = getPage(2);
+
 export const metadata: Metadata = {
-  title: "AFKology | Despre Noi - Cele mai prețioase momente din viață se petrec offline.",
-  description: "Descoperă povestea AFKology, pasiunea noastră pentru călătorii și angajamentul nostru de a oferi informații utile pentru aventurile tale.",
-  keywords: ['afkology', 'despre noi', 'informații despre echipă', 'povestea noastră', 'călătorii', 'aventuri'],
+  title: `${page.titleRo}`,
+  description: `${page.descriptionRo}`,
+  keywords: `${page.keywordsRo}`,
   metadataBase: new URL('https://www.afkology.com'),
   alternates: {
-    canonical: '/ro/despre-noi',
+    canonical: `${page.slug?.ro}`,
     languages: {
-      'ro-RO': '/ro/despre-noi',
-      'en-US': '/about',
+      'ro-RO': `${page.slug?.ro}`,
+      'en-US': `${page.slug?.en}`,
     },
   },
   openGraph: {
-    title: "AFKology | Despre Noi - Cele mai prețioase momente din viață se petrec offline.",
-  description: "Descoperă povestea AFKology, pasiunea noastră pentru călătorii și angajamentul nostru de a oferi informații utile pentru aventurile tale.",
-    url: 'https://www.afkology.com/ro/despre-noi',
+    title: `${page.titleRo}`,
+    description: `${page.descriptionRo}`,
+    url: `https://www.afkology.com${page.slug?.ro}`,
     siteName: 'AFKology',
     locale: 'ro_RO',
     type: 'website',
@@ -70,9 +73,9 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "AFKology | Despre Noi - Cele mai prețioase momente din viață se petrec offline.",
-  "description": "Descoperă povestea AFKology, pasiunea noastră pentru călătorii și angajamentul nostru de a oferi informații utile pentru aventurile tale.",
-  "url": "https://www.afkology.com/ro/despre-noi",
+  "name": `${page.titleRo}`,
+  "description": `${page.descriptionRo}`,
+  "url": `https://www.afkology.com${page.slug?.ro}`,
   "author": {
     "@type": "Organization",
     "name": "AFKology",
@@ -90,7 +93,7 @@ const jsonLd = {
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": `https://www.afkology.com/ro/despre-noi`
+    "@id": `https://www.afkology.com${page.slug?.ro}`,
   }
 }
 
@@ -100,7 +103,7 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar enUrl="/about" />
+      <Navbar enUrl={`${page.slug?.en}`} />
       <main className="flex-grow">
         despre-noi
       </main>
