@@ -20,24 +20,20 @@ export async function middleware(req: NextRequest) {
     if (lang === 'ro') {
       console.log("language is romanian")
 
-      //homepage
-      if (req.nextUrl.pathname === '/') {
-        return NextResponse.redirect(
-          new URL(`/ro`, req.url)
-        )
-      }
-
-      //homepage pagination
-      const pageMatch = req.nextUrl.pathname.match(/^\/page\/(\d+)$/);
-      if (pageMatch) {
-        const pageNumber = pageMatch[1];
-        return NextResponse.redirect(
-          new URL(`/pagina/${pageNumber}`, req.url)
-        );
-      }
-
-      //articles, categories
+      //paginations
       for (const slug of slugs) {
+        if (slug.paginationEn && slug.paginationRo) {
+          const visitedPath = req.nextUrl.pathname;
+          const lastSlashIndex = visitedPath.lastIndexOf('/');
+          const pageNumber = visitedPath.substring(lastSlashIndex + 1);
+          const baseUrl = visitedPath.substring(0, lastSlashIndex);
+
+          if (baseUrl === slug.paginationEn) {
+            return NextResponse.redirect(new URL(`${slug.paginationRo}/${pageNumber}`, req.url));
+          }
+        }
+
+        //articles, pages, categories
         if (req.nextUrl.pathname === `${slug.en}`) {
           return NextResponse.redirect(new URL(`${slug.ro}`, req.url));
         }
@@ -45,20 +41,20 @@ export async function middleware(req: NextRequest) {
     } else {
       console.log("language is english")
 
-      //homepage
-      if (req.nextUrl.pathname === '/ro') {
-        return NextResponse.redirect(new URL(`/`, req.url));
-      }
-
-      //homepage pagination
-      const paginiMatch = req.nextUrl.pathname.match(/^\/ro\/pagina\/(\d+)$/);
-      if (paginiMatch) {
-        const number = paginiMatch[1]; // Extract the number from the matched pattern
-        return NextResponse.redirect(new URL(`/page/${number}`, req.url));
-      }
-
-      //articles, categories
+      //paginations
       for (const slug of slugs) {
+        if (slug.paginationEn && slug.paginationRo) {
+          const visitedPath = req.nextUrl.pathname;
+          const lastSlashIndex = visitedPath.lastIndexOf('/');
+          const pageNumber = visitedPath.substring(lastSlashIndex + 1);
+          const baseUrl = visitedPath.substring(0, lastSlashIndex);
+
+          if (baseUrl === slug.paginationRo) {
+            return NextResponse.redirect(new URL(`${slug.paginationEn}/${pageNumber}`, req.url));
+          }
+        }
+
+        //articles, pages, categories
         if (req.nextUrl.pathname === `${slug.ro}`) {
           return NextResponse.redirect(new URL(`${slug.en}`, req.url));
         }
@@ -68,5 +64,6 @@ export async function middleware(req: NextRequest) {
   } else {
     console.log("cookie not present")
     //check the country, set cookie and redirect to romanian
+    console.log(req.headers.get('X-Vercel-IP-Country'))
   }
 }
