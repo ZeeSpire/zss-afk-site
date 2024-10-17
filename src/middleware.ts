@@ -56,7 +56,7 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
 
 export async function middleware(req: NextRequest) {
-  if(process.env.VERCEL) {
+  // if(process.env.VERCEL) {
     console.log(">>> on VERCEL >>> starting redirects")
     if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api/') || PUBLIC_FILE.test(req.nextUrl.pathname)) {
       return
@@ -81,5 +81,5 @@ export async function middleware(req: NextRequest) {
         redirectbyCookie(req, 'en');
       }
     }
-  }
+  // }
 }
