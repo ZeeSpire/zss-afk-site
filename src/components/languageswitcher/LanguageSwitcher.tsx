@@ -4,7 +4,14 @@ import Image from 'next/image';
 import enFlag from '../../../public/helper/en.jpg'
 import roFlag from '../../../public/helper/ro.png'
 import Link from 'next/link';
-import { addAfkLanguageCookie } from '@/functions';
+import Cookies from 'js-cookie';
+
+export const addAfkLanguageCookie = (locale: string) => {
+    // if (process.env.VERCEL) {
+        console.log(">>> on VERCEL >>> setting AFK_LOCALE")
+        Cookies.set('AFK_LOCALE', locale, { expires: 365 });
+    // }
+  };
 
 export default function LanguageSwitcher({ language, url, type }: { language: string, url: string, type: string }) {
     let flag = enFlag;

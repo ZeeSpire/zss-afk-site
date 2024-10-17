@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getSlugs } from './data/slugs';
-import { addAfkLanguageCookie } from './functions';
+import { addAfkLanguageCookie } from './components/languageswitcher/LanguageSwitcher';
 
 const PUBLIC_FILE = /\.(.*)$/
 const slugs = getSlugs();
@@ -52,6 +52,8 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
   }
 }
+
+
 
 export async function middleware(req: NextRequest) {
   if(process.env.VERCEL) {
