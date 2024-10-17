@@ -11,26 +11,26 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
             </div>
             <div className="navbar-center hidden md:flex">
                 <ul className="menu menu-horizontal px-1">
-                    <li><Link href="/">Home</Link></li>
-                    <li><Link href="/about">About</Link></li>
+                    <li><Link  prefetch={false} href="/">Home</Link></li>
+                    <li><Link  prefetch={false} href="/about">About</Link></li>
                 </ul>
 
-                <Link href="/"><Image className="mx-2" src={logo} alt="AFKology logo" priority /></Link>
+                <Link  prefetch={false} href="/"><Image className="mx-2" src={logo} alt="AFKology logo" priority /></Link>
 
                 <ul className="menu menu-horizontal px-1">
                     <li className="z-[1]">
                         <details>
                             <summary>Categories</summary>
                             <ul className="p-2">
-                                <li><Link href="/romania">Romania</Link></li>
-                                <li><Link href="/italy">Italy</Link></li>
-                                <li><Link href="/greece">Greece</Link></li>
-                                <li><Link href="/denmark">Denmark</Link></li>
-                                <li><Link href="/bulgaria">Bulgaria</Link></li>
+                                <li><Link  prefetch={false} href="/romania">Romania</Link></li>
+                                <li><Link  prefetch={false} href="/italy">Italy</Link></li>
+                                <li><Link  prefetch={false} href="/greece">Greece</Link></li>
+                                <li><Link  prefetch={false} href="/denmark">Denmark</Link></li>
+                                <li><Link  prefetch={false} href="/bulgaria">Bulgaria</Link></li>
                             </ul>
                         </details>
                     </li>
-                    <li><Link href="/contact">Contact</Link></li>
+                    <li><Link  prefetch={false} href="/contact">Contact</Link></li>
                     <li className="md:hidden"><LanguageSwitcher language="Romanian" url={roUrl} type="simple"/></li>
                 </ul>
             </div>
@@ -44,22 +44,22 @@ export default function Navbar({ roUrl }: { roUrl: string }) {
                         </svg>
                     </div>
                     <ul tabIndex={0} className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow mr-3">
-                        <li><Link href="/">Home</Link></li>
-                        <li><Link href="/about">About</Link></li>
+                        <li><Link  prefetch={false} href="/">Home</Link></li>
+                        <li><Link  prefetch={false} href="/about">About</Link></li>
                         <li>
                             <details>
                                 <summary>Categories</summary>
                                 <ul className="p-2">
-                                    <li><Link href="/romania">Romania</Link></li>
-                                    <li><Link href="/italy">Italy</Link></li>
-                                    <li><Link href="/greece">Greece</Link></li>
-                                    <li><Link href="/denmark">Denmark</Link></li>
-                                    <li><Link href="/bulgaria">Bulgaria</Link></li>
+                                    <li><Link  prefetch={false} href="/romania">Romania</Link></li>
+                                    <li><Link  prefetch={false} href="/italy">Italy</Link></li>
+                                    <li><Link  prefetch={false} href="/greece">Greece</Link></li>
+                                    <li><Link  prefetch={false} href="/denmark">Denmark</Link></li>
+                                    <li><Link  prefetch={false} href="/bulgaria">Bulgaria</Link></li>
                                 </ul>
                             </details>
                         </li>
-                        <li><Link href="/news">News</Link></li>
-                        <li><Link href="/contact">Contact</Link></li>
+                        <li><Link  prefetch={false} href="/news">News</Link></li>
+                        <li><Link  prefetch={false} href="/contact">Contact</Link></li>
                     </ul>
                 </div>
             </div>

@@ -5,7 +5,7 @@ export default function NotFound() {
       <div>
         <h1>Not found</h1>
         <p>Sorry, the page you sre looking does not exist</p>
-        <Link href ="/">Return Home</Link>
+        <Link  prefetch={false} href ="/">Return Home</Link>
       </div>
     );
   }

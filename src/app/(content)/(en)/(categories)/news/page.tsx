@@ -111,7 +111,7 @@ export default function Page() {
           {news.map((news: News) => (
             <div className="card bg-base-100 shadow-xl" key={news.slug}>
               <figure>
-                <Link href={`${news.slug}`}>
+                <Link  prefetch={false} href={`${news.slug}`}>
                   <Image src={news.featured} alt={news.title}
                     width={705}
                     height={705}
@@ -120,7 +120,7 @@ export default function Page() {
                 </Link>
               </figure>
               <div className="card-body">
-                <Link href={`${news.slug}`}><h2 className="card-title">{news.title}</h2></Link>
+                <Link  prefetch={false} href={`${news.slug}`}><h2 className="card-title">{news.title}</h2></Link>
               </div>
             </div>
           ))}

@@ -28,7 +28,7 @@ export default function LanguageSwitcher({ language, url, type }: { language: st
     let html;
     if (type === 'simple') {
         html = (
-            <Link href={url} onClick={handleLanguageChange}>
+            <Link  prefetch={false} href={url} onClick={handleLanguageChange}>
                 <Image src={flag} alt={`${language} language`} width={30} height={20} />
             </Link>
         );
@@ -36,7 +36,7 @@ export default function LanguageSwitcher({ language, url, type }: { language: st
     if (type === 'button') {
         html = (
             <div tabIndex={0} className="btn btn-ghost btn-circle">
-                <Link href={url} onClick={handleLanguageChange}>
+                <Link  prefetch={false} href={url} onClick={handleLanguageChange}>
                     <Image src={flag} alt={`${language} language`} width={30} height={20} />
                 </Link>
             </div>

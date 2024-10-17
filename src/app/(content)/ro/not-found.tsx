@@ -5,7 +5,7 @@ export default function NotFound() {
       <div>
         <h1>404</h1>
         <p>Pagina cautata nu a fost gasita</p>
-        <Link href ="/ro">inapoi Acasa</Link>
+        <Link  prefetch={false} href ="/ro">inapoi Acasa</Link>
       </div>
     );
   }

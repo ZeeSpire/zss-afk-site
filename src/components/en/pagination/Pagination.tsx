@@ -5,7 +5,7 @@ export function Pagination({baseUrl, page, perPage, total}: { baseUrl: string; p
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8 px-2">
             <div>
                 {page !== 1 ? (
-                    <Link href={`${baseUrl}/${page - 1}`} rel="prev" className="btn w-full">
+                    <Link  prefetch={false} href={`${baseUrl}/${page - 1}`} rel="prev" className="btn w-full">
                         Previous page
                     </Link>
                 ) : (
@@ -17,7 +17,7 @@ export function Pagination({baseUrl, page, perPage, total}: { baseUrl: string; p
             <div className="hidden lg:block"></div>
             <div>
                 {perPage * page < total ? (
-                    <Link href={`${baseUrl}/${page + 1}`} rel="next" className="btn w-full">
+                    <Link  prefetch={false} href={`${baseUrl}/${page + 1}`} rel="next" className="btn w-full">
                         Next page
                     </Link>
                 ) : (
