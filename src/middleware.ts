@@ -69,16 +69,12 @@ export async function middleware(req: NextRequest) {
     } else {
       console.log(">>> cookie not present")
       //check the country, set cookie and redirect to romanian
+      console.log(">>> header is " + req.headers.get('X-Vercel-IP-Country'))
       if (req.headers.get('X-Vercel-IP-Country') === 'RO') {
         console.log('>>> set ro cookie')
         addAfkLanguageCookie('ro')
         console.log('>>> redirecting to ro')
         redirectbyCookie(req, 'ro');
-      } else {
-        console.log('>>> set en cookie')
-        addAfkLanguageCookie('en')
-        console.log('>>> redirecting to en')
-        redirectbyCookie(req, 'en');
       }
     }
   // }
