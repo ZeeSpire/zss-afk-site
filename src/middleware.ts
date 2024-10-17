@@ -56,8 +56,8 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
 export async function middleware(req: NextRequest) {
   // if(process.env.VERCEL) {
-    if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api/') || PUBLIC_FILE.test(req.nextUrl.pathname)) {
-      return NextResponse.next();
+    if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api') || PUBLIC_FILE.test(pathname)) {
+      return NextResponse.next(); // Skip middleware
     }
 
     console.log(">>> on VERCEL >>> starting redirects")
