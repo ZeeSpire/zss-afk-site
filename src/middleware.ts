@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getSlugs } from './data/slugs';
-import { addAfkLanguageCookie } from './components/languageswitcher/LanguageSwitcher';
 
 const PUBLIC_FILE = /\.(.*)$/
 const slugs = getSlugs();
@@ -57,10 +56,11 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
 export async function middleware(req: NextRequest) {
   // if(process.env.VERCEL) {
-    console.log(">>> on VERCEL >>> starting redirects")
     if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api/') || PUBLIC_FILE.test(req.nextUrl.pathname)) {
-      return
+      return NextResponse.next();
     }
+
+    console.log(">>> on VERCEL >>> starting redirects")
   
     const lang = req.cookies.get('AFK_LOCALE')?.value;
   
@@ -69,10 +69,14 @@ export async function middleware(req: NextRequest) {
     } else {
       console.log(">>> cookie not present")
       //check the country, set cookie and redirect to romanian
-      console.log(">>> header is " + req.headers.get('X-Vercel-IP-Country'))
-      if (req.headers.get('X-Vercel-IP-Country') === 'RO') {
+      const country = req.headers.get('X-Vercel-IP-Country');
+      console.log(`>>> Country detected: ${country}`);
+
+      if (country === 'RO' || country === 'ro') {
         console.log('>>> set ro cookie')
-        addAfkLanguageCookie('ro')
+        const response = NextResponse.next();
+        response.cookies.set('AFK_LOCALE', 'ro', { path: '/', maxAge: 60 * 60 * 24 * 365 }); // 1 year
+        
         console.log('>>> redirecting to ro')
         redirectbyCookie(req, 'ro');
       }
