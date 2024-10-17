@@ -56,7 +56,7 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
 export async function middleware(req: NextRequest) {
   // if(process.env.VERCEL) {
-    if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api') || PUBLIC_FILE.test(pathname)) {
+    if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api') || PUBLIC_FILE.test(req.nextUrl.pathname)) {
       return NextResponse.next(); // Skip middleware
     }
 
