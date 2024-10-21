@@ -13,7 +13,7 @@ export const addAfkLanguageCookie = (locale: string) => {
     // }
   };
 
-export default function LanguageSwitcher({ language, url, type }: { language: string, url: string, type: string }) {
+export default function LocaleSwitcher({ language, url, type }: { language: string, url: string, type: string }) {
     let flag = enFlag;
     let code = 'en';
     if (language === "Romanian") {

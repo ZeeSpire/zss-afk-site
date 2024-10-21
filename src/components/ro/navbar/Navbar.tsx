@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from 'next/image';
 import logo from '../../../../public/logo.jpg'
-import LanguageSwitcher from "../../languageswitcher/LanguageSwitcher";
+import LocaleSwitcher from "../../localeswitcher/LocaleSwitcher";
 
 export default function Navbar({ enUrl }: { enUrl: string }) {
     return (
@@ -31,11 +31,11 @@ export default function Navbar({ enUrl }: { enUrl: string }) {
                         </details>
                     </li>
                     <li><Link  prefetch={false} href="/ro/contact">Contact</Link></li>
-                    <li className="md:hidden"><LanguageSwitcher language="English" url={enUrl} type="simple"/></li>
+                    <li className="md:hidden"><LocaleSwitcher language="English" url={enUrl} type="simple"/></li>
                 </ul>
             </div>
             <div className="navbar-end">
-            <LanguageSwitcher language="English" url={enUrl} type="button"/>
+            <LocaleSwitcher language="English" url={enUrl} type="button"/>
 
                 <div className="dropdown dropdown-end">
                     <div tabIndex={0} role="button" className="btn btn-ghost md:hidden" aria-label="Mobile dropdown menu">
