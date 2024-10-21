@@ -7,6 +7,7 @@ import { Pagination } from "@/components/en/pagination/Pagination";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import { getPage } from "@/data/pages";
+import LocaleRedirector from "@/components/localeredirecter/LocaleRedirecter";
 
 const page = getPage(1);
 
@@ -126,83 +127,83 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar roUrl={`${page.slug?.ro}`}  />
+      <Navbar roUrl={`${page.slug?.ro}`} />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
           <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
             <figure>
-              <Link  prefetch={false} href={`${latestArticle.slug?.en}`}>
-                <Image src={latestArticle.featured} alt={latestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority/>
+              <Link prefetch={false} href={`${latestArticle.slug?.en}`}>
+                <Image src={latestArticle.featured} alt={latestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority />
               </Link>
             </figure>
             <div className="card-body pt-4 pb-5">
               <span className={`uppercase text-xs ${latestArticle.category?.color}`}> {latestArticle.category?.name}</span>
-              <Link  prefetch={false} href={`${latestArticle.slug?.en}`}><span className="card-title">{latestArticle.title}</span></Link>
+              <Link prefetch={false} href={`${latestArticle.slug?.en}`}><span className="card-title">{latestArticle.title}</span></Link>
             </div>
           </div>
 
           <div className="card bg-base-100 shadow-xl">
             <figure>
-              <Link  prefetch={false} href={`${oneBeforeLatestArticle.slug?.en}`}>
+              <Link prefetch={false} href={`${oneBeforeLatestArticle.slug?.en}`}>
                 <Image className="hidden lg:block" src={oneBeforeLatestArticle.featuredLandscape} alt={oneBeforeLatestArticle.title} width={296} height={166} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
                 <Image className="block lg:hidden" src={oneBeforeLatestArticle.featured} alt={oneBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
               </Link>
             </figure>
             <div className="card-body pt-4 pb-4">
               <span className={`uppercase text-xs ${oneBeforeLatestArticle.category?.color}`}> {oneBeforeLatestArticle.category?.name} </span>
-              <Link  prefetch={false} href={`${oneBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{oneBeforeLatestArticle.title}</span></Link>
+              <Link prefetch={false} href={`${oneBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{oneBeforeLatestArticle.title}</span></Link>
             </div>
           </div>
 
           <div className="card bg-base-100 shadow-xl">
             <figure>
-              <Link  prefetch={false} href={`${twoBeforeLatestArticle.slug?.en}`}>
+              <Link prefetch={false} href={`${twoBeforeLatestArticle.slug?.en}`}>
                 <Image className="hidden lg:block" src={twoBeforeLatestArticle.featuredLandscape} alt={twoBeforeLatestArticle.title} width={296} height={166} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
                 <Image className="block lg:hidden" src={twoBeforeLatestArticle.featured} alt={twoBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
               </Link>
             </figure>
             <div className="card-body pt-4 pb-4">
               <span className={`uppercase text-xs ${twoBeforeLatestArticle.category?.color}`}> {twoBeforeLatestArticle.category?.name} </span>
-              <Link  prefetch={false} href={`${twoBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{twoBeforeLatestArticle.title}</span></Link>
+              <Link prefetch={false} href={`${twoBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{twoBeforeLatestArticle.title}</span></Link>
             </div>
           </div>
 
           <div className="card bg-base-100 shadow-xl">
             <figure>
-              <Link  prefetch={false} href={`${threeBeforeLatestArticle.slug?.en}`}>
+              <Link prefetch={false} href={`${threeBeforeLatestArticle.slug?.en}`}>
                 <Image className="hidden lg:block" src={threeBeforeLatestArticle.featuredLandscape} alt={threeBeforeLatestArticle.title} width={296} height={166} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
                 <Image className="block lg:hidden" src={threeBeforeLatestArticle.featured} alt={threeBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
               </Link>
             </figure>
             <div className="card-body pt-4 pb-4">
               <span className={`uppercase text-xs ${threeBeforeLatestArticle.category?.color}`}> {threeBeforeLatestArticle.category?.name} </span>
-              <Link  prefetch={false} href={`${threeBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{threeBeforeLatestArticle.title}</span></Link>
+              <Link prefetch={false} href={`${threeBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{threeBeforeLatestArticle.title}</span></Link>
             </div>
           </div>
 
           <div className="card bg-base-100 shadow-xl">
             <figure>
-              <Link  prefetch={false} href={`${fourBeforeLatestArticle.slug?.en}`}>
+              <Link prefetch={false} href={`${fourBeforeLatestArticle.slug?.en}`}>
                 <Image className="hidden lg:block" src={fourBeforeLatestArticle.featuredLandscape} alt={fourBeforeLatestArticle.title} width={296} height={166} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 20vw, 10vw" />
                 <Image className="block lg:hidden" src={fourBeforeLatestArticle.featured} alt={fourBeforeLatestArticle.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 50vw, 25vw" />
               </Link>
             </figure>
             <div className="card-body pt-4 pb-4">
               <span className={`uppercase text-xs ${fourBeforeLatestArticle.category?.color}`}> {fourBeforeLatestArticle.category?.name} </span>
-              <Link  prefetch={false} href={`${fourBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{fourBeforeLatestArticle.title}</span></Link>
+              <Link prefetch={false} href={`${fourBeforeLatestArticle.slug?.en}`}><span className="card-title text-lg leading-6">{fourBeforeLatestArticle.title}</span></Link>
             </div>
           </div>
 
           {articles.map((article: Article) => (
             <div className="card bg-base-100 shadow-xl col-span-1 block lg:hidden" key={article.id}>
               <figure>
-                <Link  prefetch={false} href={`${article.slug?.en}`}>
+                <Link prefetch={false} href={`${article.slug?.en}`}>
                   <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
                 </Link>
               </figure>
               <div className="card-body pt-4 pb-4">
                 <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.name} </span>
-                <Link  prefetch={false} href={`${article.slug?.en}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
+                <Link prefetch={false} href={`${article.slug?.en}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
               </div>
             </div>
           ))}
@@ -212,13 +213,13 @@ export default function Page() {
           {articles.map((article: Article) => (
             <div className="card bg-base-100 shadow-xl col-span-1 hidden lg:block" key={article.id}>
               <figure>
-                <Link  prefetch={false} href={`${article.slug?.en}`}>
+                <Link prefetch={false} href={`${article.slug?.en}`}>
                   <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
                 </Link>
               </figure>
               <div className="card-body pt-4 pb-4">
                 <span className={`uppercase text-xs ${article.category?.color}`}> {article.category?.name} </span>
-                <Link  prefetch={false} href={`${article.slug?.en}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
+                <Link prefetch={false} href={`${article.slug?.en}`}><span className="card-title text-lg leading-6">{article.title}</span></Link>
               </div>
             </div>
           ))}

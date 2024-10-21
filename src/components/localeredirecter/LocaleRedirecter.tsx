@@ -37,65 +37,68 @@ const slugs = getSlugs();
 //     }
 //   }
 
-const LocaleRedirector = () => {
+const LocaleRedirecter: React.FC = () => {
     const router = useRouter();
 
     useEffect(() => {
         const lang = Cookies.get('AFK_LOCALE');
         const currentPath = router.pathname;
+        function redirectbyCookie(currentPath: string, lang?: string) {
+            if (lang === 'ro') {
+                console.log(">>> language is romanian")
+
+                //paginations
+                for (const slug of slugs) {
+                    if (slug.paginationEn && slug.paginationRo) {
+                        const lastSlashIndex = currentPath.lastIndexOf('/');
+                        const pageNumber = currentPath.substring(lastSlashIndex + 1);
+                        const baseUrl = currentPath.substring(0, lastSlashIndex);
+
+                        if (baseUrl === slug.paginationEn) {
+                            // return NextResponse.redirect(, req.url));
+                            router.push(new URL(`${slug.paginationRo}/${pageNumber}`))
+                        }
+                    }
+
+                    //articles, pages, categories
+                    if (currentPath === `${slug.en}`) {
+                        router.push(new URL(`${slug.ro}`))
+
+                    }
+                }
+            } else {
+                console.log(">>> language is english")
+
+                //paginations
+                for (const slug of slugs) {
+                    if (slug.paginationEn && slug.paginationRo) {
+                        const lastSlashIndex = currentPath.lastIndexOf('/');
+                        const pageNumber = currentPath.substring(lastSlashIndex + 1);
+                        const baseUrl = currentPath.substring(0, lastSlashIndex);
+
+                        if (baseUrl === slug.paginationRo) {
+                            router.push(new URL(`${slug.paginationEn}/${pageNumber}`))
+                        }
+                    }
+
+                    //articles, pages, categories
+                    if (currentPath === `${slug.ro}`) {
+                        router.push(new URL(`${slug.en}`))
+                    }
+                }
+
+            }
+        }
 
         if (lang) {
             // If a language cookie is found, redirect based on it
-            redirectbyCookie(lang, currentPath);
+            redirectbyCookie(currentPath, lang);
         } else {
 
         }
     }, [router]);
 
-    function redirectbyCookie(lang?: string, currentPath: string) {
-        if (lang === 'ro') {
-            console.log(">>> language is romanian")
+    return null; // Returning null for components that don't render visible UI
+};
 
-            //paginations
-            for (const slug of slugs) {
-                if (slug.paginationEn && slug.paginationRo) {
-                    const lastSlashIndex = currentPath.lastIndexOf('/');
-                    const pageNumber = currentPath.substring(lastSlashIndex + 1);
-                    const baseUrl = currentPath.substring(0, lastSlashIndex);
-
-                    if (baseUrl === slug.paginationEn) {
-                        // return NextResponse.redirect(, req.url));
-                        router.push(new URL(`${slug.paginationRo}/${pageNumber}`))
-                    }
-                }
-
-                //articles, pages, categories
-                if (currentPath === `${slug.en}`) {
-                    router.push(new URL(`${slug.ro}`))
-
-                }
-            }
-        } else {
-            console.log(">>> language is english")
-
-            //paginations
-            for (const slug of slugs) {
-                if (slug.paginationEn && slug.paginationRo) {
-                    const lastSlashIndex = currentPath.lastIndexOf('/');
-                    const pageNumber = currentPath.substring(lastSlashIndex + 1);
-                    const baseUrl = currentPath.substring(0, lastSlashIndex);
-
-                    if (baseUrl === slug.paginationRo) {
-                        router.push(new URL(`${slug.paginationEn}/${pageNumber}`))
-                    }
-                }
-
-                //articles, pages, categories
-                if (currentPath === `${slug.ro}`) {
-                    router.push(new URL(`${slug.en}`))
-                }
-            }
-
-        }
-    }
-}
+export default LocaleRedirecter;
