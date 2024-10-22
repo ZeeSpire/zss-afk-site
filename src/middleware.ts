@@ -29,7 +29,11 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
         console.log(">>>>> redirectUrl " + redirectUrl)
 
         return NextResponse.redirect(redirectUrl);
+      } else {
+      console.log(">>> 1 redirect didnt happen")
+
       }
+      console.log(">>> 2 redirect didnt happen")
     }
   } else {
     console.log(">>> language is english")
