@@ -25,7 +25,10 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
       if (req.nextUrl.pathname === `${slug.en}`) {
         console.log(">>>>> req.url " + req.url)
         console.log(">>>>> slug.ro " + slug.ro)
-        return NextResponse.redirect('https://zss-afk-site.vercel.app' + `${slug.ro}`);
+        const redirectUrl = 'https://zss-afk-site.vercel.app' + `${slug.ro}`
+        console.log(">>>>> redirectUrl " + redirectUrl)
+
+        return NextResponse.redirect(redirectUrl);
       }
     }
   } else {
