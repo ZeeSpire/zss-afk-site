@@ -1,9 +1,10 @@
+"use client"
+
 import { getSlugs } from "@/data/slugs";
 import { useRouter } from "next/router";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Cookies from 'js-cookie';
 
-const PUBLIC_FILE = /\.(.*)$/
 const slugs = getSlugs();
 
 // export async function LocaleRedirecter() {
@@ -39,8 +40,16 @@ const slugs = getSlugs();
 
 const LocaleRedirecter: React.FC = () => {
     const router = useRouter();
-
+    const [isMounted, setIsMounted] = useState(false);
+  
     useEffect(() => {
+      // Set mounted flag to true after component mounts
+      setIsMounted(true);
+    }, []);
+  
+    useEffect(() => {
+      if (!isMounted) return; // Prevent running during SSR
+  
         const lang = Cookies.get('AFK_LOCALE');
         const currentPath = router.pathname;
         function redirectbyCookie(currentPath: string, lang?: string) {
@@ -96,7 +105,7 @@ const LocaleRedirecter: React.FC = () => {
         } else {
 
         }
-    }, [router]);
+    }, [isMounted, router]);
 
     return null; // Returning null for components that don't render visible UI
 };

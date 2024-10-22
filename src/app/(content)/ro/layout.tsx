@@ -2,7 +2,6 @@ import GoogleAnalytics from "@/components/googleanalytics/GoogleAnalytics";
 import Footer from "../../../components/ro/footer/Footer";
 import "../../globals.css";
 import { Roboto } from "next/font/google";
-import LocaleRedirecter from "@/components/localeredirecter/LocaleRedirecter";
 
 const roboto = Roboto({
   weight: ['400', '700'],
@@ -19,7 +18,7 @@ export default function RoLayout({
   return (
     <html lang="ro" data-theme="pastel">
       <GoogleAnalytics GA_MEASUREMENT_ID='G-2E08R5263Y'/>
-      <LocaleRedirecter />
+      {/* <LocaleRedirecter /> */}
       <body className={`${roboto.className} min-h-screen flex flex-col`}>
         <div className="flex flex-col flex-grow container mx-auto px-4">
           {children}

@@ -7,7 +7,6 @@ import { Pagination } from "@/components/en/pagination/Pagination";
 import Navbar from "../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import { getPage } from "@/data/pages";
-import LocaleRedirector from "@/components/localeredirecter/LocaleRedirecter";
 
 const page = getPage(1);
 
