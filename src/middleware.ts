@@ -29,7 +29,6 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
         console.log(">>>>> redirectUrl " + redirectUrl)
 
         return NextResponse.redirect(redirectUrl);
-        console.log(">>> 1 redirect didnt happen")
       }
     }
   } else {
@@ -69,8 +68,7 @@ export function middleware(req: NextRequest) {
     const lang = req.cookies.get('AFK_LOCALE')?.value;
 
     if (lang) {
-      return NextResponse.redirect('https://www.afkology.com/comfort-food-restaurants-in-bucharest');
-      redirectbyCookie(req, lang);
+      return redirectbyCookie(req, lang);
     } else {
       //   console.log(">>> cookie not present")
       //   //check the country, set cookie and redirect to romanian
