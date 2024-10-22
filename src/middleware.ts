@@ -59,7 +59,7 @@ function redirectbyCookie(req: NextRequest, lang?: string) {
 
 
 
-export async function middleware(req: NextRequest) {
+export function middleware(req: NextRequest) {
   // if(process.env.VERCEL) {
   if (req.nextUrl.pathname.startsWith('/_next') || req.nextUrl.pathname.includes('/api') || PUBLIC_FILE.test(req.nextUrl.pathname)) {
     return NextResponse.next(); // Skip middleware
@@ -69,7 +69,7 @@ export async function middleware(req: NextRequest) {
     const lang = req.cookies.get('AFK_LOCALE')?.value;
 
     if (lang) {
-      return NextResponse.redirect('https://example.com');
+      return NextResponse.redirect('https://www.afkology.com/comfort-food-restaurants-in-bucharest');
       redirectbyCookie(req, lang);
     } else {
       //   console.log(">>> cookie not present")
