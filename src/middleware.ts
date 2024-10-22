@@ -70,20 +70,19 @@ export function middleware(req: NextRequest) {
       if (lang) {
         return redirectbyCookie(req, lang);
       } else {
-        //   console.log(">>> cookie not present")
-        //   //check the country, set cookie and redirect to romanian
-        //   const country = req.headers.get('X-Vercel-IP-Country');
-        //   console.log(`>>> Country detected: ${country}`);
+        console.log(">>> cookie not present")
+        //check the country, set cookie and redirect to romanian
+        const country = req.headers.get('X-Vercel-IP-Country');
+        console.log(`>>> Country detected: ${country}`);
 
-        //   if (country === 'RO' || country === 'ro') {
-        //     console.log('>>> set ro cookie')
-        //     const response = NextResponse.next();
-        //     response.cookies.set('AFK_LOCALE', 'ro', { path: '/', maxAge: 60 * 60 * 24 * 365 }); // 1 year
+        if (country === 'RO' || country === 'ro') {
+          console.log('>>> set ro cookie')
+          const response = NextResponse.next();
+          response.cookies.set('AFK_LOCALE', 'ro', { path: '/', maxAge: 60 * 60 * 24 * 365 }); // 1 year
 
-        //     console.log('>>> redirecting to ro')
-        //     redirectbyCookie(req, 'ro');
-        //   }
-        // }
+          console.log('>>> redirecting to ro')
+          return redirectbyCookie(req, 'ro');
+        }
       }
     }
   }
