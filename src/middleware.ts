@@ -76,10 +76,6 @@ export function middleware(req: NextRequest) {
         console.log(`>>> Country detected: ${country}`);
 
         if (country === 'RO' || country === 'ro') {
-          console.log('>>> set ro cookie')
-          const response = NextResponse.next();
-          response.cookies.set('AFK_LOCALE', 'ro', { path: '/', maxAge: 60 * 60 * 24 * 365 }); // 1 year
-
           console.log('>>> redirecting to ro')
           return redirectbyCookie(req, 'ro');
         }
