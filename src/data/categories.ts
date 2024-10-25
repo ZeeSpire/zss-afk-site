@@ -26,7 +26,7 @@ export const categories: Category[] = [
     slugId: 39,
     name: "Bulgaria",
     nameRo: "Bulgaria",
-    color: "text-pink-400"
+    color: "text-pink-600"
   },
   {
     id: 2,
@@ -39,7 +39,7 @@ export const categories: Category[] = [
     slugId: 38,
     name: "Romania",
     nameRo: "Romania",
-    color: "text-indigo-400"
+    color: "text-indigo-600"
   },
   {
     id: 3,
@@ -52,7 +52,7 @@ export const categories: Category[] = [
     slugId: 37,
     name: "Italy",
     nameRo: "Italia",
-    color: "text-green-400"
+    color: "text-green-600"
   },
   {
     id: 4,
@@ -65,7 +65,7 @@ export const categories: Category[] = [
     slugId: 36,
     name: "Greece",
     nameRo: "Grecia",
-    color: "text-sky-400"
+    color: "text-sky-600"
   },
   {
     id: 5,
@@ -78,7 +78,7 @@ export const categories: Category[] = [
     slugId: 35,
     name: "Denmark",
     nameRo: "Danemarca",
-    color: "text-orange-400"
+    color: "text-orange-600"
   }
 ]
 
