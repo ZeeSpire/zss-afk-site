@@ -8,11 +8,11 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   safelist: [
-    'text-indigo-600',
-    'text-pink-600',
-    'text-sky-600',
-    'text-green-600',
-    'text-orange-600',
+    'text-indigo-800',
+    'text-pink-800',
+    'text-sky-800',
+    'text-green-800',
+    'text-orange-800',
   ],
   theme: {
     extend: {
