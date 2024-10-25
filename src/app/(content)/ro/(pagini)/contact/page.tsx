@@ -105,7 +105,9 @@ export default function Page() {
       </section>
       <Navbar enUrl={`${page.slug?.en}`} />
       <main className="flex-grow">
-        contact
+        <h1>Contact</h1>
+        <p className="font-semibold text-center">Email:</p>
+        <p className="text-center">office@afkology.com</p>
       </main>
     </div>
   );

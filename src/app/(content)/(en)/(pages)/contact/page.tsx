@@ -105,8 +105,14 @@ export default function Page() {
       </section>
       <Navbar roUrl="/ro/contact" />
       <main className="flex-grow">
-        contact
+        <h1>Contact</h1>
+        <p className="font-semibold text-center">Email:</p>
+        <p className="text-center">office@afkology.com</p>
       </main>
     </div>
   );
 }
+
+
+
+

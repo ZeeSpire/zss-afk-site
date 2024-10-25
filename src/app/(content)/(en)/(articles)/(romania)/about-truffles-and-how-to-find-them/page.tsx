@@ -124,13 +124,10 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-
       <Navbar roUrl={`${article.slug?.ro}`} />
-
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         <p>In Romania, there are more and more offers that include, in addition to accommodation, various types of experiences, from gastronomic incursions, wine tastings, courses where you can learn something new, to outdoor activities. This is also the case with truffle hunting.</p>

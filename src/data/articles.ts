@@ -40,7 +40,7 @@ import easterOffersInRomania2023 from "../../public/oferte-paste/primavara.jpg"
 import valeaVerdeAStorySquare from "../../public/valea-verde/valea-verde-cover-square.jpg"
 import valeaVerdeAStory from "../../public/valea-verde/valea-verde-cover.jpg"
 
-import aboutTrufflesSquare from "../../public/grigorescu-2/IMG_20221029_123239.jpg"
+import aboutTrufflesSquare from "../../public/grigorescu-2/IMG_20221029_123239.jpeg"
 import aboutTruffles from "../../public/grigorescu-2/IMG_1505.jpeg"
 
 import artSafariATemporaryArtSquare from "../../public/art-safari-2/IMG_20221120_121702.jpg"
@@ -51,7 +51,7 @@ import truffleHunting from "../../public/grigorescu/IMG_1546.jpg"
 import viscriTheMostPopularSaxonVillageSquare from "../../public/viscri/viscri-top.jpg"
 import viscriTheMostPopularSaxonVillage from "../../public/viscri/viscri-top-16x9.jpg"
 
-import cramaDePiatraSquare from "../../public/crama-de-piatra/IMG_20220828_080307-e1_tio8fx.jpg"
+import cramaDePiatraSquare from "../../public/crama-de-piatra/IMG_20220828_080307-e1_tio8fx.jpeg"
 
 import top15ThingsToDoInSantoriniSquare from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q-square.jpg"
 import top15ThingsToDoInSantorini from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q.jpg"
