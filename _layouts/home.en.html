@@ -5,7 +5,15 @@
                 {% if t[0] contains 'EN' %}
                         {% for post in t[1] limit:1 %}
                         <div class="col-sm-12 col-md-12 col-lg-8 mb-2 mt-2">
-                                <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-primary }}" class="featured-image img-fluid" alt="{{ post.title }}"></a>
+                                <!-- <a class="card-text" href="{{ post.url }}"><img src="{{ post.featured-image-primary }}" class="featured-image img-fluid" alt="{{ post.title }}"></a> -->
+                                <a class="card-text" href="{{ post.url }}">
+                                        <picture>
+                                          <!-- For screens larger than 576px -->
+                                          <source media="(min-width: 576px)" srcset="{{ post['featured-image-primary'] }}">
+                                          <!-- For screens smaller than 576px -->
+                                          <img src="{{ post['featured-image-home'] }}" class="featured-image img-fluid" alt="{{ post.title }}">
+                                        </picture>
+                                      </a>
                         </div>
                         <div class="col-sm-12 col-md-12 col-lg-4 mb-2 mt-2">
                                 <a class="card-text" href="{{ post.url }}"><h1>{{ post.front_page_title }}</h1></a>
