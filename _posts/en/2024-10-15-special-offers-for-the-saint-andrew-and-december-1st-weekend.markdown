@@ -38,19 +38,19 @@ We’ve gathered some special offers from guesthouses in Romania, created especi
 
 At Grigorescu Mansion (Conacul Grigorescu), Chef Juranda, your co-host, will meticulously prepare the finest dishes using local ingredients, specially crafted for this celebratory weekend. The package includes, in addition to two nights' accommodation, a welcome drink, two breakfasts, and two dinners, with Saturday’s dinner being a festive one.
 
-Price: [from 2100 ron / room](https://conacul-grigorescu-terra-carpatica.pynbooking.direct/){:target="_blank" rel="nofollow"}
+Price: [from 2100 RON / room](https://conacul-grigorescu-terra-carpatica.pynbooking.direct/){:target="_blank" rel="nofollow"}
 
 ## Hotel Ozone
 
 The offer for the St. Andrew and December 1st mini-holiday includes two nights of accommodation with full board, access to the spa, a traditional welcome with cozonac and afinată, as well as a special artistic program.
 
-Price: [from 2100 ron / room](https://www.o3zone.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
+Price: [from 2100 RON / room](https://www.o3zone.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
 
 ## Hadar Chalet
 
 This package includes two nights' accommodation (November 29th – December 1st), full board (breakfast, lunch, and dinner), access to all the resort's facilities, an unforgettable campfire, and a festive dinner to celebrate the occasion.
 
-Price: [from 2400 ron / room](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
+Price: [from 2400 RON / room](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
 
 <div class="text-center">
     <ins class="bookingaff" data-aid="2429681" data-target_aid="2429681" data-prod="banner" data-width="468" data-height="60" data-lang="en">
@@ -72,16 +72,16 @@ Price: [from 2400 ron / room](https://hadarchalet.ro/){:target="_blank" rel="nof
 
 This package offers a two-night stay with full board, including activities for all ages: a pony carriage ride for children, a campfire, a craft workshop, and access to the SPA. Adults can also enjoy a one-hour horseback ride, perfect for exploring the beauty of the mountains.
 
-Price: [from 2726.5 ron / room](https://potcoava.ro/pachete-de-vacanta/){:target="_blank" rel="nofollow"}
+Price: [from 2726.5 RON / room](https://potcoava.ro/pachete-de-vacanta/){:target="_blank" rel="nofollow"}
 
 ## Atra Doftana
 
 The package includes two nights' accommodation (November 29th – December 1st) with breakfast and two special dinners: one with 3 courses and the other with 5 courses. After dinner on November 29th, you can enjoy a cozy campfire with mulled wine, while the gourmet dinner on November 30th will feature a fine dining experience, carefully paired with wines.
 
-Price: [from 2950 ron / room](https://atradoftana.ro){:target="_blank" rel="nofollow"}
+Price: [from 2950 RON / room](https://atradoftana.ro){:target="_blank" rel="nofollow"}
 
 ## Casa Timiș
 
 This package offers a 3-night stay (November 29th – December 2nd) with half-board and access to the SPA. In addition to relaxation, the offer includes a wine tasting, a farm tour with dairy tastings, a yoga session for adults, interactive activities for children organized by animators, live music during dinner, and a campfire accompanied by folk music and traditional snacks.
 
-Price: [from 7400 ron / room](https://casatimis.ro){:target="_blank" rel="nofollow"}
+Price: [from 7400 RON / room](https://casatimis.ro){:target="_blank" rel="nofollow"}

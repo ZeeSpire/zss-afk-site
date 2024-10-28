@@ -26,8 +26,6 @@ featured-image-top-smaller: "/assets/resized/december-2024-offers-landscape-800x
 featured-image-primary: "/assets/resized/december-2024-offers-landscape-800x450.webp" # poza care apare pe prima pagina landscape
 featured-image-home: "/assets/resized/december-2024-offers-square-800x800.webp" # poza care apare pe prima pagina square
 ---
-Oferte Speciale pentru Weekendul de Sfântul Andrei și 1 Decembrie la pensiuni din România (2024)
-
 An de an, românii au motive de sărbătoare atât pe 30 noiembrie, cât și pe 1 decembrie, zile care sunt și libere legale. În 2024, aceste sărbători vor cădea în weekend, mai exact sâmbătă și duminică.
 
 Pe 30 noiembrie, românii îl sărbătoresc pe Sfântul Andrei, ocrotitorul României și "Apostolul românilor", cel care a adus creștinismul pe teritoriul de astăzi al țării.
@@ -40,13 +38,13 @@ Am căutat și am găsit oferte speciale ale pensiunilor din România, concepute
 
 La Conacul Grigorescu, chef Juranda, co-gazda dumneavoastră, va găti cu migală cele mai rafinate preparate din ingrediente locale, special pregătite pentru acest weekend de sărbătoare. Pachetul include, pe lângă două nopți de cazare, o băutură de bun venit, două mic dejunuri și două cine, dintre care cina de sâmbătă va fi una festivă.
 
-Preț: [de la 2100 ron / cameră](https://conacul-grigorescu-terra-carpatica.pynbooking.direct/){:target="_blank" rel="nofollow"}
+Preț: [de la 2100 RON / cameră](https://conacul-grigorescu-terra-carpatica.pynbooking.direct/){:target="_blank" rel="nofollow"}
 
 ## Hotel Ozone
 
 Oferta pentru minivacanța de Sfântul Andrei și 1 Decembrie include două nopți de cazare cu pensiune completă, acces la SPA, primire tradițională cu cozonac și afinată, precum și un program artistic deosebit.
 
-Preț: [de la 2100 ron / cameră](https://www.o3zone.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
+Preț: [de la 2100 RON / cameră](https://www.o3zone.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
 
 ## Hadar Chalet
 
@@ -54,36 +52,20 @@ Acest pachet include două nopți de cazare (29 noiembrie – 1 decembrie), pens
 
 Preț: [de la 2400 lei / cameră](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
 
-<div class="text-center">
-    <ins class="bookingaff" data-aid="2429681" data-target_aid="2429681" data-prod="banner" data-width="468" data-height="60" data-lang="en">
-        <!-- Anything inside will go away once widget is loaded. -->
-            <a href="//www.booking.com?aid=2429681">Booking.com</a>
-    </ins>
-    <script type="text/javascript">
-        (function(d, sc, u) {
-        var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = u + '?v=' + (+new Date());
-        p.parentNode.insertBefore(s,p);
-        })(document, 'script', '//cf.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-    </script>
-</div>
-
 ## Potcoava Mountain Hideaway
 
 Acest pachet oferă un sejur de două nopți cu pensiune completă, incluzând activități deosebite pentru toate vârstele: plimbare cu trăsurica trasă de ponei pentru copii, foc de tabără, atelier meșteșugăresc și acces la zona SPA. De asemenea, adulții se pot bucura de o drumeție călare de o oră, perfectă pentru a explora frumusețea munților.
 
-Preț: [de la 2726,5 ron / cameră](https://potcoava.ro/pachete-de-vacanta/){:target="_blank" rel="nofollow"}
+Preț: [de la 2726,5 RON / cameră](https://potcoava.ro/pachete-de-vacanta/){:target="_blank" rel="nofollow"}
 
 ## Atra Doftana
 
 Pachetul include două nopți de cazare (29 noiembrie – 1 decembrie) cu mic dejun inclus și două cine deosebite: una cu 3 feluri de mâncare și cealaltă cu 5 feluri. După cina din 29 noiembrie, te vei putea bucura de un foc de tabără acompaniat de vin fiert, iar cina gourmet din 30 noiembrie va fi o experiență fine dining, cu preparate asociate atent cu vinuri de calitate.
 
-Pret: [de la 2950 ron / cameră](https://atradoftana.ro){:target="_blank" rel="nofollow"}
+Pret: [de la 2950 RON / cameră](https://atradoftana.ro){:target="_blank" rel="nofollow"}
 
 ## Casa Timiș
 
 Pachetul include un sejur de 3 nopți (29 noiembrie – 2 decembrie) cu demipensiune și acces la SPA. Pe lângă relaxare, oferta cuprinde o degustare de vinuri, un tur la fermă cu degustare de produse lactate, o sesiune de yoga pentru adulți, activități interactive pentru copii organizate de animatori, muzică live la cină și un foc de tabără acompaniat de muzică folk și gustări tradiționale.
 
-Pret: [de la 7400 ron / cameră](https://casatimis.ro){:target="_blank" rel="nofollow"}
+Pret: [de la 7400 RON / cameră](https://casatimis.ro){:target="_blank" rel="nofollow"}
