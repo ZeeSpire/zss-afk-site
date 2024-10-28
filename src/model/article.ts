@@ -1,8 +1,8 @@
 import { StaticImageData } from "next/image";
 import { Category } from "./category";
 
-import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
-import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
+import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpeg"
+import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpeg"
 import { Slug } from "./slug";
 
 

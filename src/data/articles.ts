@@ -1,101 +1,101 @@
-import bulgariaRoseValleyRosesFourthJulySquare from "../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-fourth-of-july-rose-square.jpg"
-import bulgariaRoseValleyRosesFourthJuly from "../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-fourth-of-july-rose.jpg"
+import bulgariaRoseValleyRosesFourthJulySquare from "../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-fourth-of-july-rose-square.jpeg"
+import bulgariaRoseValleyRosesFourthJuly from "../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-fourth-of-july-rose.jpeg"
 
-import bulgariaRoseValleyRoseFestivalSquare from "../../public/bulgaria-rose-festival/bulgaria-rose-festival-field-square.jpg"
-import bulgariaRoseValleyRoseFestival from "../../public/bulgaria-rose-festival/bulgaria-rose-festival-field.jpg"
+import bulgariaRoseValleyRoseFestivalSquare from "../../public/bulgaria-rose-festival/bulgaria-rose-festival-field-square.jpeg"
+import bulgariaRoseValleyRoseFestival from "../../public/bulgaria-rose-festival/bulgaria-rose-festival-field.jpeg"
 
-import valeaVerde2Square from "../../public/valea-verde-2/valea-verde-2024-square.jpg"
-import valeaVerde2 from "../../public/valea-verde-2/valea-verde-2024.jpg"
+import valeaVerde2Square from "../../public/valea-verde-2/valea-verde-2024-square.jpeg"
+import valeaVerde2 from "../../public/valea-verde-2/valea-verde-2024.jpeg"
 
-import exquisiteCulinarySymphonySquare from "../../public/noua-restaurant/noua-restaurant-cov-square.jpg"
-import exquisiteCulinarySymphony from "../../public/noua-restaurant/noua-restaurant-cov.jpg"
+import exquisiteCulinarySymphonySquare from "../../public/noua-restaurant/noua-restaurant-cov-square.jpeg"
+import exquisiteCulinarySymphony from "../../public/noua-restaurant/noua-restaurant-cov.jpeg"
 
-import dinnerAtTheArtistSquare from "../../public/the-artist/the-artist-bucharest-square.jpg"
-import dinnerAtTheArtist from "../../public/the-artist/the-artist-bucharest.jpg"
+import dinnerAtTheArtistSquare from "../../public/the-artist/the-artist-bucharest-square.jpeg"
+import dinnerAtTheArtist from "../../public/the-artist/the-artist-bucharest.jpeg"
 
-import whatYouCanDoInThessalonikiSquare from "../../public/thessaloniki/thessaloniki-view-from-the-white-tower-square.jpg"
-import whatYouCanDoInThessaloniki from "../../public/thessaloniki/thessaloniki-view-from-the-white-tower.jpg"
+import whatYouCanDoInThessalonikiSquare from "../../public/thessaloniki/thessaloniki-view-from-the-white-tower-square.jpeg"
+import whatYouCanDoInThessaloniki from "../../public/thessaloniki/thessaloniki-view-from-the-white-tower.jpeg"
 
-import top15ThingsToDoInAthensSquare from "../../public/athens/parthenon-from-the-drone-athens-2-square.jpg"
-import top15ThingsToDoInAthens from "../../public/athens/parthenon-from-the-drone-athens-2.jpg"
+import top15ThingsToDoInAthensSquare from "../../public/athens/parthenon-from-the-drone-athens-2-square.jpeg"
+import top15ThingsToDoInAthens from "../../public/athens/parthenon-from-the-drone-athens-2.jpeg"
 
-import cismigiuGardenSquare from "../../public/cismigiu-park/cismigiu-park-square.jpg"
-import cismigiuGarden from "../../public/cismigiu-park/cismigiu-park.jpg"
+import cismigiuGardenSquare from "../../public/cismigiu-park/cismigiu-park-square.jpeg"
+import cismigiuGarden from "../../public/cismigiu-park/cismigiu-park.jpeg"
 
-import nationalVillageMuseumBucharestSquare from "../../public/muzeul-satului/muzeul-satului-roman-2-square.jpg"
-import nationalVillageMuseumBucharest from "../../public/muzeul-satului/muzeul-satului-roman-2.jpg"
+import nationalVillageMuseumBucharestSquare from "../../public/muzeul-satului/muzeul-satului-roman-2-square.jpeg"
+import nationalVillageMuseumBucharest from "../../public/muzeul-satului/muzeul-satului-roman-2.jpeg"
 
-import nouaBarBucharestSquare from "../../public/noua-bar/noua-bar-outside-square.jpg"
-import nouaBarBucharest from "../../public/noua-bar/noua-bar-outside.jpg"
+import nouaBarBucharestSquare from "../../public/noua-bar/noua-bar-outside-square.jpeg"
+import nouaBarBucharest from "../../public/noua-bar/noua-bar-outside.jpeg"
 
-import lecceABaroqueGemSquare from "../../public/lecce/lecce-a-baroque-gem-in-salento-square.jpg"
-import lecceABaroqueGem from "../../public/lecce/lecce-a-baroque-gem-in-salento.jpg"
+import lecceABaroqueGemSquare from "../../public/lecce/lecce-a-baroque-gem-in-salento-square.jpeg"
+import lecceABaroqueGem from "../../public/lecce/lecce-a-baroque-gem-in-salento.jpeg"
 
-import everythingAboutMateraSquare from "../../public/matera/matera-italy-1-square.jpg"
-import everythingAboutMatera from "../../public/matera/matera-italy-1.jpg"
+import everythingAboutMateraSquare from "../../public/matera/matera-italy-1-square.jpeg"
+import everythingAboutMatera from "../../public/matera/matera-italy-1.jpeg"
 
-import easterOffersInRomania2023Square from "../../public/oferte-paste/primavara-square.jpg"
-import easterOffersInRomania2023 from "../../public/oferte-paste/primavara.jpg"
+import easterOffersInRomania2023Square from "../../public/oferte-paste/primavara-square.jpeg"
+import easterOffersInRomania2023 from "../../public/oferte-paste/primavara.jpeg"
 
-import valeaVerdeAStorySquare from "../../public/valea-verde/valea-verde-cover-square.jpg"
-import valeaVerdeAStory from "../../public/valea-verde/valea-verde-cover.jpg"
+import valeaVerdeAStorySquare from "../../public/valea-verde/valea-verde-cover-square.jpeg"
+import valeaVerdeAStory from "../../public/valea-verde/valea-verde-cover.jpeg"
 
 import aboutTrufflesSquare from "../../public/grigorescu-2/IMG_20221029_123239.jpeg"
 import aboutTruffles from "../../public/grigorescu-2/IMG_1505.jpeg"
 
-import artSafariATemporaryArtSquare from "../../public/art-safari-2/IMG_20221120_121702.jpg"
+import artSafariATemporaryArtSquare from "../../public/art-safari-2/IMG_20221120_121702.jpeg"
 
-import truffleHuntingSquare from "../../public/grigorescu/IMG_1546-square.jpg"
-import truffleHunting from "../../public/grigorescu/IMG_1546.jpg"
+import truffleHuntingSquare from "../../public/grigorescu/IMG_1546-square.jpeg"
+import truffleHunting from "../../public/grigorescu/IMG_1546.jpeg"
 
-import viscriTheMostPopularSaxonVillageSquare from "../../public/viscri/viscri-top.jpg"
-import viscriTheMostPopularSaxonVillage from "../../public/viscri/viscri-top-16x9.jpg"
+import viscriTheMostPopularSaxonVillageSquare from "../../public/viscri/viscri-top.jpeg"
+import viscriTheMostPopularSaxonVillage from "../../public/viscri/viscri-top-16x9.jpeg"
 
 import cramaDePiatraSquare from "../../public/crama-de-piatra/IMG_20220828_080307-e1_tio8fx.jpeg"
 
-import top15ThingsToDoInSantoriniSquare from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q-square.jpg"
-import top15ThingsToDoInSantorini from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q.jpg"
+import top15ThingsToDoInSantoriniSquare from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q-square.jpeg"
+import top15ThingsToDoInSantorini from "../../public/santorini/e-PANO_20210714_203525_copy_yjfd0q.jpeg"
 
-import bestPlacesInSantoriniSquare from "../../public/santorini/e2-IMG_20210714_203245_stzjz0-square.jpg"
-import bestPlacesInSantorini from "../../public/santorini/e2-IMG_20210714_203245_stzjz0.jpg"
+import bestPlacesInSantoriniSquare from "../../public/santorini/e2-IMG_20210714_203245_stzjz0-square.jpeg"
+import bestPlacesInSantorini from "../../public/santorini/e2-IMG_20210714_203245_stzjz0.jpeg"
 
-import whatAndWhereToEatInSantoriniSquare from "../../public/santorini/e2-IMG_20210708_161422_uf6pbd-square.jpg"
-import whatAndWhereToEatInSantorini from "../../public/santorini/e2-IMG_20210708_161422_uf6pbd.jpg"
+import whatAndWhereToEatInSantoriniSquare from "../../public/santorini/e2-IMG_20210708_161422_uf6pbd-square.jpeg"
+import whatAndWhereToEatInSantorini from "../../public/santorini/e2-IMG_20210708_161422_uf6pbd.jpeg"
 
-import ourDivineCaveExperienceSquare from "../../public/divine-cave/0_jp5koh-square.jpg"
-import ourDivineCaveExperience from "../../public/divine-cave/0_jp5koh.jpg"
+import ourDivineCaveExperienceSquare from "../../public/divine-cave/0_jp5koh-square.jpeg"
+import ourDivineCaveExperience from "../../public/divine-cave/0_jp5koh.jpeg"
 
-import neversea2022Square from "../../public/neversea/neversea3_yuclp6-square.jpg"
-import neversea2022 from "../../public/neversea/neversea3_yuclp6.jpg"
+import neversea2022Square from "../../public/neversea/neversea3_yuclp6-square.jpeg"
+import neversea2022 from "../../public/neversea/neversea3_yuclp6.jpeg"
 
-import artSafari9Square from "../../public/art-safari/art-safari-1_eaht3h-square.jpg"
-import artSafari9 from "../../public/art-safari/art-safari-1_eaht3h.jpg"
+import artSafari9Square from "../../public/art-safari/art-safari-1_eaht3h-square.jpeg"
+import artSafari9 from "../../public/art-safari/art-safari-1_eaht3h.jpeg"
 
-import remoteAccomodationsInRomaniaSquare from "../../public/isolated-chalet/nor-11_xrj7cx-square.jpg"
-import remoteAccomodationsInRomania from "../../public/isolated-chalet/nor-11_xrj7cx.jpg"
+import remoteAccomodationsInRomaniaSquare from "../../public/isolated-chalet/nor-11_xrj7cx-square.jpeg"
+import remoteAccomodationsInRomania from "../../public/isolated-chalet/nor-11_xrj7cx.jpeg"
 
-import apogeumWinerySquare from "../../public/apogeum/DSCF3072_r_znfawp.jpg"
-import apogeumWinery from "../../public/apogeum/DSCF3072_r2_kdzmaw.jpg"
+import apogeumWinerySquare from "../../public/apogeum/DSCF3072_r_znfawp.jpeg"
+import apogeumWinery from "../../public/apogeum/DSCF3072_r2_kdzmaw.jpeg"
 
-import nouaARestaurantAtAnotherLevelSquare from "../../public/noua/IMG_20220403_172829_tkjo1d-square.jpg"
+import nouaARestaurantAtAnotherLevelSquare from "../../public/noua/IMG_20220403_172829_tkjo1d-square.jpeg"
 
-import muddyVolcanoesSquare from "../../public/muddy-volcanoes/DJI_0046_gjd2fi-square.jpg"
-import muddyVolcanoes from "../../public/muddy-volcanoes/DJI_0046_gjd2fi.jpg"
+import muddyVolcanoesSquare from "../../public/muddy-volcanoes/DJI_0046_gjd2fi-square.jpeg"
+import muddyVolcanoes from "../../public/muddy-volcanoes/DJI_0046_gjd2fi.jpeg"
 
-import frederiksborgCastleSquare from "../../public/copenhaga/frederiksborg5_b3hre1-square.jpg"
-import frederiksborgCastle from "../../public/copenhaga/frederiksborg5_b3hre1.jpg"
+import frederiksborgCastleSquare from "../../public/copenhaga/frederiksborg5_b3hre1-square.jpeg"
+import frederiksborgCastle from "../../public/copenhaga/frederiksborg5_b3hre1.jpeg"
 
-import threeDayInCopenhagenSquare from "../../public/copenhaga/DSCF1163_hvfg2z-square.jpg"
-import threeDayInCopenhagen from "../../public/copenhaga/DSCF1163_hvfg2z.jpg"
+import threeDayInCopenhagenSquare from "../../public/copenhaga/DSCF1163_hvfg2z-square.jpeg"
+import threeDayInCopenhagen from "../../public/copenhaga/DSCF1163_hvfg2z.jpeg"
 
-import freeAttracionsInCopenhagenSquare from "../../public/copenhaga/X_9_frederik_jqlhmi-square.jpg"
-import freeAttracionsInCopenhagen from "../../public/copenhaga/X_9_frederik_jqlhmi.jpg"
+import freeAttracionsInCopenhagenSquare from "../../public/copenhaga/X_9_frederik_jqlhmi-square.jpeg"
+import freeAttracionsInCopenhagen from "../../public/copenhaga/X_9_frederik_jqlhmi.jpeg"
 
-import tipsForVisitingCopenhagenSquare from "../../public/copenhaga/poza1_nyhavn_nfwm3x-square.jpg"
-import tipsForVisitingCopenhagen from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
+import tipsForVisitingCopenhagenSquare from "../../public/copenhaga/poza1_nyhavn_nfwm3x-square.jpeg"
+import tipsForVisitingCopenhagen from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpeg"
 
-import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpg"
-import magura from "../../public/copenhaga/poza1_nyhavn_nfwm3x.jpg"
+import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpeg"
+import magura from "../../public/magura/IMG_20211010_113741_yufvam.jpeg"
 
 import { Article, defaultArticle } from "../model/article"
 import { readFileSync } from "fs"
