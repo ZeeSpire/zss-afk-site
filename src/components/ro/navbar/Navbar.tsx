@@ -51,7 +51,7 @@ export default function Navbar({ enUrl }: { enUrl: string }) {
                                 <summary>Categorii</summary>
                                 <ul className="p-2">
                                     <li><Link  prefetch={false} href="/ro/romania">Romania</Link></li>
-                                    <li><Link  prefetch={false} href="/ro/italia">Romania</Link></li>
+                                    <li><Link  prefetch={false} href="/ro/italia">Italia</Link></li>
                                     <li><Link  prefetch={false} href="/ro/grecia">Grecia</Link></li>
                                     <li><Link  prefetch={false} href="/ro/danemarca">Danemarca</Link></li>
                                     <li><Link  prefetch={false} href="/ro/bulgaria">Bulgaria</Link></li>

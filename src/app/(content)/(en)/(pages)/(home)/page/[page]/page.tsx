@@ -133,7 +133,7 @@ export default function Page({ params }: { params: { page: number } }) {
             <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
                 <Link  prefetch={false} href={`${article.slug?.en}`}>
-                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority/>
                 </Link>
               </figure>
               <div className="card-body">
