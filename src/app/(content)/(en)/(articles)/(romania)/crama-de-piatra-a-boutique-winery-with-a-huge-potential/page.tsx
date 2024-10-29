@@ -148,9 +148,9 @@ export default function Page() {
         <p>We learned the history of the place that began more than 100 years ago (we leave you to discover it by yourself if you’re gonna pay them a visit) and how it received a new appearance in 2018 with the rehabilitation works. The grape varieties that are cultivated here are Cabernet Sauvignon, Merlot, Feteasca Neagra, and Feteasca Alba, and the wine produced here, matured in Romanian oak barrels, is available under the Boian and Aldavin labels, the latter being a super-limited edition. The slogan of Crama de Piatra is “The quantities of wine are small, but correct” after all.</p>
         <p>In the end, we expected the journey to continue with the wine tasting, but instead, we sat down in the restaurant and we each ordered a glass of wine. It seemed that they do not offer tastings led by a professional. We paid only for the wine ordered. Therefore, I would say that there is a potential that would be a shame not to be exploited. However, we enjoyed the presentation of the winery and the information we received.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={cramaDePiatraInteriorRestaurant2} alt="Crama de Piatra Restaurant 2" width={720} height={1200} sizes="(max-width: 768px) 100vw, 20vw" /></div>
-          <div><Image className="mb-4" src={cramaDePiatraVin} alt="Crama de Piatra Wine" width={720} height={1200} sizes="(max-width: 768px) 100vw, 20vw" /></div>
-          <div><Image className="mb-4" src={cramaDePiatraMancare} alt="Crama de Piatra Food" width={720} height={1200} sizes="(max-width: 768px) 100vw, 20vw" /></div>
+          <div><Image className="mb-4" src={cramaDePiatraInteriorRestaurant2} alt="Crama de Piatra Restaurant 2" width={720} height={1200} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-4" src={cramaDePiatraVin} alt="Crama de Piatra Wine" width={720} height={1200} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-4" src={cramaDePiatraMancare} alt="Crama de Piatra Food" width={720} height={1200} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>Just before sunset, we went for a long walk in the vineyard. As recommended, we tasted the grapes and noticed that as the altitude increased, the grapes became sweeter and more aromatic. We saw the ruins of the Buna Vestire Church, as well as a small almond orchard, but what is most important is that it was a relaxing and disconnecting walk.</p>
         <p>We spent the evening on the terrace with a carafe of the house wine, to which we added a platter of charcuterie and cheeses and some hummus with goat cheese. We had an amazing time. The music was a bit too loud, but it had to cover the music that came from a house nearby. All this noise could be heard in the rooms as well, and the music stopped around 1 AM, so it could be disturbing for someone who wants to sleep in absolute silence.</p>
@@ -158,8 +158,8 @@ export default function Page() {
         <p>The breakfast was very good, Swedish buffet style. We could choose from savory and sweet options: eggs cooked in various styles, cheeses, bacon, vegetables, bread, juices, milk, cereals, biscuits, croissants, Nutella, and fruit. And the coffee was excellent.</p>
         <p>The potential of this location is huge and except for the small minuses that can be easily corrected or overlooked, we felt very good here. It is a place we would love to return to.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={cramaDePiatra1} alt="Crama de Piatra Pin 01" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw" /></div>
-          <div><Image className="mb-4" src={cramaDePiatra2} alt="Crama de Piatra Pin 02" width={720} height={1200} sizes="(max-width: 768px) 100vw, 35vw" /></div>
+          <div><Image className="mb-4" src={cramaDePiatra1} alt="Crama de Piatra Pin 01" width={720} height={1200} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-4" src={cramaDePiatra2} alt="Crama de Piatra Pin 02" width={720} height={1200} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>
