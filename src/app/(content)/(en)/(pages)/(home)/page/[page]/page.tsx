@@ -129,11 +129,11 @@ export default function Page({ params }: { params: { page: number } }) {
       <Navbar roUrl={`${pageConfig.slug?.paginationRo}/${page}`} />
       <main className="flex-grow">
         <div className="px-2 grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {articles.map((article: Article) => (
+          {articles.map((article: Article, index: number) => (
             <div className="card bg-base-100 shadow-xl" key={article.id}>
               <figure>
                 <Link  prefetch={false} href={`${article.slug?.en}`}>
-                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority/>
+                  <Image src={article.featured} alt={article.title} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority={index === 0}/>
                 </Link>
               </figure>
               <div className="card-body">

@@ -121,7 +121,7 @@ export default function Page() {
           <div className="card bg-base-100 shadow-xl col-span-1 lg:col-span-2 lg:row-span-2">
             <figure>
               <Link  prefetch={false} href={`${latestArticle.slug?.ro}`}>
-                <Image src={latestArticle.featured} alt={latestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" />
+                <Image src={latestArticle.featured} alt={latestArticle.titleRo} width={705} height={705} sizes="(max-width: 768px) 90vw, (max-width: 1024px) 35vw, 25vw" priority/>
               </Link>
             </figure>
             <div className="card-body pt-4 pb-5">
