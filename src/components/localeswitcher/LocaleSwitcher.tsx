@@ -7,7 +7,7 @@ import Link from 'next/link';
 import Cookies from 'js-cookie';
 
 export const addAfkLanguageCookie = (locale: string) => {
-        console.log(">>> on VERCEL >>> setting AFK_LOCALE")
+        console.log(">>> setting AFK_LOCALE")
         Cookies.set('AFK_LOCALE', locale, { expires: 365 });
   };
 
