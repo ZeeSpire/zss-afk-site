@@ -127,6 +127,16 @@ Pe mesele festive nu vor lipsi sarmalele, purcelul la proțap și plăcintele �
 
 Preț: [de la 5300 lei / cameră](https://www.vatraboiereasca.ro/oferte/){:target="_blank" rel="nofollow"}
 
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+    <img 
+        src="/assets/images/helper/banner-booking-en-1.jpg" 
+        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
+        sizes="(max-width: 800px) 100vw, 1200px"
+        class="img-fluid" 
+        alt="Booking Banner">
+</a>
+
+
 ## Casa Timiș
 
 Pachetul "Crăciun de Poveste" include 3 nopți de cazare cu demipensiune.

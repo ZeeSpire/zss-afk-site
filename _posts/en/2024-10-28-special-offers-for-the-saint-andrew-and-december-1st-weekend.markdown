@@ -60,6 +60,16 @@ This package includes two nights' accommodation (November 29th – December 1st)
 
 Price: [from 2400 RON / room](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
 
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+    <img 
+        src="/assets/images/helper/banner-booking-en-1.jpg" 
+        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
+        sizes="(max-width: 800px) 100vw, 1200px"
+        class="img-fluid" 
+        alt="Booking Banner">
+</a>
+
+
 ## Potcoava Mountain Hideaway
 
 This package offers a two-night stay with full board, including activities for all ages: a pony carriage ride for children, a campfire, a craft workshop, and access to the SPA. Adults can also enjoy a one-hour horseback ride, perfect for exploring the beauty of the mountains.

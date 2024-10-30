@@ -60,6 +60,16 @@ Acest pachet include două nopți de cazare (29 noiembrie – 1 decembrie), pens
 
 Preț: [de la 2400 lei / cameră](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
 
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+    <img 
+        src="/assets/images/helper/banner-booking-en-1.jpg" 
+        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
+        sizes="(max-width: 800px) 100vw, 1200px"
+        class="img-fluid" 
+        alt="Booking Banner">
+</a>
+
+
 ## Potcoava Mountain Hideaway
 
 Acest pachet oferă un sejur de două nopți cu pensiune completă, incluzând activități deosebite pentru toate vârstele: plimbare cu trăsurica trasă de ponei pentru copii, foc de tabără, atelier meșteșugăresc și acces la zona SPA. De asemenea, adulții se pot bucura de o drumeție călare de o oră, perfectă pentru a explora frumusețea munților.
