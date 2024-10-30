@@ -49,6 +49,20 @@ Crăciunul la Portal Village este plin de activități și surprize: sesiuni de 
 
 Preț: [de la 3875 lei / două nopți / cameră sau de la 5582 lei / 3 nopți / cameră](https://portalvillage.ro/pachete-experiente-inedite-premium/){:target="_blank" rel="nofollow"}
 
+<ins class="bookingaff" data-aid="2429797" data-target_aid="2429797" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="ro" data-dest_id="2979" data-dest_type="region" data-df_num_properties="9">
+    <!-- Anything inside will go away once widget is loaded. -->
+        <a href="//www.booking.com?aid=2429797">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//cf.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+
 ## Potcoava Mountain Hideaway
 
 Pachetul de Crăciun include 3 nopți de cazare cu pensiune completă, precum și o masă festivă de Crăciun. Copiii se vor bucura de plimbări cu trăsura trasă de ponei, de drumeții călare, și de diverse ateliere meșteșugărești. În plus, va fi organizată o petrecere specială dedicată lor, pentru a adăuga și mai multă magie acestei perioade festive.

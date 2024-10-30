@@ -48,6 +48,20 @@ Christmas at Portal Village is filled with activities and surprises: yoga sessio
 
 Price:  [from 3875 RON / 2 nights / room or from 5582 RON / 3 nights / room](https://portalvillage.ro/pachete-experiente-inedite-premium/){:target="_blank" rel="nofollow"}
 
+<ins class="bookingaff" data-aid="2429802" data-target_aid="2429802" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="en" data-dest_id="2979" data-dest_type="region" data-df_num_properties="9">
+    <!-- Anything inside will go away once widget is loaded. -->
+        <a href="//www.booking.com?aid=2429802">Booking.com</a>
+</ins>
+<script type="text/javascript">
+    (function(d, sc, u) {
+      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = u + '?v=' + (+new Date());
+      p.parentNode.insertBefore(s,p);
+      })(document, 'script', '//cf.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+
 ## Potcoava Mountain Hideaway
 
 The Christmas package includes 3 nights of accommodation with full board, as well as a festive Christmas meal. Children will enjoy pony-drawn carriage rides, horseback riding, and various crafts workshops. Additionally, a special party will be organized just for them, adding even more magic to this festive season.
