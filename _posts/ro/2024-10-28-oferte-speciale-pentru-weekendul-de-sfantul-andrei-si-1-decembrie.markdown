@@ -40,6 +40,8 @@ Pachetul special pentru weekendul de 1 decembrie include două nopți de cazare 
 
 Preț: [de la 1500 lei / cameră](https://razelmluxuryresort.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
 
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="1 decembrie si sfantul andrei"></div>
+
 ## Conacul Grigorescu
 
 La Conacul Grigorescu, chef Juranda, co-gazda dumneavoastră, va găti cu migală cele mai rafinate preparate din ingrediente locale, special pregătite pentru acest weekend de sărbătoare. Pachetul include, pe lângă două nopți de cazare, o băutură de bun venit, două mic dejunuri și două cine, dintre care cina de sâmbătă va fi una festivă.
@@ -75,3 +77,5 @@ Pret: [de la 2950 RON / cameră](https://atradoftana.ro){:target="_blank" rel="n
 Pachetul include un sejur de 3 nopți (29 noiembrie – 2 decembrie) cu demipensiune și acces la SPA. Pe lângă relaxare, oferta cuprinde o degustare de vinuri, un tur la fermă cu degustare de produse lactate, o sesiune de yoga pentru adulți, activități interactive pentru copii organizate de animatori, muzică live la cină și un foc de tabără acompaniat de muzică folk și gustări tradiționale.
 
 Pret: [de la 7400 RON / cameră](https://casatimis.ro){:target="_blank" rel="nofollow"}
+
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="1 decembrie si sfantul andrei"></div>

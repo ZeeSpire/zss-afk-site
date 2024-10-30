@@ -49,6 +49,7 @@ Crăciunul la Portal Village este plin de activități și surprize: sesiuni de 
 
 Preț: [de la 3875 lei / două nopți / cameră sau de la 5582 lei / 3 nopți / cameră](https://portalvillage.ro/pachete-experiente-inedite-premium/){:target="_blank" rel="nofollow"}
 
+<!-- sibiu ro -->
 <ins class="bookingaff" data-aid="2429797" data-target_aid="2429797" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="ro" data-dest_id="2979" data-dest_type="region" data-df_num_properties="9">
     <!-- Anything inside will go away once widget is loaded. -->
         <a href="//www.booking.com?aid=2429797">Booking.com</a>
@@ -100,6 +101,8 @@ Am avut parte de două experiențe la Valea Verde: un weekend de vânătoare de 
 
 Preț: [de la 4000 lei / cameră](https://www.valeaverde.com/oferte/){:target="_blank" rel="nofollow"}
 
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="oferte de craciun"></div>
+
 ## Hotel Jelna
 
 Pachetul de sărbători include trei nopți de cazare cu pensiune completă într-un hotel elegant, parte din Crama Jelna, unde te vei putea bucura de degustări de vinuri locale de excepție. Hotelul oferă o zonă SPA complet echipată, cu piscină, saună umedă și uscată, bazin pentru copii, bazin cu apă sărată și o zonă dedicată masajelor, pentru o experiență de relaxare completă.
@@ -145,3 +148,5 @@ La Matca Relais & Châteaux, pachetul de Crăciun include două nopți de cazare
 Pe lângă cazarea superbă și priveliștile încântătoare, vă puteți răsfăța la SPA, care include piscină, jacuzzi, saune și diverse zone de relaxare, oferindu-vă o evadare perfectă din rutina zilnică.
 
 Preț: [de la 10500 lei / cameră](https://matcahotel.com/ro/home-romana/){:target="_blank" rel="nofollow"}
+
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="oferte de craciun"></div>

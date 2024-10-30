@@ -40,6 +40,8 @@ The special package for the December 1st weekend includes two nights of accommod
 
 Preț: [from 1500 RON / room](https://razelmluxuryresort.ro/oferte-speciale/){:target="_blank" rel="nofollow"}
 
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="1 decembrie si sfantul andrei"></div>
+
 ## Grigorescu Mansion
 
 At Grigorescu Mansion (Conacul Grigorescu), Chef Juranda, your co-host, will meticulously prepare the finest dishes using local ingredients, specially crafted for this celebratory weekend. The package includes, in addition to two nights' accommodation, a welcome drink, two breakfasts, and two dinners, with Saturday’s dinner being a festive one.
@@ -75,3 +77,5 @@ Price: [from 2950 RON / room](https://atradoftana.ro){:target="_blank" rel="nofo
 This package offers a 3-night stay (November 29th – December 2nd) with half-board and access to the SPA. In addition to relaxation, the offer includes a wine tasting, a farm tour with dairy tastings, a yoga session for adults, interactive activities for children organized by animators, live music during dinner, and a campfire accompanied by folk music and traditional snacks.
 
 Price: [from 7400 RON / room](https://casatimis.ro){:target="_blank" rel="nofollow"}
+
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="1 decembrie si sfantul andrei"></div>

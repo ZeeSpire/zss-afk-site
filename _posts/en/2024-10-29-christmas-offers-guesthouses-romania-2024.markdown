@@ -48,6 +48,7 @@ Christmas at Portal Village is filled with activities and surprises: yoga sessio
 
 Price:  [from 3875 RON / 2 nights / room or from 5582 RON / 3 nights / room](https://portalvillage.ro/pachete-experiente-inedite-premium/){:target="_blank" rel="nofollow"}
 
+<!-- sibiu en -->
 <ins class="bookingaff" data-aid="2429802" data-target_aid="2429802" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="en" data-dest_id="2979" data-dest_type="region" data-df_num_properties="9">
     <!-- Anything inside will go away once widget is loaded. -->
         <a href="//www.booking.com?aid=2429802">Booking.com</a>
@@ -99,6 +100,8 @@ We’ve had two memorable experiences at Valea Verde: a truffle hunting weekend 
 
 Price: [from 4000 RON / room](https://www.valeaverde.com/oferte/){:target="_blank" rel="nofollow"}
 
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="oferte de craciun"></div>
+
 ## Hotel Jelna
 
 The holiday package includes three nights of accommodation with full board in an elegant hotel, part of Jelna Winery, where you can enjoy tastings of exceptional local wines. The hotel offers a fully equipped spa area, featuring a swimming pool, wet and dry saunas, a children's pool, a saltwater pool, and a dedicated massage area for a complete relaxation experience.
@@ -145,5 +148,5 @@ In addition to the superb accommodation and enchanting views, you can indulge in
 
 Price: [from 10500 RON / room](https://matcahotel.com/ro/home-romana/){:target="_blank" rel="nofollow"}
 
-
+<div data-gyg-widget="auto" data-gyg-partner-id="HA6BSPM" data-gyg-cmp="oferte de craciun"></div>
 
