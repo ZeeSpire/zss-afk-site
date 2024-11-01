@@ -131,7 +131,7 @@ Price: [from 5300 RON / room](https://www.vatraboiereasca.ro/oferte/){:target="_
         src="/assets/images/helper/banner-booking-en-1.jpg" 
         srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
         sizes="(max-width: 800px) 100vw, 1200px"
-        class="img-fluid" 
+        class="img-fluid mt-5 mb-5" 
         alt="Booking Banner">
 </a>
 
