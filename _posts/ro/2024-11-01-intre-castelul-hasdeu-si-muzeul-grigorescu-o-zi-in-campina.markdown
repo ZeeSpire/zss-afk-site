@@ -30,13 +30,15 @@ featured-image-home: "/assets/resized/campina-1-muzeul-memorial-bogdan-petriceic
 
 Am pornit din București către Câmpina cu mașina, iar drumul, destul de bun, se parcurge în maxim două ore, în funcție de trafic. Totuși, Câmpina este accesibilă și cu trenul rapid, care face aproximativ o oră din Gara de Nord, iar un bilet la clasa a doua pentru un adult costă doar 36 de lei.
 
-<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer">
     <img 
         src="/assets/images/helper/banner-booking-en-1.jpg" 
-        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
-        sizes="(max-width: 800px) 100vw, 1200px"
+        srcset="
+            /assets/images/helper/banner-booking-en-2-square.jpg 800w,
+            /assets/images/helper/banner-booking-en-1.jpg 1200w"
+        sizes="(max-width: 800px) and (orientation: portrait) 100vw, 1200px"
         class="img-fluid mt-5 mb-5" 
-        alt="Booking Banner">
+        alt="Discover amazing hotel deals on Booking.com">
 </a>
 
 ## Prima oprire în Câmpina: Muzeul Memorial Bogdan Petriceicu Hașdeu

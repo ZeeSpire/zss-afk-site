@@ -30,13 +30,15 @@ In search of weekend getaway ideas, we opened Google Maps and decided to visit a
 
 We set off from Bucharest to Câmpina by car, and the journey, on a fairly good road, can be completed in up to two hours, depending on traffic. However, Câmpina is also accessible by express train, which takes about an hour from Gara de Nord, with a second-class ticket costing only 36 lei for an adult.
 
-<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer">
     <img 
         src="/assets/images/helper/banner-booking-en-1.jpg" 
-        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
-        sizes="(max-width: 800px) 100vw, 1200px"
+        srcset="
+            /assets/images/helper/banner-booking-en-2-square.jpg 800w,
+            /assets/images/helper/banner-booking-en-1.jpg 1200w"
+        sizes="(max-width: 800px) and (orientation: portrait) 100vw, 1200px"
         class="img-fluid mt-5 mb-5" 
-        alt="Booking Banner">
+        alt="Discover amazing hotel deals on Booking.com">
 </a>
 
 ## First Stop in Câmpina: Bogdan Petriceicu Hasdeu Memorial Museum

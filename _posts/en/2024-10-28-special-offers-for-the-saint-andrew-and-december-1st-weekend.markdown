@@ -60,15 +60,16 @@ This package includes two nights' accommodation (November 29th – December 1st)
 
 Price: [from 2400 RON / room](https://hadarchalet.ro/){:target="_blank" rel="nofollow"}
 
-<a href="https://www.booking.com/index.html?aid=7913345" target="_blank">
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer">
     <img 
         src="/assets/images/helper/banner-booking-en-1.jpg" 
-        srcset="/assets/images/helper/banner-booking-en-2-square.jpg 800w, /assets/images/helper/banner-booking-en-1.jpg 1200w" 
-        sizes="(max-width: 800px) 100vw, 1200px"
+        srcset="
+            /assets/images/helper/banner-booking-en-2-square.jpg 800w,
+            /assets/images/helper/banner-booking-en-1.jpg 1200w"
+        sizes="(max-width: 800px) and (orientation: portrait) 100vw, 1200px"
         class="img-fluid mt-5 mb-5" 
-        alt="Booking Banner">
+        alt="Discover amazing hotel deals on Booking.com">
 </a>
-
 
 ## Potcoava Mountain Hideaway
 
