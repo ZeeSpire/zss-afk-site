@@ -30,15 +30,19 @@ featured-image-home: "/assets/resized/campina-1-muzeul-memorial-bogdan-petriceic
 
 Am pornit din București către Câmpina cu mașina, iar drumul, destul de bun, se parcurge în maxim două ore, în funcție de trafic. Totuși, Câmpina este accesibilă și cu trenul rapid, care face aproximativ o oră din Gara de Nord, iar un bilet la clasa a doua pentru un adult costă doar 36 de lei.
 
-<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer">
-    <img 
-        src="/assets/images/helper/banner-booking-en-1.jpg" 
-        srcset="
-            /assets/images/helper/banner-booking-en-2-square.jpg 800w,
-            /assets/images/helper/banner-booking-en-1.jpg 1200w"
-        sizes="(max-width: 800px) and (orientation: portrait) 100vw, 1200px"
-        class="img-fluid mt-5 mb-5" 
-        alt="Discover amazing hotel deals on Booking.com">
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer"> 
+    <div class="d-none d-md-block">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+    <div class="d-block d-md-none">
+        <img 
+            src="/assets/images/helper/banner-booking-en-2-square.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
 </a>
 
 ## Prima oprire în Câmpina: Muzeul Memorial Bogdan Petriceicu Hașdeu
@@ -57,19 +61,21 @@ Iulia Hașdeu s-a născut în 1869 și s-a dovedit un copil-minune: la doar doi 
             {% responsive_image path: assets/images/posts/campina/campina-3-muzeul-memorial-bogdan-petriceicu-hasdeu.webp alt: "Muzeul Memorial Bogdan Petriceicu Hașdeu 2" 2pelinie9pe16: true %}
     </div>
 </div>
-<ins class="bookingaff" data-aid="2429896" data-target_aid="2429896" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="en" data-dest_id="-1155599" data-dest_type="city" data-df_num_properties="9">
-    <!-- Anything inside will go away once widget is loaded. -->
-        <a href="//www.booking.com?aid=2429896">Booking.com</a>
-</ins>
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//cf.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer"> 
+    <div class="d-none d-md-block">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+    <div class="d-block d-md-none">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1-square.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+</a>
 
 Castelul-templu este plin de simboluri și are un aspect bizar, dar impresionant, cu o energie deosebită. Biletul de intrare costă 15 lei pentru un adult, iar vizitatorii primesc o telecomandă cu ajutorul căreia pot accesa un ghid audio pentru diverse camere și obiecte.
 

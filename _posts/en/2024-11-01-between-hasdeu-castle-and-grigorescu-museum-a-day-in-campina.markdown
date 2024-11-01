@@ -30,15 +30,19 @@ In search of weekend getaway ideas, we opened Google Maps and decided to visit a
 
 We set off from Bucharest to Câmpina by car, and the journey, on a fairly good road, can be completed in up to two hours, depending on traffic. However, Câmpina is also accessible by express train, which takes about an hour from Gara de Nord, with a second-class ticket costing only 36 lei for an adult.
 
-<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer">
-    <img 
-        src="/assets/images/helper/banner-booking-en-1.jpg" 
-        srcset="
-            /assets/images/helper/banner-booking-en-2-square.jpg 800w,
-            /assets/images/helper/banner-booking-en-1.jpg 1200w"
-        sizes="(max-width: 800px) and (orientation: portrait) 100vw, 1200px"
-        class="img-fluid mt-5 mb-5" 
-        alt="Discover amazing hotel deals on Booking.com">
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer"> 
+    <div class="d-none d-md-block">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+    <div class="d-block d-md-none">
+        <img 
+            src="/assets/images/helper/banner-booking-en-2-square.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
 </a>
 
 ## First Stop in Câmpina: Bogdan Petriceicu Hasdeu Memorial Museum
@@ -58,19 +62,20 @@ Iulia Hasdeu was born in 1869 and was a prodigy: by just two and a half years ol
     </div>
 </div>
 
-<ins class="bookingaff" data-aid="2429896" data-target_aid="2429896" data-prod="dfl2" data-width="100%" data-height="auto" data-lang="en" data-dest_id="-1155599" data-dest_type="city" data-df_num_properties="9">
-    <!-- Anything inside will go away once widget is loaded. -->
-        <a href="//www.booking.com?aid=2429896">Booking.com</a>
-</ins>
-<script type="text/javascript">
-    (function(d, sc, u) {
-      var s = d.createElement(sc), p = d.getElementsByTagName(sc)[0];
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = u + '?v=' + (+new Date());
-      p.parentNode.insertBefore(s,p);
-      })(document, 'script', '//cf.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-</script>
+<a href="https://www.booking.com/index.html?aid=7913345" target="_blank" rel="noopener noreferrer"> 
+    <div class="d-none d-md-block">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+    <div class="d-block d-md-none">
+        <img 
+            src="/assets/images/helper/banner-booking-en-1-square.jpg" 
+            class="img-fluid mt-5 mb-5" 
+            alt="Discover amazing hotel deals on Booking.com">
+    </div>
+</a>
 
 The temple-like castle is filled with symbols and has an eccentric but impressive appearance, with a distinctive energy. The entrance fee is 15 lei for an adult, and visitors receive a remote control that allows access to an audio guide for various rooms and objects.
 
