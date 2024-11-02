@@ -43,7 +43,7 @@ Am pornit din București către Câmpina cu mașina, iar drumul, destul de bun, 
 
 ## Prima oprire în Câmpina: Muzeul Memorial Bogdan Petriceicu Hașdeu
 
-Bogdan Petriceicu Hașdeu (1838–1907), cunoscut ca filolog, istoric, scriitor, folclorist și om politic, s-a născut la Cristinești, Basarabia (astăzi în Ucraina) și și-a petrecut ultimii ani în Câmpina, într-o căsuță aflată în spatele Castelului, care poate fi vizitat și astăzi.
+Bogdan Petriceicu Hașdeu (1838–1907), cunoscut ca filolog, istoric, scriitor, folclorist și om politic, s-a născut la Cristinești, Basarabia (astăzi în Ucraina) și și-a petrecut ultimii ani în Câmpina.
 
 După moartea fiicei sale, Iulia (sau Julia) Hașdeu, B.P. Hașdeu a devenit fascinat de ocultism și spiritism, convins că poate comunica cu spiritul ei. Se spune că, astfel, între 1894 și 1896, a construit Castelul Hașdeu, al cărui plan i-ar fi fost "dictat" de către fiica sa în lumea de dincolo.
 

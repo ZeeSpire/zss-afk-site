@@ -43,7 +43,7 @@ We set off from Bucharest to Câmpina by car, and the journey, on a fairly good 
 
 ## First Stop in Câmpina: Bogdan Petriceicu Hasdeu Memorial Museum
 
-Bogdan Petriceicu Hasdeu (1838–1907), known as a philologist, historian, writer, folklorist, and politician, was born in Cristinești, Bessarabia (now in Ukraine), and spent his final years in Câmpina in a small house behind the Castle, which can still be visited today.
+Bogdan Petriceicu Hasdeu (1838–1907), known as a philologist, historian, writer, folklorist, and politician, was born in Cristinești, Bessarabia (now in Ukraine), and spent his final years in Câmpina.
 
 After the death of his daughter, Iulia (or Julia) Hasdeu, B.P. Hasdeu became fascinated with occultism and spiritism, convinced he could communicate with her spirit. It’s said that, between 1894 and 1896, he built Hasdeu Castle, whose design was "dictated" to him by his daughter from the afterlife.
 
