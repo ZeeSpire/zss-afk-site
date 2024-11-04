@@ -134,7 +134,7 @@ export default function Page() {
       <Navbar roUrl={`${article.slug?.ro}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
-        <Image className="mb-4" src={bulgariaValleyofRosesFourthOfJuly} alt="Exploring the Fragrant Beauty of Bulgaria's Valley of Roses" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-4" src={bulgariaValleyofRosesFourthOfJuly} alt="Exploring the Fragrant Beauty of Bulgaria's Valley of Roses" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority/>
         <p>Last year, at the end of May, we had the pleasure of attending the Rose Festival in Bulgaria, located in the Kazanlak region, famously known as the Valley of Roses. We’ve shared more details about our accommodations and the places we visited in <Link prefetch={false} href="/bulgaria-rose-valley-rose-festival" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
         <p>Since we captured so many stunning roses during that trip, we felt compelled to dedicate an entire article solely to them — this is that article.</p>
         <p>Surrounding the villages of Yasenovo, Rozovo, Kanchevo, and Cherganovo, one can find lush bushes of Damask roses. These villages annually participate in the Rose Festival, meticulously preparing to host tourists for the traditional rose-picking rituals.</p>

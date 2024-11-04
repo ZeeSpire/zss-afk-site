@@ -9,6 +9,7 @@ export default function GoogleMaps({ link }: { link: string }) {
                 loading="lazy"
                 allowFullScreen
                 className="w-full h-full"
+                title="Google map with travel information"
             ></iframe>
         </div>
     );

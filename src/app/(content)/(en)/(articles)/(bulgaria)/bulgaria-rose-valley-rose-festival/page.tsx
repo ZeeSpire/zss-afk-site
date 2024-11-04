@@ -138,7 +138,7 @@ export default function Page() {
     <Navbar roUrl={`${article.slug?.ro}`} />
     <main className="flex-grow">
       <h1 className="text-center mb-8">{article.title}</h1>
-      <Image className="mb-4" src={bulgariaRoseFestivalField} alt="Embark on an Enchanting Journey Through Bulgaria's Rose Valley" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+      <Image className="mb-4" src={bulgariaRoseFestivalField} alt="Embark on an Enchanting Journey Through Bulgaria's Rose Valley" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority/>
       <p>If you’re longing to experience the most exquisite scent of roses, then it’s time to consider a trip to the Kazanlak region, also known as the Rose Valley.</p>
       <p>In 2023, we had the pleasure of attending the Rose Festival in Kazanlak, Bulgaria, and we were so enamored with the experience that we felt compelled to share it with you.</p>
       <h2>When does the Rose Festival take place?</h2>
