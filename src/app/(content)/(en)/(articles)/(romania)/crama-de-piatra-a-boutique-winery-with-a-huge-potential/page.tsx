@@ -134,7 +134,7 @@ export default function Page() {
       <section>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       </section>
-      <Navbar roUrl="/ro/crama-de-piatra-o-crama-boutique-cu-un-potential-imens" />
+      <Navbar roUrl={`${article.slug?.ro}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         <p>Crama de Piatra is a boutique winery, with a small production of wine, which has all the assets to become a special destination for one’s soul. Here you can participate in winery tours and wine tastings, relax with friends on the terrace or take a walk through the vineyards. You will also find here a very tastefully decorated restaurant, with an open kitchen and a terrace surrounded by greenery, as well as accommodation spaces in case you want to spend the night. In other words, it is a worthy destination to consider for a well-spent weekend.</p>
