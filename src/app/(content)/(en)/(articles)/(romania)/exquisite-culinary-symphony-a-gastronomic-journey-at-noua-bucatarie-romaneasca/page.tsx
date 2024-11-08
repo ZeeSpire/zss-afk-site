@@ -160,8 +160,8 @@ export default function Page() {
         <p>But enough with the introduction, let’s dive into the topic of interest: dinner at Noua. The menu is constantly changing in relation to the seasonality of the ingredients. For the most up-to-date menu, please refer to their <LinkExternal link="https://nouarestaurant.ro/" title="Link to Noua Restaurant" text="website" />. Our visit was in November 2023, and the tasting menu, which I will detail below, was priced at 320 RON (approx. 64 EUR) per person. Additionally, there is an option to pair the meal with wines or juices for an additional cost of 275 RON (approx. 55 EUR) per person.</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={nouaRestaurant2} alt="Noua Bucatarie Romaneasca Restaurant - Inside" width={720} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-4" src={nouaRestaurant3} alt="Noua Bucatarie Romaneasca Restaurant - Wine" width={720} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-4" src={nouaRestaurant2} alt="Noua Bucatarie Romaneasca Restaurant - Inside" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-4" src={nouaRestaurant3} alt="Noua Bucatarie Romaneasca Restaurant - Wine" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
         <p>​After being seated (this time we opted for a table upstairs to have a view of the open kitchen), we were given an explanation of the menu and asked about any food allergies or intolerances we might have. Following that, towels infused with various aromas (such as chamomile) were brought for us to wipe our hands with.</p>
         <p>The dinner commenced with seven mini-courses (or amuse-bouches), with six representing the major geographical regions of the country. Each course was presented on a puzzle piece that, when assembled, formed the map of Romania. The seventh puzzle piece was introduced, symbolizing the dish from Bessarabia.</p>
