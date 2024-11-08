@@ -183,7 +183,7 @@ export default function Page() {
         <h3>The Rose Museum in Kazanluk</h3>
         <p>The Rose Museum exhibits a variety of historical artifacts, traditional tools, and interactive displays that illustrate the process of rose oil extraction. Visitors have the opportunity to learn about the significance of roses in Bulgarian culture, folklore, and economy.</p>
         <p>Within both the museum courtyard and the park in front of the museum, visitors can admire, photograph, and smell dozens of rose varieties.</p>
-        <p>Their fragrance is intoxicating in the most delightful way possible. I have detailed about roses and their beauty in <Link prefetch={false} href="/exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
+        <p>Their fragrance is intoxicating in the most delightful way possible. I have detailed about roses and their beauty in <Link prefetch={false} href="/exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses" title="Exploring the Fragrant Beauty of Bulgaria's Valley of Roses" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
         {/* image 16/9 */}
         <Image className="mb-4" src={bulgariaRoseFestivalRoseMuseumKazanlak} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>The Damascena Ethnographic Complex</h3>

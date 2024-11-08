@@ -1,6 +1,22 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
+import Image from "next/image";
+import Link from "next/link";
+import LinkExternal from "@/components/linkexternal/LinkExternal";
+
+import theArtist1 from "../../../../../../../public/the-artist/the-artist-bucharest-1.jpeg"
+import theArtist2 from "../../../../../../../public/the-artist/the-artist-bucharest-2.jpeg"
+import theArtist3 from "../../../../../../../public/the-artist/the-artist-bucharest-3.jpeg"
+import theArtist4 from "../../../../../../../public/the-artist/the-artist-bucharest-4.jpeg"
+import theArtist5 from "../../../../../../../public/the-artist/the-artist-bucharest-5.jpeg"
+import theArtist6 from "../../../../../../../public/the-artist/the-artist-bucharest-6.jpeg"
+import theArtist7 from "../../../../../../../public/the-artist/the-artist-bucharest-7.jpeg"
+import theArtist8 from "../../../../../../../public/the-artist/the-artist-bucharest-8.jpeg"
+import theArtist9 from "../../../../../../../public/the-artist/the-artist-bucharest-9.jpeg"
+import theArtist10 from "../../../../../../../public/the-artist/the-artist-bucharest-10.jpeg"
+import theArtist11 from "../../../../../../../public/the-artist/the-artist-bucharest-11.jpeg"
+import theArtist12 from "../../../../../../../public/the-artist/the-artist-bucharest-12.jpeg"
 
 const article = getArticle(30);
 
