@@ -2,7 +2,6 @@ import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import Image from "next/image";
-// import Link from "next/link";
 import LinkExternal from "@/components/linkexternal/LinkExternal";
 
 import thessalonikiArchOfGalerius from "../../../../../../../public/thessaloniki/thessaloniki-arch-of-galerius.jpg"
