@@ -287,8 +287,8 @@ export default function Page() {
         <p>This was our Athenian experience. We spent two and a half days in Athens, during which we managed to take the pulse of the city, visit the most important archaeological sites, walk through the charming neighborhoods of Athens, and taste the food we were longing for.</p>
         <p>If you want to see footage from the spot, where we walked, and what we saw, you can find a playlist dedicated to Greece on our <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link to AFKology YouTube channel" text="YouTube channel" />.</p>
         <p>Enjoy life!</p>
-         {/* image 2/3 (1000x1500) */}
-         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {/* image 2/3 (1000x1500) */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div><Image className="mb-4" src={pinAthens} alt="Athens - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
           <div><Image className="mb-4" src={pinAthens2} alt="Athens - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>

@@ -1,6 +1,12 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
+import Image from "next/image";
+import LinkExternal from "@/components/linkexternal/LinkExternal";
+import Youtube from "@/components/youtube/Youtube";
+
+import aFlowerFromCismigiuPark from "../../../../../../../public/cismigiu-park/a-flower-from-cismigiu-park.jpeg"
+import cismigiuPark from "../../../../../../../public/cismigiu-park/cismigiu-park.jpeg"
 
 const article = getArticle(27);
 
@@ -118,14 +124,33 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-    <section>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-    </section>
-    <Navbar roUrl={`${article.slug?.ro}`} />
-    <main className="flex-grow">
-      <h1 className="text-center mb-8">{article.title}</h1>
-      <p>aaaa</p>
-    </main>
-  </div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
+      <Navbar roUrl={`${article.slug?.ro}`} />
+      <main className="flex-grow">
+        <h1 className="text-center mb-8">{article.title}</h1>
+        {/* image 16/9 */}
+        <Image className="mb-4" src={cismigiuPark} alt="Escape to Cişmigiu Garden, the oldest park in Bucharest" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>I was thinking recently, why not promote more the city where we spend most of our time, namely - Bucharest?</p>
+        <p>We will try to do this more often because we like to go for a walk around the city. And if it’s about walking, why not talk about Cişmigiu?</p>
+        <p>The Cişmigiu Garden is the oldest public garden in Bucharest, having been established more than 170 years ago by draining the pond in the respective area.</p>
+        <p>In which Romanian word do you think the name Cişmigiu originates? <br/> A. Cizmă (boot)<br/>B. Ciumagiu (worm)<br/>C. Cişmea (fountain)</p>
+        <p>Read till the end to find out the correct answer.</p>
+        <p>The landscaper of German origin Carl Friedrich Wilhelm Meyer, who also worked on the imperial gardens in Vienna, was in charge of designing the garden. The public garden has been modified since then, but most of it has remained the same.</p>
+        <p>During the summer, you can go boating on the Cişmigiu Lake, and during the winter, you can go to the ice rink. Also, there are playgrounds for children, a special area for dogs, and many more.</p>
+        {/* image 16/9 */}
+        <Image className="mb-4" src={aFlowerFromCismigiuPark} alt="Cişmigiu Garden - A flower" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>We can appreciate that it is a park with many species of plants, trees, and shrubs. We admired the wisterias, in May, when they bloom, but also the Ginkgo Biloba tree.</p>
+        <p>Of course, there are many things to improve, but we want to appreciate the beauty of a place and not highlight the negative things.</p>
+        <p>Rather than telling you about what you can see in the park, wouldn’t it be better to show you? We were inspired by Cişmigiu and each of us created a short video that we posted on our <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link to AFKology YouTube channel" text="YouTube channel" />.</p>
+        <p>Option 1:</p>
+        <Youtube videoId="rDqrwzKbg6s" />
+        <p>Option 2:</p>
+        <Youtube videoId="Pa3HHX7K61g" />
+        <p>What do you think? Which of the two options do you prefer? Interact with us on <LinkExternal link="https://www.instagram.com/afkology/" title="Link to AFKology Instagram" text="Instagram" /> or <LinkExternal link="https://www.facebook.com/afkology/" title="Link to AFKology Facebook" text="Facebook" />.</p>
+        <p>Ah, it was about to slip my mind. The correct answer is C.</p>
+      </main>
+    </div>
   );
 }
