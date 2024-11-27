@@ -139,7 +139,7 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalField} alt="Embark on an Enchanting Journey Through Bulgaria's Rose Valley" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalField} alt="Embark on an Enchanting Journey Through Bulgaria's Rose Valley" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
         <p>If you’re longing to experience the most exquisite scent of roses, then it’s time to consider a trip to the Kazanlak region, also known as the Rose Valley.</p>
         <p>In 2023, we had the pleasure of attending the Rose Festival in Kazanlak, Bulgaria, and we were so enamored with the experience that we felt compelled to share it with you.</p>
         <h2>When does the Rose Festival take place?</h2>
@@ -147,7 +147,7 @@ export default function Page() {
         <p>The main festivities occur on Saturdays and Sundays and include the traditional rose-picking ceremony, the distillation of rose petals to produce essential oil, a parade, beauty contests, and concerts.</p>
         <p>The festival schedule, including the timing and locations of all events related to the Rose Festival, varies from year to year and can be found online or through various travel agencies. For the year 2024, we found the schedule on the <LinkExternal link="https://www-kazanlak-bg.translate.goog/page-12782.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en" title="Official website of the Bulgarian Rose Fastival" text="official website" /> of the municipality.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalRosesInField} alt="Bulgaria Rose Festival - Roses in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosesInField} alt="Bulgaria Rose Festival - Roses in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h2>How can you get there?</h2>
         <p>If you’re arriving from another country and landing at Sofia Airport, I recommend renting a car or booking a dedicated tour to the Rose Festival with transportation included from a travel agency.</p>
         <p>We drove from Romania in our own car, crossed the border at Giurgiu-Ruse, passed through Veliko Tarnovo, and safely reached our destination. There were only a few potholes on certain sections of the road; otherwise, the journey was smooth. We were pleasantly surprised that most drivers obeyed traffic rules.</p>
@@ -162,16 +162,16 @@ export default function Page() {
         <p>Upon arrival, we paid 10 leva (in 2023) in cash to enter the designated area in the field. Here, visitors could purchase crowns made of rosebuds and other traditional Bulgarian products. The event was a true spectacle, with Bulgarians of all ages dressed in folk costumes, joyfully dancing and singing folk songs. Afterwards, we joined the festivities and ventured among the fragrant bushes to pick roses.</p>
         <p>It was indeed a splendid morning!</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalRosePickingRitual} alt="Bulgaria Rose Festival - Rose Picking ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitual} alt="Bulgaria Rose Festival - Rose Picking ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalRosePickingRitualInTheField} alt="Bulgaria Rose Festival - Rose Picking ritual in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitualInTheField} alt="Bulgaria Rose Festival - Rose Picking ritual in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>The Ritual of Boiling Rose Petals</h3>
         <p>To witness the boiling of rose petals and the extraction of essential oil, we headed to the center of Kazanluk, to the <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=48&Itemid=1&lang=en" title="Link to Kulata Ethnographic Complex" text="Kulata Ethnographic Complex" />.</p>
         <p>The entrance fee was approximately 8 leva per person, payable in cash. However, besides learning about essential oil extraction, we also had the opportunity to explore the garden and rooms of the ethnographic museum.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalRoseBoilingRitual} alt="Bulgaria Rose Festival - Rose Boiling ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseBoilingRitual} alt="Bulgaria Rose Festival - Rose Boiling ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalKulataEthnographicComplex} alt="Bulgaria Rose Festival - Kulata Ethnographic Complex" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalKulataEthnographicComplex} alt="Bulgaria Rose Festival - Kulata Ethnographic Complex" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>The Thracian Tombs</h3>
         <p>Located just under 250 meters from the Kulata Ethnographic Museum, in a small park (Tyulbeto Park), you’ll find a Thracian tomb, along with a replica of it. The latter is open to visitors.</p>
         <p>For the address, visiting hours, and ticket prices, please refer to this <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=63&Itemid=87&lang=en" title="Link to Kazanlak museum website" text="website" />.</p>
@@ -179,26 +179,26 @@ export default function Page() {
         <p>Just a 15-minute drive from Kazanluk, you can explore the tombs of Seuthes III, Shushmanets, Griffins, and Ostrusha.</p>
         <p>Furthermore, many of the artifacts and statues discovered in these tombs are on display at the Iskra Historical Museum in Kazanluk.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaKazanlukThracianTomb} alt="Bulgaria Kazanluk - Thracian Tomb" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaKazanlukThracianTomb} alt="Bulgaria Kazanluk - Thracian Tomb" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>The Rose Museum in Kazanluk</h3>
         <p>The Rose Museum exhibits a variety of historical artifacts, traditional tools, and interactive displays that illustrate the process of rose oil extraction. Visitors have the opportunity to learn about the significance of roses in Bulgarian culture, folklore, and economy.</p>
         <p>Within both the museum courtyard and the park in front of the museum, visitors can admire, photograph, and smell dozens of rose varieties.</p>
         <p>Their fragrance is intoxicating in the most delightful way possible. I have detailed about roses and their beauty in <Link prefetch={false} href="/exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses" title="Exploring the Fragrant Beauty of Bulgaria's Valley of Roses" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseFestivalRoseMuseumKazanlak} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseMuseumKazanlak} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>The Damascena Ethnographic Complex</h3>
         <p>Situated approximately 25 kilometers from Kazanluk, in the heart of the Rose Valley, lies the <LinkExternal link="https://www.damascena.net/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/?lang=en" title="Link to Damascena Ethnographic Complex" text="Damascena Ethnographic Complex" />. This complex offers visitors a unique opportunity to explore and experience various aspects of Bulgarian heritage, with a particular focus on traditional methods of rose cultivation and rose oil production.</p>
         <p>Within the complex, there is a restaurant where visitors can sample authentic Bulgarian cuisine and beverages. Since we didn’t dine here, we cannot provide a recommendation in this regard.</p>
         <p>Additionally, the complex houses a souvenir shop where you can purchase cosmetic products based on rose or lavender oil, as well as various sweets and beverages.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaRoseValleyDamascenaEthnographicComplex} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseValleyDamascenaEthnographicComplex} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>Ethno Village Etar</h3>
         <p>If you’re traveling by car, consider visiting the Ethno Village Etar, situated approximately 45 kilometers from Kazanluk and 53 kilometers from Veliko Tarnovo.</p>
         <p>Etar is an open-air museum crafted as a replica of a typical Bulgarian village from the 18th and 19th centuries. It boasts well-preserved and restored wooden houses, workshops, water mills, and other structures, all lining cobblestone streets. Nestled in a picturesque natural environment, the village is enveloped by forests and the lively waters of the river.</p>
         <p>Visitors can delve into various artisan workshops, including woodworking, pottery, weaving, and metalworking. These workshops offer insights into the skills and techniques employed by Bulgarian craftsmen centuries ago.</p>
         <p>A standout feature of Etar is its operational water mill, illustrating the significance of water power in traditional Bulgarian economy and industry. Additionally, visitors can savor authentic Bulgarian cuisine at the village’s taverns and restaurants, serving dishes crafted with locally sourced ingredients.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={bulgariaEtarEthnoVillage} alt="Bulgaria - Etar Ethno Village" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaEtarEthnoVillage} alt="Bulgaria - Etar Ethno Village" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h2>Conclusion</h2>
         <p>From the mesmerizing rituals of rose picking and boiling to the exploration of ancient Thracian tombs and ethnographic complexes, the Kazanlak region offers a tapestry of experiences that captivate the senses and enrich the soul. Whether indulging in authentic Bulgarian cuisine, wandering through open-air museums, or breathing in the intoxicating fragrance of roses, a journey to the Rose Valley promises an unforgettable adventure filled with beauty, culture, and timeless wonder.</p>
       </main>

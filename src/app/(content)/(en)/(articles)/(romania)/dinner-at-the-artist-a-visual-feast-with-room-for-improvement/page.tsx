@@ -147,29 +147,29 @@ export default function Page() {
         <p>Our culinary journey began with an amuse-bouche: two types of bread with flavored butter and two choux filled with cream cheese, presented on a plate with dry ice. The visual effect was captivating, setting an exciting tone for the evening.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={theArtist1} alt="Dinner at The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-4" src={theArtist2} alt="Dinner at The Artist - Drings" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist1} alt="Dinner at The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist2} alt="Dinner at The Artist - Drings" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
         {/* image 16/9 */}
-        <Image className="mb-4" src={theArtist12} alt="Dinner at The Artist - Food 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist12} alt="Dinner at The Artist - Food 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <p>For our cold appetizers, we enjoyed baked beetroot and celery with Romanian brie cheese, figs, walnuts, and avocado, along with a confit duck leg in a brioche with red cabbage, cranberries, and sweet potato. Both dishes were well-executed, with one of us favoring the beetroot for its nuanced flavors, while the other relished the duck brioche.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={theArtist3} alt="Dinner at The Artist - Food 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist4} alt="Dinner at The Artist - Food 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist5} alt="Dinner at The Artist - Food 4" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist3} alt="Dinner at The Artist - Food 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist4} alt="Dinner at The Artist - Food 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist5} alt="Dinner at The Artist - Food 4" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>The Romanian “bulz”, in the interpretation of chef Paul Oppenkamp who runs The Artist kitchen, followed, featuring a polenta ball stuffed with bladderwrack cheese, parsnip puree, and a fried quail egg. Despite the unexpected parsnip twist, it proved to be a delightful innovation. We also savored the pan-fried salmon, accompanied by a fusion of borscht, miso, ginger, and Nori seaweed.</p>
         <p>Moving on to the ravioli and coquelet, the beef-filled ravioli in Feteasca Neagra wine sauce showcased skilled cooking, though the pumpkin flavor was somewhat subdued. Unfortunately, the coquelet chicken in barbecue sauce left a less favorable impression due to an initial bite dominated by chicken skin covered in the sauce.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={theArtist6} alt="Dinner at The Artist - Food 5" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist7} alt="Dinner at The Artist - Food 6" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist8} alt="Dinner at The Artist - Food 7" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist6} alt="Dinner at The Artist - Food 5" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist7} alt="Dinner at The Artist - Food 6" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist8} alt="Dinner at The Artist - Food 7" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>For dessert, we both chose the cucumber sorbet, a visually stunning and uniquely flavored dish that was a personal favorite. The chocolate mousse, however, fell short. The excessively sweet mousse clashed with the extremely bitter espresso cream, and the presence of what seemed like a caramel in a plastic wrap was a confusing detail. After taking the plates, the waiter informed us that everything we had on the plate was edible, including the “plastic” wrap, but without telling us what it actually was. Unfortunately, we received this information a little too late, and I would have appreciated more attention to detail from both the chef and the waiter.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={theArtist9} alt="Dinner at The Artist - Food 9" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist10} alt="Dinner at The Artist - Food 10" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={theArtist11} alt="Dinner at The Artist - Food 11" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist9} alt="Dinner at The Artist - Food 9" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist10} alt="Dinner at The Artist - Food 10" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist11} alt="Dinner at The Artist - Food 11" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>In conclusion, our experience at The Artist was visually pleasing but left us wanting more in terms of taste. Considering the restaurant’s awards and positive reviews, we wondered if our evening might have been an exception. Nonetheless, The Artist recently earned the title of the best restaurant in Romania by the World Culinary Awards and is undoubtedly worth experiencing at least once.</p>
       </main>

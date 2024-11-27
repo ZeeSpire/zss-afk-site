@@ -5,7 +5,7 @@ interface YoutubeProps {
 
 const Youtube: React.FC<YoutubeProps> = ({ videoId }) => {
   return (
-    <div className="w-full max-w-full aspect-w-16 aspect-h-9 mb-4">
+    <div className="w-full max-w-full aspect-w-16 aspect-h-9 mb-6">
       <iframe
         className="w-full h-full"
         src={`https://www.youtube.com/embed/${videoId}`}

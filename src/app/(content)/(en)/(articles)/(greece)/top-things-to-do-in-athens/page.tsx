@@ -159,12 +159,12 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.title}</h1>
         {/* image 16/9 */}
-        <Image className="mb-4" src={parthenonFromTheDroneAthens2} alt="Top 15 things to do in Athens plus other recommendations" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonFromTheDroneAthens2} alt="Top 15 things to do in Athens plus other recommendations" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
         <p>Athens wasn’t on our bucket list for the near future, but we are glad that things have settled in such a way that we traveled to this steeped-in-history city.</p>
         <p>What we knew about Athens was the super-popular image of the Acropolis and the fact that it is the capital of Greece. We also knew that it is one of the oldest continuously inhabited cities in the world, with a history that spans over 3,400 years. Athens is also the oldest capital city in Europe, but although it has roots in ancient times, it remains a vibrant and cosmopolitan city that attracts millions of visitors from around the world every year.</p>
         <p>Being a trip planned shortly before, we did not find many accommodation options. We chose to stay at <LinkExternal link="https://www.booking.com/hotel/gr/the-social-athens-a-member-of-radisson-indi.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to The Social Athens Hotel, a member of Radisson Individuals website" text="The Social Athens Hotel, a member of Radisson Individuals" />, with which we were very satisfied, and we have nothing but praise for this hotel. All the employees were smiling, we received bottled water every day, we got a more spacious room than we had booked, and the toiletries were from Apivita, the beloved Greek brand. And it was a good deal, as it didn’t cost much either.</p>
         <p>Here are five more spectacular hotel options in Athens:</p>
-        <ul className="list-inside list-disc ml-4 mb-4">
+        <ul className="list-inside list-disc ml-4 mb-6">
           <li><LinkExternal link="https://www.booking.com/hotel/gr/asomaton.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Asomaton's website" text="Asomaton" /></li>
           <li><LinkExternal link="https://www.booking.com/hotel/gr/the-modernist-athens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to The Modernist Athens's website" text="The Modernist Athens" /></li>
           <li><LinkExternal link="https://www.booking.com/hotel/gr/grandbretagneathens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Hotel Grande Bretagne, a Luxury Collection Hotel, Athens's website" text="Hotel Grande Bretagne, a Luxury Collection Hotel, Athens" /></li>
@@ -179,11 +179,10 @@ export default function Page() {
         <p>In ancient Greek mythology, the goddess Athena was the patron goddess of Athens. Athena was the goddess of wisdom, warfare, and crafts, and she was considered one of the twelve Olympian gods and goddesses who resided on Mount Olympus. The Parthenon temple, located on the Acropolis Hill, was dedicated to Athena, and it is considered one of the greatest architectural achievements of ancient Greece.</p>
         <p>We visited Athens in the off-season, at the beginning of April, and there were no queues anywhere, but still, I recommend arriving at the Acropolis when it opens early in the morning to take beautiful shots with as few people as possible.</p>
         <p>If there is just one thing you have to tick off while in Athens, this is it. The Acropolis alone made our trip worthwhile.</p>
-        {/* image 16/9 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div className="text-center font-light text-sm"><Image className="mb-4" src={templeOfAthenaNikeAcropolisAthens} alt="Athens - Temple of Athena Nike" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Temple of Athena Nike</div>
-          <div className="text-center font-light text-sm"><Image className="mb-4" src={parthenonAcropolisAthensWithoutPeople} alt="Athens - Parthenon" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Parthenon</div>
-          <div className="text-center font-light text-sm"><Image className="mb-4" src={erechtheionAcropolisAthens} alt="Athens - Erechtheion" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Erechtheion</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfAthenaNikeAcropolisAthens} alt="Athens - Temple of Athena Nike" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Temple of Athena Nike</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonAcropolisAthensWithoutPeople} alt="Athens - Parthenon" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Parthenon</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={erechtheionAcropolisAthens} alt="Athens - Erechtheion" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Erechtheion</div>
         </div>
         <h3>2. Check out Hadrian’s Library</h3>
         <p>Hadrian’s Library was built by the Roman Emperor Hadrian in the 2nd century AD and was the largest library in Athens. The western wall and the columns are very impressive, and although they can be seen from outside the archaeological site, we didn’t regret entering, especially since we bought the ticket package.</p>
@@ -191,7 +190,7 @@ export default function Page() {
         <p>The Ancient Agora was the political and commercial center of ancient Athens and included several important buildings, the most impressive of which seemed to us to be the Temple of Hephaestus. We took lots of photos of it from different angles, but other people appear in most of the photos.</p>
         <p>We walked through the Ancient Agora like in a park. It was a really interesting walk.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={templeOfHephaestusAthens} alt="Athens - Temple of Hephaestus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfHephaestusAthens} alt="Athens - Temple of Hephaestus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>4. Don’t miss the Temple of Olympian Zeus and Hadrian’s Arch</h3>
         <p>The Temple of Olympian Zeus is one of the largest ancient temples in Greece and was dedicated to the god Zeus. It was built over several centuries and completed in the 2nd century AD.</p>
         <p>I could only imagine how impressive it once was based on the few columns that were still standing. Most of the columns were under maintenance and couldn’t be seen. Right next to this site, is Hadrian’s Arch, which can be visited for free. Don’t miss it.</p>
@@ -199,50 +198,50 @@ export default function Page() {
         <p>The Roman Agora was built during the Roman period and includes several important structures, such as the Tower of the Winds, the Gate of Athena Archegetis, and the Fethiye Mosque.</p>
         <p>Inside the site, you can see the details carved into the marble up close, as well as a beautiful mosaic, or what remains of it.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={romanAgoraAthens} alt="Athens - The Roman Agora" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={romanAgoraAthens} alt="Athens - The Roman Agora" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>6. Visit Aristotle’s Lyceum</h3>
         <p>This was the place where the philosopher Aristotle taught and conducted his philosophical and scientific research. The school was established in the 4th century BC and was one of the most prominent educational institutions in ancient Greece. Because it closes at 3 PM and we were 5 minutes late, we’ve seen it from outside, unfortunately.</p>
         <h3>7. Stroll through the tombs of Kerameikos</h3>
         <p>The Kerameikos Cemetery was the main cemetery of ancient Athens from the 8th century BC to the Roman period. The walk here was quiet, with only a few tourists.</p>
         <p>Don’t forget to enter the museum before you leave. Artifacts found in the ancient tombs are exhibited in the museum, and they were really surprising.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={kerameikosCemeteryAthens} alt="Athens - The Kerameikos Cemetery" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={kerameikosCemeteryAthens} alt="Athens - The Kerameikos Cemetery" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>8. Go to the Acropolis Museum</h3>
         <p>The Acropolis Museum is an excellent complement to a visit to the Acropolis itself. The museum houses a large collection of artifacts from the Acropolis, including statues, reliefs, and other ancient objects.</p>
         <p>One of the most impressive features of the Acropolis Museum is its glass floor, which allows visitors to view the remains of an ancient Athenian neighborhood that was discovered during the construction of the museum. The museum also features a restaurant with a stunning view of the Acropolis and the city of Athens.</p>
         <p>I would recommend visiting this one in the afternoon because it stays open longer than the archaeological sites above. You can check out the opening hours on the  <LinkExternal link="https://www.theacropolismuseum.gr/en" title="Link to The Acropolis Museum's website" text="official website" />.</p>
         <p>In some parts of the museum, you can take photos, while in others, it is prohibited.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={theatreOfDionysusAcropolisSlopeAthensAndAcropolisMuseum} alt="Athens - The Acropolis Museum and Theatre of Dionysus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theatreOfDionysusAcropolisSlopeAthensAndAcropolisMuseum} alt="Athens - The Acropolis Museum and Theatre of Dionysus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>9. Run on the track at Panathenaic Stadium</h3>
         <p>The Panathenaic Stadium is the only stadium in the world made entirely of marble and was originally built in the 4th century BC as a venue for the Panathenaic Games, a festival held every four years in honor of the goddess Athena. The stadium was renovated and rebuilt several times over the centuries, with the most significant renovation taking place in the 2nd century AD by the Roman Emperor Hadrian.</p>
         <p>The current form was given when Athens was chosen as the venue for the first Olympic Games in 1896. For its reconstruction, Pentelic marble was used, a white marble used for sculpture and buildings that has been quarried at Mt. Pentelicus, north of Athens.</p>
         <p>We paid 10 euros per ticket, including an audio guide. Because the audio guide had to be returned in 30 minutes, we hurried to visit the stadium, but we could have stayed even longer. It was really fun, we sat on the marble seats and ran on the track, and it was one of our favorite attractions in Athens.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={panathenaicStadiumAthens} alt="Athens - Panathenaic Stadium" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={panathenaicStadiumAthens} alt="Athens - Panathenaic Stadium" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>10. Attend the changing of the guard ceremony in Syntagma Square</h3>
         <p>Syntagma Square is the central square of Athens and is located in the heart of the city’s commercial district. The square is named after the Greek word “syntagma” which means “constitution”, and it’s home to the Greek Parliament building. The changing of the guard ceremony, known as the Evzones, takes place in front of the Parliament building every hour.</p>
         <p>It is a popular attraction for tourists, so if it’s something you’re interested in, try to get there as early as possible to get a seat in front.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={syntagmaSquareChangingOfTheGuardAthens} alt="Athens - Attend the changing of the guard ceremony in Syntagma Square" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={syntagmaSquareChangingOfTheGuardAthens} alt="Athens - Attend the changing of the guard ceremony in Syntagma Square" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>11. Take a break inside the National Gardens of Athens</h3>
         <p>The National Garden of Athens offers a peaceful escape from the hustle and bustle of the city. The public garden is located in the heart of Athens and features a wide variety of plants, flowers, and trees, as well as several ponds and a small zoo.</p>
         <p>We walked through the smell of blossoming orange trees and the sound of parrots. It was awesome.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={athensNationalGarden} alt="Athens - National Gardens" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensNationalGarden} alt="Athens - National Gardens" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>12. Go shopping in the Varvakios Central Market</h3>
         <p>The Central Market of Athens, also known as Varvakios (or Varvakeios) Market, is one of the city’s oldest and largest markets. It’s located in the heart of Athens, near Omonia Square, and it is a tourist attraction in itself.</p>
         <p>It’s known for its lively atmosphere and is a great place to experience the local culture and cuisine. The market is particularly busy in the mornings when locals come to shop for fresh ingredients for their meals.</p>
         <p>We bought Greek mountain tea from here as a souvenir. The tea is made from dried Sideritis plants and tastes similar to other herbs for tea, like mint or chamomile.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={athensCentralMarketVarvakios} alt="Athens - Varvakios Central Market" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensCentralMarketVarvakios} alt="Athens - Varvakios Central Market" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>13. Climb Philopappos Hill</h3>
         <p>Before going to Athens, we read about Lycabettus Hill, which represents the highest point in Athens, with stunning views of the city and a small chapel at the top. We also read about Areopagus Hill, which is located northwest of the Acropolis and has panoramic views of the city.</p>
         <p>But we chose to climb Philopappos Hill. This hill is known for its scenic views of Athens, particularly of the Acropolis and the city skyline, and it’s a great place to escape the crowds and experience a quieter side of the city.</p>
         <p>At the summit of the hill is the Philopappos Monument, a grand mausoleum built in honor of Philopappos, a prince from the Kingdom of Commagene who lived in Athens in the 2nd century AD.</p>
         <p>Even though it was a rainy day, the climb up the hill seemed easy, and the view was worth all the effort.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={acropolisSeenFromPhilopapposHill} alt="Athens - Acropolis seen from Philopappos Hill" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={acropolisSeenFromPhilopapposHill} alt="Athens - Acropolis seen from Philopappos Hill" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>14. Explore the central neighborhoods</h3>
         <p>Athens is made up of many distinct neighborhoods, each with its own unique character and atmosphere.</p>
         <p>You can spend a couple of hours wandering the streets of Plaka, the oldest neighborhood in Athens, known for its charming cobblestone streets, quaint cafes, and shops selling handmade crafts.</p>
@@ -252,9 +251,9 @@ export default function Page() {
         <p>We spent a few hours here early in the morning, enjoying a cup of coffee and a delicious spanakopita (a pie with spinach and feta cheese). Maybe this is why Anafiotika was our favorite neighborhood in Athens.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={beautifulDoorAthensGreece1} alt="Athens - Beautiful Door 1" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={beautifulDoorAthensGreece2} alt="Athens - Beautiful Door 2" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={beautifulDoorAthensGreece3} alt="Athens - Beautiful Door 3" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece1} alt="Athens - Beautiful Door 1" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece2} alt="Athens - Beautiful Door 2" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece3} alt="Athens - Beautiful Door 3" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <h3>15. Indulge in Greek food</h3>
         <p>In Athens, you can find a lot of options where you can dine, including street food, taverns, steakhouse restaurants, and sky bars. Visiting so many places, naturally, we needed “fuel”. We opted especially for quick bites on the street and in taverns; in this way, we made the most of our time and didn’t even break the bank.</p>
@@ -269,9 +268,9 @@ export default function Page() {
         <p>At Falafellas, we had some super tasty wraps. There are two choices: falafel or meatball wrap; each comes in two sizes. We stood in line to get our hands on these delicious wraps. The whole area was filled with people eating falafel from Falafellas, from locals to tourists, from youngsters to seniors.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-4" src={zizisFish} alt="Athens - Zisis fish in a cone" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={insideATavernInAthens} alt="Athens - Inside a tavern" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-4" src={localGreekFoodAthens} alt="Athens - Local greek food" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={zizisFish} alt="Athens - Zisis fish in a cone" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={insideATavernInAthens} alt="Athens - Inside a tavern" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={localGreekFoodAthens} alt="Athens - Local greek food" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <h3>4. Krasopoulio tou Kokkora Tavern</h3>
         <p>This is an authentic Greek restaurant, popular with locals, and quieter than other places. A nice gesture was to offer us tap water from the house.</p>
@@ -281,7 +280,7 @@ export default function Page() {
         <p>This is a fairytale-looking cafe, very close to Krasopoulio tou Kokkora Tavern. We sat here because we liked the decor very much. We understood that the decoration changes depending on the time of year (in October it is decorated for Halloween, in December it is dedicated to Christmas, etc.). When we were there, the theme was Alice in Wonderland, and probably this is the usual setting.</p>
         <p>Although you feel like you’re in a fairy tale (even the waiters are dressed accordingly), the cafe is very popular among tourists, so it can be rather crowded. The prices are high for the quality offered, and we didn’t like anything from what we ordered. I would normally say that this is a tourist trap, but we liked the decor and had fun taking pictures of it, so I can’t say that I didn’t like it at all. </p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={littleKookDecorAthens1} alt="Athens - Little Kook" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={littleKookDecorAthens1} alt="Athens - Little Kook" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>6. Lukumades</h3>
         <p>Near Agia Irini Square, we found a wonderful place, which is always crowded, that sells Loukoumades. Loukoumades are small fried dough balls drizzled with honey syrup and sprinkled with cinnamon. The place is called <LinkExternal link="https://www.lukumades.com/" title="Link to Lukumades's website" text="Lukumades" />. You could choose from several toppings, but we chose the classic version: honey + cinnamon. We ate them hot, and they were delicious.</p>
         <p>This was our Athenian experience. We spent two and a half days in Athens, during which we managed to take the pulse of the city, visit the most important archaeological sites, walk through the charming neighborhoods of Athens, and taste the food we were longing for.</p>
@@ -289,8 +288,8 @@ export default function Page() {
         <p>Enjoy life!</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={pinAthens} alt="Athens - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-4" src={pinAthens2} alt="Athens - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens} alt="Athens - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens2} alt="Athens - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>

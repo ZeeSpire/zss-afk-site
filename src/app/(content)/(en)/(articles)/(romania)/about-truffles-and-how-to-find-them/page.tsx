@@ -137,7 +137,7 @@ export default function Page() {
         <p>We are therefore in a forest in Buzau County, on the same latitude as the Piedmont area in Italy, a renowned truffle area, thus having favorable climatic conditions and abundant forests.</p>
         <p>We were guided on a two-hour expedition through the forest by two professional truffle hunters and their dogs specially trained for this purpose. The most famous dog breed for this activity is Lagotto Romagnolo, but dogs from other breeds such as Pointer or Vizsla can also be trained to search for truffles.</p>
         {/* image 16/9 */}
-        <Image className="mb-4" src={truffles1} alt="Truffle hunting" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles1} alt="Truffle hunting" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <p>The dogs came to do the job for which they were trained. We were not allowed to play with them or distract them in any way. They were running through the forest when suddenly they were starting to dig if they smelled a truffle. They were very focused on their task. The truffles found differed in size. The smaller ones were picked up by the dog in its mouth and left in the hands of the owner. For the bigger ones, the truffle hunter carefully picked them up from the ground, with care not to break or puncture them. After that, the place was covered with leaves so that the area near the roots of the tree didn’t dry out. After each finding, the dogs were waiting for their reward, usually a small treat.</p>
         <p>It is a well-known fact that truffles are very expensive, but the job of a truffle hunter is also a difficult and dangerous one. In the forest, all kinds of dangers lurk, some so small that you would not initially think of. Such as ticks or wasps.</p>
         <p>The truffle, also called “the black gold”, “the black diamond”, “the diamond of the forest”, or “the diamond of the kitchen”, is a fungus that lives in the ground in symbiosis with a tree. The host trees can be oaks, hazelnuts, beeches, poplars, hornbeams, and others. The truffles are connected to the roots and provide nutrients and minerals for the tree. They grow at depths between 5 and 40 cm. This is also the reason why you can find them only with specially trained dogs.</p>
@@ -147,8 +147,8 @@ export default function Page() {
         <p>Besides all these, truffles have various health benefits because they are rich in antioxidants, vitamins, and minerals.</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-4" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-4" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
 
