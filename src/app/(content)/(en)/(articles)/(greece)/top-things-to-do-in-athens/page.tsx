@@ -2,10 +2,8 @@ import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import Image from "next/image";
-// import Link from "next/link";
 import LinkExternal from "@/components/linkexternal/LinkExternal";
 
-// import acropolisMuseumAthens from "../../../../../../../public/athens/acropolis-museum-athens.jpg"
 import acropolisSeenFromPhilopapposHill from "../../../../../../../public/athens/acropolis-seen-from-philopappos-hill.jpg"
 import athensCentralMarketVarvakios from "../../../../../../../public/athens/athens-central-market-varvakios.jpg"
 import athensNationalGarden from "../../../../../../../public/athens/athens-national-garden.jpg"
@@ -16,24 +14,17 @@ import erechtheionAcropolisAthens from "../../../../../../../public/athens/erech
 import insideATavernInAthens from "../../../../../../../public/athens/inside-a-tavern-in-athens.jpg"
 import kerameikosCemeteryAthens from "../../../../../../../public/athens/kerameikos-cemetery-athens.jpg"
 import littleKookDecorAthens1 from "../../../../../../../public/athens/little-kook-decor-athens-1.jpg"
-// import littleKookDecorAthens2 from "../../../../../../../public/athens/little-kook-decor-athens-2.jpg"
 import localGreekFoodAthens from "../../../../../../../public/athens/local-greek-food-athens.jpg"
-// import monastirakiSquareAtNightAthens from "../../../../../../../public/athens/monastiraki-square-at-night-athens.jpg"
 import panathenaicStadiumAthens from "../../../../../../../public/athens/panathenaic-stadium-athens.jpg"
 import parthenonAcropolisAthensWithoutPeople from "../../../../../../../public/athens/parthenon-acropolis-athens-without-people.jpg"
-// import parthenonAcropolisAthens from "../../../../../../../public/athens/parthenon-acropolis-athens.jpg"
-// import parthenonFromTheDroneAthens1 from "../../../../../../../public/athens/parthenon-from-the-drone-athens-1.jpg"
 import parthenonFromTheDroneAthens2 from "../../../../../../../public/athens/parthenon-from-the-drone-athens-2.jpeg"
 import pinAthens from "../../../../../../../public/athens/pin-athens.jpg"
 import pinAthens2 from "../../../../../../../public/athens/pin-athens2.jpg"
 import romanAgoraAthens from "../../../../../../../public/athens/roman-agora-athens.jpg"
-// import scenicViewOverAthens1 from "../../../../../../../public/athens/scenic-view-over-athens-1.jpg"
-// import scenicViewOverAthens2 from "../../../../../../../public/athens/scenic-view-over-athens-2.jpg"
 import syntagmaSquareChangingOfTheGuardAthens from "../../../../../../../public/athens/syntagma-square-changing-of-the-guard-athens.jpg"
 import templeOfAthenaNikeAcropolisAthens from "../../../../../../../public/athens/temple-of-athena-nike-acropolis-athens.jpg"
 import templeOfHephaestusAthens from "../../../../../../../public/athens/temple-of-hephaestus-athens.jpg"
 import theatreOfDionysusAcropolisSlopeAthensAndAcropolisMuseum from "../../../../../../../public/athens/theatre-of-dionysus-acropolis-slope-athens-and-acropolis-museum.jpg"
-// import theatreOfDionysusAcropolisSlopeAthens from "../../../../../../../public/athens/theatre-of-dionysus-acropolis-slope-athens.jpg"
 import zizisFish from "../../../../../../../public/athens/zizis-fish.jpg"
 
 const article = getArticle(28);

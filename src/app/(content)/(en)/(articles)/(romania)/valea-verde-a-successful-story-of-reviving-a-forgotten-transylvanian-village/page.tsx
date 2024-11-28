@@ -2,6 +2,7 @@ import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import LinkExternal from "@/components/linkexternal/LinkExternal";
 
 import weekenduriTematiceSiActivitatiValeaVerde from "../../../../../../../public/valea-verde/weekenduri-tematice-si-activitati-valea-verde.jpg";
@@ -22,7 +23,6 @@ import dinner2ValeaVerde5 from "../../../../../../../public/valea-verde/dinner-2
 import biertan from "../../../../../../../public/valea-verde/biertan.jpg";
 import saschiz from "../../../../../../../public/valea-verde/saschiz.jpg";
 import sighisoara from "../../../../../../../public/valea-verde/sighisoara.jpg";
-import Link from "next/link";
 
 const article = getArticle(21);
 

@@ -1,5 +1,10 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
+import { Metadata } from "next";
+import LinkExternal from "@/components/linkexternal/LinkExternal";
+import Link from "next/link";
+import Image from "next/image";
+
 import bulgariaRoseFestivalField from "../../../../../../../public/bulgaria-rose-festival/bulgaria-rose-festival-field.jpeg"
 import bulgariaRoseFestivalRosesInField from "../../../../../../../public/bulgaria-rose-festival/bulgaria-rose-festival-roses-in-field.jpg"
 import bulgariaRoseFestivalRosePickingRitual from "../../../../../../../public/bulgaria-rose-festival/bulgaria-rose-festival-rose-picking-ritual.jpg"
@@ -10,11 +15,6 @@ import bulgariaKazanlukThracianTomb from "../../../../../../../public/bulgaria-r
 import bulgariaRoseFestivalRoseMuseumKazanlak from "../../../../../../../public/bulgaria-rose-festival/bulgaria-rose-festival-rose-museum-kazanlak-kazanluk.jpg"
 import bulgariaRoseValleyDamascenaEthnographicComplex from "../../../../../../../public/bulgaria-rose-festival/bulgaria-rose-valley-damascena-ethnographic-complex.jpg"
 import bulgariaEtarEthnoVillage from "../../../../../../../public/bulgaria-rose-festival/bulgaria-etar-ethno-village.jpg"
-import Image from "next/image";
-
-import { Metadata } from "next";
-import LinkExternal from "@/components/linkexternal/LinkExternal";
-import Link from "next/link";
 
 const article = getArticle(33);
 

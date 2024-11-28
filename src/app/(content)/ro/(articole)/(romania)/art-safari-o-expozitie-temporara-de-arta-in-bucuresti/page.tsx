@@ -1,7 +1,17 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/ro/navbar/Navbar";
-
 import { Metadata } from "next";
+import Image from "next/image";
+import LinkExternal from "@/components/linkexternal/LinkExternal";
+import Link from "next/link";
+
+import artSafariMain from "../../../../../../../public/art-safari/1656765898834_e7sitf.jpg";
+import artSafari6 from "../../../../../../../public/art-safari/art-safari-6_n1hl2f.jpg";
+import artSafariGallery1 from "../../../../../../../public/art-safari/1656765409878_ja19oj.jpg";
+import artSafari5 from "../../../../../../../public/art-safari/art-safari-5_itnoc3.jpg";
+import artSafari4 from "../../../../../../../public/art-safari/art-safari-4_cbkvpt.jpg";
+import artSafari2 from "../../../../../../../public/art-safari/art-safari-2_n4ypzf.jpg";
+import artSafariGallery2 from "../../../../../../../public/art-safari/1656764973819_e30uha.jpg";
 
 const article = getArticle(10);
 
@@ -119,14 +129,54 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-    <section>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-    </section>
-    <Navbar enUrl={`${article.slug?.en}`} />
-    <main className="flex-grow">
-      <h1 className="text-center mb-8">{article.titleRo}</h1>
-      <p>aaaa</p>
-    </main>
-  </div>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
+      <Navbar enUrl={`${article.slug?.en}`} />
+      <main className="flex-grow">
+        <h1 className="text-center mb-8">{article.titleRo}</h1>
+        <p>We went to Art Safari today for the first time, although the event has reached its ninth edition this year. After today we will probably try to go to every edition. Visiting Art Safari is a good way to spend a few quality hours on the weekends.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari2} alt="Art Safari - a temporary art exhibition in Bucharest - 9th edition" width={1248} height={577} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>For the ninth edition, there are 5 different exhibitions that can be visited until August 7, 2022.</p>
+        <div className="mb-6">
+          <b>Theodor Aman (1831 – 1891)</b><br />
+          <b>First Modern Romanian Artist</b><br />
+          <span>Museum Pavilion</span><br /><br />
+
+          <b>Picasso, Dalí & Falla.</b><br />
+          <b>Le Tricorne</b><br />
+          <span>Central Pavilion</span><br /><br />
+
+          <b>Irina Dragomir</b><br />
+          <b>Red, Yellow and Blue</b><br />
+          <span>Contemporary Pavilion</span><br /><br />
+
+          <b>Marcel Iancu</b><br />
+          <b>Reconstructing the Arts. Romania - Israel</b><br />
+          <span>Invited Pavilion</span><br /><br />
+
+          <b>Barbara Klemm</b><br />
+          <b>Light and Dark. Photographs from Germany</b><br />
+          <span>Anniversary Pavilion</span><br /><br />
+        </div>
+        {/* image 9/16 (1000x1777) */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafariMain} alt="Romania, Art Safari - Paintings 1" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafariGallery2} alt="Romania, Art Safari - Paintings 2" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafariGallery1} alt="Romania, Art Safari - Paintings 3" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+        </div>
+        <p>The tickets can also be purchased online from <LinkExternal link="https://tickets.artsafari.ro/e?lang=en" title="Link to Art Safari" text="here" />. At the time of writing this article, a day access ticket costs 80 lei (16 euros), and a night tour costs 130 lei (26 euros).</p>
+        <p>Art Safari is temporarily housed in the superb Dacia-Romania Palace on Lipscani Street, a historic space built in the late 1890s.</p>
+        <p>We went there wanting to see Theodor Aman’s artwork which did not disappoint, but we were also pleasantly surprised by Irina Dragomir’s first solo exhibition.</p>
+        <p>The exhibits are very well highlighted due to the special lighting, but the descriptions of the artworks are hardly visible in low light, this is something that can be improved. Other than that, we only have words of praise.</p>
+        <p>Update: We also visited 10th edition. Check it out <Link prefetch={false} href="/art-safari-a-temporary-art-exhibition-in-bucharest-10th-edition" title="Art Safari - a temporary art exhibition in Bucharest - 10th edition" className="text-blue-600 underline hover:text-blue-800">here</Link>.</p>
+        {/* image 9/16 (1000x1777) */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari5} alt="Romania, Art Safari - Paintings 4" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari6} alt="Romania, Art Safari - Paintings 5" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari4} alt="Romania, Art Safari - Paintings 6" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+        </div>
+      </main>
+    </div>
   );
 }

@@ -2,6 +2,8 @@ import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
 import Image from "next/image";
+import Youtube from "@/components/youtube/Youtube";
+import Link from "next/link";
 
 import nouaBar1 from "../../../../../../../public/noua-bar/noua-bar-1.jpeg"
 import nouaBar2 from "../../../../../../../public/noua-bar/noua-bar-2.jpeg"
@@ -13,8 +15,6 @@ import nouaBar10 from "../../../../../../../public/noua-bar/noua-bar-10.jpeg"
 import nouaBar11 from "../../../../../../../public/noua-bar/noua-bar-11.jpeg"
 import nouaBarBreakfast from "../../../../../../../public/noua-bar/noua-bar-breakfast.jpeg"
 import nouaBarOutside from "../../../../../../../public/noua-bar/noua-bar-outside.jpeg"
-import Link from "next/link";
-import Youtube from "@/components/youtube/Youtube";
 
 const article = getArticle(25);
 

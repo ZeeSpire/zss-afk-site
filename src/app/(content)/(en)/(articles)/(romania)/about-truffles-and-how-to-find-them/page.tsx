@@ -1,12 +1,13 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
+import { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import Youtube from "@/components/youtube/Youtube";
+
 import truffles1 from "../../../../../../../public/grigorescu-2/IMG_1505.jpeg"
 import truffles2 from "../../../../../../../public/grigorescu-2/PINGRIGORESCU6.jpeg"
 import truffles3 from "../../../../../../../public/grigorescu-2/PINGRIGORESCU7.jpeg"
-import Image from "next/image";
-import { Metadata } from "next";
 
 const article = getArticle(20);
 
@@ -151,7 +152,6 @@ export default function Page() {
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
-
     </div>
   );
 }

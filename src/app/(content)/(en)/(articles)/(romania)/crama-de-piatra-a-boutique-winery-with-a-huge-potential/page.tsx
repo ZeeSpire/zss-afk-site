@@ -1,5 +1,9 @@
+import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
+import { Metadata } from "next";
 import Image from "next/image";
+import Youtube from "@/components/youtube/Youtube";
+import Link from "next/link";
 
 import cramaDePiatra1 from "../../../../../../../public/crama-de-piatra/crama1_i0wazr_resized.jpeg"
 import cramaDePiatra2 from "../../../../../../../public/crama-de-piatra/crama2_aiavmt.jpeg"
@@ -9,10 +13,6 @@ import cramaDePiatraInteriorRestaurant2 from "../../../../../../../public/crama-
 import cramaDePiatraVin from "../../../../../../../public/crama-de-piatra/IMG_20220827_161933-e1_pbgtj5.jpeg"
 import cramaDePiatraMancare from "../../../../../../../public/crama-de-piatra/IMG_20220827_202428-e3_jlv1pm.jpeg"
 import cramaDePiatraVitaDeVie from "../../../../../../../public/crama-de-piatra/IMG_20220827_183450-e1_uimxup.jpeg"
-import { getArticle } from "@/data/articles";
-import { Metadata } from "next";
-import Youtube from "@/components/youtube/Youtube";
-import Link from "next/link";
 
 const article = getArticle(16);
 

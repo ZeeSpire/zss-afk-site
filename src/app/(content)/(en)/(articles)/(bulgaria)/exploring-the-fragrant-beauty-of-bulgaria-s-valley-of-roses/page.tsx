@@ -1,6 +1,10 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/en/navbar/Navbar";
 import { Metadata } from "next";
+import Image from "next/image";
+import Link from "next/link";
+import GoogleMaps from "@/components/googlemaps/GoogleMaps";
+
 import bulgariaValleyofRosesFourthOfJuly from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-fourth-of-july-rose.jpeg"
 import bulgariaValleyofRosesDamascRose from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-damasc-rose.jpg"
 import bulgariaValleyofRosesRoseFestival from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-rose-festival.jpg"
@@ -8,9 +12,6 @@ import bulgariaValleyofRosesDoubleDelightRose from "../../../../../../../public/
 import bulgariaValleyofRosesGoldenCelebrationRose from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-golden-celebration-rose.jpg"
 import bulgariaValleyofRosesOrangeRose from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-orange-rose.jpg"
 import bulgariaValleyofRosesWhiteRose from "../../../../../../../public/bulgaria-rose-valley-roses/bulgaria-rose-valley-roses-white-rose.jpg"
-import Image from "next/image";
-import Link from "next/link";
-import GoogleMaps from "@/components/googlemaps/GoogleMaps";
 
 const article = getArticle(34);
 

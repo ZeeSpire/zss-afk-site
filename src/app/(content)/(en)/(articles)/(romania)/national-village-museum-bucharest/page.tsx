@@ -124,12 +124,12 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-    <section>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-    </section>
-    <Navbar roUrl={`${article.slug?.ro}`} />
-    <main className="flex-grow">
-      <h1 className="text-center mb-8">{article.title}</h1>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
+      <Navbar roUrl={`${article.slug?.ro}`} />
+      <main className="flex-grow">
+        <h1 className="text-center mb-8">{article.title}</h1>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului2} alt="A walk through the Dimitrie Gusti National Village Museum in Bucharest" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
         <p>On the sixth of June, 2023, we had a day off during the week when the rest were at work. Initially, we went to take a tour of the Herăstrău Park, but then we had the idea to visit the “Dimitrie Gusti” National Village Museum.</p>
@@ -144,7 +144,7 @@ export default function Page() {
         <p>The “Dimitrie Gusti” National Village Museum is undoubtedly a must-see attraction in Bucharest.</p>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului4} alt="Dimitrie Gusti National Village Museum in Bucharest - Household" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-    </main>
-  </div>
+      </main>
+    </div>
   );
 }
