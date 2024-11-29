@@ -150,137 +150,133 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonFromTheDroneAthens2} alt="Top 15 things to do in Athens plus other recommendations" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>Athens wasn’t on our bucket list for the near future, but we are glad that things have settled in such a way that we traveled to this steeped-in-history city.</p>
-        <p>What we knew about Athens was the super-popular image of the Acropolis and the fact that it is the capital of Greece. We also knew that it is one of the oldest continuously inhabited cities in the world, with a history that spans over 3,400 years. Athens is also the oldest capital city in Europe, but although it has roots in ancient times, it remains a vibrant and cosmopolitan city that attracts millions of visitors from around the world every year.</p>
-        <p>Being a trip planned shortly before, we did not find many accommodation options. We chose to stay at <LinkExternal link="https://www.booking.com/hotel/gr/the-social-athens-a-member-of-radisson-indi.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to The Social Athens Hotel, a member of Radisson Individuals website" text="The Social Athens Hotel, a member of Radisson Individuals" />, with which we were very satisfied, and we have nothing but praise for this hotel. All the employees were smiling, we received bottled water every day, we got a more spacious room than we had booked, and the toiletries were from Apivita, the beloved Greek brand. And it was a good deal, as it didn’t cost much either.</p>
-        <p>Here are five more spectacular hotel options in Athens:</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonFromTheDroneAthens2} alt="Top 15 lucruri de făcut în Atena plus alte recomandări" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Atena nu se afla pe lista noastră de călătorii din viitorul apropiat, dar ne bucurăm că lucrurile s-au aşezat în aşa fel încât am călătorit în acest oraş scăldat în istorie.</p>
+        <p>Ştiam despre Atena că este capitala Greciei şi aveam în minte imaginea bine-cunoscută a Acropolei. De asemenea, ştiam că este unul dintre cele mai vechi oraşe locuite continuu din lume, cu o istorie de peste 3.400 de ani. Atena este, de asemenea, cea mai veche capitală din Europa, dar în ciuda faptului că are rădăcini în timpuri străvechi, rămâne un oraş vibrant şi cosmopolit, care atrage anual milioane de vizitatori din întreaga lume.</p>
+        <p>Fiind o călătorie planificată cu puţin timp înainte, nu am găsit foarte multe opţiuni de cazare. Am ales să stăm la <LinkExternal link="https://www.booking.com/hotel/gr/the-social-athens-a-member-of-radisson-indi.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre The Social Athens Hotel, a member of Radisson Individuals" text="The Social Athens Hotel, a member of Radisson Individuals" />, de care am fost foarte mulţumiţi şi nu avem decât cuvinte de laudă pentru acest hotel. Toţi angajaţii erau zâmbitori, am primit apă îmbuteliată în fiecare zi, am primit o cameră mai spaţioasă decât cea pe care o rezervasem, iar articolele de toaletă erau de la Apivita, iubitul brand grecesc. Și, în plus, a fost o afacere bună, căci nu a costat foarte mult.</p>
+        <p>Iată alte cinci opţiuni de hoteluri spectaculoase în Atena:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li><LinkExternal link="https://www.booking.com/hotel/gr/asomaton.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Asomaton's website" text="Asomaton" /></li>
-          <li><LinkExternal link="https://www.booking.com/hotel/gr/the-modernist-athens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to The Modernist Athens's website" text="The Modernist Athens" /></li>
-          <li><LinkExternal link="https://www.booking.com/hotel/gr/grandbretagneathens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Hotel Grande Bretagne, a Luxury Collection Hotel, Athens's website" text="Hotel Grande Bretagne, a Luxury Collection Hotel, Athens" /></li>
-          <li><LinkExternal link="https://www.booking.com/hotel/gr/coco-mat-athens-bc.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Coco-mat Athens BC's website" text="Coco-mat Athens BC" /></li>
-          <li><LinkExternal link="https://www.booking.com/hotel/gr/mgallery-athens-capital.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Athens Capital Center Hotel - MGallery Collection's website" text="Athens Capital Center Hotel - MGallery Collection" /></li>
+          <li><LinkExternal link="https://www.booking.com/hotel/gr/asomaton.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre site-ul Asomaton's" text="Asomaton" /></li>
+          <li><LinkExternal link="https://www.booking.com/hotel/gr/the-modernist-athens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre The Modernist Athens's" text="The Modernist Athens" /></li>
+          <li><LinkExternal link="https://www.booking.com/hotel/gr/grandbretagneathens.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre Hotel Grande Bretagne, a Luxury Collection Hotel, Athens's" text="Hotel Grande Bretagne, a Luxury Collection Hotel, Athens" /></li>
+          <li><LinkExternal link="https://www.booking.com/hotel/gr/coco-mat-athens-bc.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre Coco-mat Athens BC's website" text="Coco-mat Athens BC" /></li>
+          <li><LinkExternal link="https://www.booking.com/hotel/gr/mgallery-athens-capital.en-gb.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre Athens Capital Center Hotel - MGallery Collection's" text="Athens Capital Center Hotel - MGallery Collection" /></li>
         </ul>
-        <p>But let’s jump into our top 15 things to do in Athens after a lot of research and after we tried them all and more!</p>
-        <h2>Top 15 things to do in Athens</h2>
-        <p>Before starting, it’s worth mentioning that there are lots of archaeological sites in this city. For some, you have to pay a ticket to enter, while others can be visited for free as they are on the side of the road or inside some metro stations. For the main archaeological sites, there is a special ticket package valid for 5 days that costs 30 euros at the time of writing this article (June 2023). This combined ticket includes the entry to the most important archeological sites: the Acropolis and the Slopes (both entries), the Ancient Agora, the Roman Agora, Kerameikos, Hadrian’s Library, the Temple of Olympian Zeus, and Aristotle’s Lyceum. I will talk about each one below, but the main recommendation is to purchase this type of ticket.</p>
-        <h3>1. Stand in awe of the mighty Acropolis</h3>
-        <p>The Acropolis is one of the most famous archaeological sites not only in Greece but in the world, and it includes several ancient buildings and monuments, including the Parthenon, the Propylaea, the Temple of Athena Nike, and the Erechtheion.</p>
-        <p>In ancient Greek mythology, the goddess Athena was the patron goddess of Athens. Athena was the goddess of wisdom, warfare, and crafts, and she was considered one of the twelve Olympian gods and goddesses who resided on Mount Olympus. The Parthenon temple, located on the Acropolis Hill, was dedicated to Athena, and it is considered one of the greatest architectural achievements of ancient Greece.</p>
-        <p>We visited Athens in the off-season, at the beginning of April, and there were no queues anywhere, but still, I recommend arriving at the Acropolis when it opens early in the morning to take beautiful shots with as few people as possible.</p>
-        <p>If there is just one thing you have to tick off while in Athens, this is it. The Acropolis alone made our trip worthwhile.</p>
+        <p>Dar haideţi să intrăm direct în pâine cu topul celor 15 lucruri de făcut în Atena după multe cercetări şi după ce le-am încercat pe toate (şi chiar mai multe)!</p>
+        <h2>Top 15 lucruri de făcut în Atena</h2>
+        <p>Înainte de a începe, merită menţionat că există o mulţime de situri arheologice în acest oraş. Pentru unele dintre ele, trebuie să plăteşti un bilet, altele pot fi vizitate gratuit deoarece sunt pe marginea drumului ori în interiorul anumitor staţii de metrou, de exemplu. Pentru cele mai populare situri arheologice, există un bilet special valabil 5 zile care costă 30 de euro la momentul scrierii acestui articol (iunie 2023). Acest bilet include intrarea la cele mai importante situri arheologice: Acropola și versanții (ambele intrări), Agora Antică, Agora Romană, Kerameikos, Biblioteca lui Hadrian, Templul lui Zeus şi Liceul lui Aristotel. O să vorbesc despre fiecare mai jos, dar recomandarea principală este achiziţionarea acestui tip de bilet.</p>
+        <h3>1. Rămâi mut de uimire în faţa impresionantei Acropole</h3>
+        <p>Acropola este unul dintre cele mai faimoase situri arheologice nu numai din Grecia, ci şi din lume şi include mai multe clădiri şi monumente antice, inclusiv Partenonul, Propileea, Templul Atenei Nike şi Erehtheion.</p>
+        <p>În mitologia greacă, zeiţa Atena este zeiţa ce patronează asupra oraşului ce-i poartă numele. Atena era zeiţa înţelepciunii, a războiului şi a meşteşugurilor şi era considerată unul dintre cei doisprezece zei şi zeiţe olimpice care locuiau pe Muntele Olimp. Templul Partenon, situat pe dealul Acropolei, a fost dedicat Atenei şi este considerat ca fiind una dintre cele mai mari realizări arhitecturale ale Greciei antice. Templul a fost construit în secolul al V-lea î.Hr. şi prezintă multe sculpturi şi reliefuri care o înfăţişează pe Atena, dar şi alte figuri mitologice.</p>
+        <p>Am vizitat Atena în extrasezon, la începutul lunii aprilie, şi nu am stat la coadă la nici o atracţie, dar recomand să ajungi la Acropolă la ora deschiderii pentru a face fotografii frumoase cu cât mai puţină lume în peisaj.</p>
+        <p>Dacă ar fi să alegem un singur lucru de vizitat în Atena, acesta este.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfAthenaNikeAcropolisAthens} alt="Athens - Temple of Athena Nike" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Temple of Athena Nike</div>
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonAcropolisAthensWithoutPeople} alt="Athens - Parthenon" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Parthenon</div>
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={erechtheionAcropolisAthens} alt="Athens - Erechtheion" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Erechtheion</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfAthenaNikeAcropolisAthens} alt="Atena - Templul Atenei Nike" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Templul Atenei Nike</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={parthenonAcropolisAthensWithoutPeople} alt="Atena - Partenonul" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Partenonul</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={erechtheionAcropolisAthens} alt="Atena - Erechtheion" width={720} height={405} sizes="(max-width: 768px) 90vw, 20vw" />Erechtheion</div>
         </div>
-        <h3>2. Check out Hadrian’s Library</h3>
-        <p>Hadrian’s Library was built by the Roman Emperor Hadrian in the 2nd century AD and was the largest library in Athens. The western wall and the columns are very impressive, and although they can be seen from outside the archaeological site, we didn’t regret entering, especially since we bought the ticket package.</p>
-        <h3>3. Walk through the Ancient Agora</h3>
-        <p>The Ancient Agora was the political and commercial center of ancient Athens and included several important buildings, the most impressive of which seemed to us to be the Temple of Hephaestus. We took lots of photos of it from different angles, but other people appear in most of the photos.</p>
-        <p>We walked through the Ancient Agora like in a park. It was a really interesting walk.</p>
+        <h3>2. Vezi biblioteca lui Hadrian</h3>
+        <p>Biblioteca lui Hadrian a fost construită de împăratul roman Hadrian în secolul al II-lea d.Hr. şi a fost cea mai mare bibliotecă din Atena. Peretele vestic şi coloanele sunt foarte impresionante şi, deşi se văd din exteriorul sitului arheologic, nu am regretat că am intrat, mai ales că am cumpărat biletul care cuprindea şi acest sit.</p>
+        <h3>3. Plimbă-te prin Agora Antică</h3>
+        <p>Agora antică a fost centrul politic şi comercial al Atenei antice şi include câteva clădiri importante, dintre care, cea mai impresionantă ni s-a părut Templul lui Hephaestus. Am făcut aici o mulţime de fotografii din diferite unghiuri, dar în majoritatea fotografiilor apar şi alte persoane.</p>
+        <p>Ne-am plimbat prin Agora Antică ca printr-un parc. A fost o plimbare cu adevărat interesantă.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfHephaestusAthens} alt="Athens - Temple of Hephaestus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>4. Don’t miss the Temple of Olympian Zeus and Hadrian’s Arch</h3>
-        <p>The Temple of Olympian Zeus is one of the largest ancient temples in Greece and was dedicated to the god Zeus. It was built over several centuries and completed in the 2nd century AD.</p>
-        <p>I could only imagine how impressive it once was based on the few columns that were still standing. Most of the columns were under maintenance and couldn’t be seen. Right next to this site, is Hadrian’s Arch, which can be visited for free. Don’t miss it.</p>
-        <h3>5. Take in the history of the Roman Agora</h3>
-        <p>The Roman Agora was built during the Roman period and includes several important structures, such as the Tower of the Winds, the Gate of Athena Archegetis, and the Fethiye Mosque.</p>
-        <p>Inside the site, you can see the details carved into the marble up close, as well as a beautiful mosaic, or what remains of it.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={templeOfHephaestusAthens} alt="Atena - Templul lui Hephaestus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>4. Nu rata Templul lui Zeus şi Arcul lui Hadrian</h3>
+        <p>Templul lui Zeus este unul dintre cele mai mari temple antice din Grecia şi a fost dedicat zeului Zeus. A fost construit de-a lungul mai multor secole şi finalizat în secolul al II-lea d.Hr.</p>
+        <p>Nu am putut decât să-mi imaginez cât de impresionant a fost cândva pe baza celor câteva coloane care mai erau în picioare. Majoritatea coloanelor erau în mentenanţă şi nu puteau fi văzute. Chiar lângă acest sit se află Arcul lui Hadrian, care poate fi vizitat gratuit. Nu-l rata nici pe acesta.</p>
+        <h3>5. Admiră istoria Agorei Romane</h3>
+        <p>Agora romană a fost construită în perioada romană şi include mai multe structuri importante, cum ar fi Turnul Vânturilor, Poarta Athena Archegetis şi Moscheea Fethiye.</p>
+        <p>În interiorul sitului, poţi vedea detaliile sculptate în marmură de aproape, precum şi un mozaic frumos sau ce a mai rămas din el.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={romanAgoraAthens} alt="Athens - The Roman Agora" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>6. Visit Aristotle’s Lyceum</h3>
-        <p>This was the place where the philosopher Aristotle taught and conducted his philosophical and scientific research. The school was established in the 4th century BC and was one of the most prominent educational institutions in ancient Greece. Because it closes at 3 PM and we were 5 minutes late, we’ve seen it from outside, unfortunately.</p>
-        <h3>7. Stroll through the tombs of Kerameikos</h3>
-        <p>The Kerameikos Cemetery was the main cemetery of ancient Athens from the 8th century BC to the Roman period. The walk here was quiet, with only a few tourists.</p>
-        <p>Don’t forget to enter the museum before you leave. Artifacts found in the ancient tombs are exhibited in the museum, and they were really surprising.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={romanAgoraAthens} alt="Atena - Agora romană" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>6. Mergi la Liceul lui Artistotel</h3>
+        <p>Acesta a fost locul unde filosoful Aristotel a predat şi a condus cercetările sale filozofice şi ştiinţifice. Şcoala a fost înfiinţată în secolul al IV-lea î.Hr. şi a fost una dintre cele mai proeminente instituţii de învăţământ din Grecia antică. Pentru că programul de vizitare este până la ora 15:00, iar noi am întârziat vreo 5 minute, l-am văzut de la distanţă din păcate.</p>
+        <h3>7. Mergi printre mormintele din Kerameikos</h3>
+        <p>Cimitirul Kerameikos a fost principalul cimitir al Atenei antice din secolul al VIII-lea î.Hr. până în perioada romană. Plimbarea aici a fost liniştită, cu doar câţiva turişti. Nu uita să intri în muzeu înainte de a pleca. Artefactele găsite în mormintele antice sunt expuse în muzeu şi au fost cu adevărat surprinzătoare.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={kerameikosCemeteryAthens} alt="Athens - The Kerameikos Cemetery" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>8. Go to the Acropolis Museum</h3>
-        <p>The Acropolis Museum is an excellent complement to a visit to the Acropolis itself. The museum houses a large collection of artifacts from the Acropolis, including statues, reliefs, and other ancient objects.</p>
-        <p>One of the most impressive features of the Acropolis Museum is its glass floor, which allows visitors to view the remains of an ancient Athenian neighborhood that was discovered during the construction of the museum. The museum also features a restaurant with a stunning view of the Acropolis and the city of Athens.</p>
-        <p>I would recommend visiting this one in the afternoon because it stays open longer than the archaeological sites above. You can check out the opening hours on the  <LinkExternal link="https://www.theacropolismuseum.gr/en" title="Link to The Acropolis Museum's website" text="official website" />.</p>
-        <p>In some parts of the museum, you can take photos, while in others, it is prohibited.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={kerameikosCemeteryAthens} alt="Atena - Cimitirul Kerameikos" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>8. Vizitează Acropolis Museum</h3>
+        <p>Acropolis Museum este o completare excelentă a vizitei la Acropolă. Muzeul găzduieşte o mare colecţie de artefacte găsite pe dealul Acropolei, incluzând statui, reliefuri şi alte obiecte antice.</p>
+        <p>Una dintre cele mai impresionante trăsături ale muzeului este podeaua din sticlă, care permite vizitatorilor să vadă ruinele unui vechi cartier atenian care a fost descoperit în timpul construcţiei muzeului. Muzeul are, de asemenea, un restaurant cu o vedere uimitoare asupra Acropolei şi a orașului.</p>
+        <p>Recomand o vizită după-amiaza pentru că muzeul se închide mai târziu decât siturile arheologice de mai sus. Pentru programul de funcţionare, consultă <LinkExternal link="https://www.theacropolismuseum.gr/en" title="Link catre site-ul oficial al muzeului Acropolis" text="site-ul oficial" />.</p>
+        <p>În unele părţi ale muzeului se pot face fotografii, în timp ce în altele, este interzis.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theatreOfDionysusAcropolisSlopeAthensAndAcropolisMuseum} alt="Athens - The Acropolis Museum and Theatre of Dionysus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>9. Run on the track at Panathenaic Stadium</h3>
-        <p>The Panathenaic Stadium is the only stadium in the world made entirely of marble and was originally built in the 4th century BC as a venue for the Panathenaic Games, a festival held every four years in honor of the goddess Athena. The stadium was renovated and rebuilt several times over the centuries, with the most significant renovation taking place in the 2nd century AD by the Roman Emperor Hadrian.</p>
-        <p>The current form was given when Athens was chosen as the venue for the first Olympic Games in 1896. For its reconstruction, Pentelic marble was used, a white marble used for sculpture and buildings that has been quarried at Mt. Pentelicus, north of Athens.</p>
-        <p>We paid 10 euros per ticket, including an audio guide. Because the audio guide had to be returned in 30 minutes, we hurried to visit the stadium, but we could have stayed even longer. It was really fun, we sat on the marble seats and ran on the track, and it was one of our favorite attractions in Athens.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theatreOfDionysusAcropolisSlopeAthensAndAcropolisMuseum} alt="Atena - Muzeul Acropolei și Teatrul lui Dionysos" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>9. Aleargă pe pistă la stadionul Panatenaic</h3>
+        <p>Stadionul Panatenaic este singurul stadion din lume realizat în întregime din marmură şi a fost construit iniţial în secolul al IV-lea î.Hr. ca loc de desfăşurare a Jocurilor Panatenaice, un festival care se desfăşura la fiecare patru ani în onoarea zeiţei Atena. Stadionul a fost renovat şi reconstruit de mai multe ori de-a lungul secolelor, cea mai importantă renovare având loc în secolul al II-lea d.Hr. de către împăratul roman Hadrian.</p>
+        <p>Forma actuală a fost dată atunci când Atena a fost aleasă ca loc de desfășurare a primelor Jocuri Olimpice în 1896. Pentru reconstrucția sa s-a folosit marmură de Pentelic, o marmură albă folosită pentru sculptură și clădiri care a fost extrasă la Muntele Pentelicus, la nord de Atena.</p>
+        <p>Am plătit 10 euro pe un bilet care a inclus şi un ghid audio. Pentru că audioghidul trebuia returnat în 30 de minute, ne-am grăbit să vizităm stadionul, dar am fi putut să stăm şi mai mult. A fost foarte distractiv, ne-am aşezat pe treptele de marmură şi am alergat pe pistă şi a fost una dintre atracţiile noastre preferate din Atena.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={panathenaicStadiumAthens} alt="Athens - Panathenaic Stadium" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>10. Attend the changing of the guard ceremony in Syntagma Square</h3>
-        <p>Syntagma Square is the central square of Athens and is located in the heart of the city’s commercial district. The square is named after the Greek word “syntagma” which means “constitution”, and it’s home to the Greek Parliament building. The changing of the guard ceremony, known as the Evzones, takes place in front of the Parliament building every hour.</p>
-        <p>It is a popular attraction for tourists, so if it’s something you’re interested in, try to get there as early as possible to get a seat in front.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={panathenaicStadiumAthens} alt="Atena - Stadionul Panatenaic" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>10. Asistă la ceremonia de schimbare a gărzii în piaţa Syntagma</h3>
+        <p>Piaţa Syntagma este piaţa centrală a Atenei şi este situată în inima cartierului comercial al oraşului. Piaţa este numită după cuvântul grecesc “syntagma” care înseamnă “constituţie” şi găzduieşte clădirea Parlamentului grec. Ceremonia de schimbare a gărzii, cunoscută sub numele de Evzones, are loc în faţa clădirii Parlamentului la fiecare oră. Este o atracţie populară pentru turişti, aşa că dacă este ceva ce vrei să vezi, încearcă să ajungi acolo cât mai devreme posibil pentru un loc în faţă.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={syntagmaSquareChangingOfTheGuardAthens} alt="Athens - Attend the changing of the guard ceremony in Syntagma Square" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>11. Take a break inside the National Gardens of Athens</h3>
-        <p>The National Garden of Athens offers a peaceful escape from the hustle and bustle of the city. The public garden is located in the heart of Athens and features a wide variety of plants, flowers, and trees, as well as several ponds and a small zoo.</p>
-        <p>We walked through the smell of blossoming orange trees and the sound of parrots. It was awesome.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={syntagmaSquareChangingOfTheGuardAthens} alt="Atena - Asistă la ceremonia de schimbare a gărzii în piaţa Syntagma" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>11. Profită de o pauză în interiorul Grădinii Naţionale din Atena</h3>
+        <p>Grădina Națională din Atena oferă o evadare din agitaţia oraşului. Grădina publică este situată în centrul Atenei şi oferă o mare varietate de plante, flori şi copaci, precum şi mai multe iazuri şi o mică grădină zoologică.</p>
+        <p>Noi ne-am plimbat prin mirosul de portocali înfloriţi şi prin sunetul papagalilor. A fost minunat.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensNationalGarden} alt="Athens - National Gardens" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>12. Go shopping in the Varvakios Central Market</h3>
-        <p>The Central Market of Athens, also known as Varvakios (or Varvakeios) Market, is one of the city’s oldest and largest markets. It’s located in the heart of Athens, near Omonia Square, and it is a tourist attraction in itself.</p>
-        <p>It’s known for its lively atmosphere and is a great place to experience the local culture and cuisine. The market is particularly busy in the mornings when locals come to shop for fresh ingredients for their meals.</p>
-        <p>We bought Greek mountain tea from here as a souvenir. The tea is made from dried Sideritis plants and tastes similar to other herbs for tea, like mint or chamomile.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensNationalGarden} alt="Grădina Națională din Atena" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>12. Fă-ţi cumpărăturile în Piaţa Centrală Varvakios</h3>
+        <p>Piaţa centrală din Atena, cunoscută şi sub numele de Piaţa Varvakios (sau Varvakeios), este una dintre cele mai vechi şi mai mari pieţe din oraş. Este situată în inima Atenei, lângă Piaţa Omonia şi este o atracţie turistică în sine.</p>
+        <p>Este cunoscută pentru atmosfera plină de viaţă şi este un loc numai bun pentru a experimenta cultura şi bucătăria locală. Piaţa este deosebit de aglomerată dimineaţa, când localnicii vin să cumpere ingrediente proaspete pentru mesele lor.</p>
+        <p>Am cumpărat de aici ceai grecesc de munte ca suvenir. Ceaiul este făcut din plante de Sideritis uscate şi are un gust similar cu alte ierburi pentru ceai, cum ar fi menta sau muşeţelul.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensCentralMarketVarvakios} alt="Athens - Varvakios Central Market" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>13. Climb Philopappos Hill</h3>
-        <p>Before going to Athens, we read about Lycabettus Hill, which represents the highest point in Athens, with stunning views of the city and a small chapel at the top. We also read about Areopagus Hill, which is located northwest of the Acropolis and has panoramic views of the city.</p>
-        <p>But we chose to climb Philopappos Hill. This hill is known for its scenic views of Athens, particularly of the Acropolis and the city skyline, and it’s a great place to escape the crowds and experience a quieter side of the city.</p>
-        <p>At the summit of the hill is the Philopappos Monument, a grand mausoleum built in honor of Philopappos, a prince from the Kingdom of Commagene who lived in Athens in the 2nd century AD.</p>
-        <p>Even though it was a rainy day, the climb up the hill seemed easy, and the view was worth all the effort.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={athensCentralMarketVarvakios} alt="Atena - Piața Centrală Varvakios" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>13. Urcă pe dealul Philopappos</h3>
+        <p>Înainte de a merge la Atena, am citit despre Dealul Lycabettus care reprezintă cel mai înalt punct din Atena, cu vederi uluitoare ale oraşului şi o capelă în vârf. Am citit şi despre Dealul Areopagus care se află la nord-vest de Acropolă, cu vederi panoramice ale oraşului.</p>
+        <p>Dar, în final, am ales să urcăm pe dealul Philopappos. Acest deal este cunoscut pentru priveliştile sale pitoreşti ale Atenei, în special ale Acropolei şi ale orizontului oraşului, şi este un loc minunat pentru a scăpa de mulţime şi a experimenta o parte mai liniştită a oraşului.</p>
+        <p>În vârful dealului se află Monumentul Philopappos, un mare mausoleu construit în cinstea lui Philopappos, un prinţ din Regatul Commagene care a trăit la Atena în secolul al II-lea d.Hr.</p>
+        <p>Chiar dacă a fost o zi ploioasă, urcarea pe deal ni s-a părut uşoară şi priveliştea a meritat tot efortul.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={acropolisSeenFromPhilopapposHill} alt="Athens - Acropolis seen from Philopappos Hill" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>14. Explore the central neighborhoods</h3>
-        <p>Athens is made up of many distinct neighborhoods, each with its own unique character and atmosphere.</p>
-        <p>You can spend a couple of hours wandering the streets of Plaka, the oldest neighborhood in Athens, known for its charming cobblestone streets, quaint cafes, and shops selling handmade crafts.</p>
-        <p>Monastiraki is a bustling neighborhood that’s popular with tourists and locals alike. It’s home to the famous Monastiraki Flea Market, where you can find all sorts of souvenirs, antiques, and other goods.</p>
-        <p>Psirri is an up-and-coming neighborhood known for its trendy cafes, bars, and restaurants.</p>
-        <p>Anafiotika is a small and charming neighborhood located in the historic district of Plaka, just below the Acropolis. It’s known for its distinctive island-like atmosphere.</p>
-        <p>We spent a few hours here early in the morning, enjoying a cup of coffee and a delicious spanakopita (a pie with spinach and feta cheese). Maybe this is why Anafiotika was our favorite neighborhood in Athens.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={acropolisSeenFromPhilopapposHill} alt="Atena - Acropola văzută de pe Dealul Philopappos" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>14. Explorează cartierele centrale</h3>
+        <p>Atena este alcătuită din multe cartiere distincte, fiecare cu atmosfera şi caracterul său unic.</p>
+        <p>Poţi petrece câteva ore rătăcind pe străzile din Plaka, cel mai vechi cartier din Atena, cunoscut pentru străzile sale fermecătoare pietruite, cafenelele pitoreşti şi magazinele care vând obiecte de artizanat.</p>
+        <p>Monastiraki este un cartier plin de viaţă, popular atât pentru turişti, cât şi pentru localnici. Acesta găzduieşte faimoasa piaţă de vechituri Monastiraki, unde poţi găsi tot felul de suveniruri, antichităţi şi alte bunuri.</p>
+        <p>Psirri este un cartier cu mult potenţial, cunoscut pentru cafenelele, barurile şi restaurantele sale la modă.</p>
+        <p>Anafiotika este un cartier mic şi fermecător situat în cartierul istoric Plaka, chiar sub dealul Acropolei. Este cunoscut pentru atmosfera sa distinctă asemănătoare insulelor Greceşti. Am petrecut aici câteva ore dimineaţa în timp ce ne-am bucurat de o ceaşcă de cafea şi de o spanakopita delicioasă (spanakopita este o plăcintă cu spanac şi eventual şi brânză feta). Poate de aceea acest cartier a fost preferatul nostru.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece1} alt="Athens - Beautiful Door 1" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece2} alt="Athens - Beautiful Door 2" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece3} alt="Athens - Beautiful Door 3" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece1} alt="Atena - Usa 1" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece2} alt="Atena - Usa 2" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={beautifulDoorAthensGreece3} alt="Atena - Usa 3" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <h3>15. Indulge in Greek food</h3>
-        <p>In Athens, you can find a lot of options where you can dine, including street food, taverns, steakhouse restaurants, and sky bars. Visiting so many places, naturally, we needed “fuel”. We opted especially for quick bites on the street and in taverns; in this way, we made the most of our time and didn’t even break the bank.</p>
-        <h2>These are the places where we ate and which we can recommend:</h2>
+        <h3>15. Răsfaţă-te cu mâncarea grecească</h3>
+        <p>În Atena poţi găsi o mulţime de opţiuni de la mâncarea stradală, taverne, restaurante mai extravagante şi sky baruri. Vizitând atât de multe locuri, am avut nevoie de “combustibil”. Am optat mai ales pentru gustări rapide pe stradă şi în taverne, astfel am profitat la maximum de timpul nostru şi nici nu am spart puşculiţa.</p>
+        <h2>Acestea sunt locurile în care am mâncat şi pe care le putem recomanda:</h2>
         <h3>1. Kostas Souflaki</h3>
-        <p>Located in Agia Irini Square, it is a small place that sells authentic souflaki. These were the best pork souflakis we had while in Athens, and maybe in our lives. They were super delicious, and they had a slightly spicy tomato sauce that made them different.</p>
-        <p>Unfortunately, the place is closed on Sundays, and we were left with an unsatisfied appetite when we returned for the best souflaki.</p>
+        <p>Situat în piaţa Agia Irini, este un local mic care vinde souflaki autentic. Acesta a fost cel mai bun souflaki de porc pe care l-am mâncat în Atena şi nu numai. A fost super delicios, iar ingredientul care l-a transformat într-un souflaki special a fost sosul de roşii uşor picant.</p>
+        <p>Din păcate, localul este închis duminica şi am rămas cu o poftă nesatisfăcută când ne-am întors pentru cel mai bun souflaki.</p>
         <h3>2. Zisis fish in a cone</h3>
-        <p>We ate here twice. The first time, we sat at the table and ordered three cones: one with shrimp, one with anchovies, and one with squid. We liked only the anchovies and the squid.</p>
-        <p>The prices are higher if you sit down, this is why we recommend taking a cone and eating it while wandering the streets, as we did the second time.</p>
+        <p>Am mâncat aici de două ori. Prima dată, ne-am aşezat la masă şi am comandat trei conuri: creveţi, hamsii si calamari. Nouă ne-au plăcut doar hamsiile şi calamarii. Preţurile sunt mai mari dacă stai la masă, de aceea este mai avantajos să iei un con şi să-l mănânci în timp ce te plimbi pe străzi, aşa cum am făcut noi a doua oară. Porţiile au fost la fel mari în ambele cazuri.</p>
         <h3>3. Falafellas</h3>
-        <p>At Falafellas, we had some super tasty wraps. There are two choices: falafel or meatball wrap; each comes in two sizes. We stood in line to get our hands on these delicious wraps. The whole area was filled with people eating falafel from Falafellas, from locals to tourists, from youngsters to seniors.</p>
+        <p>La Falafellas am mâncat nişte wrap-uri super gustoase. Poţi alege din următoarele variante: lipie cu câte 3 sau 5 chifteluţe din carne sau năut. Am stat la coadă pentru a pune mâna pe aceste lipii delicioase. Întreaga zonă era plină de oameni care mâncau de la Falafellas, de la localnici la turişti, de la tineri la seniori.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={zizisFish} alt="Athens - Zisis fish in a cone" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={insideATavernInAthens} alt="Athens - Inside a tavern" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={localGreekFoodAthens} alt="Athens - Local greek food" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={zizisFish} alt="Atena - Zisis fish in a cone" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={insideATavernInAthens} alt="Atena - În interiorul unei taverne" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={localGreekFoodAthens} alt="Atena - Mâncare grecească locală" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <h3>4. Krasopoulio tou Kokkora Tavern</h3>
-        <p>This is an authentic Greek restaurant, popular with locals, and quieter than other places. A nice gesture was to offer us tap water from the house.</p>
-        <p>Here, we had the best meal while in Athens. We ordered dolmades, which are stuffed grape leaves filled with rice; the customary Greek salad; some simple and rustic zucchini croquettes; and pork souvlaki, of course. Everything was fresh and delicious.</p>
-        <p>We also tried halva for dessert, which we didn’t like too much; it was too sweet for our taste. Only after we ordered it did we notice that at the other tables, halva was offered from the house. So we were even more sorry that we ordered it.</p>
+        <h3>4. Taverna Krasopoulio tou Kokkora</h3>
+        <p>Acesta este un restaurant grecesc autentic, popular mai degrabă printre localnici şi este mai puţin aglomerat. Un gest frumos a fost să ni se ofere o carafă cu apă din partea casei.</p>
+        <p>Aici am luat cea mai bună masă în Atena. Am comandat frunze de viţă de vie umplute cu orez, salată grecească, nişte chiftele simple de dovlecei şi un souvlaki de porc. Totul a fost proaspăt şi delicios.</p>
+        <p>Am încercat şi un desert, care nu ne-a plăcut prea mult, a fost prea dulce pentru gustul nostru. Abia după ce l-am comandat, am observat că la celelalte mese se oferea desertul din partea casei. Aşa că ne-a părut şi mai rău că l-am comandat.</p>
         <h3>5. Little Kook</h3>
-        <p>This is a fairytale-looking cafe, very close to Krasopoulio tou Kokkora Tavern. We sat here because we liked the decor very much. We understood that the decoration changes depending on the time of year (in October it is decorated for Halloween, in December it is dedicated to Christmas, etc.). When we were there, the theme was Alice in Wonderland, and probably this is the usual setting.</p>
-        <p>Although you feel like you’re in a fairy tale (even the waiters are dressed accordingly), the cafe is very popular among tourists, so it can be rather crowded. The prices are high for the quality offered, and we didn’t like anything from what we ordered. I would normally say that this is a tourist trap, but we liked the decor and had fun taking pictures of it, so I can’t say that I didn’t like it at all. </p>
+        <p>Aceasta este o cafenea desprinsă poveşti, foarte aproape de Taverna Krasopoulio tou Kokkora. Ne-am aşezat aici pentru că ne-a plăcut foarte mult decorul. Am înţeles că decorul se schimbă în funcţie de perioada anului (în octombrie este împodobit de Halloween, în decembrie este dedicat Crăciunului, etc.). Când am fost noi, tema era Alice în Ţara Minunilor şi probabil acesta este decorul obişnuit.</p>
+        <p>Deşi simţi că eşti într-un basm (chiar şi chelnerii sunt îmbrăcaţi pe măsură), cafeneaua este foarte populară, este o atracţie turistică în sine, aşa că este destul de aglomerată. Preţurile sunt mari pentru calitatea oferită şi nu ne-a plăcut nimic din ce am comandat. Aş spune în mod normal că aceasta este o capcană pentru turişti, dar ne-a plăcut decorul şi ne-am distrat făcând poze aşa că nu pot spune că nu mi-a plăcut deloc.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={littleKookDecorAthens1} alt="Athens - Little Kook" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={littleKookDecorAthens1} alt="Atena - Little Kook" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>6. Lukumades</h3>
-        <p>Near Agia Irini Square, we found a wonderful place, which is always crowded, that sells Loukoumades. Loukoumades are small fried dough balls drizzled with honey syrup and sprinkled with cinnamon. The place is called <LinkExternal link="https://www.lukumades.com/" title="Link to Lukumades's website" text="Lukumades" />. You could choose from several toppings, but we chose the classic version: honey + cinnamon. We ate them hot, and they were delicious.</p>
-        <p>This was our Athenian experience. We spent two and a half days in Athens, during which we managed to take the pulse of the city, visit the most important archaeological sites, walk through the charming neighborhoods of Athens, and taste the food we were longing for.</p>
-        <p>If you want to see footage from the spot, where we walked, and what we saw, you can find a playlist dedicated to Greece on our <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link to AFKology YouTube channel" text="YouTube channel" />.</p>
-        <p>Enjoy life!</p>
+        <p>Lângă Piaţa Agia Irini, am găsit un loc minunat, unde este mereu aglomerat, care vinde Loukoumades. Loukoumades sunt nişte gogoşele stropite cu sirop de miere şi presărate cu scorţişoară. Locul se numeşte, ce să vezi, <LinkExternal link="https://www.lukumades.com/" title="Link catre site-ul Lukumades" text="Lukumades" />. Erau disponibile multe toppinguri, dar noi am ales varianta clasică: miere + scorţişoară. Le-am mâncat calde şi au fost delicioase.</p>
+        <p>Aceasta a fost experienţa noastră ateniană. Am petrecut două zile şi jumătate în Atena, timp în care am reuşit să luăm pulsul oraşului, să vizităm cele mai importante situri arheologice, să ne plimbam prin cartierele fermecătoare ale Atenei şi să gustăm din mâncarea de care ne era dor.</p>
+        <p>Dacă vrei să vezi filmări de la faţa locului, pe unde ne-am plimbat şi ce am văzut, găseşti pe canalul nostru de <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link catre canalul AFKology de YouTube" text="YouTube" />.</p>
+        <p>Bucură-te de viaţă!</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens} alt="Athens - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens2} alt="Athens - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens} alt="Atena - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinAthens2} alt="Atena - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>

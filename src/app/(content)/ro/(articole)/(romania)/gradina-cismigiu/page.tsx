@@ -131,25 +131,26 @@ export default function Page() {
     <main className="flex-grow">
       <h1 className="text-center mb-8">{article.titleRo}</h1>
       {/* image 16/9 */}
-      <Image className="mb-6 rounded-lg drop-shadow-xl" src={cismigiuPark} alt="Escape to Cişmigiu Garden, the oldest park in Bucharest" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>I was thinking recently, why not promote more the city where we spend most of our time, namely - Bucharest?</p>
-        <p>We will try to do this more often because we like to go for a walk around the city. And if it’s about walking, why not talk about Cişmigiu?</p>
-        <p>The Cişmigiu Garden is the oldest public garden in Bucharest, having been established more than 170 years ago by draining the pond in the respective area.</p>
-        <p>In which Romanian word do you think the name Cişmigiu originates? <br/> A. Cizmă (boot)<br/>B. Ciumagiu (worm)<br/>C. Cişmea (fountain)</p>
-        <p>Read till the end to find out the correct answer.</p>
-        <p>The landscaper of German origin Carl Friedrich Wilhelm Meyer, who also worked on the imperial gardens in Vienna, was in charge of designing the garden. The public garden has been modified since then, but most of it has remained the same.</p>
-        <p>During the summer, you can go boating on the Cişmigiu Lake, and during the winter, you can go to the ice rink. Also, there are playgrounds for children, a special area for dogs, and many more.</p>
+      <Image className="mb-6 rounded-lg drop-shadow-xl" src={cismigiuPark} alt="Evadează în Parcul Cișmigiu, cea mai veche gradină publică din Bucureşti" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Mă gândeam recent, de ce să nu promovăm mai mult oraşul în care ne petrecem cea mai mare parte a timpului şi anume - Bucureşti?</p>
+        <p>Vom încerca să facem asta mai des, deoarece ne place să ieşim la plimbare prin oraş. Şi dacă tot este vorba despre plimbare, de ce să nu povestim despre Cişmigiu?</p>
+        <p>Grădina Cişmigiu este cea mai veche grădină publică din Bucureşti fiind înfiinţată acum mai bine de 170 de ani prin secarea bălţii aflate pe domeniul respectiv.</p>
+        <p>În care cuvânt crezi că-şi are originea numele de Cişmigiu? <br/>A. Cizmă<br/>B. Ciumagiu<br/>C. Cişmea</p>
+        <p>Citeşte până la final pentru a afla răspunsul corect.</p>
+        <p>Parcul se află în centrul Bucureştiului, aproape de Palatul Regal care găzduieşte Muzeul Naţional de Artă, de biserica Kretzulescu, de Casa Poporului, dar şi de Opera Naţională din Bucureşti.</p>
+        <p>Însărcinat cu amenajarea grădinii a fost peisagistul de origine germana Carl Friedrich Wilhelm Meyer care a lucrat şi la grădinile imperiale din Viena. Grădina publică a mai fost modificată de atunci, însă cea mai mare parte a rămas la fel.</p>
+        <p>Pe timpul verii, te poţi plimba cu barca pe lacul Cişmigiu, iar în timpul iernii, poţi merge la patinoar. De asemenea, există locuri de joacă pentru copii, o zonă specială pentru câini și multe altele.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={aFlowerFromCismigiuPark} alt="Cişmigiu Garden - A flower" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>We can appreciate that it is a park with many species of plants, trees, and shrubs. We admired the wisterias, in May, when they bloom, but also the Ginkgo Biloba tree.</p>
-        <p>Of course, there are many things to improve, but we want to appreciate the beauty of a place and not highlight the negative things.</p>
-        <p>Rather than telling you about what you can see in the park, wouldn’t it be better to show you? We were inspired by Cişmigiu and each of us created a short video that we posted on our <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link to AFKology YouTube channel" text="YouTube channel" />.</p>
-        <p>Option 1:</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={aFlowerFromCismigiuPark} alt="Grădina Cișmigiu - O floare" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Putem aprecia că este un parc cu multe specii de plante, arbori şi arbuşti. Am admirat îndelung glicinele, în mai, când înfloresc, dar şi un Ginkgo Biloba.</p>
+        <p>Desigur, sunt multe lucruri de îmbunătăţit, dar vrem să apreciem frumuseţea unui loc şi să nu evidenţiem lucrurile negative.</p>
+        <p>În loc să-ţi povestim despre ce poţi vedea în parc, nu mai bine îţi arătăm? Ne-am lăsat inspiraţi de Cişmigiu şi am creat fiecare dintre noi câte un mic clip pe care l-am postat pe canalul nostru de <LinkExternal link="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" title="Link catre canalul AFKology de YouTube" text="YouTube" />.</p>
+        <p>Varianta nr. 1:</p>
         <Youtube videoId="rDqrwzKbg6s" />
-        <p>Option 2:</p>
+        <p>Varianta nr. 2:</p>
         <Youtube videoId="Pa3HHX7K61g" />
-        <p>What do you think? Which of the two options do you prefer? Interact with us on <LinkExternal link="https://www.instagram.com/afkology/" title="Link to AFKology Instagram" text="Instagram" /> or <LinkExternal link="https://www.facebook.com/afkology/" title="Link to AFKology Facebook" text="Facebook" />.</p>
-        <p>Ah, it was about to slip my mind. The correct answer is C.</p>
+        <p>Ce părere ai? Care dintre cele două variante este pe placul tău? Haide pe <LinkExternal link="https://www.instagram.com/afkology/" title="Link catre contul AFKology de Instagram" text="Instagram" /> sau <LinkExternal link="https://www.facebook.com/afkology/" title="Link catre contul AFKology de Facebook" text="Facebook" />.</p>
+        <p>Ah, era să uit. Răspunsul corect este C.</p>
     </main>
   </div>
   );
