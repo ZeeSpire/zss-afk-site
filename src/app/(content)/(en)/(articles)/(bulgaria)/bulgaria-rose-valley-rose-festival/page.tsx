@@ -145,7 +145,7 @@ export default function Page() {
         <h2>When does the Rose Festival take place?</h2>
         <p>The Rose Festival typically spans several weeks at the end of May and the beginning of June, coinciding with the blooming period of the Damascena roses.</p>
         <p>The main festivities occur on Saturdays and Sundays and include the traditional rose-picking ceremony, the distillation of rose petals to produce essential oil, a parade, beauty contests, and concerts.</p>
-        <p>The festival schedule, including the timing and locations of all events related to the Rose Festival, varies from year to year and can be found online or through various travel agencies. For the year 2024, we found the schedule on the <LinkExternal link="https://www-kazanlak-bg.translate.goog/page-12782.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en" title="Official website of the Bulgarian Rose Fastival" text="official website" /> of the municipality.</p>
+        <p>The festival schedule, including the timing and locations of all events related to the Rose Festival, varies from year to year and can be found online or through various travel agencies. For the year 2024, we found the schedule on the <LinkExternal link="https://www-kazanlak-bg.translate.goog/page-12782.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en" title="Official website of the Bulgarian Rose Festival" text="official website" /> of the municipality.</p>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosesInField} alt="Bulgaria Rose Festival - Roses in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h2>How can you get there?</h2>

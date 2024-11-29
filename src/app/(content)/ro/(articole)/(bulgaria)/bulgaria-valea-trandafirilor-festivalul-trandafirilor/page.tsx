@@ -139,68 +139,68 @@ export default function Page() {
     <main className="flex-grow">
       <h1 className="text-center mb-8">{article.titleRo}</h1>
       {/* image 16/9 */}
-      <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalField} alt="Embark on an Enchanting Journey Through Bulgaria's Rose Valley" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>If you’re longing to experience the most exquisite scent of roses, then it’s time to consider a trip to the Kazanlak region, also known as the Rose Valley.</p>
-        <p>In 2023, we had the pleasure of attending the Rose Festival in Kazanlak, Bulgaria, and we were so enamored with the experience that we felt compelled to share it with you.</p>
-        <h2>When does the Rose Festival take place?</h2>
-        <p>The Rose Festival typically spans several weeks at the end of May and the beginning of June, coinciding with the blooming period of the Damascena roses.</p>
-        <p>The main festivities occur on Saturdays and Sundays and include the traditional rose-picking ceremony, the distillation of rose petals to produce essential oil, a parade, beauty contests, and concerts.</p>
-        <p>The festival schedule, including the timing and locations of all events related to the Rose Festival, varies from year to year and can be found online or through various travel agencies. For the year 2024, we found the schedule on the <LinkExternal link="https://www-kazanlak-bg.translate.goog/page-12782.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en" title="Official website of the Bulgarian Rose Fastival" text="official website" /> of the municipality.</p>
+      <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalField} alt="O călătorie fermecătoare prin Valea Trandafirilor din Bulgaria" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Dacă îți dorești să experimentezi cel mai rafinat parfum de trandafir, atunci este momentul să iei în considerare o excursie în regiunea Kazanlak, cunoscută și sub numele de Valea Trandafirilor.</p>
+        <p>În 2023, am avut plăcerea să participăm la Festivalul Trandafirilor din Kazanlak, Bulgaria, și am fost atât de încântați de experiență încât am simțit nevoia să o împărtășim cu voi.</p>
+        <h2>Când are loc Festivalul Trandafirilor?</h2>
+        <p>Festivalul Trandafirilor se desfășoară de obicei pe parcursul a câtorva săptămâni la sfârșitul lunii mai și începutul lunii iunie, în perioada când trandafirii Damascena sunt în floare.</p>
+        <p>Principalele festivități au loc în zilele de sâmbătă și duminică și includ ceremonia tradițională de culegere a trandafirilor, distilarea petalelor de trandafir pentru a produce ulei esențial, parada, concursuri de frumusețe și concerte.</p>
+        <p>Programul festivalului, inclusiv ora și locația tuturor evenimentelor legate de Festivalul Trandafirilor, variază de la an la an și poate fi găsit online sau prin intermediul diferitelor agenții de turism. Pentru anul 2024, am găsit programul pe <LinkExternal link="https://www-kazanlak-bg.translate.goog/page-12782.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en" title="Site-ul oficial al fesivalului trandafirilor din Bulgaria" text="site-ul oficial" /> al primăriei.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosesInField} alt="Bulgaria Rose Festival - Roses in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>How can you get there?</h2>
-        <p>If you’re arriving from another country and landing at Sofia Airport, I recommend renting a car or booking a dedicated tour to the Rose Festival with transportation included from a travel agency.</p>
-        <p>We drove from Romania in our own car, crossed the border at Giurgiu-Ruse, passed through Veliko Tarnovo, and safely reached our destination. There were only a few potholes on certain sections of the road; otherwise, the journey was smooth. We were pleasantly surprised that most drivers obeyed traffic rules.</p>
-        <h2>Where did we stay?</h2>
-        <p>We stayed at the <LinkExternal link="https://www.booking.com/hotel/bg/kings-39-valley-medical-amp-spa.ro.html?aid=7913345&no_rooms=1&group_adults=2" title="Link to Kings’ Valley Medical & Spa Hotel" text="Kings’ Valley Medical & Spa Hotel" />, a 5-star establishment. Both breakfast and dinner were included, served buffet-style with a variety of delicious options, similar to those found in other Western European hotels.</p>
-        <p>The room was exceptionally spacious and clean, offering a beautiful view of the pools and the distant mountains.</p>
-        <p>We were also impressed by the SPA facilities and the indoor Olympic pool, as the outdoor ones were closed during our visit.</p>
-        <h2>Activities and places to visit</h2>
-        <p>We were interested in the rituals of rose picking and boiling, as well as visiting a few museums. Therefore, in this article, I will only discuss the activities we experienced.</p>
-        <h3>The Rose Picking Ritual</h3>
-        <p>The ritual of rose picking occurs early in the morning near several villages such as Yasenovo, Rozovo, or Kanchevo. We departed from the hotel around 8 o’clock, but we were unsure of the exact location. Using GPS, we navigated to the village of Yasenovo, where we had learned from an internet program that the rose picking ritual would take place that day. Along the way, we noticed numerous buses and parked cars on the side of the road, indicating we were heading in the right direction.</p>
-        <p>Upon arrival, we paid 10 leva (in 2023) in cash to enter the designated area in the field. Here, visitors could purchase crowns made of rosebuds and other traditional Bulgarian products. The event was a true spectacle, with Bulgarians of all ages dressed in folk costumes, joyfully dancing and singing folk songs. Afterwards, we joined the festivities and ventured among the fragrant bushes to pick roses.</p>
-        <p>It was indeed a splendid morning!</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosesInField} alt="Festivalul Trandafirilor din Bulgaria - Trandafiri în câmp" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>Cum poți ajunge acolo?</h2>
+        <p>Dacă sosești din altă țară și aterizezi la Aeroportul Sofia, îți recomand să închiriezi o mașină sau să rezervi o excursie dedicată Festivalului Trandafirilor cu transport inclus de la o agenție de turism.</p>
+        <p>Noi am condus din România cu mașina noastră personală, am trecut granița la Giurgiu-Ruse, am trecut prin Veliko Tarnovo și am ajuns în siguranță la destinație. Au fost doar câteva gropi pe anumite porțiuni ale drumului; în rest, călătoria a fost lină. Am fost plăcut surprinși că majoritatea șoferilor respectau regulile de circulație.</p>
+        <h2>Unde am stat?</h2>
+        <p>Am fost cazați la hotelul <LinkExternal link="https://www.booking.com/hotel/bg/kings-39-valley-medical-amp-spa.ro.html?aid=7913345&no_rooms=1&group_adults=2" title="Link catre Kings’ Valley Medical & Spa Hotel" text="Kings’ Valley Medical & Spa" />, o unitate de 5 stele. Atât micul dejun, cât și cina au fost incluse, servite tip bufet suedez, cu o varietate de opțiuni delicioase, similare celor găsite în alte hoteluri din Europa Occidentală.</p>
+        <p>Camera a fost deosebit de spațioasă și curată, oferind o priveliște frumoasă spre piscine și spre munții din depărtare.</p>
+        <p>Am fost, de asemenea, impresionați de facilitățile SPA și de piscina olimpică interioară, deoarece cele exterioare erau închise în timpul vizitei noastre.</p>
+        <h2>Activități și locuri de vizitat</h2>
+        <p>Ne-au interesat ritualurile de culegere și fierbere a trandafirilor, precum și vizitarea câtorva muzee. Prin urmare, în acest articol, voi discuta doar despre activitățile pe care le-am experimentat.</p>
+        <h3>Ritualul culegerii trandafirilor</h3>
+        <p>Ritualul culegerii trandafirilor are loc dimineața devreme în apropierea mai multor sate precum Yasenovo, Rozovo sau Kanchevo. Am plecat de la hotel în jurul orei 8, dar nu eram siguri de locația exactă. Utilizând GPS-ul, ne-am îndreptat către satul Yasenovo, de unde știam dintr-un program de pe internet că ritualul culegerii trandafirilor avea loc în acea zi. Pe drum, am observat numeroase autobuze și mașini parcate pe marginea drumului, semn că ne îndreptam în direcția potrivită.</p>
+        <p>La sosire, am plătit 10 leva (în 2023) în numerar pentru a intra în zona desemnată în câmp. Aici, vizitatorii puteau achiziționa coronițe din boboci de trandafiri și alte produse tradiționale bulgărești. Evenimentul a fost cu adevărat un spectacol, cu bulgari de toate vârstele îmbrăcați în costume populare, dansând și cântând melodii folclorice. După aceea, ne-am alăturat festivităților și ne-am aventurat printre tufele parfumate pentru a culege trandafiri.</p>
+        <p>A fost cu adevărat o dimineață splendidă!</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitual} alt="Bulgaria Rose Festival - Rose Picking ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitual} alt="Festivalul Trandafirilor din Bulgaria - Ritualul culegerii trandafirilor" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitualInTheField} alt="Bulgaria Rose Festival - Rose Picking ritual in the field" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>The Ritual of Boiling Rose Petals</h3>
-        <p>To witness the boiling of rose petals and the extraction of essential oil, we headed to the center of Kazanluk, to the <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=48&Itemid=1&lang=en" title="Link to Kulata Ethnographic Complex" text="Kulata Ethnographic Complex" />.</p>
-        <p>The entrance fee was approximately 8 leva per person, payable in cash. However, besides learning about essential oil extraction, we also had the opportunity to explore the garden and rooms of the ethnographic museum.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRosePickingRitualInTheField} alt="Festivalul Trandafirilor din Bulgaria - Ritualul culegerii trandafirilor în câmp" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Ritualul fierberii petalelor de trandafir</h3>
+        <p>Pentru a asista la fierberea petalelor de trandafiri și la extragerea uleiului esențial, ne-am îndreptat spre centrul orașului Kazanluk, către <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=48&Itemid=1&lang=en" title="Link catre Complexul Etnografic Kulata" text="Complexul Etnografic Kulata" />.</p>
+        <p>Taxa de intrare a fost aproximativ 8 leva per persoană, plătibilă în numerar. Cu toate acestea, pe lângă informațiile despre extragerea uleiului esențial, am avut și ocazia să explorăm grădina și încăperile muzeului etnografic.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseBoilingRitual} alt="Bulgaria Rose Festival - Rose Boiling ritual" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseBoilingRitual} alt="Festivalul Trandafirilor din Bulgaria - Ritualul fierberii trandafirilor" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalKulataEthnographicComplex} alt="Bulgaria Rose Festival - Kulata Ethnographic Complex" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>The Thracian Tombs</h3>
-        <p>Located just under 250 meters from the Kulata Ethnographic Museum, in a small park (Tyulbeto Park), you’ll find a Thracian tomb, along with a replica of it. The latter is open to visitors.</p>
-        <p>For the address, visiting hours, and ticket prices, please refer to this <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=63&Itemid=87&lang=en" title="Link to Kazanlak museum website" text="website" />.</p>
-        <p>This area is also referred to as the Valley of the Thracian Kings, where hundreds of Thracian tombs, altars, and treasures have been unearthed.</p>
-        <p>Just a 15-minute drive from Kazanluk, you can explore the tombs of Seuthes III, Shushmanets, Griffins, and Ostrusha.</p>
-        <p>Furthermore, many of the artifacts and statues discovered in these tombs are on display at the Iskra Historical Museum in Kazanluk.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalKulataEthnographicComplex} alt="Festivalul Trandafirilor din Bulgaria - Complexul Etnografic Kulata" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Mormintele Tracice</h3>
+        <p>Aflate la mai puțin de 250 de metri de Muzeul Etnografic Kulata, într-un mic parc (Parcul Tyulbeto), veți găsi un mormânt tracic, împreună cu o replică a acestuia. Aceasta din urmă este deschisă vizitatorilor.</p>
+        <p>Pentru adresă, orele de vizitare și prețurile biletelor, vă rugăm să consultați <LinkExternal link="https://www.muzei-kazanlak.org/index.php?option=com_content&view=article&id=63&Itemid=87&lang=en" title="Link catre site-ul muzeului Kazanlak" text="acest website" />.</p>
+        <p>Această zonă este cunoscută și sub numele de Valea Regilor Traci, unde au fost descoperite sute de morminte, altare și comori tracice.</p>
+        <p>La doar 15 minute cu mașina de Kazanlak, puteți explora mormintele lui Seuthes III, Shushmanets, Griffins și Ostrusha.</p>
+        <p>În plus, multe dintre artefactele și statuile descoperite în aceste morminte sunt expuse la Muzeul Istoric Iskra din Kazanluk.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaKazanlukThracianTomb} alt="Bulgaria Kazanluk - Thracian Tomb" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>The Rose Museum in Kazanluk</h3>
-        <p>The Rose Museum exhibits a variety of historical artifacts, traditional tools, and interactive displays that illustrate the process of rose oil extraction. Visitors have the opportunity to learn about the significance of roses in Bulgarian culture, folklore, and economy.</p>
-        <p>Within both the museum courtyard and the park in front of the museum, visitors can admire, photograph, and smell dozens of rose varieties.</p>
-        <p>Their fragrance is intoxicating in the most delightful way possible. I have detailed about roses and their beauty in <Link prefetch={false} href="/exploring-the-fragrant-beauty-of-bulgaria-s-valley-of-roses" title="Exploring the Fragrant Beauty of Bulgaria's Valley of Roses" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaKazanlukThracianTomb} alt="Bulgaria, Kazanlâk - Mormânt Tracic" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Muzeul Trandafirilor</h3>
+        <p>Muzeul Trandafirilor din Kazanluk expune o varietate de artefacte istorice, unelte tradiționale și afișaje interactive care ilustrează procesul de extracție a uleiului de trandafir. Vizitatorii au oportunitatea de a afla despre importanța trandafirilor în cultura, folclorul și economia bulgară.</p>
+        <p>Atât în curtea muzeului, cât și în parcul din fața muzeului, vizitatorii pot admira, fotografia și mirosi zeci de soiuri de trandafiri.</p>
+        <p>Parfumul lor este intoxicant în cel mai plăcut mod posibil. Am detaliat despre trandafiri și frumusețea lor în <Link prefetch={false} href="/ro/explorand-frumusetea-parfumata-a-vaii-trandafirilor-din-bulgaria" title="Explorând frumusețea parfumată a Văii Trandafirilor din Bulgaria" className="text-blue-600 underline hover:text-blue-800">acest articol</Link>.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseMuseumKazanlak} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>The Damascena Ethnographic Complex</h3>
-        <p>Situated approximately 25 kilometers from Kazanluk, in the heart of the Rose Valley, lies the <LinkExternal link="https://www.damascena.net/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/?lang=en" title="Link to Damascena Ethnographic Complex" text="Damascena Ethnographic Complex" />. This complex offers visitors a unique opportunity to explore and experience various aspects of Bulgarian heritage, with a particular focus on traditional methods of rose cultivation and rose oil production.</p>
-        <p>Within the complex, there is a restaurant where visitors can sample authentic Bulgarian cuisine and beverages. Since we didn’t dine here, we cannot provide a recommendation in this regard.</p>
-        <p>Additionally, the complex houses a souvenir shop where you can purchase cosmetic products based on rose or lavender oil, as well as various sweets and beverages.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseFestivalRoseMuseumKazanlak} alt="Festivalul Trandafirilor din Bulgaria - Muzeul Trandafirului din Kazanlâk" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Complexul Etnografic Damascena</h3>
+        <p>La aproximativ 25 de kilometri de Kazanluk, în inima Văii Trandafirilor, se află <LinkExternal link="https://www.damascena.net/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B0-%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D0%B0/?lang=en" title="Link catre site-ul Complexului Etnografic Damascena" text="Complexul Etnografic Damascena" />. Acest complex oferă vizitatorilor o oportunitate unică de a explora și experimenta diverse aspecte ale patrimoniului bulgar, cu accent pe metodele tradiționale de cultivare a trandafirilor și producția de ulei de trandafir.</p>
+        <p>În cadrul complexului, există un restaurant unde vizitatorii pot degusta bucătăria autentică bulgară și băuturile. Deoarece noi nu am luat masa aici, nu putem oferi o recomandare în acest sens.</p>
+        <p>De asemenea, în cadrul complexului se află un magazin de suveniruri unde puteți achiziționa produse cosmetice pe bază de ulei de trandafir sau levănțică, precum și diverse dulciuri și băuturi.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseValleyDamascenaEthnographicComplex} alt="Bulgaria Rose Festival - Rose Museum Kazanlak" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>Ethno Village Etar</h3>
-        <p>If you’re traveling by car, consider visiting the Ethno Village Etar, situated approximately 45 kilometers from Kazanluk and 53 kilometers from Veliko Tarnovo.</p>
-        <p>Etar is an open-air museum crafted as a replica of a typical Bulgarian village from the 18th and 19th centuries. It boasts well-preserved and restored wooden houses, workshops, water mills, and other structures, all lining cobblestone streets. Nestled in a picturesque natural environment, the village is enveloped by forests and the lively waters of the river.</p>
-        <p>Visitors can delve into various artisan workshops, including woodworking, pottery, weaving, and metalworking. These workshops offer insights into the skills and techniques employed by Bulgarian craftsmen centuries ago.</p>
-        <p>A standout feature of Etar is its operational water mill, illustrating the significance of water power in traditional Bulgarian economy and industry. Additionally, visitors can savor authentic Bulgarian cuisine at the village’s taverns and restaurants, serving dishes crafted with locally sourced ingredients.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaRoseValleyDamascenaEthnographicComplex} alt="Festivalul Trandafirilor din Bulgaria - Muzeul Trandafirului din Kazanlâk" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Satul Etnografic Etar</h3>
+        <p>Dacă, asemenea nouă, călătorești cu mașina, ia în considerare vizitarea tatului etnografic Etar, situat la 45 de kilometri de Kazanluk și la 53 de kilometri de Veliko Tarnovo.</p>
+        <p>Etar este un muzeu în aer liber construit ca o replică a unui sat bulgăresc tipic din secolele al XVIII-lea și al XIX-lea. Se mândrește cu case din lemn bine conservate și restaurate, ateliere, mori de apă și alte structuri, toate dispuse de-a lungul străzilor cu pavele. Încorporat într-un peisaj natural pitoresc, satul este înconjurat de păduri și de apele vii ale râului.</p>
+        <p>Vizitatorii pot explora diverse ateliere meșteșugărești, inclusiv prelucrarea lemnului, olăritul, țesutul și prelucrarea metalelor. Aceste ateliere oferă o privire asupra abilităților și tehnicilor folosite de meșterii bulgari acum câteva secole.</p>
+        <p>Un element remarcabil al Etarului este moara sa de apă funcțională, care ilustrează importanța energiei hidraulice în economia și industria tradițională bulgară. În plus, vizitatorii pot savura bucătăria autentică bulgară la tavernele și restaurantele satului, servind preparate realizate cu ingrediente locale.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaEtarEthnoVillage} alt="Bulgaria - Etar Ethno Village" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>Conclusion</h2>
-        <p>From the mesmerizing rituals of rose picking and boiling to the exploration of ancient Thracian tombs and ethnographic complexes, the Kazanlak region offers a tapestry of experiences that captivate the senses and enrich the soul. Whether indulging in authentic Bulgarian cuisine, wandering through open-air museums, or breathing in the intoxicating fragrance of roses, a journey to the Rose Valley promises an unforgettable adventure filled with beauty, culture, and timeless wonder.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={bulgariaEtarEthnoVillage} alt="Bulgaria - Satul Etnografic Etar" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>Concluzie</h2>
+        <p>De la fascinantele ritualuri de culegere și fierbere a trandafirilor la explorarea vechilor morminte tracice și a complexelor etnografice, regiunea Kazanlak oferă o multitudine de experiențe care captivează simțurile și îmbogățesc sufletul. Fie că te lași răsfățat de bucătăria bulgară, rătăcești prin muzee în aer liber sau inspiri parfumul îmbătător al trandafirilor, o călătorie în Valea Trandafirilor promite o aventură de neuitat, plină de frumusețe, cultură și minune eternă.</p>
     </main>
   </div>
   );

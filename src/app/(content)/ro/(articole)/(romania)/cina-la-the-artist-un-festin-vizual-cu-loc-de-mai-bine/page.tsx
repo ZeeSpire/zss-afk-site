@@ -133,46 +133,45 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-    <section>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-    </section>
-    <Navbar enUrl={`${article.slug?.en}`} />
-    <main className="flex-grow">
-      <h1 className="text-center mb-8">{article.titleRo}</h1>
-      <p>On a bustling and rainy November evening, we chose to step into The Artist restaurant for a unique culinary experience. In this article, we tell about how we found the atmosphere, reception, service and food in the restaurant with the title of the best restaurant in Romania.</p>
-        <p>We had made a reservation three days prior and were pleased to secure a table for two so swiftly, especially considering it was a holiday. The restaurant, situated in an old house on Calea Victoriei in one of the prime areas of Bucharest, boasts a terrace during the warmer seasons.</p>
-        <p>Regrettably, our initial greeting did not meet our expectations in terms of seriousness. The reception featured a group of distracted and noisy staff who seemed unattentive. Nevertheless, we were promptly seated at a table upstairs, in a somewhat sparse and rather cold-atmosphere room. However, a fresh flower on the table was a thoughtful touch, always appreciated by us.</p>
-        <p>What we knew about this restaurant were basically the things specified on their <LinkExternal link="https://theartist.ro/" title="Link to The Artist" text="website" />, where we discovered it was featured on <LinkExternal link="https://www.theworlds50best.com/discovery/search-results.html?town=Bucharest&country=Romania" title="Link to theworlds50best.com" text="theworlds50best.com" /> and held a commendable rating in the Gault and Millau guide. Most importantly, we were intrigued by the menu.</p>
-        <p>The menu presented at the table mirrored that on the website, a sign that they keep their website updated. We had already decided on our order, opting for the five-course menu priced at 305 RON per person (approx. 61 EUR).</p>
-        <p>Our culinary journey began with an amuse-bouche: two types of bread with flavored butter and two choux filled with cream cheese, presented on a plate with dry ice. The visual effect was captivating, setting an exciting tone for the evening.</p>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
+      <Navbar enUrl={`${article.slug?.en}`} />
+      <main className="flex-grow">
+        <h1 className="text-center mb-8">{article.titleRo}</h1>
+        <p>Într-o seară aglomerată și ploioasă de noiembrie, am trecut pragul restaurantului The Artist pentru o experiență culinară unică. În acest articol, povestim despre cum ni s-a părut atmosfera, primirea, servirea şi mâncarea în restaurantul cu titulatura de cel mai bun restaurant din România.</p>
+        <p>Rezervarea am facut-o cu vreo 3 zile înainte şi ne-am bucurat să găsim o masă de două persoane disponibilă aşa din scurt, chiar în zi de sărbătoare. Restaurantul se află într-o casă veche de pe Calea Victoriei, într-una din cele mai bune zone ale Bucureştiului, iar în timpul sezonului cald are şi o terasă.</p>
+        <p>Din păcate, nu am fost întâmpinaţi pe măsura așteptărilor noastre, mai ales în ceea ce privește seriozitatea. La recepţie erau câteva angajate distrate şi zgomotoase, care nu ne-au dat atenție. Cu toate acestea, ospătarul care ne-a servit pe parcursul serii, ne-a condus prompt la o masă de la etaj, într-un salon mai degrabă gol și cu o atmosferă destul de rece. Totuşi floarea proaspătă din vaza de pe centrul mesei este un detaliu mereu apreciat de noi.</p>
+        <p>Ce știam despre acest restaurant erau practic lucrurile specificate pe <LinkExternal link="https://theartist.ro/" title="Link catre site-ul The Artist" text="site-ul lor" />, unde am descoperit că este menţionat de către cei de la <LinkExternal link="https://www.theworlds50best.com/discovery/search-results.html?town=Bucharest&country=Romania" title="Link catre theworlds50best.com" text="theworlds50best.com" /> și că a avut un rating lăudabil în ghidul Gault & Millau. Cel mai important, ne-a intrigat meniul. Meniul prezentat la masă îl reflectă pe cel de pe website, semn că își mențin site-ul actualizat. Noi eram deja hotărâţi asupra comenzii noastre, optând pentru meniul cu cinci feluri la prețul de 305 RON de persoană (aprox. 61 EUR).</p>
+        <p>Călătoria noastră culinară a început cu un amuse-bouche: două tipuri de pâine cu unt aromat și două choux umplute cu cremă de brânză, prezentate pe o farfurie cu gheață carbonică. Efectul vizual a fost captivant şi am fost foarte entuziasmaţi să ne începem cina astfel.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist1} alt="Dinner at The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist2} alt="Dinner at The Artist - Drings" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist1} alt="The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist2} alt="Cina la The Artist - Băuturi" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist12} alt="Dinner at The Artist - Food 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>For our cold appetizers, we enjoyed baked beetroot and celery with Romanian brie cheese, figs, walnuts, and avocado, along with a confit duck leg in a brioche with red cabbage, cranberries, and sweet potato. Both dishes were well-executed, with one of us favoring the beetroot for its nuanced flavors, while the other relished the duck brioche.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist12} alt="Cina la The Artist - Mancare 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Ca feluri de mâncare reci (să le zicem aperitive), ne-am bucurat de o porţie de sfeclă roșie și țelină coapte cu brânză brie românească, smochine, nucă și avocado, dar şi de o pulpă de rață confit în brioșă cu varză roșie, merișoare și cartofi dulci. Ambele feluri de mâncare au fost bine executate, unul dintre noi favorizând sfecla roșie pentru aromele sale deosebite, iar celălalt a savurat brioșa cu rață.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist3} alt="Dinner at The Artist - Food 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist4} alt="Dinner at The Artist - Food 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist5} alt="Dinner at The Artist - Food 4" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist3} alt="Cina la The Artist - Mancare 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist4} alt="Cina la The Artist - Mancare 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist5} alt="Cina la The Artist - Mancare 4" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>The Romanian “bulz”, in the interpretation of chef Paul Oppenkamp who runs The Artist kitchen, followed, featuring a polenta ball stuffed with bladderwrack cheese, parsnip puree, and a fried quail egg. Despite the unexpected parsnip twist, it proved to be a delightful innovation. We also savored the pan-fried salmon, accompanied by a fusion of borscht, miso, ginger, and Nori seaweed.</p>
-        <p>Moving on to the ravioli and coquelet, the beef-filled ravioli in Feteasca Neagra wine sauce showcased skilled cooking, though the pumpkin flavor was somewhat subdued. Unfortunately, the coquelet chicken in barbecue sauce left a less favorable impression due to an initial bite dominated by chicken skin covered in the sauce.</p>
+        <p>A urmat bulzul, în interpretarea bucătarului Paul Oppenkamp, care conduce bucătăria The Artist, care a constat în mămăligă umplută cu brânză de burduf, piure de păstârnac și un ou de prepeliță prăjit. În ciuda alăturării neașteptate a păstârnacului la bulz, s-a dovedit a fi o inovație plină de gust. Am savurat și somonul la tigaie, însoțit de o fuziune de borș, miso, ghimbir și alge Nori.</p>
+        <p>Trecând la ravioli și coquelet, ravioli umplute cu carne de vită în sos de vin Fetească Neagră au fost gătite foarte bine, deși aroma de dovleac a fost oarecum inexistentă. Din păcate, puiul coquelet în sos barbecue a lăsat o impresie mai puţin favorabilă deoarece prima îmbucătură a fost doar piele de pui acoperită în sosul puţin prea picant.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist6} alt="Dinner at The Artist - Food 5" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist7} alt="Dinner at The Artist - Food 6" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist8} alt="Dinner at The Artist - Food 7" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist6} alt="Cina la The Artist - Mancare 5" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist7} alt="Cina la The Artist - Mancare 6" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist8} alt="Cina la The Artist - Mancare 7" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>For dessert, we both chose the cucumber sorbet, a visually stunning and uniquely flavored dish that was a personal favorite. The chocolate mousse, however, fell short. The excessively sweet mousse clashed with the extremely bitter espresso cream, and the presence of what seemed like a caramel in a plastic wrap was a confusing detail. After taking the plates, the waiter informed us that everything we had on the plate was edible, including the “plastic” wrap, but without telling us what it actually was. Unfortunately, we received this information a little too late, and I would have appreciated more attention to detail from both the chef and the waiter.</p>
+        <p>Pentru desert, am ales amândoi sorbetul de castraveți, un preparat uimitor din punct de vedere vizual și cu o aromă deosebită, care a fost un preferatul meu. Mousse-ul de ciocolată nu s-a ridicat la nivelul aşteptărilor. Mousse-ul a fost excesiv de dulce, iar crema pe bază de espresso a fost extrem de amară, iar prezența a ceea ce părea o caramea învelită într-o folie de plastic a fost un detaliu derutant. După ce a luat farfuriile, chelnerul ne-a informat că tot ce aveam în farfurie era comestibil, inclusiv acea folie de „plastic”, dar fără să ne spună ce era de fapt. Din păcate, am primit această informație puțin prea târziu și aș fi apreciat mai multă atenție la detalii atât de la bucătar, cât și de la chelner.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist9} alt="Dinner at The Artist - Food 9" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist10} alt="Dinner at The Artist - Food 10" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist11} alt="Dinner at The Artist - Food 11" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist9} alt="Cina la The Artist - Mancare 9" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist10} alt="Cina la The Artist - Mancare 10" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist11} alt="Cina la The Artist - Mancare 11" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>In conclusion, our experience at The Artist was visually pleasing but left us wanting more in terms of taste. Considering the restaurant’s awards and positive reviews, we wondered if our evening might have been an exception. Nonetheless, The Artist recently earned the title of the best restaurant in Romania by the World Culinary Awards and is undoubtedly worth experiencing at least once.</p>
-    </main>
-  </div>
+        <p>În concluzie, experiența noastră la The Artist a fost plăcută din punct de vedere vizual, dar ne doream mult mai mult din punct de vedere al gustului. Având în vedere premiile obţinute de-a lungul timpului și multitudinea de recenzii pozitive, ne-am întrebat dacă nu cumva cina noastră a fost mai degrabă o excepție. Trecând peste experienţa de care am avut noi parte, The Artist a câștigat recent titlul de cel mai bun restaurant din România la World Culinary Awards și merită, fără îndoială, să fie încercat măcar o dată.</p>
+      </main>
+    </div>
   );
 }

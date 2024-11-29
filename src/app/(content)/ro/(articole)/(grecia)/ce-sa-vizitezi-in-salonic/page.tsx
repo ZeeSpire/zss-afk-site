@@ -141,57 +141,57 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiViewFromTheWhiteTower} alt="What you can do in Thessaloniki in just three hours" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>On our way to Halkidiki, we stopped in Thessaloniki, a city full of charm and color. Here is what we managed to do in just three hours.</p>
-        <p>First, we looked for a parking space to leave our car. We left the car in the <LinkExternal link="https://www.google.com/maps/place/Passenger+Terminal+Parking+(P1)/@40.6345997,22.9349951,19.75z/data=!4m17!1m10!3m9!1s0x14a8396ff3dc0767:0x552aae944aaf3b75!2sNoa+Hotel!5m2!4m1!1i2!8m2!3d40.6350005!4d22.935659!16s%2Fg%2F11kl03nfsh!3m5!1s0x14a8390a2e92d639:0xb24f4bc0bcc4ad8!8m2!3d40.6346164!4d22.9351678!16s%2Fg%2F11hbqkxc7d?entry=ttu" title="Map to Passenger Terminal Parking (P1)" text="Passenger Terminal Parking (P1)" />, a fairly large parking lot with a barrier, for which we paid approximately 5 euros for 3 hours at the end of our stay. We were able to pay by card, and we were satisfied with this parking lot.</p>
-        <p>From there, we went in a straight line on Leof Nikis Street to the White Tower. On the right side, there was the Thessaloniki Gulf of the Aegean Sea, a crystal blue sea but full of garbage on the shore, and on the left side, there were buildings with various shops and cafes on the ground floor.</p>
-        <h2>What you can visit in Thessaloniki</h2>
-        <h3>Aristotelous Square</h3>
-        <p>On the way to the White Tower, we passed by Aristotelous Square, where we stopped for a few moments. Aristotelous Square is a large space flanked by neoclassical buildings on one side and the sea on the other. All around there are cafes and restaurants, and in the center is the statue of Aristotle.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiViewFromTheWhiteTower} alt="Ce poţi face în Salonic în doar trei ore" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>În drumul nostru spre Halkidiki, ne-am oprit în Salonic, un oraş plin de farmec şi culoare. Iată ce am reuşit să facem în doar trei ore.</p>
+        <p>În primul rând, am căutat un loc de parcare unde să ne lăsăm maşina. Am lăsat maşina în <LinkExternal link="https://www.google.com/maps/place/Passenger+Terminal+Parking+(P1)/@40.6345997,22.9349951,19.75z/data=!4m17!1m10!3m9!1s0x14a8396ff3dc0767:0x552aae944aaf3b75!2sNoa+Hotel!5m2!4m1!1i2!8m2!3d40.6350005!4d22.935659!16s%2Fg%2F11kl03nfsh!3m5!1s0x14a8390a2e92d639:0xb24f4bc0bcc4ad8!8m2!3d40.6346164!4d22.9351678!16s%2Fg%2F11hbqkxc7d?entry=ttu" title="Harta catre Passenger Terminal Parking (P1)" text="Passenger Terminal Parking (P1)" />, o parcare destul de mare, cu barieră, pentru care am plătit aproximativ 5 euro pentru 3 ore, la final. Am putut plăti cu cardul şi am fost cât se poate de mulţumiţi.</p>
+        <p>Din această parcare am mers drept pe strada Leof. Nikis către Turnul Alb. Pe partea dreaptă se afla Golful Salonic al Mării Egee, o mare de un albastru cristalin, dar plină de gunoaie la mal, iar pe partea stângă erau clădiri ce aveau la parter diverse magazine şi cafenele.</p>
+        <h2>Ce poți vizita în Salonic</h2>
+        <h3>Piaţa lui Aristotel</h3>
+        <p>În drum spre Turnul Alb, am trecut pe lângă Piaţa lui Aristotel, în care nu puteam să nu ne oprim pentru câteva momente. Piaţa lui Aristotel este un spaţiu amplu flancat de clădiri în stil neoclasic pe de-o parte şi de mare de cealaltă parte. De jur împrejur există cafenele şi restaurante, iar în centru se află statuia lui Aristotel.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiAristotelousSquare} alt="Thessaloniki - Aristotelous Square" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>The White Tower of Thessaloniki</h3>
-        <p>From Aristotelous Square, we had to walk less than a kilometer to the <LinkExternal link="http://www.lpth.gr/indexeg.php" title="Link to White Tower's website" text="White Tower" />. The ticket for an adult cost 6 euros in June 2023 and included an audio guide. The audio guide can be accessed by scanning the QR code found on each floor and can be listened to on your own smartphone.</p>
-        <p>There was also the option of purchasing a combined ticket that included the Byzantine Culture Museum, the White Tower Museum, the Archaeological Museum, and the Rotunda monument. It had a price of 15 euros and was valid for three days.</p>
-        <p>On each of the six floors of the tower, there is an exhibition, each with a different theme or concept. The exhibitions were quite digitized, with many interactive screens, and people with reduced mobility could take a virtual tour of the museum at the information stations located on the ground floor. As an additional example, on the 6th floor, the theme refers to the “flavors” of the city. Part of the space has been transformed into a small dining area, and the table tops are screens with videos showing the preparation of recipes specific to the city of Thessaloniki.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiAristotelousSquare} alt="Salonic - Piața Aristotelous" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Turnul Alb</h3>
+        <p>Din Piaţa lui Aristotel, am mai avut de mers mai puţin de un kilometru până la <LinkExternal link="http://www.lpth.gr/indexeg.php" title="Link catre site-ul Turnului Alb" text="Turnul Alb" />. Biletul pentru un adult a costat 6 euro în iunie 2023 şi a inclus şi un audioghid. Audioghidul poate fi accesat scanând codul QR care se găseşte la fiecare etaj în parte şi poate fi ascultat pe telefonul propriu.</p>
+        <p>Exista şi varianta achiziţionării unui bilet combinat ce includea Muzeul Culturii Bizantine, Muzeul Turnului Alb, Muzeul Arheologic şi monumentul Rotonda. Acesta avea preţul de 15 euro şi era valabil 3 zile.</p>
+        <p>La fiecare din cele 6 etaje ale turnului, se găseşte câte o expoziţie, fiecare având o altă temă sau concept. Expoziţiile erau destul de digitalizate, având multe ecrane interactive, iar persoanele cu mobilitate redusă puteau face un tur virtual al muzeului la staţiile de informare situate la parter. Ca exemplu suplimentar, la etajul 6, tema se referă la “aromele” oraşului. O parte din spaţiu a fost transformată într-o mică zonă de luat masa, iar blaturile meselor sunt ecrane cu videoclipuri în care este prezentată pregătirea unor reţete specifice oraşului Salonic.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTower} alt="Thessaloniki - The White Tower" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTowerCoins} alt="Thessaloniki - The White Tower Coins" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTowerView} alt="Thessaloniki - The White Tower View" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTower} alt="Salonic - Turnul Alb" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTowerCoins} alt="Salonic - Monedele cu Turnul Alb" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiWhiteTowerView} alt="Salonic - Vedere de la Turnul Alb" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>But the main reason for our visit was the view offered by the balcony on the top floor. We took some photos and then continued our walk through Thessaloniki.</p>
-        <p>Near the White Tower, there is another tourist attraction: the statue of Alexander the Great. But we actually changed directions and headed towards the ruins of the Galerius Palace.</p>
-        <h3>Palace of Galerius</h3>
-        <p>The Palace of Galerius, located in Navarinou Square, was built in the 4th century AD by the Roman emperor Galerius (293–311 AD). Although the ruins can be visited from the inside, we were content to see them from the side.</p>
+        <p>Însă motivul principal al vizitei noastre, a fost priveliştea pe care ne-a oferit-o balconul de la ultimul etaj. Am făcut câteva fotografii şi apoi ne-am continuat plimbarea prin Salonic.</p>
+        <p>În apropiere de Turnul Alb, se afla un alt obiectiv turistic: statuia lui Alexandru cel Mare. Însă noi am schimbat direcţia şi ne-am îndreptat spre ruinele Palatului lui Galerius.</p>
+        <h3>Palatul lui Galerius</h3>
+        <p>Palatul lui Galerius, din Piaţa Navarinou, a fost construit în secolul al IV-lea d.Hr de către împăratul roman Galerius (293–311 d.Hr.). Cu toate că ruinele pot fi vizitate din interior, noi ne-am mulţumit să le vedem de pe margine.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiPalaceOfGalerius} alt="Thessaloniki - Palace of Galerius" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiPalaceOfGalerius} alt="Salonic - Palatul lui Galerius" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>Trigona Elenidi</h3>
-        <p>Very close to the Palace of Galerius ruins is the Trigona Elenidi patisserie, known in Thessaloniki for its triangle pastry filled with vanilla cream. We also tried such a triangle, and we confirm that it was very good. Kind of sweet, but good.</p>
-        <h3>Arch of Galerius</h3>
-        <p>The Arch of Galerius, also known as the Kamara, was built to immortalize the victorious campaigns of the Tetrarchy. And the reliefs found on the lower half of the construction are related to the campaign against the Persians.</p>
-        <p>Just like Hadrian’s Arch in Athens, can be seen for free by any passerby.</p>
+        <p>Foarte aproape de Palatul lui Galerius, se găseşte patiseria Trigona Elenidi, recunoscută în Salonic pentru trigoanele umplute cu cremă de vanilie. Am încercat şi noi un astfel de trigon şi confirmăm că a fost foarte bun. Cam dulce, dar bun.</p>
+        <h3>Arcul lui Galerius</h3>
+        <p>Arcul lui Galerius, cunoscut şi sub denumirea de Kamara, a fost construit pentru a imortaliza campaniile victorioase ale Tetrarhiei. Iar reliefurile ce se regăsesc pe jumătatea inferioară a construcţiei au legătură cu campania împotriva persanilor.</p>
+        <p>La fel precum Arcul lui Hadrian din Atena, poate fi văzut gratis de către orice trecător.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiArchOfGalerius} alt="Thessaloniki - Arch of Galerius" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiArchOfGalerius} alt="Salonic - Arcul lui Galerius" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>Rotunda</h3>
-        <p>From the Arch of Galerius, you can already see the impressive monument of the Rotunda.</p>
-        <p>The Rotunda, built by the Roman emperor Galerius in 306 AD, is a circular structure (hence the name Rotunda) that served over time as a temple, church, and mosque, and today it is a UNESCO World Heritage Site and one of the top attractions of Thessaloniki.</p>
-        <p>We paid 6 euros to visit the interior, which is impressive and fascinating at the same time.</p>
+        <p>De lângă Arcul lui Galerius, deja se poate vedea impresionanta Rotonda.</p>
+        <p>Rotonda, construită de împăratul roman Galerius în anul 306 d.Hr., este o structură circulară (de aici şi numele de Rotonda) care a deservit de-a lungul timpului ca templu, biserică şi moschee, iar astăzi este un sit al Patrimoniului Mondial UNESCO şi una din atracţiile de top ale Salonicului.</p>
+        <p>Noi am plătit 6 euro pentru a vizita interiorul care este impresionant şi fascinant în acelaşi timp.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiRotonda} alt="Thessaloniki - Rotunda" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiRotonda} alt="Salonic - Rotunda" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiRotondaInterior} alt="Thessaloniki - Rotunda Interior" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>This is all we could do in the short time we had in Thessaloniki. In our walk, we passed by many beautiful buildings, especially churches with an old air that rose between the modern buildings.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiRotondaInterior} alt="Salonic - Rotunda Interior" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Asta este tot ce am putut face în puţinul timp pe care l-am avut la dispoziţie în Salonic. În plimbarea noastră, am trecut pe lângă multe clădiri frumoase şi mai ales pe lângă biserici cu aer vechi ce răsăreau dintre clădirile moderne.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiChurch} alt="Thessaloniki - Church" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>We couldn’t leave the city and go on the road without tasting souflaki first. So, we quickly looked on Google Maps and searched for a place with as many good reviews as possible. We chose to eat at Derlicatesen all Souvlaki. A pork souflaki in pita cost 3 euros; it was good, but not as good as the one eaten at Kostas in Athens. It had a lot of fries and a mustard sauce, and that’s about it; nothing too exciting.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiChurch} alt="Salonic - Biserică" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Nu puteam să părăsim oraşul şi să purcedem la drum fără a gusta mai întâi dintr-un souflaki. Aşadar, ne-am uitat rapid pe Google Maps şi am căutat un loc cu cât mai multe recenzii bune şi ne-am oprit la Derlicatesen all Souvlaki. Un souflaki de porc în pită a costat 3 euro, a fost bun, dar nu la fel de bun ca cel mâncat de la Kostas din Atena. A avut foarte mulţi cartofi prăjiţi şi un sos de muştar şi cam atât, nimic care să ne dea pe spate.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiDerlicatesenAllSouflakiLocation} alt="Thessaloniki - souflaki location" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiDerlicatesenAllSouflaki} alt="Dinner at The Artist - souflaki dish" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiDerlicatesenAllSouflakiLocation} alt="Salonic - Locație pentru souvlaki" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={thessalonikiDerlicatesenAllSouflaki} alt="Cina la The Artist - Preparat souvlaki" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
-        <p>Then we sweetened ourselves with a choux with vanilla cream and ice cream, on top of which we added white chocolate and caramel from <LinkExternal link="https://choureal.com/catalogue/" title="Link to Choureál, Choux & Profiterole's website" text="Choureál, Choux & Profiterole" />. This time, we have to admit that the dessert was very good, and we appreciated that we were offered water with ice from the house, which we really enjoyed after the dessert.</p>
-        <p>We didn’t stop to take pictures or make other visits, so in 15 minutes we got to the car and started on the road to Halkidiki. The first impression of Thessaloniki was not extraordinary, but after the 3 hours spent in the city, we left thinking that we would return.</p>
+        <p>Apoi ne-am îndulcit cu un choux cu cremă de vanilie şi îngheţată peste care am adăugat ciocolată albă şi caramel de la <LinkExternal link="https://choureal.com/catalogue/" title="Link catre site-ul Choureál, Choux & Profiterole's" text="Choureál, Choux & Profiterole" />. De data aceasta, trebuie să recunoaştem că desertul a fost foarte bun şi am apreciat că ni s-a oferit apă cu gheaţă din partea casei pe care am savurat-o efectiv după porţia de dulce.</p>
+        <p>Nu ne-am mai oprit pentru a face poze sau alte vizite aşa că în 15 minute am ajuns la maşină şi am pornit la drum spre Halkidiki. Prima impresie referitoare la Salonic nu a fost extraordinară, dar după cele trei ceasuri petrecute în oraş, am plecat cu gândul că vom reveni.</p>
       </main>
     </div>
   );

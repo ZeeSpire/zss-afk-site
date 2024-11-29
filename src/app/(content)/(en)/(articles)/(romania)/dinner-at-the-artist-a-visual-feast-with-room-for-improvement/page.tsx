@@ -147,8 +147,8 @@ export default function Page() {
         <p>Our culinary journey began with an amuse-bouche: two types of bread with flavored butter and two choux filled with cream cheese, presented on a plate with dry ice. The visual effect was captivating, setting an exciting tone for the evening.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist1} alt="Dinner at The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist2} alt="Dinner at The Artist - Drings" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist1} alt="The Artist - Logo" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist2} alt="Dinner at The Artist - Drinks" width={720} height={1279} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={theArtist12} alt="Dinner at The Artist - Food 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />

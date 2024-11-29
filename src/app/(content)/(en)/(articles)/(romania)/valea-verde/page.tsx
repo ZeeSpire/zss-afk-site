@@ -176,8 +176,9 @@ export default function Page() {
           <li>German sausages (in Romania, the sausages are better, I swear);</li>
           <li>rice;</li>
           <li>vegetable and sausage stew;</li>
-          <li>bread, mustard, salad, grated cheese. While lunch didn’t meet our expectations, there were limited alternative dining options nearby. However, we still found something to our liking each day. For example, the potato soup with tarragon was good.</li>
+          <li>bread, mustard, salad, grated cheese.</li>
         </ul>
+        <p>While lunch didn’t meet our expectations, there were limited alternative dining options nearby. However, we still found something to our liking each day. For example, the potato soup with tarragon was good.</p>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={valeaVerde5} alt="Breakfast at Valea Verde" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h3>Dinner</h3>
