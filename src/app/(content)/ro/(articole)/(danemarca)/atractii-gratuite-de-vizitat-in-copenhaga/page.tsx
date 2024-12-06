@@ -147,75 +147,75 @@ export default function Page() {
     <main className="flex-grow">
       <h1 className="text-center mb-8">{article.titleRo}</h1>
       {/* image 16/9 */}
-      <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederikChurch} alt="15 free attractions to visit in Copenhagen" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <h2>1. The Little Mermaid (Den Lille Havfrue)</h2>
-        <p>The Little Mermaid is a small bronze statue based on the fairy tale of the same name by Danish author Hans Christian Andersen and it became the symbol of Copenhagen city. Some say it’s not worth the hype. Indeed, is small and almost always packed with tourists trying to snap a selfie with the mermaid, but as my mother said to me: “it would be a pity to visit Copenhagen and not see the little mermaid!”. Also, there are other beautiful things to visit in the area like the Gefion Fountain, the St. Alban’s Church, and the Kastellet Park which I wrote about below. Read on.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={littleMermaid} alt="Copenhagen - The Little Mermaid (Den Lille Havfrue)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>2. Amager Beach Park (Amager Strandpark)</h2>
-        <p>Amager is a serene, artificial beach from where you have spectacular views over the Middelgrunden windmill park and the Øresund Bridge that connects Denmark and Sweden.</p>
-        <p>The 2-kilometer-long artificial island was added in 2005 and it is separated from the original beach by a lagoon crossed by three bridges.</p>
-        <p>Even on a September evening, there were lots of joggers, swimmers, kayakers, people taking yoga or aerobic classes outside. This was another indicator that the Copenhageners have a very active and healthy life.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={amagerstrand} alt="Copenhagen - Amager Beach Park (Amager Strandpark)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>3. Grundtvig’s Church (Grundtvigs Kirke)</h2>
-        <p>An even more beautiful church (in my opinion of course) is Grundtvig’s Church. It is approximately 6 kilometers from the city center, but you can easily get there by public transport and a good reason to explore other areas as well. The church is made entirely of pale-yellow bricks, a typical Danish building material. Although the interior resembles that of a Gothic church, it is actually a stunning piece of expressionist architecture.</p>
+      <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederikChurch} alt="15 atracții gratuite de vizitat în Copenhaga" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <h2>1. Mica Sirenă (Den Lille Havfrue)</h2>
+        <p>Mica Sirenă este o statuie de bronz ce are la bază povestea cu același nume a autorului danez Hans Christian Andersen și a devenit simbolul orașului Copenhaga. Unii spun că nu merită să fie inclusă în topul obiectivelor de vizitat. Este adevărat că este mică și că în jurul ei roiesc turiștii care vor un selfie cu sirena, dar, așa cum a spus şi mama mea: „ar fi păcat să vizitezi Copenhaga și să nu vezi mica sirenă!”. De asemenea, în zonă există și alte locuri frumoase de vizitat, precum Fântâna Gefion, Biserica St. Alban și Parcul Kastellet, despre care am scris mai jos. Citește mai departe.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={littleMermaid} alt="v - Mica Sirenă (Den Lille Havfrue)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>2. Plaja Amager (Amager Strandpark)</h2>
+        <p>Amager este o plajă artificială liniștită, cu vederi spectaculoase asupra parcului eolian Middelgrunden și a podului Øresund, care leagă Danemarca de Suedia.</p>
+        <p>Insula artificială lungă de 2 kilometri a fost adăugată în 2005 și este separată de plaja originală printr-o lagună traversată de trei poduri.</p>
+        <p>Chiar și într-o seară de septembrie, erau mulți alergători, înotători, caiaciști, oameni care participau la clase de yoga sau aerobic în aer liber. Acesta a fost un alt indicator că locuitorii din Copenhaga duc o viață activă și sănătoasă.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={amagerstrand} alt="Copenhaga - Plaja Amager (Amager Strandpark)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>3. Biserica Grundtvig (Grundtvigs Kirke)</h2>
+        <p>O biserică foarte frumoasă (în opinia mea, desigur) este Biserica Grundtvig. Se află la aproximativ 6 kilometri de centrul orașului, dar poți ajunge ușor acolo cu transportul public și este un motiv bun pentru a explora și alte zone. Biserica este construită în întregime din cărămizi galben pal, un material de construcție specific danez. Deși interiorul seamănă cu cel al unei biserici gotice, este, de fapt, o remarcabilă creație a arhitecturii expresioniste.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch1} alt="Copenhagen - Grundtvig’s Church (Grundtvigs Kirke) -  Seen from outside" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch2} alt="Copenhagen - Grundtvig’s Church (Grundtvigs Kirke) -  Seen from inside" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch3} alt="Copenhagen - Grundtvig’s Church (Grundtvigs Kirke) -  Beautiful door" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch1} alt="Copenhaga - Biserica Grundtvig (Grundtvigs Kirke) -  vazuta de afara" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch2} alt="Copenhaga - Biserica Grundtvig (Grundtvigs Kirke) -  vazuta din interior" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={grundtvigsChurch3} alt="Copenhaga - Biserica Grundtvig (Grundtvigs Kirke) -  usa bisericii" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <h2>4. Old Stock Exchange (Børsen)</h2>
-        <p>Just 100 meters from Christiansborg Palace lies the Old Stock Exchange, one of the oldest buildings in Copenhagen, built in the 17th-century. Originally Børsen was used as a commodity exchange, and therefore it is nominated as one of the first exchanges in Europe. The building is not usually open for the public being privately owned since 1857, but the exterior with its spire in the shape of twined dragon tails it’s very impressive.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={borsenBuilding} alt="Copenhagen - Old Stock Exchange (Børsen)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>5. Nyhavn (New Harbour)</h2>
-        <p>This 17th-century waterfront, stretching from King’s New Square (Kongens Nytorv) to the harbor front, is maybe the most iconic spot in Copenhagen and one of the best photo spots you can find. Being so popular there will be lots of travelers and locals hanging out there so I would recommend waking up early and going there first thing in the morning to snap the perfect photo.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={nyhavnMain} alt="Copenhagen - Nyhavn (New Harbour)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>6. Church of Our Saviour (Vor Frelsers Kirke)</h2>
-        <p>This large baroque church inaugurated in 1752 in the Christianshavn district of Copenhagen is one of Denmark’s major tourist attractions. The entrance to the church is free of charge for all, but if you wish to climb the tower you must book your visit in advance.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={churchOfOurSaviour} alt="Copenhagen - Church of Our Saviour (Vor Frelsers Kirke)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>7. Assistens Cemetery (Assistens Kirkegård) and/or Vestre Cemetery</h2>
-        <p>Assistens Cemetery is the resting place of many famous Danes, like the author Hans Christian Andersen, “the father of existentialism” Søren Kierkegaard, and the Golden Age painter Christen Købke. It is also a popular green oasis in Nørrebro perfect for a stroll.</p>
-        <p>Although there are signs indicating the graves of the most famous people, don’t forget to double-check the year of birth - year of death as there are other Hans Christian Andersen’s buried there.</p>
-        <p>Also, it is worth mentioning that the place is full of happy playful squirrels.</p>
-        <p>If you enjoyed your walk in the peaceful Assistens Cemetery, you can also visit Vestre Cemetery, the largest cemetery in Denmark, located in the Kongens Enghave district.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={assistensCemetery} alt="Copenhagen - Assistens Cemetery (Assistens Kirkegård) and/or Vestre Cemetery" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>8. The Botanical Garden (Botanisk Have)</h2>
-        <p>Visiting the Botanical Garden is free, except for the Palm House where there is an entrance fee (included in the Copenhagen Card).</p>
-        <p>The Botanical Garden holds the largest collections of living plants in Denmark, including species of plants that are extinct in the wild.</p>
-        <p>In some areas, it is allowed to sit on the lawns, and we followed the examples of some locals that were socializing on the grass, drinking beer, and relaxing. We grabbed some porridge from Toverhallerne Market which is nearby and enjoyed our last hours in Copenhagen sitting on the grass and admiring the squirrels. No wonder Copenhagen constantly ranks among the happiest cities in the world.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={botanicalGarden} alt="Copenhagen - The Botanical Garden (Botanisk Have)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>9. Frederik’s Church (Frederiks Kirke)</h2>
-        <p>Also known as the Marble Church (Marmorkirken) with its copper-green dome is an Evangelical Lutheran church and has the largest church dome in Scandinavia. Visiting the church is free. However, you can also access the dome for a fee. You may find more information here: <LinkExternal link="https://www.marmorkirken.dk/admission" title="Link to Marmorkirken website" text="marmorkirken.dk" /></p>
-        <p>Extra tip: Frederik’s church is in the near vicinity of Amalienborg - the home of the Danish royal family - guarded day and night by Royal Life Guards (Den Kongelige Livgarde). The guard marches from Rosenborg Castle at 11:30 A.M. daily and executes the changing of the guard in front of Amalienborg at noon.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederikChurch} alt="Copenhagen - Frederik’s Church (Frederiks Kirke)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>10. Copenhagen City Hall Square (Københavns Rådhuspladsen)</h2>
-        <p>One of the main public squares of Copenhagen is a popular location for events, concerts, demonstrations.</p>
-        <p>Here you can join a free walking tour with very good reviews from Thursday to Monday from 10:30 A.M. Reservation needed: <LinkExternal link="http://www.copenhagenfreewalkingtours.dk/" title="Link to Copenhagen Free Walking tours website" text="copenhagenfreewalkingtours.dk" /></p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={cityHallSquare} alt="Copenhagen City Hall Square (Københavns Rådhuspladsen)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>11. Kastellet Park</h2>
-        <p>The Kastellet is not just a park with canals, popular for locals to run and bike through. It is actually a 17th-century star fortress, one of the best-maintained fortresses of its type remaining in Europe. The interior is still an active military post. You can find here old military barracks, bastions, a church, and a lovely windmill.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={kastellet} alt="Copenhagen - Kastellet Park" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>12. Gefion Fountain (Gefionspringvandet)</h2>
-        <p>The Gefion Fountain is a large fountain on the harbor front in Copenhagen depicting the mythical story of the creation of the island of Zealand on which Copenhagen is located.</p>
-        <p>According to an ancient legend, Gefion was the Norse mythology goddess who turned her four sons into oxen and plowed the island of Zealand out of Sweden.</p>
-        <h2>13. St. Alban’s Church</h2>
-        <p>Sitting next to the Gefion Fountain is St. Alban’s Church - an unbelievably beautiful and aesthetic English-style church. It is the only Anglican church in Denmark. It is about halfway between the Little Mermaid statue and the Royal Palace of Amalienborg.</p>
-        <h2>14. Caritas Fountain</h2>
-        <p>Also known as the Caritas Well is the oldest fountain in Copenhagen. It was built in 1608 by Christian IV and is located on the Strøget pedestrian street.</p>
-        <p>The figure depicts a pregnant woman with her children, a symbol of love or charity (Caritas in Latin).</p>
+        <h2>4. Vechea Bursă (Børsen)</h2>
+        <p>La doar 100 de metri de Palatul Christiansborg se află Vechea Bursă, una dintre cele mai vechi clădiri din Copenhaga, construită în secolul al XVII-lea. Inițial, Børsen a fost folosită ca o bursă de mărfuri, fiind astfel nominalizată ca una dintre primele burse din Europa. Clădirea nu este de obicei deschisă publicului, deoarece este în proprietate privată din 1857, dar exteriorul său, cu vârful în formă de cozi de dragon împletite, este impresionant.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={borsenBuilding} alt="Copenhaga - Vechea Bursă (Børsen)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>5. Nyhavn (Noul Port)</h2>
+        <p>Această faleză din secolul al XVII-lea, care se întinde de la Kongens Nytorv (King’s New Square) până la port, este poate cel mai emblematic loc din Copenhaga și unul dintre cele mai bune locuri pentru fotografii pe care le poți găsi în acest oraş. Fiind atât de popular, vei găsi mulți călători și localnici acolo, așa că recomand să te trezești devreme și să mergi acolo în prima parte a dimineții pentru a surprinde fotografia perfectă.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={nyhavnMain} alt="Copenhaga - Nyhavn (Noul Port)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>6. Biserica Mântuitorului (Vor Frelsers Kirke)</h2>
+        <p>Această biserică barocă mare, inaugurată în 1752 în districtul Christianshavn din Copenhaga, este una dintre principalele atracții turistice din Danemarca. Intrarea în biserică este gratuită pentru toți, dar dacă dorești să urci în turn, trebuie să-ți rezervi vizita în avans.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={churchOfOurSaviour} alt="Copenhaga - Biserica Mântuitorului (Vor Frelsers Kirke)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>7. Cimitirul Assistens (Assistens Kirkegård) și/sau Cimitirul Vestre</h2>
+        <p>Cimitirul Assistens este locul de odihnă al multor danezi celebri, precum autorul Hans Christian Andersen, “părintele existențialismului” Søren Kierkegaard și pictorul din Epoca de Aur Christen Købke. Este, de asemenea, o oază verde populară în Nørrebro, perfectă pentru o plimbare.</p>
+        <p>Deși există indicatoare care arată mormintele celor mai faimoși oameni, nu uita să verifici anul nașterii - anul morții, deoarece există și alți Hans Christian Andersen îngropați acolo.</p>
+        <p>De asemenea, merită menționat că locul este plin de veverițe jucăuşe.</p>
+        <p>Dacă ți-a plăcut plimbarea în Cimitirul liniștit Assistens, poți vizita și Cimitirul Vestre, cel mai mare cimitir din Danemarca, situat în districtul Kongens Enghave.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={assistensCemetery} alt="Copenhaga - Cimitirul Assistens (Assistens Kirkegård) și/sau Cimitirul Vestre" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>8. Grădina Botanică (Botanisk Have)</h2>
+        <p>Vizitarea Grădinii Botanice este gratuită, cu excepția Serei cu Palmieri, unde se percepe o taxă de intrare (inclusă în Copenhagen Card).</p>
+        <p>Grădina Botanică găzduiește cele mai mari colecții de plante vii din Danemarca, inclusiv specii de plante care sunt dispărute în sălbăticie.</p>
+        <p>În unele zone, este permis să te așezi pe peluze, iar noi am urmat exemplul unor localnici care socializau pe iarbă, beau bere și se relaxau. Am luat niște terci de la Piața Toverhallerne, care este în apropiere, și ne-am bucurat de ultimele ore în Copenhaga stând pe iarbă și admirând veverițele. Nu e de mirare că Copenhaga se clasează constant printre cele mai fericite orașe din lume.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={botanicalGarden} alt="Copenhaga - Grădina Botanică (Botanisk Have)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>9. Biserica lui Frederik (Frederiks Kirke)</h2>
+        <p>Biserica lui Frederik, cunoscută și sub numele de Biserica de Marmură (Marmorkirken), cu cupola sa verde de cupru, este o biserică evanghelică luterană și are cea mai mare cupolă de biserică din Scandinavia. Vizitarea bisericii este gratuită. Cu toate acestea, poți avea acces și la cupolă contra unei taxe. Poți găsi mai multe informații aici: <LinkExternal link="https://www.marmorkirken.dk/admission" title="Link catre site-ul Marmorkirken" text="marmorkirken.dk" /></p>
+        <p>Sfat suplimentar: Biserica lui Frederik se află în apropierea Amalienborg - casa familiei regale daneze - păzită zi și noapte de Garda Regală (Den Kongelige Livgarde). Garda defilează zilnic de la Castelul Rosenborg la ora 11:30 A.M. și efectuează schimbul de gardă în fața Amalienborg la prânz.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederikChurch} alt="Copenhaga - Biserica lui Frederik (Frederiks Kirke)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>10. Piața Primăriei din Copenhaga (Københavns Rådhuspladsen)</h2>
+        <p>Piața Primăriei, una dintre principalele piețe publice din Copenhaga, este un loc popular pentru evenimente, concerte și demonstrații.</p>
+        <p>Aici poți participa la un tur gratuit cu recenzii foarte bune, de la joi până luni, începând cu ora 10:30 A.M. Este necesară rezervarea: <LinkExternal link="http://www.copenhagenfreewalkingtours.dk/" title="Link catre Copenhagen Free Walking tours" text="copenhagenfreewalkingtours.dk" /></p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={cityHallSquare} alt="Copenhaga - Piața Primăriei din Copenhaga (Københavns Rådhuspladsen)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>11. Parcul Kastellet</h2>
+        <p>Parcul Kastellet nu este doar un parc cu canale, popular pentru localnici care aleargă și merg cu bicicleta prin zonă. Este, de fapt, o cetate în formă de stea din secolul al XVII-lea, una dintre cele mai bine întreținute cetăți de acest tip rămase în Europa. Interiorul este încă un post militar activ. Aici poți găsi vechi cazărmi militare, bastioane, o biserică și frumoasă moară de vânt.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={kastellet} alt="Copenhaga - Parcul Kastellet" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>12. Fântâna Gefion (Gefionspringvandet)</h2>
+        <p>Fântâna Gefion este o fântână mare amplasată pe malul portului din Copenhaga, ilustrând povestea mitică a creației insulei Zeeland, pe care se află Copenhaga.</p>
+        <p>Conform unei legende antice, Gefion era zeița mitologiei nordice care și-a transformat cei patru fii în boi și a arat insula Zeeland din Suedia.</p>
+        <h2>13. Biserica Sfântului Alban</h2>
+        <p>Aflată în vecinătatea Fântânii Gefion, Biserica St. Alban este incredibil de frumoasă și estetică, în stil englezesc. Este singura biserică anglicană din Danemarca. Se află aproximativ la jumătatea distanței dintre statuia Micuța Sirenă și Palatul Regal Amalienborg.</p>
+        <h2>14. Fântâna Caritas</h2>
+        <p>Fântâna Caritas este cea mai veche fântână din Copenhaga. A fost construită în 1608 de Christian al IV-lea și se află pe strada pietonală Strøget.</p>
+        <p>Figura reprezintă o femeie însărcinată cu copiii ei, simbol al iubirii sau carității (Caritas în latină).</p>
         {/* image 16/9 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={gefionFountain} alt="Copenhagen - Gefion Fountain (Gefionspringvandet)" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />Gefion Fountain (Gefionspringvandet)</div>
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={stAlbansChurch} alt="Copenhagen - St. Alban’s Church" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />St. Alban’s Church</div>
-          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={caritasWell} alt="Copenhagen - Caritas Fountain" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />Caritas Fountain</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={gefionFountain} alt="Copenhaga - Fântâna Gefion (Gefionspringvandet)" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />Gefion Fountain (Gefionspringvandet)</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={stAlbansChurch} alt="Copenhaga - Biserica Sfântului Alban" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />St. Alban’s Church</div>
+          <div className="text-center font-light text-sm"><Image className="mb-6 rounded-lg drop-shadow-xl" src={caritasWell} alt="Copenhaga - Fântâna Caritas" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" />Caritas Fountain</div>
         </div>
-        <h2>15. Strøget Street</h2>
-        <p>This car-free, 1.1 km long street is one of the longest pedestrian shopping streets in Europe.</p>
-        <p>It runs from City Hall Square (Rådhuspladsen) to King’s New Square (Kongens Nytorv) being one of the most popular tourist attractions in Copenhagen. It features a large diversity of stores: cool souvenir boutiques, budget-friendly brands like Zara and H&M, or famous expensive brands such as Louis Vuitton, Prada, or Chanel.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={stroget} alt="Copenhagen - Strøget Street" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>15. Strada Strøget</h2>
+        <p>Această stradă pietonală, lungă de 1.1 km, este una dintre cele mai lungi străzi comerciale pietonale din Europa.</p>
+        <p>Se întinde de la Piața Primăriei (Rådhuspladsen) până la Piața Nouă a Regilor (Kongens Nytorv) și este una dintre cele mai populare atracții turistice din Copenhaga. Aici găseşti o mare varietate de magazine: buticuri cu suveniruri interesante, branduri accesibile precum Zara și H&M sau branduri scumpe faimoase precum Louis Vuitton, Prada sau Chanel.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={stroget} alt="Copenhaga - Strada Strøget" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinImage2} alt="Copenhagen - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinImage3} alt="Copenhagen - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinImage2} alt="Copenhaga - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinImage3} alt="Copenhaga - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
     </main>
   </div>

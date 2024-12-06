@@ -166,7 +166,7 @@ export default function Page() {
         <p>In Oia everywhere you look there’s another picture-perfect view, it’s like a painting. Although many paths are private, you can at least explore as much of this beautiful borough full of souvenir shops. From all the souvenirs that could be bought, there were some gold-blown figurines in the shape of olive trees that caught our attention. There were on the expensive side, but they were really beautiful. There are many instagrammable spots here, like the blue domes of Oia (Saint Spyridon Oia Holy Orthodox Church and Resurrection of the Lord Holy Orthodox Church), the windmills, and the famous Kastro Oia Houses. You can also visit the ruins of the Castle of Oia where you can watch the sunset.</p>
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniNight4} alt="Santorini, olive tree" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniNight4} alt="Santorini, art of an olive tree" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniMorning} alt="Beautiful lady on the streets of Santorini" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniSunrise} alt="Kastro Oia Houses in Santorini" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
@@ -180,7 +180,7 @@ export default function Page() {
         <p>Because of the volcanic eruptions, you’ll find here some of the most interesting and apart beaches, like Vlychada for example. You can choose a boat tour and visit the Red Beach, the White Beach, and the Black Beach. We only went to the Red Beach by car and foot to snap some beautiful photos. Perissa and Perivolos are the most known beaches on this island, and there are sunbeds, tavernas, and shops. If you prefer a more secluded beach, go for Vourvoulos or Koloumpo. Bring your swimming shoes as most beaches are rocky.</p>
         {/* image 16/9 */}
         <Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniMorning2} alt="Red Beach, Santorini’s remarkable beaches" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>5. Do some window shopping in Fira</h2>
+        <h2>5. Do some shopping in Fira</h2>
         <p>Fira, the capital of Santorini, has an abundance of accommodation options, restaurants, and shops. Besides visiting the Museum of Prehistoric Thera, you can also see the Cathedral of Saint John the Baptist, the Three Bells of Fira Church, and Fira Theotokopoulos Main Square. And you can also go down the Karavolades Stairs or take the cable car to the main harbor of the island.</p>
         <h2>6. Take a boat tour to Nea Kameni Volcanic Park</h2>
         <p>I highly recommend taking a boat tour and visiting Nea Kameni Volcanic Park. There is still some volcanic activity that is monitored by scientists. We took a tour from the port of Fira which included swimming time in the sulfurous hot springs, and climbing the volcano, the guide gave us information about the volcanic activity in particular and about Thira in general, and a visit for lunch on the island of Therasia.</p>

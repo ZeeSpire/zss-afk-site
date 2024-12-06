@@ -131,19 +131,19 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului2} alt="A walk through the Dimitrie Gusti National Village Museum in Bucharest" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>On the sixth of June, 2023, we had a day off during the week when the rest were at work. Initially, we went to take a tour of the Herăstrău Park, but then we had the idea to visit the “Dimitrie Gusti” National Village Museum.</p>
-        <p>The open-air museum is located on the banks of the Herăstrău Lake, in the middle of the capital, and represents an escape from the tumult of the city. It has several entrances and, because the one near the Triumphal Arch was closed, we went to the one on Kiseleff Road, no. 28. We paid 30 RON (6 EUR) per ticket. All details are available <LinkExternal link="https://muzeul-satului.ro/en/acces-muzeu/" title="Link to Dimitrie Gusti National Village Museum" text="here" />.</p>
-        <p>The official opening of the Village Museum took place on the 10th of May, 1936, in the presence of King Charles II of Romania. It escaped relocation or destruction during communism and now includes households, churches, and other constructions from the 17th century to the beginning of the 20th century from different ethnographic areas on an area of approximately 10 hectares.</p>
-        <p>Inside the museum, there are, among the actual exhibits, maps, information boards, toilets, benches, a restaurant where you can recharge your batteries, and a souvenir shop. We also enjoyed the presence of some cats, some bored, others playful, as well as that of a turtle walking through the grass. We also saw the house illustrated on the 10 RON banknote.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului2} alt="O plimbare prin Muzeul Naţional al Satului Dimitrie Gusti din Bucureşti" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Pe 6 iunie 2023, noi am avut o zi liberă în timpul săptămânii, când restul era la lucru. Iniţial am plecat să dăm o tură de parc, dar apoi, ne-a venit ideea să mergem în vizită la Muzeul Naţional al Satului “Dimitrie Gusti”.</p>
+        <p>Muzeul în aer liber se află pe malul lacului Herăstrău, în mijlocul capitalei şi reprezintă o evadare din tumultul oraşului. Are mai multe intrări şi, pentru că cea de lângă Arcul de Triumf era închisă, am intrat pe cea de pe Şoseaua Kiseleff, nr. 28. Am plătit pe un bilet suma de 30 de lei. Toate detaliile sunt disponibile <LinkExternal link="https://muzeul-satului.ro/acces-muzeu/" title="Link to catre Muzeul Naţional al Satului Dimitrie Gusti" text="aici" />.</p>
+        <p>Deschiderea oficială a Muzeului Satului a avut loc la data de 10 mai 1936, în prezenţa regelui Carol al II-lea. A scăpat de relocare sau distrugere în timpul comunismului, iar acum cuprinde gospodării, biserici şi alte construcţii din secolul al XVII-lea până la începutul secolului XX din diferite zone etnografice pe o suprafaţă de aproximativ 10 hectare.</p>
+        <p>În interiorul muzeului se găsesc, printre exponate, hărţi, panouri informative, toalete, bănci, un restaurant unde îţi poţi reîncărca bateriile şi un magazin cu suveniruri. De asemenea, noi ne-am bucurat de prezenţa unor pisici, unele plictisite, altele jucăuşe, precum şi de cea a unei broaşte ţestoase care se plimba prin iarbă. Am văzut inclusiv casa ilustrată pe bancnota de 10 lei.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului3} alt="Dimitrie Gusti National Village Museum in Bucharest - Inside the open air museum" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>A list of households with information about each one can be found right on <LinkExternal link="https://muzeul-satului.ro/en/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/" title="Link to Dimitrie Gusti National Village Museum - A list of households" text="the museum website" />.</p>
-        <p>Exhibitions and various events are organized inside the museum so be sure to check this out as well before visiting.</p>
-        <p>We allocated an hour and 30 minutes for this visit, but we could have spent much more time walking along the alleys among the houses, taking photos, and reading about each one.</p>
-        <p>The “Dimitrie Gusti” National Village Museum is undoubtedly a must-see attraction in Bucharest.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului3} alt="Muzeul Național al Satului Dimitrie Gusti din București - În interiorul muzeului în aer liber" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>O listă a gospodariilor cu informaţii despre fiecare poate fi găsită chiar pe <LinkExternal link="https://muzeul-satului.ro/despre-noi/patrimoniul-muzeului/expozitia-permanenta-in-aer-liber/" title="Link către Muzeul Național al Satului Dimitrie Gusti - O listă a gospodăriilor" text="site-ul muzeului" />.</p>
+        <p>De menţionat ar fi şi faptul că în interiorul muzeului se organizează expoziţii şi diverse evenimente.</p>
+        <p>Noi am alocat o ora şi 30 de minute pentru această vizită, dar puteam petrece mult mai mult timp plimbându-ne pe alei printre căsuţele ţărăneşti, pozându-le şi citind despre fiecare în parte.</p>
+        <p>Muzeul Naţional al Satului “Dimitrie Gusti” reprezintă fără îndoială o atracţie de neratat în Bucureşti.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului4} alt="Dimitrie Gusti National Village Museum in Bucharest - Household" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muzeulSatului4} alt="Muzeul Național al Satului Dimitrie Gusti din București - Gospodărie" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
       </main>
     </div>
   );

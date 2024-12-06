@@ -180,8 +180,8 @@ export default function Page() {
         <p>These are our recommendations for phenomenally good food in Santorini. If you go to Santorini, I hope you’ll try at least some of them and tell me what you thought. I always enjoy talking about food.</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniEat2} alt="Santorini Sunsets Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniEat} alt="Santorini Sunsets Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniEat2} alt="Santorini Food - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniEat} alt="Santorini Food - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>

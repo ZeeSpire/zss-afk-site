@@ -136,26 +136,26 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
         <Youtube videoId="YXcX60DSbUs" />
-        <p>When you say “volcano” you automatically think of a magmatic volcano, they are more popular and more common. While there are more than 1500 magmatic volcanoes on land and probably more than 1 million of them underwater, there are only 700 mud volcanoes worldwide.</p>
-        <p>The mud volcanoes in Buzău county, Romania, are the largest in Europe and are spectacular because they erupt once every few minutes or even seconds.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone1} alt="The Muddy Volcanoes, Buzău County, Romania" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>Some mud volcanoes form cones while others form lakes that emit gases (boilers). The difference between them is given by the mud. If the mud is more viscous, it will flow slowly and will form cones. If the mud it’s more liquid, it will form lakes.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone2} alt="The Muddy Volcanoes - drone view" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>The best-known muddy volcanoes in Buzău county are: The Large Mud Volcanoes (Pâclele Mari), The Small Mud Volcanoes (Pâclele mici), The Boilers From Berca (Fierbătorile de la Berca), and The Boilers from Beciu (Fierbătorile de la Beciu).</p>
+        <p>Când spui “vulcan” te gândești automat la un vulcan magmatic, fiind mai populari si mai comuni. Deși există peste 1500 de vulcani magmatici pe uscat și probabil mai mult de 1 milion sub apă, există doar 700 de vulcani noroioși în întreaga lume.</p>
+        <p>Vulcanii noroioși din județul Buzău, România, sunt cei mai mari din Europa și sunt spectaculoși pentru că erup o dată la câteva minute sau chiar secunde.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone1} alt="Vulcanii noroioși, județul Buzău, România" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Unii vulcani noroioși formează conuri, în timp ce alții formează lacuri care emit gaze (cazane sau fierbători). Diferența dintre ele este dată de noroi. Dacă noroiul este mai vâscos, va curge încet și va forma conuri. Dacă noroiul este mai lichid va forma lacuri.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone2} alt="Vulcanii noroioși - vedere din drona" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Cei mai cunoscuți vulcani noroioși din județul Buzău sunt: Pâclele Mari, Pâclele Mici, Fierbătorile de la Berca și Fierbătorile de la Beciu.</p>
         <GoogleMaps link="https://www.google.com/maps/embed?pb=!1m36!1m8!1m3!1d89729.91251157537!2d26.6539393!3d45.3476058!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x40b3e59dcbfa6a81%3A0x134fc65bd402885d!2sFierbatorile%20De%20La%20Berca%2C%20Berca!3m2!1d45.296574899999996!2d26.694639!4m5!1s0x40b3f00168630157%3A0xc97143c6ce00a966!2sVulcanii%20Noroio%C8%99i%20P%C3%A2clele%20Mici%2C%20Scor%C8%9Boasa!3m2!1d45.3394093!2d26.7061852!4m5!1s0x40b3f06c6baa3049%3A0xe3fd287f24779b2e!2sVulcanii%20Noroio%C8%99i%20P%C3%A2clele%20Mari%2C%20P%C3%A2clele!3m2!1d45.3594064!2d26.7134713!4m5!1s0x40b3f124c06b4fc1%3A0x7cf127da9796d048!2sFierbatorile%20de%20la%20Beciu%2C%20Beciu!3m2!1d45.377323999999994!2d26.7058468!5e0!3m2!1sen!2sro!4v1649599266995!5m2!1sen!2sro" />
-        <p>On our one-day trip from Bucharest, we only visited Pâclele Mari and Pâclele Mici and it seemed to us that the most spectacular landscape is probably at Pâclele Mici, but both places are worth a visit. And we plan to visit the other two as well.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone3} alt="The Muddy Volcanoes - drone view 2" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>There is a small admission fee (approx. 1 euro per adult) for each site and it’s best to carry cash. The admission fee is too small in my opinion.</p>
-        <p>We visited them on a sunny and quite warm day in February and it was perfect because we were almost the only people there and we could fly the drone without any issues. I don’t think they can be visited when it’s raining or if it rained and it’s still wet as you should walk only on dry land.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyGround1} alt="The Muddy Volcanoes - desert view" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>You must keep in mind that these volcanoes are constantly transforming the terrain, at the same time being so fragile. It is best to avoid going too near to them, not only because the mud is corrosive and toxic, and the volcanoes can splash you when you’re not expecting it. It’s not just for your cleanliness and safety, but to preserve the muddy volcanoes. Why would you want to risk destroying them?</p>
-        <p>At the entrance of the reservation, you’ll find information panels. Please read them. You’ll find out that you should only walk in dry areas, not on the gray wet patches. If it’s not possible to go near a volcano without getting your shoes dirty with mud, then you should admire them from a distance.</p>
-        <p>Enjoy the lunar landscapes!</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyGround2} alt="The Muddy Volcanoes - lunar landscapes" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>În excursia noastră de o zi cu plecare din București, am vizitat doar Pâclele Mari și Pâclele Mici și ni s-a părut că cel mai spectaculos peisaj este probabil la Pâclele Mici, dar ambele locuri merită vizitate. Plănuim să le vizităm și pe celelalte două.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyDrone3} alt="Vulcanii noroioși - vedere din drona 2" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Există o mică taxă de intrare de 5 lei per adult pentru fiecare din cele doua situri cu vulcani noroioși și cred ca cel mai bine ar fi să ai numerar la tine. Taxa de intrare este prea mică după părerea mea.</p>
+        <p>I-am vizitat într-o zi însorită și destul de caldă de februarie și a fost perfect pentru că eram aproape singurii vizitatori din acea zi și am putut pilota drona fără probleme. Nu cred că este indicat să vizitezi vulcanii când plouă sau dacă a plouat și este încă umed, deoarece este obligatoriu să mergi doar pe porțiunile uscate.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyGround1} alt="Vulcanii noroioși - peisaj ca in desert" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Trebuie să ții cont de faptul că acești vulcani transformă constant terenul, fiind în același timp atât de fragili. Cel mai bine este să eviți să te apropii prea mult de ei, nu numai pentru că noroiul este coroziv și toxic, iar vulcanii te pot stropi atunci când nu te aștepți. Nu este doar pentru curățenia și siguranța ta, ci pentru a proteja vulcanii noroioși. De ce ai vrea să riști să îi distrugi?</p>
+        <p>La intrarea în rezervație, vei găsi panouri informative din care vei afla că ar trebui să mergi numai prin zonele uscate, nu și pe zonele gri umede. Dacă nu este posibil să te apropii de vulcani fără să-ți murdărești pantofii de noroi, atunci ar trebui să-i admiri de la distanță.</p>
+        <p>Bucură-te de peisajele selenare!</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyGround2} alt="Vulcanii noroioși - peisaj lunar" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyPin1} alt="The Muddy Volcanoes - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyPin2} alt="The Muddy Volcanoes - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyPin1} alt="Vulcanii noroioși - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={muddyPin2} alt="Vulcanii noroioși - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>

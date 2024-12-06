@@ -134,45 +134,45 @@ export default function Page() {
       <Navbar enUrl={`${article.slug?.en}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
-        <p>Art Safari, the famous art exhibition in the capital of Romania, has reached its tenth edition.</p>
-        <p>After visiting the ninth edition, about which you can find out more information <Link prefetch={false} href="/art-safari-a-temporary-art-exhibition-in-bucharest" title="Art Safari - a temporary art exhibition in Bucharest - 9th edition" className="text-blue-600 underline hover:text-blue-800">here</Link> we set out to reach in the next editions or at least to try.</p>
-        <p>So last weekend we went to Art Safari housed in the Dacia-România Palace in Lipscani street.</p>
+        <p>Art Safari, celebra expoziție de artă din capitala României, a ajuns la cea de-a zecea ediție.</p>
+        <p>După vizitarea ediției cu numărul 9, despre care poți afla mai multe informații <Link prefetch={false} href="/ro/art-safari-o-expozitie-temporara-de-arta-in-bucuresti" title="Art Safari - o expoziție temporară de artă în București - ediția 9" className="text-blue-600 underline hover:text-blue-800">aici</Link> ne-am propus să ajungem și la următoarele ediții sau cel puțin să încercăm.</p>
+        <p>Așadar am fost weekendul trecut la Art Safari organizat și de această dată în incinta Palatului Dacia-România din strada Lipscani.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={palatulDaciaRomaniaLight} alt="Dacia Palace Romania 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>The 5 exhibitions are:</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={palatulDaciaRomaniaLight} alt="Palatul Dacia România" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Cele cinci expoziții sunt:</p>
         <div className="mb-6">
           <b>Ștefan Popescu</b><br />
-          <b>Travel stories</b><br />
-          <span>Romanian pavilion</span><br /><br />
+          <b>Povestea călătoriilor</b><br />
+          <span>Pavilionul românesc</span><br /><br />
 
           <b>Mihai Mureșan</b><br />
-          <b>Small things</b><br />
-          <span>Romanian pavilion</span><br /><br />
+          <b>Lucruri mărunte</b><br />
+          <span>Pavilionul românesc</span><br /><br />
 
           <b>Lilian Theil</b><br />
-          <b>A smiling old woman</b><br />
-          <span>Romanian pavilion</span><br /><br />
+          <b>O bătrână care zâmbește</b><br />
+          <span>Pavilionul românesc</span><br /><br />
 
           <b>Seeking Truth: The Art of John Constable</b><br />
-          <span>International pavilion</span><br /><br />
+          <span>Pavilionul internațional</span><br /><br />
 
           <b>Korean Beauty in Poster Art</b><br />
-          <span>International pavilion</span><br /><br />
+          <span>Pavilionul internațional</span><br /><br />
         </div>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari2} alt="Art Safari 10th Edition 1" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari2} alt="Art Safari - ediția 10, explicatii" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafariLight} alt="Art Safari 10th Edition 2" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>We are no experts or connoisseurs, but we liked the ninth edition more. I think that from the tenth edition, our favorite exhibition was Ștefan Popescu - Travel stories.</p>
-        <p>You can go to Art Safari 10th edition from September 23 to December 11, 2022. There are several types of tickets. Details about ticket types <LinkExternal link="https://tickets.artsafari.ro/e?lang=ro" title="Link to Art Safari" text="here" />.</p>
-        <p>We opted, as last time, for the ticket with one-day access to all five exhibitions. I bought the tickets on Black Friday with a 50% discount, the full price of a ticket being 120 RON (24 EUR), 50% more than the previous edition.</p>
-        <p>We look forward to the 11th edition.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafariLight} alt="Art Safari - ediția 10, tablouri din interior" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Nu suntem experți sau cunoscători, dar nouă ne-a plăcut mai mult ediția 9. Cred că din cadrul ediției cu numărul 10, expoziția preferată a fost Ștefan Popescu - Povestea călătoriilor.</p>
+        <p>Poți merge la Art Safari, ediția 10, în perioada 23 septembrie – 11 decembrie 2022. Există mai multe tipuri de bilete. Detalii despre tipurile de bilete <LinkExternal link="https://tickets.artsafari.ro/e?lang=ro" title="Link catre bilete la Art Safari" text="aici" />.</p>
+        <p>Noi am optat, ca data trecută, pentru biletul cu acces de o zi la cele cinci expoziții. Am cumpărat biletele de Black Friday cu 50% reducere, prețul întreg al unui bilet fiind de 120 lei, cu 50% mai mult ca la ediția precedentă.</p>
+        <p>Așteptăm cu interes ediția 11.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari3} alt="Art Safari 10th Edition 3" width={1248} height={370} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari3} alt="Art Safari - ediția 10, tablouri din interior" width={1248} height={370} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari4} alt="Art Safari 10th Edition 4" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari5} alt="Art Safari 10th Edition 5" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari4} alt="Art Safari - ediția 10, tablouri din interior" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={artSafari5} alt="Art Safari - ediția 10, tablouri din interior" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
       </main>
     </div>

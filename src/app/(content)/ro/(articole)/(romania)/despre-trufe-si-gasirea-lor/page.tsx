@@ -125,33 +125,33 @@ const jsonLd = {
 export default function Page() {
   return (
     <div>
-    <section>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-    </section>
-    <Navbar enUrl={`${article.slug?.en}`} />
-    <main className="flex-grow">
-      <h1 className="text-center mb-8">{article.titleRo}</h1>
-      <p>In Romania, there are more and more offers that include, in addition to accommodation, various types of experiences, from gastronomic incursions, wine tastings, courses where you can learn something new, to outdoor activities. This is also the case with truffle hunting.</p>
-        <p>We participated in the truffle hunt organized by Terra Carpatica, at the end of October 2022. Although we were told that it was mostly dry weather in the past months and it is possible that the truffles did not grow, we were lucky to find quite a lot of truffles. Besides the hunting itself, we also participated in a gastronomic experience based on truffles and we highly recommend this type of experience to anyone. Read about it in <Link prefetch={false} href="/truffle-hunting-and-a-special-culinary-experience-at-grigorescu-mansion" title="Truffle hunting and a special culinary experience at Grigorescu Mansion" className="text-blue-600 underline hover:text-blue-800">this article</Link>.</p>
+      <section>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      </section>
+      <Navbar enUrl={`${article.slug?.en}`} />
+      <main className="flex-grow">
+        <h1 className="text-center mb-8">{article.titleRo}</h1>
+        <p>În România există tot mai multe oferte care includ, pe lângă cazare, diverse tipuri de experiențe, de la incursiuni gastronomice, degustări de vinuri, cursuri care te învață ceva nou, până la activități în aer liber. Este și cazul vânătorii de trufe.</p>
+        <p>Am participat la vânătoarea de trufe organizată de Terra Carpatica, la sfârșitul lunii octombrie 2022. Deși ni s-a spus că în ultimele luni a fost vreme în mare parte secetoasă și este posibil ca trufele să nu fi crescut, am avut norocul să găsim destul de multe trufe. Pe lângă vânătoarea în sine, am participat și la o experiență gastronomică bazată pe trufe și recomandăm oricui acest tip de experiență. Citește despre ea în<Link prefetch={false} href="/ro/vanatoare-de-trufe-si-o-experienta-culinara-deosebita-la-conacul-grigorescu" title="Vânătoare de trufe și o experiență culinară deosebită la Conacul Grigorescu" className="text-blue-600 underline hover:text-blue-800">acest articol</Link>.</p>
         <Youtube videoId="zGxKL-WEkdA" />
-        <p>In the forests of Romania, there is a variety of truffles, which can be harvested between June and February. Their aroma and color differ depending on the season. Summer truffles have a more subtle smell and aroma than winter ones.</p>
-        <p>We are therefore in a forest in Buzau County, on the same latitude as the Piedmont area in Italy, a renowned truffle area, thus having favorable climatic conditions and abundant forests.</p>
-        <p>We were guided on a two-hour expedition through the forest by two professional truffle hunters and their dogs specially trained for this purpose. The most famous dog breed for this activity is Lagotto Romagnolo, but dogs from other breeds such as Pointer or Vizsla can also be trained to search for truffles.</p>
+        <p>În pădurile din România există o varietate de trufe, care pot fi culese între iunie și februarie. Aroma și culoarea lor diferă în funcție de anotimp. Trufele de vară au un miros și o aromă mai subtile decât cele de iarnă.</p>
+        <p>Ne aflăm așadar într-o pădure din județul Buzău, la aceeași latitudine cu zona Piemontului din Italia, o renumită zonă pentru trufe, având astfel condiții climatice favorabile și păduri dese.</p>
+        <p>Am fost ghidați într-o expediție de două ore prin pădure de către doi vânători profesioniști de trufe și câinii lor special dresați în acest scop. Cea mai cunoscută rasă de câini pentru această activitate este Lagotto Romagnolo, dar și câini din alte rase precum Pointer sau Vizsla pot fi dresați să caute trufe.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles1} alt="Truffle hunting" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>The dogs came to do the job for which they were trained. We were not allowed to play with them or distract them in any way. They were running through the forest when suddenly they were starting to dig if they smelled a truffle. They were very focused on their task. The truffles found differed in size. The smaller ones were picked up by the dog in its mouth and left in the hands of the owner. For the bigger ones, the truffle hunter carefully picked them up from the ground, with care not to break or puncture them. After that, the place was covered with leaves so that the area near the roots of the tree didn’t dry out. After each finding, the dogs were waiting for their reward, usually a small treat.</p>
-        <p>It is a well-known fact that truffles are very expensive, but the job of a truffle hunter is also a difficult and dangerous one. In the forest, all kinds of dangers lurk, some so small that you would not initially think of. Such as ticks or wasps.</p>
-        <p>The truffle, also called “the black gold”, “the black diamond”, “the diamond of the forest”, or “the diamond of the kitchen”, is a fungus that lives in the ground in symbiosis with a tree. The host trees can be oaks, hazelnuts, beeches, poplars, hornbeams, and others. The truffles are connected to the roots and provide nutrients and minerals for the tree. They grow at depths between 5 and 40 cm. This is also the reason why you can find them only with specially trained dogs.</p>
-        <p>It’s said that if you want to make a truffle farm, then you have to plant a forest.</p>
-        <p>Their smell is what helps them to perpetuate the species. Animals are attracted by their smell and rummage in the ground in order to eat them. In this way, they spread their spores. Animals that like truffles include mice, wild boars, foxes, deer, bears, and even dogs.</p>
-        <p>Truffles are used as a condiment. They have a very strong aroma, and a small amount is enough to flavor your food. The truffles can be used in risotto, pasta dishes, purees, and steaks, but they are also used to flavor butter, oil, or salt.</p>
-        <p>Besides all these, truffles have various health benefits because they are rich in antioxidants, vitamins, and minerals.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles1} alt="Vânătoare de trufe cu câini în pădure" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Câinii au venit să facă treaba pentru care au fost dresați. Nu aveam voie să ne jucăm cu ei sau să le distragem atenția în vreun fel. Alergau prin pădure când deodată începeau să sape dacă miroseau o trufă. Erau foarte concentrați pe sarcina lor. Trufele găsite aveau mărimi diferite. Cele mai mici erau luate de câine în gură și lăsate în mâna stăpânului. Pentru cele mai mari, vânătorul de trufe le scotea cu grijă din pământ ca să nu le rupă. După aceea, locul era acoperit cu frunze, astfel încât zona de lângă rădăcinile copacului să nu se usuce. După fiecare descoperire, câinii își așteptau răsplata, de obicei o bobiță pentru căței.</p>
+        <p>Este un fapt binecunoscut că trufele sunt foarte scumpe, dar meseria de vânător de trufe este una dificilă și periculoasă. În pădure pândesc tot felul de pericole, unele atât de mici încât nu te-ai gândi inițial la ele. Cum ar fi căpușele sau viespiile.</p>
+        <p>Trufa, numită și „aurul negru”, „diamantul negru”, „diamantul pădurii”, sau „diamantul bucătăriei”, este o ciupercă ce trăiește în pământ în simbioză cu un copac. Copacii gazdă pot fi stejari, aluni, fagi, plopi, carpeni și alții. Trufele sunt conectate la rădăcini și oferă nutrienți și minerale pentru copac. Ele cresc la adâncimi cuprinse între 5 și 40 cm. Acesta este și motivul pentru care le puteți găsi doar cu ajutorul câinilor special dresați.</p>
+        <p>Se spune că dacă vrei să faci o fermă de trufe, atunci trebuie să plantezi o pădure.</p>
+        <p>Trufele dezvoltă un miros puternic. Mirosul lor este cel care le ajută la perpetuarea speciei. Animalele sunt atrase de mirosul lor și scormonesc în pământ pentru a le mânca. În acest fel, își răspândesc sporii. Animalele cărora le plac trufele includ șoareci, mistreți, vulpi, căprioare, urși și chiar câini.</p>
+        <p>Trufele sunt folosite în bucătărie pe post de condiment. Au o aromă foarte puternică, iar o cantitate mică este suficientă pentru a-ți aroma mâncarea. Trufele pot fi folosite în risotto, preparate cu paste, piureuri și fripturi, dar sunt folosite și pentru a aromatiza untul, uleiul sau sarea.</p>
+        <p>Pe lângă toate acestea, trufele au diverse beneficii pentru sănătate, deoarece sunt bogate în antioxidanți, vitamine și minerale.</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles2} alt="Truffle Hunting Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles3} alt="Truffle Hunting Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles2} alt="Vânătoare de trufe - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={truffles3} alt="Vânătoare de trufe - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
-    </main>
-  </div>
+      </main>
+    </div>
   );
 }

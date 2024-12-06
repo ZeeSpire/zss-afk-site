@@ -138,28 +138,28 @@ export default function Page() {
     <main className="flex-grow">
       <h1 className="text-center mb-8">{article.titleRo}</h1>
       <Youtube videoId="Tj6d47OGhjY" />
-        <p>Having a 5 days vacation in Copenhagen, we set out for a one-day trip outside the city to experience more of Denmark’s beauties.</p>
-        <p>We had to choose between lots of one-day trips, like visiting Kronborg Castle, the idyllic fishing village Dragør, the Louisiana Museum of Modern Art, Dyrehaven (“the deer park”), the oldest amusement park in the world - Bakken, the Viking Ship Museum and the Cathedral in Roskilde, the birthplace of H.C. Andersen - Odense, Mons Klint, and many more.</p>
-        <p>And we would have visited all of them if we stayed at least two weeks, but we had to choose only one. And the winner was… Frederiksborg Castle.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgMain} alt="Frederiksborg Castle - 1-day trip from Copenhagen" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>It’s very easy to get there. From Copenhagen Central Station you take the S-train (line A) to Hillerød Station. In 45 minutes, you’ll arrive.</p>
-        <p>The train ticket is covered by Copenhagen Card. In this article, I’ve written more about <Link prefetch={false} href="/tips-for-visiting-copenhagen-for-the-first-time" title="Tips for visiting Copenhagen for the first time" className="text-blue-600 underline hover:text-blue-800">Copenhagen Card</Link>.</p>
-        <p>Hillerød is approximately 35 km to the north of Copenhagen, and it is a charming little town with pedestrian streets full of shops, restaurants, and cafes. From Hillerød Station there is a 15 to 20 minutes walk to the castle (1.5 km).</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgExterior} alt="Frederiksborg Castle - outside" width={1248} height={703} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>Frederiksborg Castle is situated on the Slotssøen which means Castle Lake, it was built by King Christian IV in the early decades of the 17th century and is the largest Renaissance complex in the Nordic region.</p>
+        <p>Petrecând o vacanță de 5 zile în Copenhaga, am putut strecura şi o excursie de o zi în afara orașului pentru a experimenta şi mai mult din frumusețile Danemarcei.</p>
+        <p>Am avut de ales între numeroase excursii de o zi, cum ar fi vizitarea Castelului Kronborg, satul pescaresc idilic Dragør, Muzeul de Artă Modernă Louisiana, Dyrehaven (“parcul cerbilor”), cel mai vechi parc de distracții din lume - Bakken, Muzeul Navelor Vikingilor și Catedrala din Roskilde, locul de naștere al lui H.C. Andersen - Odense, Mons Klint și multe altele.</p>
+        <p>Și le-am fi vizitat pe toate dacă am fi avut la dispoziţie cel puțin două săptămâni, dar a trebuit să alegem doar una. Și câștigătoarea a fost… Castelul Frederiksborg.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgMain} alt="Castelul Frederiksborg - Excursie de o zi din Copenhaga" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Este foarte ușor să ajungi la acest castel. De la Gara Centrală din Copenhaga iei trenul S (linia A) către stația Hillerød. În 45 de minute vei ajunge.</p>
+        <p>Biletul de tren este acoperit de Copenhagen Card. În acest articol, am scris mai multe despre <Link prefetch={false} href="/ro/sfaturi-pentru-prima-vizita-in-copenhaga" title="Sfaturi pentru prima vizită în Copenhaga" className="text-blue-600 underline hover:text-blue-800">Copenhagen Card</Link>.</p>
+        <p>Hillerød este la aproximativ 35 km la nord de Copenhaga și este un mic oraș fermecător cu străzi pietonale pline de magazine, restaurante și cafenele. De la stația Hillerød faci cam 15-20 de minute până la castel (1.5 km).</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgExterior} alt="Castelul Frederiksborg - exterior" width={1248} height={703} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Castelul Frederiksborg este situat pe Slotssøen, ceea ce înseamnă Lacul Castelului, a fost construit de regele Christian al IV-lea în primele decenii ale secolului al XVII-lea și este cel mai mare complex renascentist din regiunea nordică.</p>
         <GoogleMaps link="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4469.78731777407!2d12.2989364!3d55.9338814!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46524097762941e1%3A0x12c6a634246b6152!2sFrederiksborg%20Castle!5e0!3m2!1sen!2sro!4v1646067896516!5m2!1sen!2sro" />
-        <p>Since 1878 Frederiksborg Castle has housed The Museum of National History, which presents 500 years of Danish history with a collection of portraits, history paintings, furniture, and applied art.</p>
-        <p>An adult ticket costs 90 DKK which is approximately 12 EUR / 13.5 USD. The entry is free if you have the Copenhagen Card.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgGarden} alt="Frederiksborg Castle - inside" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>The visit wouldn’t be complete without a walk through the Castle’s Gardens. The gardens alone are worth a visit.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgInterior} alt="Frederiksborg Castle - Garden view from the drone" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>There is a symmetrically constructed Baroque Garden with perfectly straight hedges. There is also a romantic, English-style garden, where the small Bath House Castle is located. There are many small lakes and each one is unique and has its own beauty. You can also enjoy a delicious brunch at Cafe Havehuset located in the gardens. Here is their <LinkExternal link="https://cafehavehuset.dk/en/menu/" title="Link to Cafe Havehuset" text="menu" />.</p>
-        <p>After a full, but very pleasant day, we returned to Copenhagen, and we kindly recommend to anyone who has a spare day to visit Frederiksborg Castle.</p>
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgView} alt="Frederiksborg Castle - Garden view" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Din 1878, Castelul Frederiksborg adăpostește Muzeul de Istorie Națională, care prezintă 500 de ani de istorie daneză, cu o colecție de portrete, picturi istorice, mobilier și artă aplicată.</p>
+        <p>Un bilet pentru adulți costă 90 DKK, aproximativ 12 EUR / 13.5 USD. Intrarea este gratuită cu Copenhagen Card.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgGarden} alt="Castelul Frederiksborg - interior" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Vizita nu ar fi completă fără o plimbare prin Grădinile Castelului. Grădinile însele sunt demne de o vizită.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgInterior} alt="Castelul Frederiksborg - Vederea grădinii din dronă" width={1248} height={936} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Există o grădină barocă construită simetric, cu garduri perfect drepte. Mai este, de asemenea, şi o grădină romantică în stil englezesc, unde se află micul Bath House Castle. Există multe lacuri mici, iar fiecare este unic și are propria sa frumusețe. De asemenea, poți savura un brunch delicios la <LinkExternal link="https://cafehavehuset.dk/en/menu/" title="Link catre Cafe Havehuset" text="Cafe Havehuset" /> situat în grădini.</p>
+        <p>După o zi plină, dar foarte plăcută, ne-am întors la Copenhaga, și recomandăm cu căldură oricui are posibilitatea să viziteze Castelul Frederiksborg.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={frederiksborgView} alt="Castelul Frederiksborg - Vedere din grădina" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={castleView2} alt="Frederiksborg Castle - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={castleView1} alt="Frederiksborg Castle - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={castleView2} alt="Castelul Frederiksborg - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={castleView1} alt="Castelul Frederiksborg - Pin 02" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>
         </div>
     </main>
   </div>

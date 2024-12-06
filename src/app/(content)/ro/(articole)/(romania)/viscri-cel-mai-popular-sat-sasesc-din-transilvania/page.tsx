@@ -154,98 +154,98 @@ export default function Page() {
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriTop16x9} alt="Viscri, the most popular Saxon village in Transylvania" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <p>If you want to see the Transylvanian beauties with your own eyes because photos like always just don’t do justice, you must visit this area and I promise that you will fall in love, like King Charles III did, with the vast forests, the hospitality of the people, and the delicious local dishes.</p>
-        <h2>Where is Viscri</h2>
-        <p>Viscri is a small village, in Bunesti commune, Brasov County. There are 80 kilometers from Brasov to Viscri and another 45 kilometers to the Medieval Citadel of Sighisoara. The roads were good when we went there in October 2022 and our favorite means of transport in Romania is always the car. The car will also give you the freedom to explore other points of interest in the area, like Rupea Citadel, Racos geological complex, and other enchanting villages. Note that in Viscri was arranged a parking lot where you can leave the car and it is free of charge. From there you can easily go on foot anywhere in the village. All the cars parked on the streets of the village steal from its authenticity. So please think twice before parking anywhere else because you are too lazy to walk 500 meters.</p>
-        <h2>When to visit Viscri</h2>
-        <p>I’d say that each season has its charm, but if I had to make a recommendation in this direction, it would be spring or autumn when the weather is milder. In winter, you can have the misfortune of heavy snow and blocked roads. In summer, temperatures can exceed 30 degrees Celsius, and it is also more difficult to find accommodation as it is the peak season. Nevertheless, imagine what it would be like to sit by the stove or fireplace, sipping mulled wine while it’s snowing with big flakes outside and everything else is still. I bet you want to visit Viscri in winter now. Me too. The summer is to be preferred if you are planning to go hiking or observe the rich flora.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriTop16x9} alt="Viscri, cel mai popular sat săsesc din Transilvania" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <p>Dacă vrei să vezi frumusețile transilvănene cu ochii tăi, pentru că fotografiile ca întotdeauna nu fac dreptate, trebuie să vizitezi această zonă și îți promit că te vei îndrăgosti, așa cum a făcut-o regele Charles al III-lea, de pădurile întinse, de ospitalitatea oamenilor și de mâncărurile locale delicioase. De reținut este faptul că în Viscri a fost amenajată o parcare gratuită unde poți lăsa mașina. De acolo se poate merge cu ușurință pe jos oriunde în sat. Toate mașinile parcate pe străzile satului fură din autenticitatea acestuia. Așa că te rog să te gândești de două ori înainte de a parca în altă parte pentru că îți este prea lene să mergeți 500 de metri.</p>
+        <h2>Unde este Viscri</h2>
+        <p>Viscri este un sat mic, în comuna Bunești, județul Brașov. Sunt 80 de kilometri de la Brașov până la Viscri și încă 45 de kilometri până la Cetatea Medievală Sighișoara. Drumurile erau bune când am mers acolo în octombrie 2022 și mijlocul nostru de transport preferat în România este întotdeauna mașina. De asemenea, mașina oferă libertatea de a explora alte puncte de interes din zonă, cum ar fi Cetatea Rupea, complexul geologic Racoș și alte sate încântătoare.</p>
+        <h2>Când să vizitezi Viscri</h2>
+        <p>Aș spune că fiecare anotimp are farmecul lui, dar dacă ar fi să fac o recomandare în această direcție, ar fi primăvara sau toamna când vremea este mai blândă. Iarna, poți avea ghinionul să prinzi zăpezi abundente și drumuri blocate. Vara, temperaturile pot depăși 30 de grade Celsius și, de asemenea, este mai greu să găsești cazare întrucât este vârf de sezon. Cu toate acestea, imaginează-ți cum ar fi să stai lângă sobă sau șemineu, sorbind dintr-o cană de vin fiert în timp ce afară ninge cu fulgi mari și totul este încremenit. Pun pariu că vrei să vizitezi Viscri iarna acum. Şi eu. Vara este de preferat dacă intenționezi să faci drumeții sau să observi flora bogată.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriHouses} alt="Viscri, houses on the road" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>What to do in Viscri</h2>
-        <p>First of all, I imagine you want to visit the Saxon village to experience country life in its simplest form. So, my top recommendation would be to contact your guest house and check with them what activities you can do and book them ahead. They will most likely tell you about the horse-drawn cart trips, the horseback riding trips on the surrounding hills, or maybe they can even offer bike renting services for you to go in exploration on the bike trails built by ADEPT NGO.</p>
-        <p>Traditions are still valued in Romania. In Viscri you can visit the local blacksmith at work, or Gheorghita the brick maker, or even the feltmakers that are happy to sell you their work.</p>
-        <p>The House of Prince of Wales can be visited as well for a couple of euros (12 RON/2.5 EUR). This price includes a guided tour that I highly recommend because it offers lots of information that you wouldn’t find out otherwise. After visiting the barn where, at the time of our visit, a photo exhibition was taking place, the vegetable garden, and the traditionally decorated rooms, you can sit in the cafe enjoying a freshly baked cake. There’s a small shop where you can buy books, jams, and other goodies as well. Remember that every money spent is helping the community.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriHouses} alt="Case de pe strazile din Viscri" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>Ce să faci în Viscri</h2>
+        <p>În primul rând, îmi imaginez că vrei să vizitezi satul săsesc pentru a experimenta viața la țară în cea mai simplă formă. Așa că prima mea recomandare ar fi să contactezi pensiunea unde vei fi cazat pentru a vedea ce activități poți face și a le rezerva din timp. Cel mai probabil îți vor spune despre plimbările cu căruța trasă de cai, plimbările călare pe dealurile din jur sau poate chiar oferă spre închiriere biciclete pentru a pleca în explorare pe traseele de biciclete construite de ONG-ul ADEPT.</p>
+        <p>Tradițiile sunt încă prețuite în România. La Viscri poți observa fierarul satului la lucru, sau pe cărămidarul Gheorghiță, sau chiar pe sătencele ce lucrează cu lână și care sunt bucuroase să-ți vândă ce iese din mâinile lor.</p>
+        <p>Casa Prințului de Wales poate fi vizitată, prețul fiind de 12 lei de persoană. Biletul include un tur ghidat pe care îl recomand călduros deoarece oferă o mulțime de informații pe care altfel nu le-ai afla. După ce ai văzut hambarul unde, la momentul vizitei noastre, avea loc o expoziție de fotografii, grădina de legume și camerele decorate în stil tradițional, poți lua loc în cafenea pentru a savura o prăjitură proaspăt scoasă din cuptor. Există și un mic magazin de unde poți cumpăra cărți, gemuri și alte bunătăți. Amintește-ți că fiecare ban cheltuit ajută comunitatea.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscri2} alt="Viscri, house of King Charles III" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscri2} alt="Viscri, casa Regelui Charles al III-lea" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriKingsHouse} alt="Viscri, inside the house of King Charles III" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>One of the top attractions in Viscri is undoubtedly the Fortified Church. The entrance costs 15 RON (3 EUR). Besides the church and the church tower, we were able to visit a small museum with traditional objects and an exhibition of Medias ceramics housed in the walls surrounding the church.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriKingsHouse} alt="Viscri, în interiorul casei Regelui Charles al III-lea" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Una dintre atracțiile principale este, fără îndoială, Biserica Fortificată. Intrarea costă 15 lei. Pe lângă biserica și turnul bisericii, am putut vizita și un mic muzeu cu obiecte tradiționale, precum și o expoziție de ceramică de Mediaș, toate adăpostite în zidurile care împrejmuiesc biserica.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriChurch} alt="Viscri, Fortified Church" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriChurch} alt="Biserica Fortificată din Viscri" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriChurchInside} alt="Viscri, inside the Fortified Church" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriChurchInside} alt="în interiorul Bisericii Fortificate din Viscri" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 9/16 (1000x1777) */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri3} alt="Viscri, the wall of the fortified church" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri1} alt="Viscri, inside the chambers of the fortified church" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri2} alt="Viscri, the fortified church seen from above" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri3} alt="zidul Bisericii Fortificate din Viscri" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri1} alt="în interiorul încăperilor Bisericii Fortificate din Viscri" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={fromViscri2} alt="Biserica Fortificată din Viscri văzută de sus" width={720} height={1279} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>Besides exploring the village and its surrounding, watching the cows returning from grazing, photographing the geese let loose on the street, or just stargazing in the night, you can go truffle hunting in the forest or to other guided tours organized from time to time or upon request.</p>
+        <p>În afară de explorarea satului și împrejurimile acestuia, așteptarea văcuțelor să se întoarcă de la pășunat, fotografierea gâștelor lăsate libere pe stradă sau admirarea cerului înstelat noaptea, poți merge la vânătoare de trufe prin pădure sau la alte tururi ghidate organizate de gazde sau la cererea oaspeților.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriDucks} alt="Viscri. Ducks in the wild." width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>After all these activities, you will definitely be starving, but don’t worry because, in Viscri, the emphasis is on bio, organic, and local food.</p>
-        <h2>Where to eat</h2>
-        <p>There are a few places where you can enjoy a traditional, slow-cooked meal, with organic, seasonal ingredients grown in their gardens or from local farmers. We chose the White Barn from Viscri 32, and we each had a 3 courses menu to try as many dishes as humanly possible. The food was delicious due to the mastery of the chef, but certainly also to the quality ingredients.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriDucks} alt="Viscri. Rațe în sălbăticie." width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>După toate aceste activități, cu siguranță vei fi lihnit de foame, dar nu-ți face griji pentru că în Viscri se pune accent pe mâncarea din ingrediente locale organice.</p>
+        <h2>Unde să mănânci</h2>
+        <p>Există câteva locuri unde te poți bucura de o masă tradițională, gătită lent, cu ingrediente organice, de sezon, cultivate în grădinile proprii sau de la fermierii locali. Am ales “The White Barn” (Hambarul Alb) de la Viscri 32. Am comandat câte un meniu alcătuit din trei feluri de mâncare (supă, fel principal și desert) pentru a testa cât mai multe preparate. Mâncarea a fost delicioasă datorită măiestriei bucătarului, dar cu siguranță și a ingredientelor de calitate.</p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal2} alt="Food at Viscri 32 - 1" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal4} alt="Food at Viscri 32 - 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal3} alt="Food at Viscri 32 - 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal2} alt="Mancare de la Viscri 32 - 1" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal4} alt="Mancare de la Viscri 32 - 2" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriMeal3} alt="Mancare de la Viscri 32 - 3" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
-        <p>We also wanted to try the local gastronomic point at Mesendorf 65, because we read about them, and we knew they organize cheese tastings with cheeses made by them with milk from the cows in the village. Also, they serve lunch and dinner with homecooked delicious dishes. But unfortunately, they were fully booked.</p>
-        <p>There are other gastronomic points in other villages, and in Viscri as well, but is highly recommendable to book ahead.</p>
-        <h2>Where to sleep</h2>
-        <p>Viscri is an example of tourism done well with respect for the environment. You can find accommodation in restored houses, decorated with traditional objects, some of which are decades or even hundreds of years old.</p>
-        <p>Some of these guest houses are:</p>
+        <p>Am vrut să încercăm și punctul gastronomic local de la Meșendorf 65, pentru că am citit despre proprietari și știam că organizează degustări de brânzeturi, brânzeturi făcute chiar de ei cu lapte de la vacile din sat. De asemenea, servesc prânzul și cina cu mâncăruri delicioase gătite în casă. Dar, din păcate, nu mai aveau disponibilitate.</p>
+        <p>Mai sunt puncte gastronomice în Viscri, cât și în alte sate, dar este necesară rezervarea din timp.</p>
+        <h2>Unde să înnoptezi</h2>
+        <p>Viscri este un exemplu de turism bine făcut cu respect pentru mediu. Poți găsi cazare în case restaurate, decorate cu obiecte tradiționale, dintre care unele au zeci sau chiar sute de ani.</p>
+        <p>Unele dintre aceste pensiuni sunt:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li><LinkExternal link="https://viscri32.com/" title="Link to Viscri 32 website" text="Viscri 32" /></li>
-          <li><LinkExternal link="https://www.viscri125.ro/" title="Link to Viscri 125 website" text="Viscri 125" /></li>
-          <li><LinkExternal link="http://www.experiencetransylvania.ro/guesthouse/viscri-63/" title="Link to Viscri 63" text="Viscri 63" /></li>
+          <li><LinkExternal link="https://viscri32.com/" title="Link catre site-ul Viscri 32" text="Viscri 32" /></li>
+          <li><LinkExternal link="https://www.viscri125.ro/" title="Link catre site-ul Viscri 125" text="Viscri 125" /></li>
+          <li><LinkExternal link="http://www.experiencetransylvania.ro/guesthouse/viscri-63/" title="Link catre site-ul Viscri 63" text="Viscri 63" /></li>
         </ul>
-        <p>You can find more options on booking.com or google, both in Viscri and in the neighboring villages.</p>
+        <p>Mai multe variante găsești pe booking.com sau google, atât în Viscri, cât și în satele limitrofe.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscri32Outside} alt="Viscri 32 - In the garden" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscri32Outside} alt="În grădina de la Viscri 32" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         <h2>Mesendorf Gasthaus</h2>
-        <p>We actually stayed in another village, called Mesendorf, 17 kilometers from Viscri that can be traveled by car or bicycle. We enjoyed our time spent at Mesendorf Gasthaus because the accommodation was extraordinarily beautiful, with high ceilings and authentic Saxon decorations. But the icing on the cake was the private sauna that we had in our apartment.</p>
+        <p>Noi ne-am cazat într-un alt sat, numit Meșendorf, la 17 kilometri de Viscri, distanță ce poate fi parcursă cu mașina sau cu bicicleta. Ne-am simțit bine în timpul petrecut la Meșendorf Gasthaus deoarece camera era foarte frumoasă, cu tavan înalt și decorațiuni autentice săsești. Dar cireașa de pe tort a fost sauna privată pe care am avut-o chiar în apartamentul nostru.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={mesendorfInside} alt="Mesendorf Gasthaus. Inside." width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>They also have a restored 100-year-old barn where guests can enjoy the meals, a cozy space where you can read a book, an orchard behind the barn, and two friendly dogs.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={mesendorfInside} alt="In interiorul Mesendorf Gasthaus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>De asemenea, au un hambar restaurat, vechi de 100 de ani, unde oaspeții pot lua masa, un spațiu plăcut cu o bibliotecă plină de cărți, o livadă în spatele hambarului și doi câini prietenoși.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={mesendorfOutside} alt="Mesendorf Gasthaus. The barn." width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>How many days to stay in Viscri</h2>
-        <p>This depends a lot on what you actually want to do. If you only want to walk around the village, visit the fortified church, the house of the Prince of Wales, and taste a local dish, one day is enough.</p>
-        <p>If you want to disconnect, experience more country life, to participate in 2-3 activities from those above, you should opt for a whole weekend.</p>
-        <p>Also, there are many other things to do in the area, and you can extend your stay depending on what you want to tick. Next, I will present what we saw in one day.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={mesendorfOutside} alt="Grajdul de la Mesendorf Gasthaus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>Câte zile să stai în Viscri</h2>
+        <p>Asta depinde foarte mult de ceea ce vrei să faci de fapt. Dacă vrei doar să te plimbi prin sat, să vizitezi biserica fortificată și casa Prințului de Wales și să iei masa la un punct gastronomic local, o zi este suficientă.</p>
+        <p>Dacă vrei să te deconectezi, să experimentezi mai mult viața la țară, să participi la 2-3 activități dintre cele de mai sus, ar trebui să optezi pentru un weekend întreg.</p>
+        <p>Însă există multe alte lucruri de făcut în zonă astfel că îți poți prelungi șederea în funcție de ceea ce dorești să bifezi. În continuare voi prezenta ce am vizitat noi într-o zi.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriFromAbove} alt="Viscri - The whole village from above" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h2>Three other places to visit near Viscri</h2>
-        <h3>Racos geological complex</h3>
-        <p>The geological complex is a protected area of 95.2 hectares and includes the extinct volcano Racos, the basalt quarry Brazi nicknamed by the locals The Emerald Lake, and the basalt columns.</p>
-        <p>When you get there, you will be greeted by a person who will hand you a leaflet with information about the complex and a map. You can leave the car in the parking lot, there are paths arranged to each objective, and the ticket costs 20 RON (4 EUR) per person.</p>
-        <p>This price also includes a visit to the <LinkExternal link="https://www.castelulsukosdbethlen.ro/" title="Link to Sükösd-Bethlen castle" text="Sükösd-Bethlen castle" />, certified in the 1600s, which lies in the city of Racos.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={viscriFromAbove} alt="Viscri - Întregul sat văzut de sus" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h2>Trei locuri de vizitat lângă Viscri</h2>
+        <h3>Complexul geologic Racoș</h3>
+        <p>Complexul geologic Racoș este o arie protejată de 95,2 hectare și include vulcanul stins Racoș, cariera de bazalt Brazi supranumită de localnici Lacul de Smarald și coloanele de bazalt.</p>
+        <p>Când ajungi acolo, vei fi întâmpinat de o persoană care îți va înmâna un pliant cu informații despre complex și cu o hartă. Există două parcări și poteci amenajate spre fiecare obiectiv, iar biletul costă 20 lei de persoană.</p>
+        <p>Acest preț include vizita la <LinkExternal link="https://www.castelulsukosdbethlen.ro/" title="Link catre castelul Sükösd-Bethlen" text="castelul Sükösd-Bethlen" />, atestat în anii 1600, care se află în orașul Racoș.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={racosVulcano} alt="Racos Vulcano" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={racosVulcano} alt="Vulcanul Racos" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={basaltColumns} alt="Racos Vulcano - The basalt columns" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={basaltColumns} alt="Vulcanul Racos - Coloanele de bazalt" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={emeraldLake} alt="Racos Vulcano - The Emerald Lake seen from above" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>Rupea Citadel</h3>
-        <p>While driving from Brasov to Viscri, you will pass by the Rupea Citadel, which stands imposingly on the top of the Cohalmul hill, dominating the city of Rupea from above. Its image really takes your breath away.</p>
-        <p>This medieval fortress covers an area of 11 hectares with walls, towers, and inner courtyards and can be visited for 15 RON (3 EUR) per person. To be noted that there’s also a parking lot where you can leave your car for free. <LinkExternal link="https://www.primariarupea.ro/program-tarife/" title="Link to Primaria Rupea" text="Here" /> you can find more info about the visiting schedule and the available types of tickets.</p>
-        <p>In the town of Rupea there is also a small ethnographic museum next to the park.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={emeraldLake} alt="Vulcanul Racos -  Lacul de Smarald vazut de deasupra" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Cetatea Rupea</h3>
+        <p>Pe drumul de la Brașov spre Viscri vei trece pe lângă Cetatea Rupea, care stă impunătoare pe dealul Cohalmul, dominând de sus orașul Rupea. Imaginea cetății, pe măsură ce te apropii, îți taie răsuflarea.</p>
+        <p>Această cetate medievală se întinde pe o suprafață de 11 hectare cu ziduri, turnuri și curți interioare și poate fi vizitată pentru suma de 15 lei de persoană. Chiar lângă cetate există o parcare unde îți poți lăsa mașina gratuit. Pe <LinkExternal link="https://www.primariarupea.ro/program-tarife/" title="Link catre Primaria Rupea" text="site-ul primăriei" /> găsești mai multe informații despre programul de vizitare precum și tipurile de bilete disponibile.</p>
+        <p>În orașul Rupea mai poate fi vizitat și un mic muzeu etnografic localizat lângă parc.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={rupeaCitadel} alt="Rupea Citadel, seen from the drone" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={rupeaCitadel} alt="Cetatea Rupea, văzută din dronă" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={rupeaCitadelView} alt="Beautiful view from the Rupea Citadel" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <h3>Feldioara-Marienburg Citadel</h3>
-        <p>The medieval fortress Marienburg in Feldioara is only 20 kilometers from Brasov. The fortress received the appearance from the 17th century through the restoration works that took place between 2013-2017. The medieval settlement was founded in the second half of the 12th century by the Saxon colonists, and in the 13th century, Feldioara became the residence of the Teutonic knights who ruled here.</p>
-        <p>Upon arrival we found a parking lot where we left the car, we paid 15 RON (3 EUR) per ticket, and we received a cool leaflet with information not only about the citadel but also about its surroundings.</p>
-        <p>After the restoration, the popularity of the Feldioara fortress grew exponentially, becoming an unmissable objective if you are in the area.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={rupeaCitadelView} alt="Vedere frumoasă de la Cetatea Rupea" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <h3>Cetatea Feldioara - Marienburg</h3>
+        <p>Cetatea medievală Marienburg din Feldioara se află la doar 20 de kilometri de Brașov. Cetatea a primit înfățișarea din secolul al XVII-lea prin lucrările de restaurare care au avut loc în perioada 2013-2017. Așezarea medievală a fost fondată în a doua jumătate a secolului al XII-lea de către coloniștii sași, iar în secolul al XIII-lea Feldioara a devenit reședința cavalerilor teutoni care stăpâneau aici.</p>
+        <p>La sosire am găsit o parcare unde am lăsat mașina, am plătit 15 lei pe bilet și am primit un pliant foarte drăguț cu informații nu doar despre cetate, ci și despre împrejurimi.</p>
+        <p>După restaurare, popularitatea cetății Marienburg a crescut exponențial, devenind un obiectiv de neratat dacă te afli în zonă.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={feldioaraCitadelInside} alt="View inside Feldioara fortress" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={feldioaraCitadelInside} alt="Vedere din interiorul cetății Feldioara" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={feldioaraCitadelAbove} alt="View the whole Feldioara fortress, from above" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
-        <p>There are so many other things you can see, from fortified churches to medieval citadels, from charming cities and villages to wonderful nature, some we already know, others we can’t wait to get to, but we will discover all of them on another occasion.</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={feldioaraCitadelAbove} alt="Vedere a întregii cetăți Feldioara, din drona" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" />
+        <p>Sunt atâtea alte locuri frumoase pe care le poți vizita, de la biserici fortificate la cetăți medievale, de la orașe și sate fermecătoare până la peisaje minunate, pe unele le cunoaștem deja, la altele abia așteptăm să ajungem, dar le vom descoperi pe toate cu altă ocazie.</p>
         {/* image 2/3 (1000x1500) */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={pinViscri3} alt="Viscri - Pin 01" width={720} height={1080} sizes="(max-width: 768px) 90vw, 35vw" /></div>

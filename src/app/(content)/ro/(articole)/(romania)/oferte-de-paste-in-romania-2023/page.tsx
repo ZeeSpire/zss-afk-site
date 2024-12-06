@@ -128,103 +128,103 @@ export default function Page() {
       <Navbar enUrl={`${article.slug?.en}`} />
       <main className="flex-grow">
         <h1 className="text-center mb-8">{article.titleRo}</h1>
-        <p>This year, Orthodox Easter falls on the 16th of April, and the offers dedicated to this holiday have already started to appear. Most of the offers include 3 or 4 nights of accommodation, with the possibility of extending the stay, breakfast, special dinners, and traditional Easter dishes, but also other options to attract guests, such as trips, campfires, or egg-hunting for the children. Prices start from around 3000 RON (600 EUR) for two adults. To make it easier to convert from RON to EUR, I considered that 1 EUR = 5 RON.</p>
-        <p>Below you can find the offers that I found attractive.</p>
+        <p>Anul acesta, Paştele ortodox pică în data de 16 aprilie, iar ofertele dedicate acestei sărbători au început să apară deja. Majoritatea ofertelor includ 3 nopţi de cazare, mic dejun, cine deosebite, preparate tradiţionale de Paşte, dar şi alte opţionale pentru a atrage oaspeţii, cum ar fi excursii, foc de tabără sau vânătoare de ouă pentru cei mici. Preţurile încep cam de pe la 3000 lei pentru doi adulţi.</p>
+        <p>Mai jos găseşti cele mai atrăgătoare oferte.</p>
         {/* image 16/9 */}
-        <Image className="mb-6 rounded-lg drop-shadow-xl" src={primavara} alt="Easter offers 2023" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
-        <h2>Easter Time at Valea Verde with German cultural influences</h2>
-        <p>What is included:</p>
+        <Image className="mb-6 rounded-lg drop-shadow-xl" src={primavara} alt="Oferte de Paşte în România (2023)" width={1248} height={702} sizes="(max-width: 1280px) 90vw, 70vw" priority />
+        <h2>Easter Time la Valea Verde cu influenţe culturale nemţeşti</h2>
+        <p>Ce este inclus:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
+          <li>cazare 3 nopţi</li>
           <li>welcome drink</li>
-          <li>3 breakfasts</li>
-          <li>Easter brunch on Easter day</li>
-          <li>a 3-course dinner on Friday, a BBQ dinner on Saturday, and a festive dinner on Sunday</li>
-          <li>campfire with a sweet snack</li>
-          <li>egg painting workshop/egg hunt</li>
+          <li>3 mic dejunuri</li>
+          <li>Easter brunch în ziua de Paşte</li>
+          <li>o cină cu 3 feluri vineri, o cină BBQ sâmbătă şi o cină festivă duminică</li>
+          <li>foc de tabără cu gustare dulce</li>
+          <li>atelier de pictură pe ouă/vânătoare de ouă</li>
         </ul>
-        <p>Price: 2800 RON (560 EUR)/2 adults. <LinkExternal link="https://www.valeaverde.com/en/offers/" title="Link to Valea Verde" text="Details" /></p>
+        <p>Preţ: 2800 lei/2 adulţi. <LinkExternal link="https://www.valeaverde.com/oferte/" title="Link catre Valea Verde" text="Detalii" /></p>
 
-        <h2>Easter at Cincsor Transylvania Guesthouses</h2>
-        <p>What is included:</p>
+        <h2>Mini vacanţă de Paşte la Cincşor Transilvania case de oaspeți</h2>
+        <p>Ce este inclus:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>4 nights of accommodation</li>
-          <li>welcome with Saxon pie and palincă</li>
-          <li>3 breakfasts</li>
-          <li>vegetarian lunch on Saturday and spring brunch on Sunday</li>
-          <li>4 dinners</li>
-          <li>campfire</li>
-          <li>guided tours</li>
+          <li>cazare 4 nopţi</li>
+          <li>întâmpinare cu plăcintă săseasca şi palincă</li>
+          <li>3 mic dejunuri</li>
+          <li>prânz vegetarian în ziua de sâmbătă şi brunch de primăvară duminica</li>
+          <li>4 cine</li>
+          <li>foc de tabără</li>
+          <li>excursii ghidate la biserica fortificată din Cincşor, la mânăstirea brâncovenească de la Sâmbăta de Sus şi la fosta abaţie cisterciană de la Cârţa. De asemenea la biserica fortificată din Biertan şi la cea din Richiş, precum şi o vizită la Cetatea Mediaş.</li>
         </ul>
-        <p>Price: from 3800 RON (760 EUR)/2 adults. <LinkExternal link="https://transilvania-cincsor.ro/en/offers/" title="Link to Cincsor" text="Details" /></p>
+        <p>Preţ: de la 3800 lei/2 adulţi. <LinkExternal link="https://transilvania-cincsor.ro/en/offers/" title="Link catre Cincsor" text="Detalii" /></p>
 
-        <h2>Easter offer at Conacul Grigorescu</h2>
-        <p>What is included:</p>
+        <h2>Ofertă de Paşte la Conacul Grigorescu</h2>
+        <p>Ce este inclus:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
-          <li>breakfast on Saturday and Monday</li>
-          <li>3-course dinner on Friday, 3-course dinner on Saturday, party with snacks at the pool bar</li>
-          <li>Easter brunch and festive meal on Sunday</li>
-          <li>egg hunting and gifts from the bunny</li>
+          <li>cazare 3 nopţi</li>
+          <li>mic dejun sâmbătă şi luni</li>
+          <li>cină cu 3 feluri vineri, cină cu 3 feluri sâmbătă urmată de o petrecere la pool bar</li>
+          <li>brunch pascal şi masă festivă duminică</li>
+          <li>vânătoare de ouă şi cadouri de la iepuraş</li>
         </ul>
-        <p>Price: from 2990 RON (598 EUR)/2 adults. <LinkExternal link="https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023/" title="Link to Conacul Grigorescu" text="Details" /></p>
+        <p>Preţ: de la 2990 lei/2 adulţi. <LinkExternal link="https://conaculgrigorescu.com/ro/events/oferta-de-paste-14-17-aprilie-2023/" title="Link catre Conacul Grigorescu" text="Detalii" /></p>
 
-        <h2>Easter celebration at Casa Timis</h2>
-        <p>What is included:</p>
+        <h2>Sărbătoarea Paştelui la Casa Timiş</h2>
+        <p>Ce este inclus în pachetul “Family Stay & Brunch Pascal”:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
-          <li>3 breakfasts</li>
-          <li>group yoga session for adults and children above 10 years</li>
-          <li>campfire with traditional dishes, wine and ţuică / tea for children</li>
-          <li>Easter Brunch</li>
+          <li>cazare 3 nopţi</li>
+          <li>mic dejun</li>
+          <li>sesiune yoga de grup pentru adulți și copii peste 10 ani</li>
+          <li>foc de tabără cu platouri tradiționale, vin și ţuică fiartă / ceai pentru cei mici</li>
+          <li>brunch pascal</li>
         </ul>
-        <p>Price: from 3150 RON (630 EUR)/2 adults. <LinkExternal link="https://casatimis.ro/oferte/" title="Link to Casa Timis" text="Details" /></p>
+        <p>Preţ: de la 3150 lei/2 adulţi. <LinkExternal link="https://casatimis.ro/oferte/" title="Link catre Casa Timis" text="Detalii" /></p>
 
-        <h2>Easter at Zabola Castle</h2>
-        <p>What is included:</p>
+        <h2>Paşte la castel la Zabola</h2>
+        <p>Ce este inclus:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
-          <li>breakfast on Saturday and Monday</li>
+          <li>cazare 3 nopţi</li>
+          <li>mic dejun sâmbătă şi luni</li>
           <li>welcome drink</li>
-          <li>three-course lunch on Saturday, snack on Easter night, Easter brunch on Sunday</li>
-          <li>three-course dinner on Friday, three-course dinner and live music on Saturday, party in the garden on Sunday</li>
-          <li>egg dyeing workshop</li>
-          <li>carriage ride</li>
-          <li>gifts from the bunny</li>
-          <li>activities for children</li>
+          <li>prânz cu trei feluri sâmbăta, gustare în noaptea de înviere, brunch pascal duminica</li>
+          <li>cină cu trei feluri vineri, cină cu trei feluri şi muzica live sâmbătă, proţap şi bulz în grădină duminică</li>
+          <li>workshop de vopsit ouă roşii</li>
+          <li>plimbare cu căruţa</li>
+          <li>cadouri de la iepuraş</li>
+          <li>activităţi pentru copii</li>
         </ul>
-        <p>Price: 6000 RON (1200 EUR)/2 adults. <LinkExternal link="https://www.zabola.com/articles/special-offers" title="Link to Zabola Castle" text="Details" /></p>
+        <p>Preţ: 6000 lei/2 adulţi. <LinkExternal link="https://www.zabola.com/articles/special-offers" title="Link catre Zabola Castle" text="Detalii" /></p>
 
-        <h2>Easter at Potcoava Mountain Hideaway</h2>
+        <h2>Paşte la Potcoava Mountain Hideaway</h2>
+        <p>Ce este inclus:</p>
+        <ul className="list-inside list-disc ml-4 mb-6">
+          <li>cazare 3 nopţi</li>
+          <li>pensiune completă 3 zile cu mic dejun tradiţional de Paşte şi cină festivă</li>
+          <li>atelier de olărit pentru copii şi părinţi</li>
+          <li>plimbare cu trăsura în manej pentru copii</li>
+          <li>petrecere pentru copii</li>
+          <li>1 ora de drumeţie călare pentru copiii cu vârsta între 4 şi 14 ani</li>
+          <li>1 ora drumeţie călare/adult</li>
+          <li>acces la zona SPA</li>
+          <li>foc de tabără</li>
+        </ul>
+        <p>Preţuri <LinkExternal link="https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17" title="Link catre preturile de la Potcoava Mountain Hideaway" text="aici" />. <LinkExternal link="https://www.potcoava.ro/pachete-tematice/" title="Link catre Potcoava Mountain Hideaway" text="Detalii" /></p>
+
+        <h2>Sărbători pascale la Atra Doftana</h2>
         <p>What is included:</p>
         <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
-          <li>full board for 3 days with traditional Easter breakfast and festive dinner</li>
-          <li>pottery workshop for children and parents</li>
-          <li>carriage ride in the playpen for children</li>
-          <li>children’s party</li>
-          <li>1 hour of horseback riding for children between the ages of 4 and 14</li>
-          <li>1 hour horseback riding/adult</li>
-          <li>access to the SPA area</li>
-          <li>campfire</li>
+          <li>cazare 3 nopţi</li>
+          <li>trei micuri dejun</li>
+          <li>welcome drink şi platou cu produse tradiţionale de bun venit</li>
+          <li>cină fine dining vineri cu trei feluri de mâncare</li>
+          <li>cină fine dining sâmbătă cu cinci preparate şi asociere de vin</li>
+          <li>bufet tradiţional de Paşte cu open bar</li>
+          <li>cină fine dining cu trei preparate</li>
+          <li>masaj / saună</li>
+          <li>atelier de creaţie</li>
+          <li>muzică live, foc de tabără</li>
         </ul>
-        <p>Prices <LinkExternal link="https://potcoava-mountain.pynbooking.direct/offers/?checkin=2023-04-14&checkout=2023-04-17" title="Link to Potcoava Mountain Hideaway prices" text="here" />. <LinkExternal link="https://www.potcoava.ro/pachete-tematice/" title="Link to Potcoava Mountain Hideaway" text="Details" /></p>
-
-        <h2>Easter holidays at Atra Doftana</h2>
-        <p>What is included:</p>
-        <ul className="list-inside list-disc ml-4 mb-6">
-          <li>3 nights of accommodation</li>
-          <li>three breakfasts</li>
-          <li>welcome drink and platter with traditional products</li>
-          <li>fine dining dinner on Friday with three courses</li>
-          <li>fine dining dinner on Saturday with five courses and wine pairing</li>
-          <li>traditional Easter buffet with an open bar</li>
-          <li>fine dining dinner with three dishes</li>
-          <li>massage/sauna</li>
-          <li>workshop</li>
-          <li>live music, campfire</li>
-        </ul>
-        <p>Price: from 4350 RON (870 EUR)/2 adults. <LinkExternal link="https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/" title="Link to Atra Doftana" text="Details" /></p>
+        <p>Preţ: de la 4350 lei/2 adulţi. <LinkExternal link="https://www.atradoftana.ro/oferte-de-vacanta-valea-doftanei/" title="Link catre Atra Doftana" text="Detalii" /></p>
       </main>
     </div>
   );
