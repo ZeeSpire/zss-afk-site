@@ -6,6 +6,26 @@ export function getSlugs() {
 
 export const slugs: Slug[] = [
   {
+    id: 47,
+    en: "/between-hasdeu-castle-and-grigorescu-museum-a-day-in-campina",
+    ro: "/ro/intre-castelul-hasdeu-si-muzeul-grigorescu-o-zi-in-campina"
+  },
+  {
+    id: 46,
+    en: "/christmas-offers-guesthouses-romania-2024",
+    ro: "/ro/oferte-craciun-pensiunile-romania-2024"
+  },
+  {
+    id: 45,
+    en: "/special-offers-for-the-saint-andrew-and-december-1st-weekend",
+    ro: "/ro/oferte-speciale-pentru-weekendul-de-sfantul-andrei-si-1-decembrie"
+  },
+  {
+    id: 44,
+    en: "/comfort-food-restaurants-in-bucharest",
+    ro: "/ro/restaurante-comfort-food-in-bucuresti",
+  },
+  {
     id: 43,
     en: "/privacy-policy",
     ro: "/ro/politica-de-confidentialitate"

@@ -97,6 +97,18 @@ import tipsForVisitingCopenhagen from "../../public/copenhaga/poza1_nyhavn_nfwm3
 import maguraSquare from "../../public/magura/IMG_20211010_113741_yufvam-square.jpeg"
 import magura from "../../public/magura/IMG_20211010_113741_yufvam.jpeg"
 
+import comfortFoodSquare from "../../public/comfort-food/0-local-food-square.jpg";
+import comfortFood from "../../public/comfort-food/0-local-food.jpg";
+
+import december2024Square from "../../public/december-2024/december-2024-offers-square.jpg"
+import december2024 from "../../public/december-2024/december-2024-offers-landscape.jpg"
+
+import christmas2024Square from "../../public/christmas-offers-2024/christmas-offers-2024-landscape.jpg"
+import christmas2024 from "../../public/christmas-offers-2024/christmas-offers-2024-landscape.jpg"
+
+import campinaSquare from "../../public/campina/campina-1-muzeul-memorial-bogdan-petriceicu-hasdeu-square.jpeg"
+import campina from "../../public/campina/campina-1-muzeul-memorial-bogdan-petriceicu-hasdeu.jpg"
+
 import { Article, defaultArticle } from "../model/article"
 import { readFileSync } from "fs"
 import path from "path"
@@ -136,6 +148,82 @@ function readHtmlFileSync(dirname: string, fileName: string): string {
 }
 
 const articles: Article[] = [
+  {
+    id: 38,
+    slugId: 47,
+    title: "Between Hașdeu Castle and Grigorescu Museum: A Day in Câmpina",
+    titleRo: "Între Castelul Hașdeu și Muzeul Grigorescu: O zi în Câmpina",
+    description: "Discover Câmpina in a day with visits to Hașdeu Castle and Grigorescu Museum, uncovering Romanian heritage, art, and nature. A perfect weekend getaway near Bucharest.",
+    descriptionRo: "Descoperă Câmpina într-o zi, vizitând Castelul Hașdeu și Muzeul Grigorescu, explorând moștenirea românească, arta și natura. O escapadă perfectă de weekend lângă București.",
+    keywords: "Câmpina day trip, Hașdeu Castle, Grigorescu Museum, weekend getaway Bucharest, Romanian art history, cultural tourism Romania, visit Câmpina attractions",
+    keywordsRo: "excursie de o zi Câmpina, Castelul Hașdeu, Muzeul Grigorescu, escapadă de weekend București, istoria artei românești, turism cultural România, atracții Câmpina",
+    featured: campinaSquare,
+    featuredLandscape: campina,
+    categoryId: 2,
+    createdDate: new Date("2024-11-01T12:00:00.000Z"),
+    lastModified: new Date("2024-11-01T12:00:00.000Z"),
+    content: readHtmlFileSync("src/app/(content)/(en)/(articles)/(romania)/between-hasdeu-castle-and-grigorescu-museum-a-day-in-campina/", "page.tsx"),
+    contentRo: readHtmlFileSync("src/app/(content)/ro/(articole)/(romania)/intre-castelul-hasdeu-si-muzeul-grigorescu-o-zi-in-campina/", "page.tsx"),
+    text: "In search of weekend getaway ideas, we opened Google Maps and decided to visit a place about 100 kilometers from Bucharest: Câmpina. We set off from Bucharest to Câmpina by car, and the journey, on a fairly good road, can be completed in up to two hours, depending on traffic. However, Câmpina is also accessible by express train, which takes about an hour from Gara de Nord, with a second-class ticket costing only 36 lei for an adult. First Stop in Câmpina: Bogdan Petriceicu Hasdeu Memorial Museum Bogdan Petriceicu Hasdeu (1838–1907), known as a philologist, historian, writer, folklorist, and politician, was born in Cristinești, Bessarabia (now in Ukraine), and spent his final years in Câmpina. After the death of his daughter, Iulia (or Julia) Hasdeu, B.P. Hasdeu became fascinated with occultism and spiritism, convinced he could communicate with her spirit. It’s said that, between 1894 and 1896, he built Hasdeu Castle, whose design was “dictated” to him by his daughter from the afterlife. Iulia Hasdeu was born in 1869 and was a prodigy: by just two and a half years old, she could read and recite poetry; at 8, she spoke fluent French, German, and English; and at 16, she obtained her baccalaureate in literature and enrolled at the Faculty of Letters and Philosophy at the Sorbonne. Unfortunately, in 1888, at just 19, Iulia passed away from tuberculosis, leaving her grieving parents and numerous writings behind, including poems, stories, reflections, and impressions.",
+    textRo: "În căutare de idei pentru petrecerea weekendului, am deschis Google Maps și am ales să vizităm un loc la aproximativ 100 de kilometri de București: Câmpina. Am pornit din București către Câmpina cu mașina, iar drumul, destul de bun, se parcurge în maxim două ore, în funcție de trafic. Totuși, Câmpina este accesibilă și cu trenul rapid, care face aproximativ o oră din Gara de Nord, iar un bilet la clasa a doua pentru un adult costă doar 36 de lei. Prima oprire în Câmpina: Muzeul Memorial Bogdan Petriceicu Hașdeu Bogdan Petriceicu Hașdeu (1838–1907), cunoscut ca filolog, istoric, scriitor, folclorist și om politic, s-a născut la Cristinești, Basarabia (astăzi în Ucraina) și și-a petrecut ultimii ani în Câmpina. După moartea fiicei sale, Iulia (sau Julia) Hașdeu, B.P. Hașdeu a devenit fascinat de ocultism și spiritism, convins că poate comunica cu spiritul ei. Se spune că, astfel, între 1894 și 1896, a construit Castelul Hașdeu, al cărui plan i-ar fi fost “dictat” de către fiica sa în lumea de dincolo. Iulia Hașdeu s-a născut în 1869 și s-a dovedit un copil-minune: la doar doi ani și jumătate, știa să citească și să recite poezii, la 8 ani vorbea fluent franceza, germana și engleza, iar la 16 ani și-a obținut bacalaureatul în litere și s-a înscris la Facultatea de Litere și Filosofie de la Sorbona. Din nefericire, în 1888, la doar 19 ani, Iulia s-a stins din viață din cauza tuberculozei, lăsând în urmă părinți îndurerați și numeroase scrieri: poezii, povestiri, impresii și reflecții."
+  },
+  {
+    id: 37,
+    slugId: 46,
+    title: "Christmas Offers at Guesthouses in Romania (2024)",
+    titleRo: "Oferte de Crăciun la pensiunile din România (2024)",
+    description: "Discover magical Christmas packages in stunning locations across Romania, featuring unique experiences, traditional festive meals, and activities for all ages. Create unforgettable memories in a storybook setting.",
+    descriptionRo: "Descoperă pachete magice de Crăciun în locații superbe din România, cu experiențe unice, mese festive tradiționale și activități pentru toate vârstele. Creează amintiri de neprețuit într-un decor de poveste.",
+    keywords: "Christmas Romania, Christmas packages, festive vacations, Romania destinations, Christmas mountain packages, Christmas accommodation Romania, Christmas 2024, guesthouse offers Christmas, Danube Delta Christmas, Christmas experiences",
+    keywordsRo: "Crăciun România, pachete Crăciun, vacanțe festive, locații România, pachete Crăciun munte, cazare Crăciun România, Crăciun 2024, oferte pensiuni Crăciun, Crăciun Delta Dunării, experiențe de Crăciun",
+    featured: christmas2024Square,
+    featuredLandscape: christmas2024,
+    categoryId: 2,
+    createdDate: new Date("2024-10-29T12:00:00.000Z"),
+    lastModified: new Date("2024-10-29T12:00:00.000Z"),
+    content: readHtmlFileSync("src/app/(content)/(en)/(articles)/(romania)/christmas-offers-guesthouses-romania-2024", "page.tsx"),
+    contentRo: readHtmlFileSync("src/app/(content)/ro/(articole)/(romania)/oferte-craciun-pensiunile-romania-2024/", "page.tsx"),
+    text: "Explore a curated selection of magical Christmas packages at stunning locations across Romania. Each package offers unique experiences, including traditional festive meals, live entertainment, and activities for all ages. Whether you’re looking for a cozy retreat in the mountains or a luxurious stay by the Danube, these holiday packages promise unforgettable moments filled with joy and celebration. Indulge in local delicacies, enjoy scenic views, and create cherished memories with your loved ones this festive season. I have selected offers from various guesthouses in Romania for you. This selection is not exhaustive; it simply reflects my personal preferences. In this article, I have included the packages that I found most interesting and ordered them in ascending order by price. The prices listed are those from the guesthouses’ websites at the time of writing this article and refer to the lowest rates available for a double room. I have only included places that have rooms available at the time of publication, but these can sell out quickly. I hope you find an offer that suits you and have a wonderful Christmas!",
+    textRo: "Explorează o selecție atentă de pachete magice de Crăciun în locații uimitoare din România. Fiecare pachet oferă experiențe unice, inclusiv mese festive tradiționale, divertisment live și activități pentru toate vârstele. Fie optezi pentru o retragere confortabilă în munți sau o ședere luxoasă pe malul Dunării, aceste pachete de sărbători promit momente de neuitat pline de bucurie și sărbătoare. Răsfață-te cu delicii locale, bucură-te de peisaje pitorești și creează amintiri de neprețuit alături de cei dragi în acest sezon festiv. Am selectat pentru tine oferte de la diverse pensiuni din România. Această selecție nu este completă, ci reflectă pur și simplu preferințele mele personale. În acest articol, am inclus pachetele care mi s-au părut cele mai interesante și le-am ordonat crescător, în funcție de preț. Prețurile afișate sunt cele de pe site-urile pensiunilor la momentul redactării acestui articol și se referă la cele mai mici tarife disponibile pentru o cameră dublă. Am inclus doar locurile care au camere disponibile la momentul publicării, dar acestea se pot epuiza rapid. Sper să găsești o ofertă pe placul tău și să ai parte de un Crăciun minunat!"
+  },
+  {
+    id: 36,
+    slugId: 45,
+    title: "Special Offers for the Saint Andrew and December 1st Weekend at Guesthouses in Romania (2024)",
+    titleRo: "Oferte Speciale pentru Weekendul de Sfântul Andrei și 1 Decembrie la pensiuni din România (2024)",
+    description: "Exclusive Romania guesthouse deals for Saint Andrew's Day and National Day on November 30–December 1, 2024. Celebrate with festive packages at top destinations, including gourmet meals, spa access, and unique experiences.",
+    descriptionRo: "Oferte exclusive la pensiunile din România pentru Ziua Sfântului Andrei și Ziua Națională pe 30 noiembrie – 1 decembrie 2024. Sărbătoriți cu pachete festive la destinații de top, incluzând mese gourmet, acces la SPA și experiențe unice.",
+    keywords: "Romania National Day offers, Saint Andrew holiday Romania, December 1st mini-holiday, Romania guesthouse deals, Romania festive weekend packages, Grigorescu Mansion, Hotel Ozone, Hadar Chalet, Potcoava Mountain Hideaway, Atra Doftana, Casa Timiș holiday package.",
+    keywordsRo: "oferte Ziua Națională România, sărbătoare Sfântul Andrei România, mini-vacanță 1 Decembrie, oferte pensiuni România, pachete weekend festiv România, Conacul Grigorescu, Hotel Ozone, Cabana Hadar, Potcoava Mountain Hideaway, Atra Doftana, pachet de vacanță Casa Timiș",
+    featured: december2024Square,
+    featuredLandscape: december2024,
+    categoryId: 2,
+    createdDate: new Date("2024-10-28T12:00:00.000Z"),
+    lastModified: new Date("2024-10-28T12:00:00.000Z"),
+    content: readHtmlFileSync("src/app/(content)/(en)/(articles)/(romania)/special-offers-for-the-saint-andrew-and-december-1st-weekend", "page.tsx"),
+    contentRo: readHtmlFileSync("src/app/(content)/ro/(articole)/(romania)/oferte-speciale-pentru-weekendul-de-sfantul-andrei-si-1-decembrie/", "page.tsx"),
+    text: "Every year, Romanians have reasons to celebrate both on November 30th and December 1st, which are also public holidays. In 2024, these celebrations will fall on a weekend, specifically on Saturday and Sunday. On November 30th, Romanians celebrate Saint Andrew, the protector of Romania and the “Apostle of the Romanians,” who brought Christianity to the territory of modern-day Romania. Romania’s National Day is celebrated on December 1st, marking the Great Union of 1918. On this historic day, the National Assembly in Alba Iulia voted to unite Transylvania, Banat, Crișana, and Maramureș with Romania, completing the unification of all Romanian-inhabited provinces. We’ve gathered some special offers from guesthouses in Romania, created especially for this festive weekend.",
+    textRo: "An de an, românii au motive de sărbătoare atât pe 30 noiembrie, cât și pe 1 decembrie, zile care sunt și libere legale. În 2024, aceste sărbători vor cădea în weekend, mai exact sâmbătă și duminică. Pe 30 noiembrie, românii îl sărbătoresc pe Sfântul Andrei, ocrotitorul României și “Apostolul românilor”, cel care a adus creștinismul pe teritoriul de astăzi al țării. Ziua Națională a României este celebrată pe 1 decembrie, când se marchează Marea Unire din 1918. În această zi istorică, la Alba Iulia, Adunarea Națională a votat unirea Transilvaniei, Banatului, Crișanei și Maramureșului cu România, finalizând astfel procesul de unificare a tuturor provinciilor locuite de români. Am căutat și am găsit oferte speciale ale pensiunilor din România, concepute special pentru acest weekend festiv."
+  },
+  {
+    id: 35,
+    slugId: 44,
+    title: "Bucharest’s Best Comfort Food Restaurants",
+    titleRo: "Cele mai bune restaurante cu mâncare de tip \"comfort food\" din București",
+    description: "Bucharest’s Best Comfort Food Spots - our honest opinion about the top 5 restaurants to indulge in comfort food.",
+    descriptionRo: "Cele mai bune locuri din București cu mâncare de tip &quot;comfort food&quot; – opinia noastră sinceră despre top 5 restaurante unde te poți răsfăța cu astfel de preparate.",
+    keywords: "bucharest, comfort food, restaurants, best restaurants, where to eat in bucharest, balls, bacania veche, dumicat, bucataria local food, mosafir, Romanian restaurants, Romania",
+    keywordsRo: "bucuresti, comfort food, restaurante, cele mai bune restaurante, unde sa mananci in bucuresti, balls, bacania veche, dumicat, bucataria local food, mosafir, restaurante romanesti, Romania",
+    featured: comfortFoodSquare,
+    featuredLandscape: comfortFood,
+    categoryId: 2,
+    createdDate: new Date("2024-10-02T12:00:00.000Z"),
+    lastModified: new Date("2024-10-02T12:00:00.000Z"),
+    content: readHtmlFileSync("src/app/(content)/(en)/(articles)/(romania)/comfort-food-restaurants-in-bucharest/", "page.tsx"),
+    contentRo: readHtmlFileSync("src/app/(content)/ro/(articole)/(romania)/restaurante-comfort-food-in-bucuresti/", "page.tsx"),
+    text: "The term “comfort food” is well-known to most of us, bringing to mind those familiar and indulgent dishes we turn to during challenging times, or simply when we want to be transported back to childhood. While this term emerged in the United States around the mid-20th century, every culture has long had its own version of “comfort food,” rooted in tradition and memory, long before it was ever popularized. In Romania, when we talk about “comfort food,” we think of mâncare de suflet (food for the soul) or mâncare ca la mama acasă (food cooked by one’s mom) — traditional dishes that we enjoy during holidays, family gatherings, or the meals our mothers or grandmothers lovingly prepared for us in our childhood. These might include ciorbă (sour soup), chicken soup, sarmale (stuffed cabbage rolls), mămăligă (polenta), fried potatoes with cheese, meatballs in tomato sauce, liver with mashed potatoes, macaroni pudding with cheese, papanași (fried doughnuts with sour cream and jam), cozonac (sweet bread), rice pudding, and many more. Food that reminds us of “home” evokes feelings of nostalgia, joy, and warmth. For each person, this may mean a different dish or flavor. I believe it’s a particularly difficult challenge for any restaurant to truly transport us back to our childhood or serve authentic “comfort food.” However, we’ve found a few restaurants in Bucharest that come remarkably close to capturing that essence.",
+    textRo: "Termenul „comfort food” este bine cunoscut de majoritatea dintre noi, aducând în minte acele feluri de mâncare familiare și indulgente la care apelăm în momente dificile sau pur și simplu când vrem să fim transportați înapoi în copilărie. Deși acest termen a apărut în Statele Unite pe la mijlocul secolului XX, fiecare cultură a avut de mult propriile versiuni de „comfort food”, ancorate în tradiție și memorie, cu mult înainte de a fi popularizat. În România, când vorbim despre „comfort food”, ne gândim la mâncare de suflet sau mâncare ca la mama acasă — feluri tradiționale pe care le savurăm în timpul sărbătorilor, la mesele în familie sau la mesele pe care mamele sau bunicile noastre ni le pregăteau cu drag în copilărie. Acestea pot include ciorbă, supă de pui, sarmale, mămăligă, cartofi prăjiți cu brânză, chiftele marinate în sos de roșii, ficăței cu piure, budincă de macaroane cu brânză, papanași cu smântână și dulceață, cozonac, orez cu lapte și multe altele. Mâncarea care ne amintește de „acasă” evocă sentimente de nostalgie, bucurie și căldură. Pentru fiecare persoană, aceasta poate însemna un alt fel de mâncare sau un alt gust. Cred că este o provocare deosebit de dificilă pentru orice restaurant să ne transporte cu adevărat în copilărie sau să ne ofere un „comfort food” autentic. Totuși, am găsit câteva restaurante în București care se apropie destul de mult de asta.",
+  },
   {
     id: 34,
     slugId: 34,
