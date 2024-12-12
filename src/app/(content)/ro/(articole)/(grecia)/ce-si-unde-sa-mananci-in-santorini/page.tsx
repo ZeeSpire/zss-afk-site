@@ -12,6 +12,7 @@ import santoriniG3 from "../../../../../../../public/santorini/g3_i0lfkz.jpg";
 import santoriniG2 from "../../../../../../../public/santorini/g2_tv0gln.jpg";
 import santoriniG1 from "../../../../../../../public/santorini/g1_oggmoo.jpg";
 import santoriniM2 from "../../../../../../../public/santorini/m2_cgoz3y.jpg";
+import santoriniM3 from "../../../../../../../public/santorini/m3_jl083a.jpg";
 import santoriniEat2 from "../../../../../../../public/santorini/santo-eat2_qr2pcf.jpg";
 import santoriniKaramolegos from "../../../../../../../public/santorini/Karamolegos_t1pqza.jpg";
 import santoriniE2 from "../../../../../../../public/santorini/e2-IMG_20210708_161422_uf6pbd.jpeg";
@@ -161,7 +162,7 @@ export default function Page() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM1} alt="Santorini - Salată grecească" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM2} alt="Santorini - Filet de porc în sos de vin Vinsanto" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniG3} alt="Santorini - desert" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM3} alt="Santorini - desert" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>Am făcut de asemenea cea mai catifelată favă, plăcintele tradiționale cu roșii și, ca fel principal, am gătit un mușchi de porc în sos de vin Vinsanto. De asemenea, am primit un pahar de vin în timpul cursului de gătit, iar după cursul de gătit ne-am așezat în restaurant unde am mâncat ceea ce am gătit. Pe lângă toate acestea, am primit o sticlă de vin, un desert și, desigur, un pahar de vin Vinsanto. A fost perfect și îl recomand cu căldură. Pe site-ul lor, puteți găsi mai multe informații despre ce oferă.</p>
         <p>Un alt restaurant excelent, situat în Akrotiri, a fost <LinkExternal link="https://mistelirestaurant.com/" title="Link catre site-ul restaurantului Misteli din Santorini" text="Misteli" />. Aceasta este o tavernă de familie, iar ei folosesc ingrediente bio-locale pentru a găti mâncare tradițională grecească delicioasă. Am comandat mai multe aperitive și salate din meniu și am avut parte de un adevărat festin. Totul a fost savuros și ne-am distrat de minune.</p>

@@ -12,6 +12,7 @@ import santoriniG3 from "../../../../../../../public/santorini/g3_i0lfkz.jpg";
 import santoriniG2 from "../../../../../../../public/santorini/g2_tv0gln.jpg";
 import santoriniG1 from "../../../../../../../public/santorini/g1_oggmoo.jpg";
 import santoriniM2 from "../../../../../../../public/santorini/m2_cgoz3y.jpg";
+import santoriniM3 from "../../../../../../../public/santorini/m3_jl083a.jpg";
 import santoriniEat2 from "../../../../../../../public/santorini/santo-eat2_qr2pcf.jpg";
 import santoriniKaramolegos from "../../../../../../../public/santorini/Karamolegos_t1pqza.jpg";
 import santoriniE2 from "../../../../../../../public/santorini/e2-IMG_20210708_161422_uf6pbd.jpeg";
@@ -162,7 +163,7 @@ export default function Page() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM1} alt="Santorini - Greek salad" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
           <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM2} alt="Santorini - pork fillet in Vinsanto wine sauce" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
-          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniG3} alt="Santorini - desert" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
+          <div><Image className="mb-6 rounded-lg drop-shadow-xl" src={santoriniM3} alt="Santorini - desert" width={720} height={720} sizes="(max-width: 768px) 90vw, 20vw" /></div>
         </div>
         <p>We also made the most velvety fava, the traditional tomato fritters, and as a main dish, we cooked a pork fillet in Vinsanto wine sauce. We also received a glass of wine during the cooking class, and after the cooking class we sat down in the restaurant where we ate what we cooked. On top of all that we received a bottle of wine, a dessert, and of course, a glass of Vinsanto wine. It was perfect and I highly recommend it. On their <LinkExternal link="https://www.artemiskaramolegos-winery.com/en/winery-santorini/8/" title="Link to Artemis Karamolegos" text="website" />, you can find more information about what they offer.</p>
         <p>Another excellent restaurant, situated in Akrotiri, was <LinkExternal link="https://mistelirestaurant.com/" title="Link to Santorini Misteli" text="Misteli" />. This is a family-run taverna, and they’re using bio-local ingredients to cook delicious traditional Greek food. We ordered multiple starters and salads from the menu and had a feast. Everything was flavorsome and we had a great time.</p>
