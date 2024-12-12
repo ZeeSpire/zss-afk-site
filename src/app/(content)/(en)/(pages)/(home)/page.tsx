@@ -224,7 +224,7 @@ export default function Page() {
           ))}
         </div>
 
-        <Pagination baseUrl="/page" page={1} perPage={page.itemsPerPage} total={page.totalItems} />
+        <Pagination baseUrl="/page" page={1} perPage={page.itemsPerPage} total={page.totalItems} offset={page.offset} />
       </main>
     </div>
   );

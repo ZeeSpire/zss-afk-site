@@ -144,7 +144,7 @@ export default function Page({ params }: { params: { page: number } }) {
           ))}
         </div>
 
-        <Pagination baseUrl="/ro/pagina" page={page} perPage={pageConfig.itemsPerPage} total={pageConfig.totalItems} />
+        <Pagination baseUrl="/ro/pagina" page={page} perPage={pageConfig.itemsPerPage} total={pageConfig.totalItems} offset={pageConfig.offset} />
       </main>
     </div>
   );

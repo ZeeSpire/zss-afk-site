@@ -24,9 +24,9 @@ export default function Footer() {
 
           <nav>
             <span className="footer-title">Social</span><br /><hr className="mb-2" />
-            <Link prefetch={false} href="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" className="link link-hover">YouTube</Link><br />
-            <Link prefetch={false} href="https://www.instagram.com/afkology/" className="link link-hover">Instagram</Link><br />
-            <Link prefetch={false} href="https://www.facebook.com/afkology/" className="link link-hover">Facebook</Link>
+            <Link prefetch={false} target="_blank" href="https://www.youtube.com/channel/UC6cO4CO-T5PGkeXWc8Sf1lw" className="link link-hover">YouTube</Link><br />
+            <Link prefetch={false} target="_blank" href="https://www.instagram.com/afkology/" className="link link-hover">Instagram</Link><br />
+            <Link prefetch={false} target="_blank" href="https://www.facebook.com/afkology/" className="link link-hover">Facebook</Link>
           </nav>
 
           <nav>
@@ -40,8 +40,8 @@ export default function Footer() {
         </footer>
       </div>
       <div className="mt-4 bg-base-100 px-2 py-2 text-slate-700 text-sm text-center border-t border-t-2 border-gray-100">
-        <a href="https://www.zeespire.com" target="_blank" rel="noopener noreferrer" title="Visit ZeeSpire Software 2024">
-          ZeeSpire Software 2024
+        <a href="https://www.zeespire.com" target="_blank" rel="noopener noreferrer" title="Visit ZeeSpire Software 2025">
+          ZeeSpire Software 2025
         </a>
       </div>
     </div>
