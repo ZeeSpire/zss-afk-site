@@ -1,8 +1,8 @@
 import { getArticle } from "@/data/articles";
 import Navbar from "../../../../../../components/ro/navbar/Navbar";
 import { Metadata } from "next";
-import Image from "next/image";
 import LinkExternal from "@/components/linkexternal/LinkExternal";
+import Image from "next/image";
 
 import santoriniP1 from "../../../../../../../public/santorini/p1_gzkojs.jpg";
 import santoriniP3 from "../../../../../../../public/santorini/p3_xsd3ym.jpg";
